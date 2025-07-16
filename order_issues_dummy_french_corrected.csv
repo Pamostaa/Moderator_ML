@@ -1,0 +1,1001 @@
+﻿id,orderId,userId,type,description,reportedAt,attachments,severity,status,resolvedAt,resolvedBy,issueRef
+ae5d0bf9-3d07-46e5-8631-fd966e520ecd,COM-42395,USR-6219,NourritureEndommagée,"Tout était trempé, expérience catastrophique.",2/5/2025 14:19,image_8455.jpg,élevé,Escaladé,,,REF-297278
+94d72616-96dc-47ca-ba07-aaad47a19019,COM-63193,USR-4078,ArticleManquant,"Je n'ai pas reçu sushi, besoin d'un remboursement.",2/15/2025 14:19,,faible,Ouvert,,,REF-233919
+5d4d61f8-cec8-47d1-85ee-8b05c7e95464,COM-61929,USR-4785,CommandeErronée,"Erreur sur ma commande : sandwich au lieu de pizza, très agaçant.",12/4/2024 14:19,image_9736.jpg,élevé,Escaladé,,,REF-306801
+537e8922-7552-48d3-aa23-d62cf37a4e62,COM-96988,USR-8884,ArticleManquant,"Je n'ai pas reçu burger, besoin d'un remboursement.",8/20/2024 14:19,,faible,Ouvert,,,REF-694745
+e4ac63e6-3826-4194-ae28-17e79aac0a68,COM-70966,USR-9248,CommandeErronée,"Livré sushi, mais je voulais salade, c'est inacceptable.",12/1/2024 14:19,image_4151.jpg,moyen,Résolu,12/3/2024 12:19,MOD-12,REF-367263
+36be411b-ddb6-4fb5-b216-da919693ae79,COM-95022,USR-5916,NourritureEndommagée,"pâtes était trempé, qualité inacceptable.",8/23/2024 14:19,,élevé,Ouvert,,,REF-768121
+50f59b72-e045-47f3-b847-331fef941eb7,COM-70189,USR-3706,CommandeErronée,"Commande erronée livrée, j'ai eu salade et non frites.",2/2/2025 14:19,,faible,Ouvert,,,REF-413220
+289e154e-e1f1-4de1-b930-64248454bf73,COM-37944,USR-4986,NourritureEndommagée,"La nourriture était froid, totalement immangeable.",9/28/2024 14:19,,élevé,Escaladé,,,REF-508544
+069210a1-9ede-43af-a25c-311267dd52f3,COM-90545,USR-8507,CommandeErronée,"J'ai commandé burger, mais j'ai reçu pizza.",4/19/2025 14:19,,faible,Ouvert,,,REF-767931
+76dad821-bdb5-43a9-890b-4771bd2c77c2,COM-71018,USR-5873,LivraisonRetard,"J'ai attendu 90 minutes pour ma commande, très frustrant.",11/16/2024 14:19,,moyen,Escaladé,,,REF-819630
+2252b073-3925-4bd9-baf6-27464c32f549,COM-70685,USR-8171,CommandeErronée,"Erreur sur ma commande : pizza au lieu de burger, très agaçant.",1/12/2025 14:19,,moyen,Résolu,1/14/2025 13:19,MOD-9,REF-453202
+d3678c61-d005-4c94-9f72-16ca9083a7e1,COM-29994,USR-9894,NourritureEndommagée,"La nourriture était gâté, totalement immangeable.",12/6/2024 14:19,image_3885.jpg,élevé,Escaladé,,,REF-429069
+a6bcb2c4-8421-43f8-89d4-857e73888fe6,COM-37957,USR-6795,CommandeErronée,"Mauvais article livré, frites à la place de burger.",6/25/2025 14:19,image_9230.jpg,faible,Escaladé,,,REF-592945
+2e0d4b2f-f1c6-46e1-8c5b-75eabe1e2405,COM-62116,USR-6977,ArticleManquant,"Commande incomplète, burger non livré.",11/15/2024 14:19,,faible,Résolu,11/16/2024 12:19,MOD-9,REF-451223
+d2408dbe-6461-49c3-afa2-720127f9607c,COM-20438,USR-5189,NourritureEndommagée,"sushi est arrivé gâté, besoin d'un remplacement.",5/16/2025 14:19,image_5358.jpg,élevé,Escaladé,,,REF-191581
+b3d11abb-0e2c-483e-8c0d-973535d917ab,COM-50632,USR-8332,ArticleManquant,"Il manque burger dans ma commande, très décevant.",5/29/2025 14:19,,moyen,Escaladé,,,REF-873043
+ac5220f2-9bdc-4e1d-ba62-b86185057c7a,COM-36406,USR-1725,NourritureEndommagée,"La commande était trempé, très déçu.",5/9/2025 14:19,,faible,Résolu,5/10/2025 3:19,MOD-10,REF-251482
+95bdb897-a59a-4dfe-aba5-b095ba79e79d,COM-64706,USR-5627,ArticleManquant,"salade manquant, veuillez résoudre immédiatement.",2/17/2025 14:19,"image_5748.jpg,image_8556.jpg",élevé,Ouvert,,,REF-838190
+fceac69e-6e6a-435a-bfdf-910797fe9dfb,COM-73910,USR-6991,NourritureEndommagée,"La commande était gâté, très déçu.",10/21/2024 14:19,image_4887.jpg,élevé,Escaladé,,,REF-936738
+db75911f-2e7f-4161-9cb6-a9009c4a2e90,COM-53481,USR-3577,CommandeErronée,"Mauvais article livré, frites à la place de sandwich.",4/14/2025 14:19,image_3577.jpg,faible,Ouvert,,,REF-344827
+b43cd3da-75dd-405b-946f-79ee7b704e2a,COM-54399,USR-9539,CommandeErronée,"Livré salade, mais je voulais pizza, c'est inacceptable.",3/31/2025 14:19,image_4177.jpg,moyen,Résolu,3/31/2025 15:19,MOD-18,REF-583235
+51e09f4d-2717-4931-8110-2f1607dac65e,COM-55996,USR-9576,MauvaiseQualité,"salade était écrasé, totalement dégoûtant !",9/17/2024 14:19,"image_9554.jpg,image_7312.jpg",élevé,Escaladé,,,REF-657231
+a0548df5-d1e6-4e42-89ce-843b201b4dd2,COM-22679,USR-6160,MauvaiseQualité,"Qualité médiocre de pizza, très frustrant.",9/5/2024 14:19,image_7806.jpg,élevé,Résolu,9/6/2024 8:19,MOD-16,REF-629871
+bf77f1d0-727a-401c-b2aa-431aaaf91370,COM-43090,USR-3891,LivraisonRetard,"Retard de 90 minutes, c'est scandaleux et dérangeant !",8/25/2024 14:19,,moyen,Résolu,8/26/2024 16:19,MOD-1,REF-384934
+dc47d0c7-c968-412a-bea7-887925fb9c72,COM-81925,USR-5701,LivraisonRetard,"Retard de 90 minutes, c'est scandaleux et dérangeant !",4/14/2025 14:19,,moyen,Ouvert,,,REF-536395
+4f0429a2-953f-439c-a034-07f0e97fd20b,COM-35361,USR-8722,NourritureEndommagée,"Tout était trempé, expérience catastrophique.",7/18/2024 14:19,image_6043.jpg,élevé,Escaladé,,,REF-418982
+5b147074-5311-4018-ade7-65e39af4d0ff,COM-12210,USR-4979,ArticleManquant,"Il manque pâtes dans ma commande, très décevant.",11/3/2024 14:19,,moyen,Ouvert,,,REF-624659
+fe4aedce-0ac1-4624-8f7c-533a4fa9ac86,COM-20461,USR-2045,LivraisonRetard,"Retard de 1 heure, c'est scandaleux et dérangeant !",10/31/2024 14:19,,moyen,Escaladé,,,REF-818895
+4005ff7a-4a34-4bd5-8e40-a04bec7f50ce,COM-95709,USR-5354,NourritureEndommagée,"frites est arrivé écrasé, besoin d'un remplacement.",1/26/2025 14:19,,faible,Ouvert,,,REF-416824
+0c692521-7325-41b5-b4a6-443107dd7c6c,COM-67707,USR-9357,NourritureEndommagée,"salade livré froid, c'est scandaleux et dangereux !",3/31/2025 14:19,image_1966.jpg,élevé,Résolu,4/2/2025 7:19,MOD-7,REF-574162
+f3789573-60a9-4d95-b3b6-9f247df84958,COM-45072,USR-9548,CommandeErronée,"Mauvais article livré, pâtes à la place de pâtes.",3/27/2025 14:19,"image_6656.jpg,image_3534.jpg",faible,Escaladé,,,REF-973434
+4b26d179-142c-4e0c-95d6-20fe640ce095,COM-36867,USR-3428,LivraisonRetard,"J'ai attendu 90 minutes pour ma commande, très frustrant.",9/18/2024 14:19,,moyen,Escaladé,,,REF-467108
+f7ad9c04-504b-4106-b834-b9cca1f1dc1b,COM-21123,USR-2189,NourritureEndommagée,"Tout était écrasé, expérience catastrophique.",4/29/2025 14:19,image_7677.jpg,élevé,Escaladé,,,REF-432460
+bd42733a-470a-4cd6-83cc-4c315e3faf99,COM-83581,USR-3357,LivraisonRetard,"Commande arrivée après 90 minutes, vraiment pas satisfait.",6/27/2025 14:19,,moyen,Résolu,6/27/2025 17:19,MOD-6,REF-802868
+794a7d1d-655d-43cd-beba-69bccc38d1b3,COM-57389,USR-3440,ArticleManquant,"sushi manquant, veuillez résoudre immédiatement.",11/19/2024 14:19,,moyen,Ouvert,,,REF-826781
+13f57efc-1fe5-43eb-b0da-9f82349dedd0,COM-46519,USR-6936,LivraisonRetard,"Commande arrivée après 1 heure, vraiment pas satisfait.",10/13/2024 14:19,image_5397.jpg,élevé,Ouvert,,,REF-355014
+176b3b5e-6eb3-4284-867c-d88f64c044b9,COM-52298,USR-2577,MauvaiseQualité,"Qualité médiocre de burger, très frustrant.",9/27/2024 14:19,,moyen,Ouvert,,,REF-115351
+204349b8-b6b3-4e4a-bc5a-ae7e37a0cad1,COM-56745,USR-4423,NourritureEndommagée,"La nourriture était écrasé, totalement immangeable.",7/16/2024 14:19,image_7568.jpg,élevé,Escaladé,,,REF-880919
+c804e4e7-c0a6-4795-b713-7966687e1d34,COM-92392,USR-4199,LivraisonRetard,"La commande a été livrée avec 30 minutes de retard, la nourriture était froide.",8/11/2024 14:19,"image_4825.jpg,image_9758.jpg",moyen,Ouvert,,,REF-795575
+4efc5e6e-9a19-4370-993b-9b4aa8d1b059,COM-68088,USR-1487,CommandeErronée,J'ai reçu burger au lieu de burger.,10/4/2024 14:19,,faible,Résolu,10/6/2024 8:19,MOD-14,REF-414761
+b0f12c0f-5e03-407a-b614-27b93cc657fe,COM-77025,USR-4145,NourritureEndommagée,"frites était trempé, qualité inacceptable.",8/1/2024 14:19,,élevé,Résolu,8/3/2024 11:19,MOD-14,REF-419721
+bd53c9f3-78df-45a7-81a0-61e0c3e79528,COM-51039,USR-1009,CommandeErronée,"J'ai commandé pâtes, mais j'ai reçu sandwich.",11/4/2024 14:19,,faible,Résolu,11/4/2024 22:19,MOD-8,REF-499938
+c43f0da1-e74d-419a-a211-0d1702877220,COM-71269,USR-8451,NourritureEndommagée,"salade était froid, qualité inacceptable.",3/14/2025 14:19,image_7306.jpg,élevé,Résolu,3/16/2025 9:19,MOD-8,REF-887110
+9e2a67cb-49f6-40db-a093-944e78efcfea,COM-93421,USR-5251,MauvaiseQualité,"frites était brûlé, je ne commanderai plus.",3/23/2025 14:19,image_1154.jpg,faible,Escaladé,,,REF-494360
+cb6f1821-9705-4c90-8d0b-6276150e24f8,COM-74385,USR-8542,MauvaiseQualité,"burger était trempé, je ne commanderai plus.",5/20/2025 14:19,image_4279.jpg,faible,Résolu,5/21/2025 0:19,MOD-14,REF-960208
+1dadbb26-a301-4517-ae36-7bd1b2f27fe4,COM-50450,USR-2680,ArticleManquant,"Je n'ai pas reçu sushi, besoin d'un remboursement.",3/6/2025 14:19,image_3826.jpg,faible,Escaladé,,,REF-499434
+11e15fd2-444f-4ff5-b3ad-6f522289f59b,COM-89438,USR-1795,LivraisonRetard,"Retard de 2 heures, c'est scandaleux et dérangeant !",11/19/2024 14:19,,élevé,Escaladé,,,REF-786136
+45fc6b0b-0e98-4be6-9811-a8c93953f1b7,COM-58536,USR-4128,ArticleManquant,"Je n'ai pas reçu sandwich, besoin d'un remboursement.",6/9/2025 14:19,"image_9967.jpg,image_2839.jpg",faible,Escaladé,,,REF-765219
+8b2be59c-953b-444e-a2f8-e30aa52c3e9b,COM-31939,USR-8781,NourritureEndommagée,"sandwich livré écrasé, c'est scandaleux et dangereux !",8/11/2024 14:19,image_1353.jpg,élevé,Résolu,8/12/2024 20:19,MOD-8,REF-898950
+af74759c-1579-4c51-b7e6-fe428c4e9dc5,COM-54105,USR-3938,CommandeErronée,"Erreur sur ma commande : burger au lieu de frites, très agaçant.",6/27/2024 14:19,image_1497.jpg,élevé,Résolu,6/28/2024 13:19,MOD-9,REF-140924
+9b22f677-05dd-4174-8e13-2253bdc5c32b,COM-19699,USR-7615,CommandeErronée,"Erreur sur ma commande : sushi au lieu de pâtes, très agaçant.",7/8/2024 14:19,image_4289.jpg,élevé,Ouvert,,,REF-820175
+dd551d8e-756e-47fb-b2d6-4d9289583dee,COM-22862,USR-1400,NourritureEndommagée,"Tout était écrasé, expérience catastrophique.",12/3/2024 14:19,"image_2900.jpg,image_7895.jpg",élevé,Escaladé,,,REF-917456
+f7f5cf80-5217-44da-900b-a0068bfc6aa8,COM-34131,USR-5226,ArticleManquant,"frites manquant, veuillez résoudre immédiatement.",7/31/2024 14:19,,moyen,Résolu,8/1/2024 14:19,MOD-2,REF-157318
+f0ba4bd8-b62b-4c0b-acfa-8b17a29146a8,COM-18432,USR-1039,CommandeErronée,"Mauvais article livré, pizza à la place de pâtes.",1/31/2025 14:19,,faible,Escaladé,,,REF-511050
+76e26958-67a4-4e45-9db4-56e894a229d6,COM-71918,USR-5511,LivraisonRetard,"Livraison retardée de 1 heure, totalement inacceptable !",2/16/2025 14:19,image_6846.jpg,élevé,Ouvert,,,REF-805227
+ea7b5504-2706-4e25-9bf8-1724015547d2,COM-65382,USR-5464,CommandeErronée,"Mauvais article livré, pizza à la place de pizza.",11/17/2024 14:19,,faible,Résolu,11/17/2024 17:19,MOD-13,REF-259177
+6e77ae23-114d-4476-9187-94f8ad70c8ac,COM-74269,USR-1132,NourritureEndommagée,"sandwich livré gâté, c'est scandaleux et dangereux !",9/7/2024 14:19,image_4280.jpg,élevé,Ouvert,,,REF-755367
+afe066c9-b20c-4e49-8bd4-0ac93b6f3ba2,COM-30155,USR-4502,NourritureEndommagée,"La commande était gâté, très déçu.",1/13/2025 14:19,image_3336.jpg,élevé,Escaladé,,,REF-143123
+37446e86-0fc9-47ff-9f1b-4fe5c9d9aba7,COM-12967,USR-9161,CommandeErronée,"Livré frites, mais je voulais sushi, c'est inacceptable.",8/18/2024 14:19,image_9709.jpg,moyen,Escaladé,,,REF-445983
+af175887-8d1b-404d-a042-49d23c2f37aa,COM-13097,USR-5876,CommandeErronée,"J'ai commandé frites, mais j'ai reçu frites.",8/24/2024 14:19,,faible,Escaladé,,,REF-175436
+076ce064-199c-4c31-a661-11da4302a644,COM-18865,USR-6194,MauvaiseQualité,"La nourriture était brûlé, pas à la hauteur.",6/8/2025 14:19,,faible,Résolu,6/9/2025 21:19,MOD-12,REF-440228
+8e8a5742-5b60-49a4-9aa4-911a06d4a794,COM-33441,USR-1016,MauvaiseQualité,"Qualité médiocre de sandwich, très frustrant.",1/23/2025 14:19,,moyen,Résolu,1/24/2025 12:19,MOD-18,REF-732199
+1d3326b0-c40a-4da6-a3e3-60806322b4dd,COM-96816,USR-6883,NourritureEndommagée,"pâtes est arrivé brûlé, besoin d'un remplacement.",12/23/2024 14:19,,faible,Ouvert,,,REF-797385
+c2873a32-aeea-4e86-9078-c1de625242f2,COM-56965,USR-3880,MauvaiseQualité,"pâtes était sans goût, totalement dégoûtant !",3/6/2025 14:19,,élevé,Ouvert,,,REF-519320
+775a485f-a34f-4f4f-ad1c-aca8a18ee81b,COM-58645,USR-4460,CommandeErronée,"Livré frites, mais je voulais salade, c'est inacceptable.",12/10/2024 14:19,,faible,Résolu,12/10/2024 18:19,MOD-20,REF-322887
+acd42bc2-3d2c-4006-98b9-bdc3c89771a7,COM-92418,USR-7652,ArticleManquant,"Commande incomplète, salade non livré.",12/21/2024 14:19,"image_2936.jpg,image_7933.jpg",faible,Résolu,12/21/2024 22:19,MOD-17,REF-324218
+67572fc9-c6b1-460a-96e9-a13adb30c7a2,COM-77438,USR-9147,NourritureEndommagée,"Tout était brûlé, expérience catastrophique.",3/11/2025 14:19,,élevé,Escaladé,,,REF-327977
+eccb22b1-0c4d-4431-b0b9-2d97388cde33,COM-44345,USR-9306,MauvaiseQualité,"Qualité médiocre de sandwich, très frustrant.",10/7/2024 14:19,,moyen,Résolu,10/8/2024 18:19,MOD-17,REF-334566
+a2468252-13eb-4585-8038-269103d0ac3d,COM-60303,USR-1198,LivraisonRetard,"La nourriture est arrivée avec 2 heures de retard, service décevant.",9/28/2024 14:19,image_8511.jpg,élevé,Escaladé,,,REF-122783
+cf26fd52-6d2c-4c6c-b497-eb95589d1c38,COM-38098,USR-2060,CommandeErronée,"Commande erronée livrée, j'ai eu burger et non frites.",9/9/2024 14:19,,faible,Résolu,9/9/2024 17:19,MOD-13,REF-950257
+ad003456-868e-41a2-ad47-97b7d9e65142,COM-96867,USR-4626,ArticleManquant,"Pas de salade, c'est inacceptable et frustrant !",1/17/2025 14:19,,moyen,Résolu,1/17/2025 19:19,MOD-1,REF-357895
+8b030339-0c34-428c-b5ff-571e7f7a790e,COM-73540,USR-8630,ArticleManquant,"Il manque sandwich dans ma commande, très décevant.",3/16/2025 14:19,,moyen,Résolu,3/17/2025 14:19,MOD-2,REF-283921
+4e438be9-36ce-4240-a8cf-cd78cd442b3a,COM-73127,USR-8124,CommandeErronée,J'ai reçu sushi au lieu de pâtes.,5/1/2025 14:19,image_4737.jpg,faible,Ouvert,,,REF-872529
+a2109178-7355-461f-aa53-49f9816e390f,COM-54617,USR-1112,MauvaiseQualité,"Très mauvaise qualité de frites, immangeable.",5/10/2025 14:19,,élevé,Résolu,5/11/2025 20:19,MOD-6,REF-135786
+43496c9a-f4a8-4f3e-b977-bc2d7d31674a,COM-88800,USR-4462,LivraisonRetard,"La commande a été livrée avec 30 minutes de retard, la nourriture était froide.",8/9/2024 14:19,"image_3490.jpg,image_4474.jpg",moyen,Ouvert,,,REF-806410
+0b5001ba-4b76-4131-b7b0-d01ad84bd2cc,COM-45330,USR-1877,NourritureEndommagée,"La nourriture était gâté, totalement immangeable.",11/20/2024 14:19,"image_5974.jpg,image_8993.jpg",élevé,Résolu,11/20/2024 23:19,MOD-16,REF-612210
+c8ca05d7-b8a3-45d8-b8d0-2b9b90b302de,COM-71277,USR-8604,LivraisonRetard,"Livraison retardée de 90 minutes, totalement inacceptable !",8/13/2024 14:19,"image_5952.jpg,image_9843.jpg",élevé,Ouvert,,,REF-703401
+5e7b79f6-4146-4261-97c1-370219d7ada0,COM-93662,USR-7993,MauvaiseQualité,"burger avait un goût froid, expérience horrible.",3/18/2025 14:19,,élevé,Ouvert,,,REF-537948
+2874d25c-0ddc-4d8e-be16-6a35797f619c,COM-55152,USR-3854,LivraisonRetard,"Commande arrivée après 1 heure, vraiment pas satisfait.",6/5/2025 14:19,image_1365.jpg,élevé,Ouvert,,,REF-137315
+d4511d2f-2bb1-4851-8728-170b668e159f,COM-71601,USR-9602,NourritureEndommagée,"pâtes livré brûlé, c'est scandaleux et dangereux !",12/13/2024 14:19,,élevé,Ouvert,,,REF-311873
+4ab99646-0122-440b-a1fb-0491ac140ecc,COM-43903,USR-4752,ArticleManquant,"Commande incomplète, sandwich non livré.",3/2/2025 14:19,,faible,Ouvert,,,REF-242680
+c2afb87e-2bb3-4afb-b73f-74488c3225d1,COM-73433,USR-9607,MauvaiseQualité,"pizza était trempé, je ne commanderai plus.",9/17/2024 14:19,image_6661.jpg,faible,Ouvert,,,REF-492680
+1fd58852-9d52-4484-9a71-b8c805f035b6,COM-90342,USR-5876,LivraisonRetard,"Commande arrivée après 30 minutes, vraiment pas satisfait.",4/25/2025 14:19,,moyen,Escaladé,,,REF-589061
+eafd8b10-9ad8-42ae-b948-6ed25c350cce,COM-14248,USR-2232,MauvaiseQualité,"Qualité médiocre de frites, très frustrant.",8/14/2024 14:19,,moyen,Escaladé,,,REF-447547
+703d0e01-1ff2-4a5c-9996-ac3ad1c63be5,COM-27889,USR-6218,NourritureEndommagée,"salade était brûlé, qualité inacceptable.",10/2/2024 14:19,,élevé,Résolu,10/2/2024 21:19,MOD-2,REF-444516
+793b3dc8-cb8b-474f-9a05-cdf296fda200,COM-65741,USR-8363,ArticleManquant,"Pas de pâtes, c'est inacceptable et frustrant !",4/4/2025 14:19,,moyen,Ouvert,,,REF-657261
+3cd9ec90-63b5-44c6-90f3-00899eeca329,COM-17259,USR-8712,MauvaiseQualité,"frites avait un goût sans goût, expérience horrible.",6/20/2025 14:19,,élevé,Ouvert,,,REF-415605
+78583589-3a8f-4087-9a62-caa394c6beae,COM-96233,USR-1201,MauvaiseQualité,"Très mauvaise qualité de burger, immangeable.",4/22/2025 14:19,,élevé,Escaladé,,,REF-109499
+06c0a237-078e-4b79-a199-b4e891ca49ec,COM-75449,USR-2196,MauvaiseQualité,"Très mauvaise qualité de pâtes, immangeable.",6/5/2025 14:19,,élevé,Escaladé,,,REF-159445
+03a6c343-2a48-4620-8950-11e15c43c76d,COM-71925,USR-3642,MauvaiseQualité,"Qualité médiocre de salade, très frustrant.",3/18/2025 14:19,,moyen,Escaladé,,,REF-689616
+4133b817-fa33-4c7d-bdce-6b1d05f8f28a,COM-52350,USR-8403,NourritureEndommagée,"burger livré écrasé, c'est scandaleux et dangereux !",12/10/2024 14:19,,élevé,Escaladé,,,REF-639277
+65d26c36-6f63-4978-992b-7295a5b047a4,COM-90458,USR-7119,NourritureEndommagée,"La commande était brûlé, très déçu.",4/12/2025 14:19,,faible,Escaladé,,,REF-896086
+392780e1-f48b-4d2f-b9ca-b1f7619728e3,COM-87733,USR-5635,ArticleManquant,"Commande incomplète, pizza non livré.",10/30/2024 14:19,"image_6886.jpg,image_9589.jpg",faible,Résolu,10/30/2024 20:19,MOD-16,REF-673114
+9f516704-76a4-4deb-90c0-132389366a05,COM-65956,USR-5465,LivraisonRetard,"J'ai attendu 2 heures pour ma commande, très frustrant.",8/14/2024 14:19,,élevé,Escaladé,,,REF-897524
+f3051034-304f-4efb-80ab-eaf776f565a3,COM-85127,USR-6719,NourritureEndommagée,"pâtes livré trempé, c'est scandaleux et dangereux !",1/8/2025 14:19,image_4785.jpg,élevé,Escaladé,,,REF-707663
+8a2b66c4-d0e7-48ca-b4f2-ca0064f5e1a8,COM-25950,USR-6886,MauvaiseQualité,"pâtes avait un goût froid, expérience horrible.",5/15/2025 14:19,,élevé,Résolu,5/16/2025 6:19,MOD-9,REF-366667
+57c3a29d-dac1-4214-b3a9-22a4d0aaedd3,COM-38603,USR-5834,NourritureEndommagée,"pizza livré gâté, c'est scandaleux et dangereux !",8/23/2024 14:19,image_8497.jpg,élevé,Ouvert,,,REF-884585
+2cf8e4ec-a459-4586-92e6-e528e8528c92,COM-68508,USR-7974,MauvaiseQualité,"burger était froid, totalement dégoûtant !",8/15/2024 14:19,,élevé,Ouvert,,,REF-786546
+ed19ad04-2199-401e-bfb2-6d14b0c3e94b,COM-18494,USR-4840,ArticleManquant,"Il manque salade dans ma commande, très décevant.",9/18/2024 14:19,image_6710.jpg,élevé,Résolu,9/19/2024 12:19,MOD-19,REF-573398
+fefd5702-5a75-4919-aa61-c8e429411fca,COM-84342,USR-8637,CommandeErronée,"Commande erronée livrée, j'ai eu pizza et non sandwich.",3/3/2025 14:19,,faible,Résolu,3/5/2025 14:19,MOD-20,REF-851027
+c9ec7bfa-f1da-4351-810c-4822705c2b0d,COM-39746,USR-7176,NourritureEndommagée,"salade est arrivé trempé, besoin d'un remplacement.",8/23/2024 14:19,"image_1262.jpg,image_4971.jpg",faible,Résolu,8/24/2024 22:19,MOD-6,REF-548141
+4bbb8e66-4cae-4af0-b1ae-7cfbfd46aeb1,COM-70649,USR-9299,LivraisonRetard,"Retard de 90 minutes, c'est scandaleux et dérangeant !",9/5/2024 14:19,"image_7594.jpg,image_6478.jpg",élevé,Ouvert,,,REF-784467
+8024c2ff-2278-434a-a15d-dfa7b33595a0,COM-98983,USR-3992,ArticleManquant,"pâtes manquant, veuillez résoudre immédiatement.",7/19/2024 14:19,"image_8371.jpg,image_7430.jpg",élevé,Résolu,7/20/2024 4:19,MOD-5,REF-308006
+f46a01b9-2288-4a12-8f8b-a720480dd2b9,COM-40244,USR-7259,LivraisonRetard,"Retard de 1 heure, c'est scandaleux et dérangeant !",4/5/2025 14:19,,moyen,Résolu,4/7/2025 5:19,MOD-9,REF-962925
+d98741b1-0f1d-47e6-beb1-50a575943cb0,COM-64708,USR-7515,ArticleManquant,"Pas de pizza, c'est inacceptable et frustrant !",2/5/2025 14:19,,moyen,Ouvert,,,REF-593202
+a55d2976-9a34-468e-b78d-f145a8d7bfab,COM-28453,USR-4095,CommandeErronée,"Commande erronée livrée, j'ai eu pizza et non frites.",7/31/2024 14:19,image_4333.jpg,faible,Résolu,8/2/2024 1:19,MOD-1,REF-720989
+27e6f4be-53e8-472a-880f-c8cb0230b802,COM-29118,USR-2410,CommandeErronée,"Erreur sur ma commande : pâtes au lieu de sushi, très agaçant.",4/21/2025 14:19,image_6224.jpg,élevé,Résolu,4/22/2025 3:19,MOD-11,REF-444372
+298a3b05-1f07-47f4-ad11-3e94bbe7c149,COM-64285,USR-1859,MauvaiseQualité,"Qualité médiocre de salade, très frustrant.",3/17/2025 14:19,,moyen,Ouvert,,,REF-529074
+d9a04b93-62b6-4a67-b360-ca78f95b67b3,COM-98698,USR-6314,NourritureEndommagée,"pizza livré froid, c'est scandaleux et dangereux !",9/24/2024 14:19,,élevé,Ouvert,,,REF-976333
+cb447db8-ad6d-48be-8ec5-111f159a2778,COM-85301,USR-6916,LivraisonRetard,"Retard de 1 heure, c'est scandaleux et dérangeant !",3/28/2025 14:19,,moyen,Escaladé,,,REF-266804
+2f2264f8-c7a4-464e-8a88-ac67b3b4b6c9,COM-27664,USR-6281,MauvaiseQualité,"burger était trempé, totalement dégoûtant !",12/22/2024 14:19,image_1912.jpg,élevé,Escaladé,,,REF-306639
+5ef44015-6c4b-43a2-8271-fb60f72baecf,COM-59096,USR-5231,CommandeErronée,"Erreur sur ma commande : sandwich au lieu de sandwich, très agaçant.",2/19/2025 14:19,image_7428.jpg,élevé,Ouvert,,,REF-276549
+a11c6d5d-ade2-4c49-b715-579c90257d7f,COM-91731,USR-3938,CommandeErronée,"J'ai commandé frites, mais j'ai reçu salade.",12/11/2024 14:19,,faible,Escaladé,,,REF-549270
+7123bc99-7cd9-49bd-9c3a-c60e7cf42c53,COM-31753,USR-5638,MauvaiseQualité,"La nourriture était sans goût, pas à la hauteur.",10/19/2024 14:19,,faible,Escaladé,,,REF-719533
+3b915422-35b7-43f3-8d42-28dcfeb808af,COM-46729,USR-6220,ArticleManquant,"Il manque sandwich dans ma commande, très décevant.",6/2/2025 14:19,image_7950.jpg,élevé,Résolu,6/2/2025 22:19,MOD-15,REF-937566
+e62e9c4b-675f-43d2-a82f-f9386d6ec3f3,COM-36526,USR-8032,ArticleManquant,"Il manque sandwich dans ma commande, très décevant.",6/1/2025 14:19,,moyen,Escaladé,,,REF-626115
+ec96154a-55b5-4fb4-8b80-7b3a1378ecb0,COM-54601,USR-3248,ArticleManquant,"Pas de pâtes, c'est inacceptable et frustrant !",12/24/2024 14:19,,moyen,Escaladé,,,REF-125519
+34634c02-bfb2-4d01-a03d-83ad4be25cb0,COM-35618,USR-2224,ArticleManquant,"Commande incomplète, pâtes non livré.",9/21/2024 14:19,,faible,Résolu,9/21/2024 15:19,MOD-13,REF-367617
+acccde3a-8e72-4939-80d7-579632d67485,COM-58206,USR-2780,ArticleManquant,"Manque salade, service médiocre.",1/11/2025 14:19,image_7860.jpg,moyen,Ouvert,,,REF-275957
+7b098a27-2605-45aa-b05f-b7c7815bed7e,COM-17484,USR-5859,ArticleManquant,"Il manque sushi dans ma commande, très décevant.",2/24/2025 14:19,,moyen,Escaladé,,,REF-307545
+fa53dc01-0feb-444d-bdee-1f2b220d9909,COM-60386,USR-1120,LivraisonRetard,"Livraison retardée de 2 heures, totalement inacceptable !",10/23/2024 14:19,,élevé,Ouvert,,,REF-349883
+de2c73a7-9c5c-4ce0-be51-c2eb04d9337e,COM-82466,USR-3074,ArticleManquant,"salade manquant, veuillez résoudre immédiatement.",8/1/2024 14:19,,moyen,Escaladé,,,REF-585012
+1d133a98-afee-43ce-ac2b-18e2b0f92faa,COM-70669,USR-4976,LivraisonRetard,"La nourriture est arrivée avec 30 minutes de retard, service décevant.",9/26/2024 14:19,image_1135.jpg,élevé,Ouvert,,,REF-875296
+70251f50-db59-4fa6-aa86-c97a1b4c5f59,COM-65404,USR-2831,LivraisonRetard,"J'ai attendu 1 heure pour ma commande, très frustrant.",12/29/2024 14:19,,moyen,Résolu,12/30/2024 0:19,MOD-6,REF-954079
+1009bc4e-4081-4d8c-ac86-b1a19eef3822,COM-68552,USR-5532,CommandeErronée,J'ai reçu pâtes au lieu de sushi.,5/6/2025 14:19,"image_4561.jpg,image_1344.jpg",faible,Résolu,5/7/2025 10:19,MOD-4,REF-703384
+0241f14f-9991-409c-a866-97f171bd21ff,COM-43306,USR-7585,ArticleManquant,"Il manque pâtes dans ma commande, très décevant.",5/18/2025 14:19,image_9955.jpg,élevé,Ouvert,,,REF-963928
+d0eaf494-2bb7-4a50-83e2-8bf44d131fb4,COM-57910,USR-7730,NourritureEndommagée,"sushi était brûlé, qualité inacceptable.",3/18/2025 14:19,,élevé,Résolu,3/19/2025 0:19,MOD-19,REF-898985
+d0b0cdff-e5a8-4427-ba81-1ce7e2a4596e,COM-27537,USR-3268,ArticleManquant,"Manque burger, service médiocre.",1/17/2025 14:19,,faible,Résolu,1/18/2025 11:19,MOD-20,REF-611472
+4c32a2a8-e4ef-4eba-861d-fe0f28cda816,COM-82182,USR-5162,CommandeErronée,J'ai reçu frites au lieu de pizza.,7/26/2024 14:19,image_5960.jpg,faible,Ouvert,,,REF-292908
+22cde9c3-ea60-4d24-bac8-69b0d9f892ff,COM-57978,USR-6521,CommandeErronée,"Mauvais article livré, pâtes à la place de pâtes.",2/13/2025 14:19,,faible,Escaladé,,,REF-690955
+4b855a42-6a0f-4da3-9b10-ade048a0dba7,COM-61343,USR-3760,ArticleManquant,"Il manque sushi dans ma commande, très décevant.",2/16/2025 14:19,"image_2555.jpg,image_9396.jpg",élevé,Escaladé,,,REF-416405
+332faea7-3833-4c2b-b5a0-163ca69b7ff9,COM-75775,USR-8700,MauvaiseQualité,"burger était sans goût, je ne commanderai plus.",2/15/2025 14:19,,faible,Résolu,2/16/2025 19:19,MOD-12,REF-964964
+7c9d301d-cf46-4b6b-abe5-ce6b0a7d529b,COM-69683,USR-8843,MauvaiseQualité,"sushi était froid, je ne commanderai plus.",2/14/2025 14:19,,faible,Ouvert,,,REF-801700
+5170a97d-a79c-4faa-8d8e-a86248b7c79f,COM-45799,USR-2585,ArticleManquant,"Il manque pizza dans ma commande, très décevant.",12/21/2024 14:19,"image_2254.jpg,image_1838.jpg",élevé,Ouvert,,,REF-145503
+8b9abb03-fc2e-472e-ad3d-1bc63b915c2b,COM-71172,USR-9460,MauvaiseQualité,"Qualité médiocre de salade, très frustrant.",11/24/2024 14:19,image_6413.jpg,élevé,Résolu,11/26/2024 5:19,MOD-17,REF-800419
+068a0844-71a2-4c21-950e-240a2114a561,COM-10896,USR-9239,NourritureEndommagée,"La commande était brûlé, très déçu.",12/20/2024 14:19,,faible,Ouvert,,,REF-787019
+827c8c78-d39a-4183-ae3b-388ce0f1c73c,COM-92953,USR-5269,CommandeErronée,"Erreur sur ma commande : sandwich au lieu de pizza, très agaçant.",8/7/2024 14:19,image_6124.jpg,élevé,Ouvert,,,REF-632374
+6f089741-99c1-4955-a86f-00308bfce817,COM-60632,USR-5324,ArticleManquant,"Commande incomplète, pizza non livré.",4/29/2025 14:19,,faible,Ouvert,,,REF-405567
+a16cd9b7-bc8e-486e-bfe3-37217b27c2e1,COM-14452,USR-7002,ArticleManquant,"Pas de pizza, c'est inacceptable et frustrant !",1/30/2025 14:19,"image_9647.jpg,image_1833.jpg",élevé,Résolu,2/1/2025 9:19,MOD-7,REF-919233
+3a91acf6-c5b3-48ab-8edf-14ef0ceee671,COM-27345,USR-8148,ArticleManquant,"Commande incomplète, pizza non livré.",11/3/2024 14:19,,faible,Escaladé,,,REF-858896
+4fe74403-37f7-46fe-8ec1-a1893500dbe2,COM-67211,USR-9537,MauvaiseQualité,"pâtes était sans goût, totalement dégoûtant !",3/14/2025 14:19,,élevé,Ouvert,,,REF-873288
+aafa8d86-7cf8-4309-bb2a-7e33f889e20d,COM-55067,USR-7315,CommandeErronée,"Livré pizza, mais je voulais burger, c'est inacceptable.",12/29/2024 14:19,"image_3583.jpg,image_4593.jpg",moyen,Résolu,12/30/2024 3:19,MOD-9,REF-129112
+7556a891-0f60-4102-b333-3dbe3be3c278,COM-29878,USR-1363,NourritureEndommagée,"Tout était écrasé, expérience catastrophique.",10/29/2024 14:19,,élevé,Escaladé,,,REF-166346
+130b3d16-ae3b-4c99-b26d-75efdf5ecd87,COM-83677,USR-6166,MauvaiseQualité,"Très mauvaise qualité de pâtes, immangeable.",4/11/2025 14:19,,élevé,Escaladé,,,REF-917872
+68ed147e-035d-4dab-9ac0-74d9d7c2f463,COM-22530,USR-7130,ArticleManquant,"Il manque pâtes dans ma commande, très décevant.",8/19/2024 14:19,,moyen,Résolu,8/20/2024 15:19,MOD-16,REF-525395
+3ceeaacd-205c-4229-9516-a8ecc7a62689,COM-64516,USR-9804,CommandeErronée,"Mauvais article livré, sushi à la place de frites.",10/23/2024 14:19,,faible,Escaladé,,,REF-232895
+f5145e0d-ef23-42e0-8ee8-6d394dd2179a,COM-12487,USR-9927,LivraisonRetard,"Commande arrivée après 2 heures, vraiment pas satisfait.",10/16/2024 14:19,,élevé,Résolu,10/16/2024 16:19,MOD-2,REF-458549
+d0ce42db-ddcd-4583-9373-bd11105af8ed,COM-18337,USR-6159,MauvaiseQualité,"Qualité médiocre de salade, très frustrant.",7/21/2024 14:19,,moyen,Résolu,7/22/2024 5:19,MOD-13,REF-154713
+030ebd37-bf84-4f99-a2e0-f0f2d451ead7,COM-44522,USR-8777,NourritureEndommagée,"La commande était gâté, très déçu.",6/14/2025 14:19,image_8791.jpg,élevé,Escaladé,,,REF-283252
+ad8a9456-bf47-4c14-b000-a06f7551ec27,COM-73908,USR-5459,MauvaiseQualité,"La nourriture était écrasé, pas à la hauteur.",1/31/2025 14:19,image_1045.jpg,faible,Résolu,2/1/2025 18:19,MOD-19,REF-880567
+37f34de2-efe4-48c9-8a8e-af9258b9a2c0,COM-50254,USR-6806,LivraisonRetard,"La commande a été livrée avec 1 heure de retard, la nourriture était froide.",10/5/2024 14:19,,moyen,Ouvert,,,REF-879233
+887fde7b-ac02-405f-bebd-2eb43283be1c,COM-98429,USR-3251,LivraisonRetard,"Livraison retardée de 30 minutes, totalement inacceptable !",12/25/2024 14:19,image_1410.jpg,moyen,Résolu,12/25/2024 23:19,MOD-12,REF-333767
+f82f5793-a531-410d-8c28-e67fc4851895,COM-45898,USR-1511,MauvaiseQualité,"salade était brûlé, je ne commanderai plus.",6/9/2025 14:19,"image_7548.jpg,image_8563.jpg",faible,Escaladé,,,REF-881173
+f7c3c1fa-0b40-4dac-b2c8-b8815a094166,COM-46163,USR-6473,MauvaiseQualité,"Qualité médiocre de frites, très frustrant.",5/20/2025 14:19,,moyen,Escaladé,,,REF-376379
+6fa442c3-efb6-4aff-9df5-362415d57b82,COM-24316,USR-2760,CommandeErronée,"Livré pizza, mais je voulais sushi, c'est inacceptable.",9/13/2024 14:19,,faible,Résolu,9/14/2024 19:19,MOD-11,REF-594149
+b25c8efe-0dbb-4e42-8813-25db706c0ae6,COM-95540,USR-6786,LivraisonRetard,"La nourriture est arrivée avec 30 minutes de retard, service décevant.",10/21/2024 14:19,"image_8763.jpg,image_1808.jpg",élevé,Escaladé,,,REF-173990
+740b3265-d916-40bb-982c-ab81d8c33173,COM-60849,USR-7255,ArticleManquant,"Pas de sushi, c'est inacceptable et frustrant !",2/22/2025 14:19,image_1562.jpg,élevé,Résolu,2/23/2025 20:19,MOD-20,REF-914221
+afc27bd5-b67c-4897-987e-79be9602b893,COM-12586,USR-8397,NourritureEndommagée,"sushi livré trempé, c'est scandaleux et dangereux !",12/5/2024 14:19,image_2113.jpg,élevé,Escaladé,,,REF-882192
+20f200ff-e1da-4806-a7be-5303b74c3c36,COM-28310,USR-4247,ArticleManquant,"sandwich manquant, veuillez résoudre immédiatement.",6/30/2024 14:19,image_1173.jpg,élevé,Résolu,6/30/2024 15:19,MOD-6,REF-288424
+6b114600-d022-426e-94c4-7cb187a8941a,COM-62503,USR-9062,ArticleManquant,"Pas de sandwich, c'est inacceptable et frustrant !",11/14/2024 14:19,,moyen,Résolu,11/15/2024 2:19,MOD-19,REF-890426
+2a21b3a8-1c1d-43d0-a449-a8217d86507d,COM-73704,USR-9715,LivraisonRetard,"Retard de 90 minutes, c'est scandaleux et dérangeant !",8/9/2024 14:19,image_2827.jpg,élevé,Résolu,8/10/2024 7:19,MOD-7,REF-397512
+f77e3a75-f11a-443a-9b25-bb0cf630d429,COM-80413,USR-1694,CommandeErronée,"Commande erronée livrée, j'ai eu pizza et non sushi.",6/28/2024 14:19,image_1447.jpg,faible,Ouvert,,,REF-572021
+dd35ddac-edd4-42a6-bd67-d6c6b325590c,COM-19949,USR-7523,CommandeErronée,J'ai reçu sushi au lieu de frites.,11/10/2024 14:19,image_2395.jpg,faible,Escaladé,,,REF-697937
+c7f65644-6467-40cd-a88e-6e49e1d8b0ad,COM-35600,USR-1961,MauvaiseQualité,"sandwich était écrasé, totalement dégoûtant !",10/22/2024 14:19,,élevé,Résolu,10/23/2024 9:19,MOD-5,REF-787031
+2d67fc85-7e03-407f-a436-a890ce85f062,COM-86192,USR-4286,CommandeErronée,"Erreur sur ma commande : sushi au lieu de pâtes, très agaçant.",12/4/2024 14:19,"image_2243.jpg,image_3420.jpg",élevé,Ouvert,,,REF-205855
+80e7446b-55f1-489f-928b-b1cbc0479e2e,COM-55684,USR-6300,ArticleManquant,"Je n'ai pas reçu burger, besoin d'un remboursement.",9/12/2024 14:19,,faible,Ouvert,,,REF-407551
+af0af6f6-50b6-478e-8926-07cc0bdc952b,COM-40928,USR-8663,NourritureEndommagée,"La nourriture était froid, totalement immangeable.",8/9/2024 14:19,,élevé,Escaladé,,,REF-406160
+4664f380-fbf2-4f59-bf88-b58cd8929ed4,COM-40296,USR-3302,MauvaiseQualité,"pâtes était trempé, je ne commanderai plus.",12/6/2024 14:19,,faible,Résolu,12/7/2024 5:19,MOD-15,REF-540171
+775356d0-c66c-4810-a8cb-8adc435f17ee,COM-68175,USR-9832,NourritureEndommagée,"frites livré froid, c'est scandaleux et dangereux !",10/15/2024 14:19,image_4418.jpg,élevé,Ouvert,,,REF-813859
+f480e47b-8d34-48ac-8fc0-c1a2733e3331,COM-99211,USR-9580,ArticleManquant,"Commande incomplète, pizza non livré.",6/15/2025 14:19,image_1283.jpg,faible,Escaladé,,,REF-264436
+bbd81d6e-ef6c-45f0-aab1-3015017962fc,COM-47964,USR-3784,MauvaiseQualité,"La nourriture était trempé, pas à la hauteur.",6/2/2025 14:19,image_9491.jpg,faible,Ouvert,,,REF-434280
+600d1f66-a937-4d73-9549-e763e64e2881,COM-43869,USR-6596,LivraisonRetard,"Livraison retardée de 1 heure, totalement inacceptable !",6/15/2025 14:19,image_1962.jpg,élevé,Escaladé,,,REF-818528
+b52898c4-d923-46e7-81f2-e977d6d5b1dc,COM-57579,USR-3106,CommandeErronée,"Livré pâtes, mais je voulais salade, c'est inacceptable.",3/17/2025 14:19,image_5615.jpg,moyen,Ouvert,,,REF-399103
+10030140-da7c-4875-ab4a-fa19ba2072ad,COM-33600,USR-6069,CommandeErronée,"J'ai commandé salade, mais j'ai reçu pizza.",11/29/2024 14:19,,faible,Escaladé,,,REF-365221
+84fbea53-be16-4758-a800-60b055426150,COM-75337,USR-2279,LivraisonRetard,"Retard de 90 minutes, c'est scandaleux et dérangeant !",7/9/2024 14:19,image_3724.jpg,élevé,Escaladé,,,REF-859498
+9ac70e37-eb2d-4f61-a4dc-9da8bfc603ce,COM-37650,USR-7704,MauvaiseQualité,"sandwich avait un goût trempé, expérience horrible.",8/24/2024 14:19,,élevé,Résolu,8/26/2024 13:19,MOD-12,REF-825687
+842ecea3-e8f4-416f-bcb3-0f7b691fc304,COM-77229,USR-6789,LivraisonRetard,"La nourriture est arrivée avec 1 heure de retard, service décevant.",1/19/2025 14:19,,moyen,Résolu,1/20/2025 4:19,MOD-8,REF-584800
+e7621bb4-4aa5-40a3-98a0-a4dbd8afa5d8,COM-42262,USR-9032,LivraisonRetard,"Livraison retardée de 30 minutes, totalement inacceptable !",5/31/2025 14:19,,faible,Escaladé,,,REF-120668
+783e5df6-1925-48d5-b12d-8e5b9bfebe77,COM-31201,USR-2759,MauvaiseQualité,"pâtes était écrasé, je ne commanderai plus.",10/2/2024 14:19,,faible,Escaladé,,,REF-868986
+1c903cf7-57b5-4913-9f61-6ffc9a1f9595,COM-42190,USR-1203,MauvaiseQualité,"burger avait un goût froid, expérience horrible.",6/27/2024 14:19,,élevé,Ouvert,,,REF-891290
+cb7df315-a67a-43f2-a2a2-c0f9fe5e4d1a,COM-76008,USR-9708,ArticleManquant,"Je n'ai pas reçu pâtes, besoin d'un remboursement.",8/1/2024 14:19,,faible,Résolu,8/2/2024 14:19,MOD-20,REF-206999
+d8c549bb-e3d8-4d1d-a12f-7d26e3bb8f19,COM-91561,USR-4858,ArticleManquant,"Commande incomplète, sushi non livré.",12/24/2024 14:19,image_3899.jpg,faible,Ouvert,,,REF-604065
+074ce9ba-a7aa-4577-870e-d0deadb929f0,COM-78600,USR-3968,LivraisonRetard,"Retard de 30 minutes, c'est scandaleux et dérangeant !",4/15/2025 14:19,,moyen,Escaladé,,,REF-822897
+bead7a8a-5a09-4ab5-be41-5c0862a834a1,COM-27469,USR-9658,ArticleManquant,"Commande incomplète, pizza non livré.",9/7/2024 14:19,image_1584.jpg,faible,Escaladé,,,REF-143234
+516fe0b4-35ef-4658-9fd5-fd11c919ab94,COM-12064,USR-1506,CommandeErronée,"Erreur sur ma commande : pâtes au lieu de pizza, très agaçant.",4/2/2025 14:19,image_9702.jpg,élevé,Résolu,4/3/2025 1:19,MOD-6,REF-788003
+cc809192-cf4a-4306-99f9-e5b4be10b663,COM-43347,USR-2636,LivraisonRetard,"Retard de 1 heure, c'est scandaleux et dérangeant !",10/10/2024 14:19,,moyen,Ouvert,,,REF-366367
+7d209c70-23d1-4129-8690-fd3589f6dcd4,COM-31547,USR-7036,MauvaiseQualité,"Très mauvaise qualité de frites, immangeable.",8/22/2024 14:19,image_3467.jpg,élevé,Résolu,8/22/2024 19:19,MOD-3,REF-557863
+669974ab-af3a-4003-b405-3e7f8f4154d0,COM-91433,USR-9908,ArticleManquant,"Commande incomplète, sushi non livré.",12/27/2024 14:19,,faible,Résolu,12/28/2024 23:19,MOD-1,REF-947344
+26d68f58-ada7-4c35-8cf7-387c8b3fef22,COM-46262,USR-8525,MauvaiseQualité,"sandwich était brûlé, je ne commanderai plus.",12/18/2024 14:19,image_8970.jpg,faible,Escaladé,,,REF-211636
+99fc70e6-1778-469a-941d-6deb2d3a2780,COM-17164,USR-1651,CommandeErronée,"J'ai commandé frites, mais j'ai reçu pâtes.",12/1/2024 14:19,,faible,Escaladé,,,REF-655486
+e0236586-934e-48d5-9f2d-67c4bf72692b,COM-68797,USR-5229,NourritureEndommagée,"Tout était gâté, expérience catastrophique.",3/26/2025 14:19,image_1270.jpg,élevé,Ouvert,,,REF-414758
+ee49e140-6250-4e90-b62d-4a4959b06368,COM-99798,USR-7194,CommandeErronée,"Commande erronée livrée, j'ai eu salade et non salade.",1/27/2025 14:19,,faible,Escaladé,,,REF-522432
+787ac491-a23e-44ea-ab96-40ae6c4ca91c,COM-79873,USR-7977,NourritureEndommagée,"Tout était gâté, expérience catastrophique.",8/11/2024 14:19,,élevé,Résolu,8/12/2024 17:19,MOD-11,REF-794816
+79b18701-3355-4760-aa78-732c0e428362,COM-39248,USR-4949,CommandeErronée,"Livré pâtes, mais je voulais salade, c'est inacceptable.",10/20/2024 14:19,,faible,Ouvert,,,REF-732446
+7f8df41c-2d51-4452-97cc-6e3b89135745,COM-68662,USR-7385,CommandeErronée,"Erreur sur ma commande : pizza au lieu de sushi, très agaçant.",2/28/2025 14:19,,moyen,Ouvert,,,REF-848034
+3ab6483d-afbd-4350-848f-b93084a0c1a8,COM-67293,USR-3736,LivraisonRetard,"La nourriture est arrivée avec 30 minutes de retard, service décevant.",11/9/2024 14:19,"image_5471.jpg,image_1454.jpg",élevé,Ouvert,,,REF-496206
+9d7f85c2-a8c7-4a31-bd03-0ec3c0c4d4b7,COM-69759,USR-6729,MauvaiseQualité,"Très mauvaise qualité de salade, immangeable.",8/17/2024 14:19,,élevé,Escaladé,,,REF-435822
+31c5680c-773f-400f-b397-529444c819ff,COM-89781,USR-3463,MauvaiseQualité,"salade était sans goût, totalement dégoûtant !",8/26/2024 14:19,,élevé,Escaladé,,,REF-469180
+5d52e86c-4551-423d-b720-1f75e1ff3315,COM-17933,USR-4217,ArticleManquant,"sushi manquant, veuillez résoudre immédiatement.",10/17/2024 14:19,,moyen,Ouvert,,,REF-583136
+72ff906f-ae0f-4e3f-98ee-e89358613eca,COM-34413,USR-8236,NourritureEndommagée,"La commande était sans goût, très déçu.",6/3/2025 14:19,,faible,Escaladé,,,REF-882709
+d480298d-d770-4af7-aa33-1bac0f1a887b,COM-61742,USR-3639,MauvaiseQualité,"sushi était sans goût, je ne commanderai plus.",7/17/2024 14:19,image_2445.jpg,faible,Escaladé,,,REF-569416
+d99ca38c-2cd6-4da3-bb81-079e3e9c9fde,COM-39869,USR-1905,NourritureEndommagée,"burger était sans goût, qualité inacceptable.",2/26/2025 14:19,,élevé,Escaladé,,,REF-591403
+caca8b04-2dac-4761-a5c0-512cccbdc648,COM-41536,USR-6996,NourritureEndommagée,"Tout était gâté, expérience catastrophique.",5/3/2025 14:19,,élevé,Escaladé,,,REF-819707
+d2c035fe-fe7d-47df-98ce-5ee95a977431,COM-95937,USR-7991,NourritureEndommagée,"pizza livré trempé, c'est scandaleux et dangereux !",9/18/2024 14:19,,élevé,Ouvert,,,REF-515961
+d29d23f7-b8a0-4434-9662-b602072d3948,COM-79608,USR-8315,NourritureEndommagée,"La nourriture était brûlé, totalement immangeable.",10/12/2024 14:19,image_7760.jpg,élevé,Résolu,10/13/2024 10:19,MOD-13,REF-944424
+7b7b2f26-4e0a-4f56-a9d0-80b66d0e308a,COM-92533,USR-6056,CommandeErronée,"J'ai commandé salade, mais j'ai reçu pizza.",10/3/2024 14:19,image_9243.jpg,faible,Résolu,10/4/2024 5:19,MOD-13,REF-559843
+cba53165-5356-4609-9bc6-9aee3916cab1,COM-79516,USR-3662,ArticleManquant,"Manque burger, service médiocre.",1/5/2025 14:19,"image_4768.jpg,image_8025.jpg",moyen,Ouvert,,,REF-384211
+879a99c5-47f8-43d8-b2ff-c2b1e48ef53d,COM-33724,USR-3446,MauvaiseQualité,"La nourriture était brûlé, pas à la hauteur.",3/13/2025 14:19,,faible,Escaladé,,,REF-690005
+fb2167f1-58ec-4d7b-9588-61e046e3a8c7,COM-35004,USR-8920,CommandeErronée,"J'ai commandé salade, mais j'ai reçu sushi.",12/7/2024 14:19,image_1808.jpg,faible,Résolu,12/9/2024 5:19,MOD-9,REF-909547
+e74a9744-29af-465c-a722-156f2923a947,COM-54815,USR-4721,ArticleManquant,"salade manquant, veuillez résoudre immédiatement.",10/26/2024 14:19,,moyen,Ouvert,,,REF-817973
+cc1550a4-874e-4490-9fbf-b6b08bb72a53,COM-83461,USR-3942,LivraisonRetard,"La commande a été livrée avec 90 minutes de retard, la nourriture était froide.",11/1/2024 14:19,,moyen,Escaladé,,,REF-105247
+0a0e9c6a-f263-41c3-8cfe-3745749c19b4,COM-80477,USR-5190,LivraisonRetard,"Commande arrivée après 2 heures, vraiment pas satisfait.",9/7/2024 14:19,image_8461.jpg,élevé,Ouvert,,,REF-787970
+df5b21bc-7350-450c-b504-3786b442650e,COM-66476,USR-4976,MauvaiseQualité,"frites était écrasé, je ne commanderai plus.",9/13/2024 14:19,,faible,Résolu,9/14/2024 5:19,MOD-19,REF-781071
+40cef6fe-e62f-4358-a708-abb1b78b95f2,COM-51827,USR-2643,CommandeErronée,"Erreur sur ma commande : sandwich au lieu de sandwich, très agaçant.",2/24/2025 14:19,,moyen,Résolu,2/25/2025 15:19,MOD-13,REF-510003
+58a6d014-161c-4ad5-b4cc-449815ebb977,COM-12031,USR-6721,MauvaiseQualité,"La nourriture était trempé, pas à la hauteur.",9/7/2024 14:19,,faible,Résolu,9/9/2024 7:19,MOD-19,REF-352835
+a0c8f770-1569-4c77-90b8-620c0058c396,COM-88096,USR-1959,NourritureEndommagée,"pizza est arrivé brûlé, besoin d'un remplacement.",12/15/2024 14:19,,faible,Résolu,12/17/2024 5:19,MOD-17,REF-553767
+3e7e6a09-cc38-4709-9e4f-f5585b7d845e,COM-61857,USR-6299,CommandeErronée,"Livré sandwich, mais je voulais salade, c'est inacceptable.",8/27/2024 14:19,,faible,Ouvert,,,REF-696395
+30d6934f-e03e-4f86-8229-f6c62daf3b09,COM-40774,USR-2206,LivraisonRetard,"La commande a été livrée avec 1 heure de retard, la nourriture était froide.",7/13/2024 14:19,,moyen,Ouvert,,,REF-146113
+ac2ed2d5-7f34-401c-911a-21e096053889,COM-25049,USR-1319,CommandeErronée,"Commande erronée livrée, j'ai eu burger et non sushi.",3/6/2025 14:19,,faible,Ouvert,,,REF-565891
+7d525517-7df7-4507-982d-62cc3684d511,COM-48346,USR-3220,CommandeErronée,J'ai reçu salade au lieu de pâtes.,10/9/2024 14:19,,faible,Ouvert,,,REF-951908
+8c9813cf-4118-433b-bbbb-9cd636fe2ac6,COM-68227,USR-8616,CommandeErronée,J'ai reçu pâtes au lieu de pâtes.,9/1/2024 14:19,,faible,Résolu,9/2/2024 22:19,MOD-18,REF-952567
+01ee05f6-54a2-497a-8318-19b7b35cf549,COM-28526,USR-8582,NourritureEndommagée,"La nourriture était écrasé, totalement immangeable.",8/8/2024 14:19,,élevé,Résolu,8/8/2024 15:19,MOD-15,REF-833820
+a5b51062-e013-4596-9fa7-f8f0bf7d83f9,COM-13391,USR-1305,MauvaiseQualité,"sandwich avait un goût écrasé, expérience horrible.",2/10/2025 14:19,image_1881.jpg,élevé,Résolu,2/12/2025 0:19,MOD-12,REF-227151
+921a5a60-de10-47dc-97f3-b660f68f085d,COM-52264,USR-7493,LivraisonRetard,"J'ai attendu 30 minutes pour ma commande, très frustrant.",2/22/2025 14:19,,moyen,Ouvert,,,REF-771789
+01c64161-c54c-49de-9699-ae9fc1105719,COM-65484,USR-2158,CommandeErronée,"Erreur sur ma commande : frites au lieu de sushi, très agaçant.",8/13/2024 14:19,image_8436.jpg,élevé,Résolu,8/14/2024 18:19,MOD-14,REF-400713
+df7b47ea-a724-4469-aee4-1513afefa6d2,COM-28243,USR-5042,NourritureEndommagée,"salade livré trempé, c'est scandaleux et dangereux !",8/8/2024 14:19,,élevé,Escaladé,,,REF-223670
+0015c488-4a34-4a6c-9fc8-ab010b2b2508,COM-79427,USR-3392,ArticleManquant,"Commande incomplète, sandwich non livré.",11/8/2024 14:19,,faible,Résolu,11/9/2024 17:19,MOD-13,REF-358669
+b814d567-19fb-40b1-8c38-3c94ef22be6f,COM-10111,USR-7573,CommandeErronée,"J'ai commandé salade, mais j'ai reçu salade.",9/20/2024 14:19,image_1877.jpg,faible,Ouvert,,,REF-794314
+9a255f89-df71-4912-835c-b5aa0a8bc721,COM-71299,USR-3318,LivraisonRetard,"Retard de 2 heures, c'est scandaleux et dérangeant !",9/12/2024 14:19,image_9987.jpg,élevé,Résolu,9/14/2024 1:19,MOD-19,REF-761838
+39cb3318-335a-4e9e-b32f-96a8710300ad,COM-88123,USR-1309,NourritureEndommagée,"pâtes est arrivé brûlé, besoin d'un remplacement.",6/29/2024 14:19,image_3579.jpg,faible,Résolu,6/29/2024 19:19,MOD-1,REF-951137
+ace0fddf-fbce-4f33-ac11-60fef6bad466,COM-96343,USR-7212,CommandeErronée,"J'ai commandé frites, mais j'ai reçu burger.",9/6/2024 14:19,,faible,Résolu,9/7/2024 5:19,MOD-4,REF-975445
+b578eadc-11c6-46d1-822a-52356d737919,COM-22470,USR-3074,ArticleManquant,"Pas de pâtes, c'est inacceptable et frustrant !",1/15/2025 14:19,,moyen,Résolu,1/17/2025 10:19,MOD-3,REF-402333
+72232727-f7e7-4386-b5b8-dd83229193ad,COM-96508,USR-9667,CommandeErronée,"J'ai commandé burger, mais j'ai reçu sandwich.",3/30/2025 14:19,,faible,Ouvert,,,REF-178880
+ed6aa336-e142-4703-9a6b-68004131358a,COM-44722,USR-7517,MauvaiseQualité,"sandwich était gâté, je ne commanderai plus.",2/26/2025 14:19,"image_4303.jpg,image_4746.jpg",élevé,Escaladé,,,REF-819942
+12f3860a-c122-4d14-a394-c67cf7edaf9b,COM-75469,USR-2292,MauvaiseQualité,"pizza avait un goût gâté, expérience horrible.",1/5/2025 14:19,image_7121.jpg,élevé,Escaladé,,,REF-671557
+0e90599c-8668-4a8a-886f-07b31862c3c5,COM-62340,USR-1722,CommandeErronée,"Livré burger, mais je voulais pizza, c'est inacceptable.",4/2/2025 14:19,,faible,Escaladé,,,REF-984142
+ca5693c9-ba36-4a0d-a04f-610ad3434a41,COM-11919,USR-6804,ArticleManquant,"Commande incomplète, salade non livré.",12/30/2024 14:19,image_8364.jpg,faible,Résolu,1/1/2025 4:19,MOD-8,REF-384923
+ba66f011-747e-4d88-8b1f-a28a884f1b15,COM-13869,USR-2926,ArticleManquant,"Il manque pâtes dans ma commande, très décevant.",11/10/2024 14:19,,moyen,Résolu,11/10/2024 23:19,MOD-4,REF-612480
+cecb60b9-be57-4bef-a461-1bb784f850b7,COM-26143,USR-7938,MauvaiseQualité,"Qualité médiocre de sushi, très frustrant.",2/24/2025 14:19,,moyen,Résolu,2/25/2025 0:19,MOD-15,REF-438182
+79296302-b4fa-4200-98ba-6b71a1cc42e4,COM-49697,USR-3176,CommandeErronée,"Livré sandwich, mais je voulais burger, c'est inacceptable.",4/29/2025 14:19,image_4553.jpg,moyen,Ouvert,,,REF-960800
+326040df-b3af-40b1-a4c9-66a56951cfec,COM-91919,USR-2651,MauvaiseQualité,"burger était gâté, totalement dégoûtant !",11/23/2024 14:19,,élevé,Résolu,11/23/2024 18:19,MOD-6,REF-548471
+e2cb0d78-0244-45f9-99ae-1433443e9258,COM-98903,USR-2265,NourritureEndommagée,"La commande était écrasé, très déçu.",9/3/2024 14:19,,faible,Ouvert,,,REF-211998
+0f1d1437-192d-4d05-980a-fad3af3fa375,COM-48269,USR-3830,MauvaiseQualité,"Très mauvaise qualité de salade, immangeable.",8/29/2024 14:19,"image_7059.jpg,image_2861.jpg",élevé,Ouvert,,,REF-131464
+dc6148b8-3f25-48d4-a314-2afd14b2d7a0,COM-81736,USR-7661,LivraisonRetard,"Commande arrivée après 90 minutes, vraiment pas satisfait.",8/9/2024 14:19,image_2859.jpg,élevé,Résolu,8/10/2024 9:19,MOD-9,REF-773418
+318361ca-319a-449e-b909-da5a417ca148,COM-45403,USR-1566,ArticleManquant,"Il manque burger dans ma commande, très décevant.",3/12/2025 14:19,,moyen,Ouvert,,,REF-204799
+658c0da1-2a62-4630-9209-6402c0c2a859,COM-25711,USR-9567,LivraisonRetard,"Livraison retardée de 1 heure, totalement inacceptable !",12/19/2024 14:19,image_5037.jpg,élevé,Résolu,12/21/2024 6:19,MOD-9,REF-769645
+76b181a6-36e9-4705-a5a9-8efb45a702e2,COM-61560,USR-9590,LivraisonRetard,"Commande arrivée après 30 minutes, vraiment pas satisfait.",9/8/2024 14:19,,moyen,Ouvert,,,REF-588415
+7959b3f9-1a03-4a4b-b5db-83cb19b6b3fe,COM-39821,USR-2677,LivraisonRetard,"La nourriture est arrivée avec 30 minutes de retard, service décevant.",4/12/2025 14:19,"image_2650.jpg,image_8441.jpg",élevé,Résolu,4/14/2025 13:19,MOD-14,REF-272554
+6c1f8eda-6e56-45fd-8d53-a71b7139c0cd,COM-26646,USR-1460,ArticleManquant,"sandwich manquant, veuillez résoudre immédiatement.",5/27/2025 14:19,image_1489.jpg,élevé,Résolu,5/28/2025 7:19,MOD-1,REF-673809
+0c38a3fc-949e-4e83-9d22-3e061a3f3d8a,COM-82851,USR-8030,CommandeErronée,"Mauvais article livré, sandwich à la place de burger.",2/12/2025 14:19,,faible,Résolu,2/13/2025 2:19,MOD-3,REF-839357
+6a954ab5-c98f-41a5-baa3-105eced94a69,COM-96779,USR-7313,NourritureEndommagée,"Tout était écrasé, expérience catastrophique.",4/22/2025 14:19,,élevé,Ouvert,,,REF-130242
+48deadeb-2948-400e-9209-8a4bd3fe8757,COM-56259,USR-9866,MauvaiseQualité,"sushi était sans goût, totalement dégoûtant !",3/18/2025 14:19,,élevé,Résolu,3/19/2025 15:19,MOD-11,REF-177122
+2b59b978-31c0-45b4-bafe-68f26788fe3d,COM-53694,USR-8349,MauvaiseQualité,"Très mauvaise qualité de pâtes, immangeable.",4/19/2025 14:19,image_7344.jpg,élevé,Ouvert,,,REF-718299
+56b6a44a-e6e4-42fd-90e7-37f7b0cd6406,COM-65908,USR-3631,NourritureEndommagée,"La nourriture était écrasé, totalement immangeable.",10/16/2024 14:19,,élevé,Résolu,10/17/2024 5:19,MOD-18,REF-650329
+80b8d84e-eef1-4a52-809f-1577f05dc01a,COM-41140,USR-2590,NourritureEndommagée,"frites est arrivé sans goût, besoin d'un remplacement.",5/1/2025 14:19,,faible,Escaladé,,,REF-703244
+1f9b2b0a-c6c6-4eb4-b140-cdb366faaec4,COM-75211,USR-5390,MauvaiseQualité,"sushi était sans goût, totalement dégoûtant !",12/3/2024 14:19,image_9514.jpg,élevé,Ouvert,,,REF-134932
+01fe2e78-32ed-4b11-a28b-c984bb13645a,COM-73939,USR-3907,MauvaiseQualité,"pizza avait un goût sans goût, expérience horrible.",11/9/2024 14:19,,élevé,Résolu,11/10/2024 16:19,MOD-12,REF-319309
+0da94388-64ee-4297-a249-cedbf414a8b1,COM-18631,USR-9981,NourritureEndommagée,"Tout était brûlé, expérience catastrophique.",10/1/2024 14:19,image_3787.jpg,élevé,Escaladé,,,REF-286360
+baf32f55-5ac9-4176-bf62-ee9100fd6094,COM-72767,USR-1118,LivraisonRetard,"Commande arrivée après 30 minutes, vraiment pas satisfait.",12/17/2024 14:19,image_7788.jpg,élevé,Ouvert,,,REF-169229
+4fbca838-66db-4ee1-8f5f-582750360e67,COM-73852,USR-5375,MauvaiseQualité,"Très mauvaise qualité de frites, immangeable.",12/6/2024 14:19,,élevé,Résolu,12/7/2024 20:19,MOD-20,REF-801942
+dbcb9cc8-748c-433e-9477-77524a46eea0,COM-29422,USR-3483,CommandeErronée,"Livré salade, mais je voulais sandwich, c'est inacceptable.",10/7/2024 14:19,,faible,Ouvert,,,REF-474155
+6e29ce4a-35f3-4a31-9126-a7467a5350c1,COM-72294,USR-8738,MauvaiseQualité,"burger était brûlé, je ne commanderai plus.",12/16/2024 14:19,image_7047.jpg,faible,Résolu,12/18/2024 7:19,MOD-15,REF-985739
+470dff84-fc4e-420a-833c-6661a878cdbe,COM-97220,USR-3996,MauvaiseQualité,"sandwich était froid, totalement dégoûtant !",7/1/2024 14:19,image_8409.jpg,élevé,Escaladé,,,REF-803694
+a4640090-b177-48e1-ab9b-8638417aa6a1,COM-82637,USR-8756,NourritureEndommagée,"pizza était trempé, qualité inacceptable.",8/21/2024 14:19,,élevé,Escaladé,,,REF-703294
+b84230af-55b7-4e3f-9b5b-97de36ef53df,COM-74157,USR-7777,ArticleManquant,"Manque pâtes, service médiocre.",12/9/2024 14:19,"image_9493.jpg,image_3728.jpg",moyen,Résolu,12/9/2024 22:19,MOD-10,REF-263954
+cdaa4ea4-b774-4c74-bcf2-216c4f89af9b,COM-88624,USR-8609,CommandeErronée,"Erreur sur ma commande : sushi au lieu de frites, très agaçant.",6/27/2025 14:19,,moyen,Ouvert,,,REF-944479
+3b66b04e-61ad-4f3d-9f3e-27bfc86eceef,COM-47745,USR-1909,NourritureEndommagée,"frites livré gâté, c'est scandaleux et dangereux !",4/15/2025 14:19,image_2562.jpg,élevé,Ouvert,,,REF-215067
+757c642f-568c-4c2e-8846-314d66dd21a5,COM-38494,USR-6753,LivraisonRetard,"Commande arrivée après 90 minutes, vraiment pas satisfait.",12/21/2024 14:19,image_3218.jpg,élevé,Ouvert,,,REF-147325
+ae712df2-6165-4ddd-953c-a49733517ca8,COM-92863,USR-8519,ArticleManquant,"Il manque salade dans ma commande, très décevant.",5/24/2025 14:19,,moyen,Escaladé,,,REF-537755
+acdcf6c3-f6b1-4943-90dd-cf1e718f4080,COM-16323,USR-7034,MauvaiseQualité,"burger était écrasé, totalement dégoûtant !",9/1/2024 14:19,image_2884.jpg,élevé,Résolu,9/3/2024 0:19,MOD-11,REF-820765
+834cfd1f-284a-4258-8b18-6dd611e15490,COM-39720,USR-4698,CommandeErronée,"Commande erronée livrée, j'ai eu salade et non frites.",9/29/2024 14:19,,faible,Résolu,9/29/2024 16:19,MOD-2,REF-784855
+c4247502-9003-4636-9496-8ce1296eaa1f,COM-81567,USR-6593,CommandeErronée,"Erreur sur ma commande : frites au lieu de sushi, très agaçant.",9/25/2024 14:19,"image_4956.jpg,image_3836.jpg",élevé,Escaladé,,,REF-643562
+3796a0ea-01b7-4b04-aee3-183bdcddcbbc,COM-51195,USR-5625,MauvaiseQualité,"Qualité médiocre de sandwich, très frustrant.",2/25/2025 14:19,,moyen,Escaladé,,,REF-836330
+97e15f42-79f8-40df-84d6-67f7151f3ff5,COM-88849,USR-1954,MauvaiseQualité,"Très mauvaise qualité de sushi, immangeable.",11/1/2024 14:19,,élevé,Escaladé,,,REF-695957
+8c58a8db-78a6-4270-bb91-b130c79a1d8e,COM-55221,USR-1772,CommandeErronée,"J'ai commandé pâtes, mais j'ai reçu sandwich.",8/30/2024 14:19,,faible,Ouvert,,,REF-825883
+6c1dda47-97e9-4438-bc6e-638f8ac19d60,COM-10524,USR-6793,ArticleManquant,"Il manque burger dans ma commande, très décevant.",6/10/2025 14:19,,moyen,Résolu,6/10/2025 15:19,MOD-7,REF-489020
+a1f40ee6-54dd-4c21-ab89-14636aeb2a79,COM-74268,USR-1662,ArticleManquant,"Je n'ai pas reçu salade, besoin d'un remboursement.",9/13/2024 14:19,image_2686.jpg,faible,Escaladé,,,REF-345398
+4f1c680b-e5a4-4318-bdf4-54130bc53147,COM-89666,USR-2183,LivraisonRetard,"J'ai attendu 30 minutes pour ma commande, très frustrant.",3/21/2025 14:19,image_6629.jpg,élevé,Ouvert,,,REF-749269
+60a5466c-629c-4265-a608-17f0a6af21a0,COM-32386,USR-8330,MauvaiseQualité,"Qualité médiocre de pizza, très frustrant.",11/12/2024 14:19,,moyen,Ouvert,,,REF-867201
+afa42448-225e-4b9c-a010-f57206fa21b8,COM-69934,USR-6626,NourritureEndommagée,"La nourriture était brûlé, totalement immangeable.",1/2/2025 14:19,,élevé,Escaladé,,,REF-337310
+31d16ab9-c93d-41aa-9a75-31dc3cd97820,COM-25723,USR-5362,CommandeErronée,J'ai reçu pâtes au lieu de pizza.,12/17/2024 14:19,,faible,Ouvert,,,REF-425331
+b3c4fbea-5d40-45b2-897a-a0446a706068,COM-82842,USR-3285,CommandeErronée,"Mauvais article livré, sandwich à la place de pâtes.",11/27/2024 14:19,,faible,Escaladé,,,REF-778131
+1a8f7468-c96a-4374-8343-7ba044dc2997,COM-49816,USR-4570,MauvaiseQualité,"sushi était gâté, totalement dégoûtant !",8/7/2024 14:19,,élevé,Résolu,8/8/2024 3:19,MOD-13,REF-229921
+921cd2d1-4d32-497d-8390-e6e0f2175fc4,COM-39451,USR-2416,NourritureEndommagée,"Tout était froid, expérience catastrophique.",7/10/2024 14:19,,élevé,Ouvert,,,REF-434820
+85360cac-af3f-4830-afe2-32705b74111b,COM-64774,USR-5957,LivraisonRetard,"Retard de 30 minutes, c'est scandaleux et dérangeant !",10/24/2024 14:19,,moyen,Ouvert,,,REF-674472
+1a924670-0b71-4672-b810-779c9c3823f4,COM-24203,USR-2013,CommandeErronée,"Livré pizza, mais je voulais sandwich, c'est inacceptable.",9/2/2024 14:19,,faible,Escaladé,,,REF-395143
+9f99fd99-157e-4046-8b12-74afbc5735f2,COM-30985,USR-9896,ArticleManquant,"Pas de salade, c'est inacceptable et frustrant !",4/28/2025 14:19,image_6881.jpg,élevé,Résolu,4/29/2025 23:19,MOD-12,REF-206218
+da9920ec-4b80-408a-93e1-1adee73d8b49,COM-26913,USR-9001,LivraisonRetard,"J'ai attendu 2 heures pour ma commande, très frustrant.",10/26/2024 14:19,"image_7587.jpg,image_1264.jpg",élevé,Escaladé,,,REF-869959
+6775e14d-7ac1-48bf-9239-2ded003395ad,COM-28542,USR-8201,ArticleManquant,"Pas de salade, c'est inacceptable et frustrant !",12/20/2024 14:19,image_1084.jpg,élevé,Ouvert,,,REF-289322
+cd86933e-f82b-4640-9729-c3ad680dfeda,COM-59508,USR-8271,LivraisonRetard,"J'ai attendu 1 heure pour ma commande, très frustrant.",7/2/2024 14:19,,moyen,Escaladé,,,REF-544060
+0469ad19-e5e6-4777-acb6-89e300cee391,COM-18504,USR-1134,MauvaiseQualité,"pizza était sans goût, totalement dégoûtant !",6/6/2025 14:19,image_2103.jpg,élevé,Ouvert,,,REF-368860
+a6b981fd-fb09-4333-9fcb-dc398fecbd34,COM-27382,USR-9956,LivraisonRetard,"Commande arrivée après 30 minutes, vraiment pas satisfait.",4/14/2025 14:19,"image_2347.jpg,image_7861.jpg",élevé,Escaladé,,,REF-924177
+20ddd398-ac02-477f-833d-4d599318077b,COM-81388,USR-9032,MauvaiseQualité,"Qualité médiocre de sushi, très frustrant.",10/2/2024 14:19,,moyen,Résolu,10/4/2024 2:19,MOD-15,REF-636685
+072d3a82-ecee-4e37-bcaa-33685be0c6ab,COM-72400,USR-3965,NourritureEndommagée,"frites était sans goût, qualité inacceptable.",7/10/2024 14:19,,élevé,Ouvert,,,REF-311634
+c53478b7-9cf2-4e20-a9c8-ff7e8285cf34,COM-91240,USR-2224,NourritureEndommagée,"La nourriture était écrasé, totalement immangeable.",1/6/2025 14:19,image_7437.jpg,élevé,Ouvert,,,REF-691001
+b471bc2d-1862-4a2b-a584-f7a19f4bb789,COM-41594,USR-8433,ArticleManquant,"Commande incomplète, sushi non livré.",11/25/2024 14:19,,faible,Ouvert,,,REF-715279
+62f96542-01c3-47f6-b565-7b29d995224a,COM-26109,USR-2938,LivraisonRetard,"La nourriture est arrivée avec 90 minutes de retard, service décevant.",4/16/2025 14:19,image_8295.jpg,élevé,Escaladé,,,REF-746059
+0183ae98-57b8-4f79-a0f2-2256b31da5ac,COM-65803,USR-3414,LivraisonRetard,"La nourriture est arrivée avec 2 heures de retard, service décevant.",2/16/2025 14:19,image_4397.jpg,élevé,Ouvert,,,REF-103070
+a7f22317-9720-4a5e-992b-8d794746eab8,COM-11180,USR-2613,MauvaiseQualité,"pâtes était froid, je ne commanderai plus.",5/24/2025 14:19,"image_3640.jpg,image_7174.jpg",moyen,Ouvert,,,REF-121679
+4b68b879-9ecf-4b1e-ad1d-4bb616094a24,COM-47839,USR-4699,MauvaiseQualité,"salade avait un goût gâté, expérience horrible.",9/11/2024 14:19,,élevé,Résolu,9/12/2024 4:19,MOD-4,REF-946341
+a7b3ef51-3e80-430d-aade-3f77f279d8f2,COM-56885,USR-1561,ArticleManquant,"Commande incomplète, burger non livré.",5/15/2025 14:19,,faible,Ouvert,,,REF-994668
+525cdc72-5de6-4d38-8510-972b52778e6a,COM-91841,USR-9389,NourritureEndommagée,"Tout était sans goût, expérience catastrophique.",12/20/2024 14:19,,élevé,Ouvert,,,REF-335960
+2d9acf28-a0fc-45ae-8dbb-9d86cb27eb76,COM-37952,USR-7697,ArticleManquant,"Commande incomplète, pizza non livré.",5/16/2025 14:19,image_5760.jpg,faible,Résolu,5/18/2025 12:19,MOD-9,REF-136005
+b835c2d8-b16d-4b46-bd11-fb1a45e3f00e,COM-52827,USR-6682,CommandeErronée,"Livré sandwich, mais je voulais sandwich, c'est inacceptable.",4/6/2025 14:19,,faible,Résolu,4/7/2025 13:19,MOD-4,REF-608007
+ddbdef53-6f15-4965-bf5b-46bd152e4c02,COM-90211,USR-5434,MauvaiseQualité,"Très mauvaise qualité de frites, immangeable.",9/15/2024 14:19,,élevé,Ouvert,,,REF-136055
+115dfeeb-c65e-4a2f-804a-83fbaf4c79c8,COM-26328,USR-5221,NourritureEndommagée,"burger était sans goût, qualité inacceptable.",8/3/2024 14:19,image_3605.jpg,élevé,Escaladé,,,REF-384306
+e65505d8-ac10-4688-a2c2-8cd020c56252,COM-63383,USR-8810,ArticleManquant,"Il manque pâtes dans ma commande, très décevant.",7/20/2024 14:19,image_5753.jpg,élevé,Résolu,7/21/2024 0:19,MOD-4,REF-497887
+90835601-afa9-4629-869e-bdc09992467f,COM-98221,USR-7907,LivraisonRetard,"La commande a été livrée avec 2 heures de retard, la nourriture était froide.",3/19/2025 14:19,image_9818.jpg,élevé,Ouvert,,,REF-799641
+ce72ce7e-a008-4f98-9784-ce4266026006,COM-78189,USR-1295,MauvaiseQualité,"salade avait un goût brûlé, expérience horrible.",12/14/2024 14:19,,élevé,Ouvert,,,REF-304324
+501e42f0-1918-4784-8a81-984162286b38,COM-69097,USR-7409,LivraisonRetard,"J'ai attendu 90 minutes pour ma commande, très frustrant.",11/6/2024 14:19,image_7547.jpg,élevé,Résolu,11/7/2024 3:19,MOD-13,REF-738792
+2ef65d3e-bd6d-48c6-9e86-e457869fb066,COM-54724,USR-3434,NourritureEndommagée,"frites est arrivé écrasé, besoin d'un remplacement.",6/28/2024 14:19,,faible,Escaladé,,,REF-955919
+f075f327-1519-49af-8939-7276f86a6742,COM-62136,USR-2274,MauvaiseQualité,"Très mauvaise qualité de salade, immangeable.",8/26/2024 14:19,image_9780.jpg,élevé,Escaladé,,,REF-123458
+adf8f86c-b75f-4cf7-ba8a-4d1cfa0cb82d,COM-83536,USR-9646,LivraisonRetard,"Commande arrivée après 30 minutes, vraiment pas satisfait.",11/5/2024 14:19,,moyen,Résolu,11/7/2024 3:19,MOD-4,REF-328789
+c0fd76fe-9fb9-428b-b67a-b815483d0ec9,COM-90920,USR-1560,MauvaiseQualité,"pâtes était trempé, totalement dégoûtant !",5/3/2025 14:19,image_5627.jpg,élevé,Résolu,5/5/2025 14:19,MOD-11,REF-284052
+5d2cef14-7bc0-4ab4-8aa2-92f05fdc3bcc,COM-25196,USR-2017,NourritureEndommagée,"Tout était écrasé, expérience catastrophique.",10/9/2024 14:19,image_1823.jpg,élevé,Escaladé,,,REF-242867
+a736a652-3960-43cc-b546-d5ad47481d2f,COM-60003,USR-2790,CommandeErronée,"Mauvais article livré, frites à la place de sandwich.",4/6/2025 14:19,,faible,Résolu,4/8/2025 4:19,MOD-3,REF-368399
+71971885-8bd4-4fa8-a4a8-3928232a2cb1,COM-34722,USR-6295,NourritureEndommagée,"pâtes est arrivé écrasé, besoin d'un remplacement.",7/3/2024 14:19,"image_5746.jpg,image_3267.jpg",faible,Ouvert,,,REF-730762
+ac07adf3-040a-4393-8835-ece74572c605,COM-61462,USR-5144,LivraisonRetard,"La commande a été livrée avec 90 minutes de retard, la nourriture était froide.",9/10/2024 14:19,,moyen,Ouvert,,,REF-237767
+3bc48b53-05b0-4c41-9730-0ade58339672,COM-48583,USR-1575,NourritureEndommagée,"pizza livré froid, c'est scandaleux et dangereux !",1/2/2025 14:19,image_9670.jpg,élevé,Ouvert,,,REF-961974
+1bd51690-feac-4fa4-ae83-dd5852e0b302,COM-44821,USR-6808,NourritureEndommagée,"La commande était brûlé, très déçu.",8/7/2024 14:19,image_3032.jpg,faible,Ouvert,,,REF-854765
+eba64bad-9763-4287-9acc-3785792dc217,COM-99228,USR-4100,NourritureEndommagée,"La commande était brûlé, très déçu.",11/14/2024 14:19,,faible,Escaladé,,,REF-917706
+c9c9dec6-afe6-460c-b83e-077283da385f,COM-40816,USR-2395,ArticleManquant,"Commande incomplète, pâtes non livré.",2/8/2025 14:19,,faible,Escaladé,,,REF-323668
+cd5a5b13-34c1-481e-99c1-fd5d18e50d40,COM-44670,USR-9164,CommandeErronée,J'ai reçu pizza au lieu de pizza.,10/25/2024 14:19,image_8860.jpg,faible,Résolu,10/27/2024 12:19,MOD-1,REF-625526
+7ee33a86-59f7-4ea1-9e05-67add589d54c,COM-34574,USR-9480,ArticleManquant,"Pas de sandwich, c'est inacceptable et frustrant !",1/25/2025 14:19,,moyen,Escaladé,,,REF-504933
+a410165f-d0a8-4b15-b757-0fae3ff833ce,COM-93442,USR-6918,MauvaiseQualité,"frites avait un goût froid, expérience horrible.",7/18/2024 14:19,image_6861.jpg,élevé,Escaladé,,,REF-580167
+9ec51267-8b55-412d-9ecd-04fd5321ecb1,COM-76986,USR-8403,NourritureEndommagée,"La nourriture était brûlé, totalement immangeable.",8/14/2024 14:19,image_9221.jpg,élevé,Ouvert,,,REF-564813
+36bf7955-e500-419d-80e4-20d72e9677e9,COM-78676,USR-6338,MauvaiseQualité,"frites était écrasé, totalement dégoûtant !",1/7/2025 14:19,,élevé,Ouvert,,,REF-398645
+3bfc1e92-0414-41d4-a694-fa81bec93ae4,COM-28544,USR-6970,MauvaiseQualité,"salade était froid, je ne commanderai plus.",9/19/2024 14:19,,faible,Escaladé,,,REF-340540
+cb0bce53-6c47-4b36-a30f-4e39b68e0528,COM-63483,USR-2730,LivraisonRetard,"Commande arrivée après 1 heure, vraiment pas satisfait.",6/27/2024 14:19,image_7843.jpg,élevé,Résolu,6/27/2024 21:19,MOD-13,REF-648111
+a453134b-728f-4361-8776-efd1c75fe93b,COM-84813,USR-2698,ArticleManquant,"Pas de sandwich, c'est inacceptable et frustrant !",6/4/2025 14:19,image_8945.jpg,élevé,Escaladé,,,REF-513058
+11cd657a-a9c4-401e-abc7-f1134fa824be,COM-79396,USR-7278,MauvaiseQualité,"Très mauvaise qualité de burger, immangeable.",8/26/2024 14:19,image_1705.jpg,élevé,Escaladé,,,REF-366335
+ba96a365-280b-4427-9e2f-367be4c3da42,COM-53145,USR-2624,CommandeErronée,"Mauvais article livré, pâtes à la place de sushi.",2/27/2025 14:19,,faible,Escaladé,,,REF-179650
+21e879b3-6622-4ea9-8ba6-87b5cc04c654,COM-36248,USR-5666,LivraisonRetard,"J'ai attendu 30 minutes pour ma commande, très frustrant.",11/20/2024 14:19,,moyen,Résolu,11/22/2024 1:19,MOD-13,REF-290082
+18004a9a-d975-49a9-8385-d5e12c48b122,COM-29421,USR-5716,LivraisonRetard,"J'ai attendu 1 heure pour ma commande, très frustrant.",1/5/2025 14:19,,moyen,Résolu,1/6/2025 8:19,MOD-10,REF-649202
+b0920755-f9e5-4b38-8ab8-0df7ef4f774c,COM-62353,USR-5652,ArticleManquant,"Il manque pâtes dans ma commande, très décevant.",2/1/2025 14:19,image_8270.jpg,élevé,Ouvert,,,REF-168828
+210dff8d-e5f4-4ee1-8946-aa2c82835bed,COM-57813,USR-4833,CommandeErronée,"Mauvais article livré, burger à la place de frites.",10/20/2024 14:19,image_7510.jpg,faible,Résolu,10/21/2024 3:19,MOD-17,REF-976372
+b083fbdf-a415-4ea1-a801-aaaa829899db,COM-77013,USR-4375,LivraisonRetard,"Livraison retardée de 1 heure, totalement inacceptable !",3/31/2025 14:19,,moyen,Résolu,3/31/2025 16:19,MOD-8,REF-770437
+163e23fa-fd48-4c55-b0ca-3b56aabf1e14,COM-70844,USR-4744,NourritureEndommagée,"pâtes livré gâté, c'est scandaleux et dangereux !",7/2/2024 14:19,,élevé,Escaladé,,,REF-645256
+50704bd5-236c-4ddb-9a0c-bc5b5cab9acd,COM-15987,USR-5206,NourritureEndommagée,"Tout était sans goût, expérience catastrophique.",11/1/2024 14:19,,élevé,Résolu,11/1/2024 22:19,MOD-13,REF-193790
+789f55e2-d8bf-4d9e-abe9-410d42eede28,COM-67106,USR-8280,CommandeErronée,"Commande erronée livrée, j'ai eu frites et non frites.",2/27/2025 14:19,image_5073.jpg,faible,Escaladé,,,REF-895163
+bf112146-8996-4ff6-96a7-ce2a61c26608,COM-84987,USR-2953,MauvaiseQualité,"pizza avait un goût froid, expérience horrible.",1/15/2025 14:19,image_2358.jpg,élevé,Résolu,1/16/2025 12:19,MOD-2,REF-260174
+dde24362-2047-41f6-8b3e-34ddbe82ed33,COM-49628,USR-5694,MauvaiseQualité,"sushi était écrasé, totalement dégoûtant !",5/29/2025 14:19,,élevé,Ouvert,,,REF-718955
+1d786d3b-09b6-4a53-8ed5-dd0c797eb133,COM-86997,USR-7707,CommandeErronée,J'ai reçu sushi au lieu de pâtes.,5/12/2025 14:19,image_9321.jpg,faible,Escaladé,,,REF-831406
+8e9cc039-6b4d-4b73-a72c-e790bd9d04ee,COM-81261,USR-7849,MauvaiseQualité,"pâtes était sans goût, totalement dégoûtant !",3/14/2025 14:19,image_2163.jpg,élevé,Escaladé,,,REF-942401
+1e9145df-bf1c-4d34-b868-2924cb18a519,COM-13314,USR-9516,ArticleManquant,"Commande incomplète, pâtes non livré.",2/28/2025 14:19,,faible,Résolu,2/28/2025 18:19,MOD-9,REF-992348
+3d2f5421-d238-4cea-ac21-0f2a111dc93a,COM-96180,USR-5578,NourritureEndommagée,"sandwich était écrasé, qualité inacceptable.",6/27/2025 14:19,,élevé,Résolu,6/28/2025 2:19,MOD-9,REF-261436
+3f2ac528-a7d8-4d98-820d-0bcdaa3851d7,COM-14706,USR-8604,NourritureEndommagée,"Tout était gâté, expérience catastrophique.",2/4/2025 14:19,,élevé,Ouvert,,,REF-107932
+840530c9-cbc6-46b3-9cbd-5d4c62b26649,COM-16427,USR-9452,LivraisonRetard,"Retard de 2 heures, c'est scandaleux et dérangeant !",11/15/2024 14:19,,élevé,Escaladé,,,REF-426223
+8ff0cdae-285c-49d8-ae3b-8029326de8c0,COM-10897,USR-4779,MauvaiseQualité,"pâtes était gâté, je ne commanderai plus.",6/22/2025 14:19,image_3541.jpg,élevé,Ouvert,,,REF-859343
+a3266c4d-5da4-4f17-a7ce-6950a55b81db,COM-40836,USR-5712,CommandeErronée,"Mauvais article livré, sushi à la place de pizza.",3/28/2025 14:19,image_9976.jpg,faible,Résolu,3/30/2025 8:19,MOD-5,REF-747847
+b3840de7-6480-4096-8807-263d402510d9,COM-14741,USR-6787,CommandeErronée,J'ai reçu salade au lieu de frites.,11/4/2024 14:19,,faible,Ouvert,,,REF-261383
+dad5b46c-3b1d-47b0-895d-2dc38aa64214,COM-78280,USR-3543,ArticleManquant,"pâtes manquant, veuillez résoudre immédiatement.",6/23/2025 14:19,,moyen,Escaladé,,,REF-844332
+ff3820a6-0d4f-46ed-8e28-30ad99cf3446,COM-72413,USR-9647,MauvaiseQualité,"La nourriture était trempé, pas à la hauteur.",6/22/2025 14:19,image_8109.jpg,faible,Résolu,6/22/2025 22:19,MOD-18,REF-555146
+e72a8844-2a5c-4c10-8e22-c69263b9f264,COM-33234,USR-2243,NourritureEndommagée,"salade était brûlé, qualité inacceptable.",8/27/2024 14:19,image_7770.jpg,élevé,Ouvert,,,REF-353581
+e90058d5-adc0-4e16-a515-a8b890f0a60f,COM-19861,USR-3113,NourritureEndommagée,"La nourriture était écrasé, totalement immangeable.",7/11/2024 14:19,,élevé,Résolu,7/12/2024 14:19,MOD-13,REF-662434
+1a784d89-aee1-4da7-8f99-e7717ecf2c88,COM-26896,USR-2161,NourritureEndommagée,"Tout était gâté, expérience catastrophique.",1/19/2025 14:19,,élevé,Résolu,1/21/2025 7:19,MOD-12,REF-876359
+c6676106-16c9-4844-8908-0f75e2212616,COM-31403,USR-7976,CommandeErronée,J'ai reçu pizza au lieu de pizza.,12/23/2024 14:19,image_4444.jpg,faible,Résolu,12/23/2024 17:19,MOD-12,REF-835231
+ca279291-7cbe-4cc4-9895-899071f4ac3d,COM-54832,USR-1036,LivraisonRetard,"La commande a été livrée avec 30 minutes de retard, la nourriture était froide.",2/1/2025 14:19,,faible,Résolu,2/2/2025 5:19,MOD-17,REF-105923
+a919ab01-e350-4059-938b-cf04646f3868,COM-19355,USR-9200,LivraisonRetard,"Livraison retardée de 1 heure, totalement inacceptable !",5/24/2025 14:19,,moyen,Résolu,5/25/2025 3:19,MOD-17,REF-525977
+b0bcac01-49cf-4549-9038-88c11188dcee,COM-33907,USR-1118,MauvaiseQualité,"salade avait un goût sans goût, expérience horrible.",2/9/2025 14:19,image_1590.jpg,élevé,Résolu,2/11/2025 5:19,MOD-11,REF-219366
+072ce303-e5e0-4142-b73f-4ac2ef915c28,COM-64192,USR-4121,CommandeErronée,"Commande erronée livrée, j'ai eu sandwich et non burger.",10/13/2024 14:19,,faible,Résolu,10/14/2024 17:19,MOD-9,REF-746353
+36690210-1126-4d6e-bd74-f8dba2ac4a4c,COM-69501,USR-1326,LivraisonRetard,"Commande arrivée après 1 heure, vraiment pas satisfait.",6/8/2025 14:19,,moyen,Résolu,6/9/2025 17:19,MOD-18,REF-860095
+1a3c1399-84bc-425c-b953-415e38ff9c57,COM-97743,USR-9912,MauvaiseQualité,"sushi était trempé, je ne commanderai plus.",3/12/2025 14:19,image_3460.jpg,faible,Escaladé,,,REF-137648
+2e11304c-10bf-4421-ab3c-a0a2f25acb4f,COM-49873,USR-8274,LivraisonRetard,"La commande a été livrée avec 90 minutes de retard, la nourriture était froide.",10/22/2024 14:19,image_6710.jpg,élevé,Ouvert,,,REF-633270
+576ecb67-da37-4440-8440-438f7f8732df,COM-22080,USR-8535,CommandeErronée,"Mauvais article livré, sandwich à la place de sandwich.",3/10/2025 14:19,,faible,Résolu,3/12/2025 7:19,MOD-11,REF-371135
+7eeb2e0b-7be5-4c69-a71f-dd42341f02b7,COM-48177,USR-1157,MauvaiseQualité,"Qualité médiocre de burger, très frustrant.",10/30/2024 14:19,,moyen,Résolu,10/31/2024 16:19,MOD-18,REF-546392
+ad98d3d5-b0fe-4423-895e-5a6555640bcb,COM-63083,USR-8981,NourritureEndommagée,"Tout était trempé, expérience catastrophique.",11/10/2024 14:19,,élevé,Escaladé,,,REF-390903
+f72a0b36-d60f-40db-a740-1c49ad478c3e,COM-57910,USR-5787,ArticleManquant,"Commande incomplète, burger non livré.",4/21/2025 14:19,,faible,Résolu,4/22/2025 0:19,MOD-4,REF-733563
+2577dd2a-6fc0-4b49-9840-b1edd2c342d9,COM-67227,USR-8576,CommandeErronée,"J'ai commandé burger, mais j'ai reçu burger.",10/31/2024 14:19,,faible,Escaladé,,,REF-450440
+4bec33e7-c5fd-4bd9-ab68-2a1c1b53a095,COM-20377,USR-8034,LivraisonRetard,"J'ai attendu 30 minutes pour ma commande, très frustrant.",9/18/2024 14:19,,moyen,Escaladé,,,REF-121326
+76c9cbbc-ac29-49fe-b750-5806fb907b72,COM-29000,USR-2466,ArticleManquant,"Je n'ai pas reçu pizza, besoin d'un remboursement.",12/5/2024 14:19,,faible,Ouvert,,,REF-953592
+45012808-4910-43f1-9606-977abe916414,COM-55766,USR-2669,ArticleManquant,"salade manquant, veuillez résoudre immédiatement.",12/12/2024 14:19,,moyen,Ouvert,,,REF-535723
+4a621a53-6346-4514-a8e2-e83481af9aee,COM-66415,USR-2949,ArticleManquant,"burger manquant, veuillez résoudre immédiatement.",8/25/2024 14:19,image_5940.jpg,élevé,Ouvert,,,REF-528177
+4f1ac0e5-0297-4e24-9edd-ce2a54820f25,COM-37454,USR-1339,LivraisonRetard,"La commande a été livrée avec 30 minutes de retard, la nourriture était froide.",7/3/2024 14:19,,faible,Escaladé,,,REF-753456
+87a94a10-9f40-4478-903d-d6f9706bdea3,COM-63278,USR-9218,MauvaiseQualité,"La nourriture était gâté, pas à la hauteur.",7/2/2024 14:19,,élevé,Ouvert,,,REF-996907
+2ae1a85b-c123-4a0d-a2dc-393c7cc55d1d,COM-58827,USR-3071,LivraisonRetard,"Retard de 1 heure, c'est scandaleux et dérangeant !",11/25/2024 14:19,image_9032.jpg,élevé,Ouvert,,,REF-971849
+39310180-7dfa-404f-8c4d-7821a7091ac9,COM-39038,USR-6771,NourritureEndommagée,"La nourriture était trempé, totalement immangeable.",3/19/2025 14:19,image_8021.jpg,élevé,Résolu,3/19/2025 19:19,MOD-5,REF-261853
+f926b348-57aa-4e35-81c3-79e61168f4a5,COM-37655,USR-4874,NourritureEndommagée,"pizza est arrivé gâté, besoin d'un remplacement.",12/4/2024 14:19,,élevé,Résolu,12/6/2024 11:19,MOD-3,REF-614502
+72020721-743c-490d-b016-e5cefc2d6115,COM-87659,USR-3018,LivraisonRetard,"Commande arrivée après 1 heure, vraiment pas satisfait.",6/27/2024 14:19,image_4698.jpg,élevé,Escaladé,,,REF-690030
+4fb6180f-820c-4b8b-8a55-e3c7d50e2cc7,COM-11685,USR-1810,NourritureEndommagée,"pâtes est arrivé gâté, besoin d'un remplacement.",9/1/2024 14:19,,élevé,Escaladé,,,REF-509902
+36bdc849-9a2e-45ca-a3be-46b3430f8153,COM-29006,USR-3241,MauvaiseQualité,"pizza avait un goût sans goût, expérience horrible.",8/12/2024 14:19,image_6919.jpg,élevé,Escaladé,,,REF-843440
+2ec84d30-19a1-4c8a-9bdd-0d571a2ab1ed,COM-96175,USR-5510,NourritureEndommagée,"pizza était gâté, qualité inacceptable.",1/11/2025 14:19,,élevé,Résolu,1/11/2025 23:19,MOD-9,REF-664010
+fa5bba49-b2b4-426e-8407-265f7c046d75,COM-53981,USR-6364,LivraisonRetard,"Retard de 90 minutes, c'est scandaleux et dérangeant !",2/23/2025 14:19,,moyen,Ouvert,,,REF-140311
+22f1a7a9-cd16-4279-8a30-6bd49e7caf6a,COM-37689,USR-8778,LivraisonRetard,"Retard de 1 heure, c'est scandaleux et dérangeant !",10/20/2024 14:19,"image_4218.jpg,image_4349.jpg",élevé,Escaladé,,,REF-995574
+ab019fe0-2e0c-43ec-9d85-c584c2b374af,COM-48300,USR-5446,ArticleManquant,"Il manque burger dans ma commande, très décevant.",5/7/2025 14:19,,moyen,Résolu,5/8/2025 0:19,MOD-2,REF-266417
+a42f595b-d4a1-4089-845d-4622796ba866,COM-36474,USR-6214,ArticleManquant,"Pas de burger, c'est inacceptable et frustrant !",3/4/2025 14:19,image_9040.jpg,élevé,Résolu,3/4/2025 16:19,MOD-1,REF-840342
+dcdc5188-577d-4de9-a928-68e7016c529f,COM-77672,USR-3241,ArticleManquant,"Commande incomplète, frites non livré.",10/31/2024 14:19,"image_4884.jpg,image_6795.jpg",faible,Ouvert,,,REF-218946
+bc60ece9-aaa3-4e01-bc58-3dba1d419d18,COM-57307,USR-2909,MauvaiseQualité,"Qualité médiocre de burger, très frustrant.",12/27/2024 14:19,"image_2842.jpg,image_8185.jpg",élevé,Ouvert,,,REF-273919
+2c7a8eef-2d91-43a4-833b-89436aef87dd,COM-89995,USR-6571,MauvaiseQualité,"frites était gâté, totalement dégoûtant !",2/8/2025 14:19,"image_5563.jpg,image_8188.jpg",élevé,Ouvert,,,REF-973241
+a6434cbc-5d47-4327-abdb-fe93184ec784,COM-27601,USR-5198,ArticleManquant,"Je n'ai pas reçu salade, besoin d'un remboursement.",5/30/2025 14:19,,faible,Ouvert,,,REF-255104
+ec40ec7f-4549-4f36-a29e-9a8d3c120859,COM-47115,USR-1677,LivraisonRetard,"Livraison retardée de 1 heure, totalement inacceptable !",9/11/2024 14:19,image_8287.jpg,élevé,Escaladé,,,REF-972060
+0a3d1248-b62f-4724-88be-e1196df5605e,COM-51073,USR-9001,LivraisonRetard,"Commande arrivée après 2 heures, vraiment pas satisfait.",8/27/2024 14:19,,élevé,Ouvert,,,REF-775787
+2ff6e744-7239-4fdb-9a90-15e53870fdd3,COM-37616,USR-7477,LivraisonRetard,"Livraison retardée de 90 minutes, totalement inacceptable !",6/19/2025 14:19,,moyen,Escaladé,,,REF-278804
+c349c7fa-4d45-46b9-86a1-81129b79d4bf,COM-93943,USR-6064,ArticleManquant,"sandwich manquant, veuillez résoudre immédiatement.",9/24/2024 14:19,,moyen,Résolu,9/26/2024 4:19,MOD-6,REF-362463
+04f52711-dbc8-44df-9c5e-c95e1cf03039,COM-79144,USR-1630,MauvaiseQualité,"La nourriture était écrasé, pas à la hauteur.",7/21/2024 14:19,,faible,Résolu,7/22/2024 15:19,MOD-5,REF-766413
+880c7e6b-7f24-4d59-b417-1a52c3165bf7,COM-44748,USR-5571,LivraisonRetard,"Commande arrivée après 90 minutes, vraiment pas satisfait.",6/1/2025 14:19,,moyen,Résolu,6/2/2025 13:19,MOD-4,REF-652483
+2be31122-8ed1-43bb-bf29-b8dc246c3744,COM-23384,USR-9733,MauvaiseQualité,"sandwich avait un goût gâté, expérience horrible.",7/10/2024 14:19,image_5399.jpg,élevé,Résolu,7/11/2024 8:19,MOD-7,REF-397199
+163c39cb-9ab0-46ad-bc71-9d2f6fb4d153,COM-42404,USR-1187,LivraisonRetard,"La nourriture est arrivée avec 2 heures de retard, service décevant.",4/18/2025 14:19,image_9359.jpg,élevé,Escaladé,,,REF-128462
+436dfe1a-3b80-40e5-9476-c94d8fe3743f,COM-92436,USR-6971,LivraisonRetard,"Retard de 1 heure, c'est scandaleux et dérangeant !",10/21/2024 14:19,image_5795.jpg,élevé,Résolu,10/22/2024 21:19,MOD-5,REF-578172
+2cdbda34-41ab-4655-b74d-0f5d52679f55,COM-32646,USR-6181,NourritureEndommagée,"La nourriture était brûlé, totalement immangeable.",7/23/2024 14:19,,élevé,Ouvert,,,REF-196617
+b419fb9f-36b4-439f-9d16-5c17bee6b877,COM-36376,USR-6400,LivraisonRetard,"Retard de 90 minutes, c'est scandaleux et dérangeant !",10/13/2024 14:19,image_5814.jpg,élevé,Escaladé,,,REF-651203
+a5c854d7-a73f-4d61-80cb-a8eda2dd07d3,COM-38421,USR-2098,MauvaiseQualité,"Très mauvaise qualité de pâtes, immangeable.",11/18/2024 14:19,,élevé,Escaladé,,,REF-298988
+b0e29e97-c8ca-4958-b1a0-2ff89012eed9,COM-44995,USR-4249,CommandeErronée,"Commande erronée livrée, j'ai eu sandwich et non pizza.",7/20/2024 14:19,,faible,Escaladé,,,REF-510142
+1d202c02-5eae-4604-af8a-fb2059e90c9c,COM-53427,USR-7044,LivraisonRetard,"Retard de 90 minutes, c'est scandaleux et dérangeant !",4/28/2025 14:19,,moyen,Résolu,4/30/2025 14:19,MOD-15,REF-404916
+f32006b1-6599-4f73-a110-f93650c4e3fb,COM-30209,USR-9242,ArticleManquant,"Commande incomplète, pizza non livré.",10/19/2024 14:19,,faible,Escaladé,,,REF-447617
+ccffcae9-d55f-468c-b175-38b08358bfdc,COM-44312,USR-5667,NourritureEndommagée,"sushi livré brûlé, c'est scandaleux et dangereux !",10/16/2024 14:19,,élevé,Résolu,10/18/2024 10:19,MOD-6,REF-769890
+d41688a9-d762-408f-825c-a7bb52e4b5c5,COM-52160,USR-4443,LivraisonRetard,"Retard de 30 minutes, c'est scandaleux et dérangeant !",5/7/2025 14:19,,moyen,Ouvert,,,REF-845982
+32cf24df-7419-4ac0-90f7-2669eb56257f,COM-10938,USR-6230,MauvaiseQualité,"sushi avait un goût écrasé, expérience horrible.",7/5/2024 14:19,image_8324.jpg,élevé,Escaladé,,,REF-936346
+1ff1fa7b-cc38-46a3-bd1d-f1cc8be3db20,COM-74799,USR-8682,ArticleManquant,"Je n'ai pas reçu sandwich, besoin d'un remboursement.",8/26/2024 14:19,,faible,Escaladé,,,REF-338165
+68fef76f-6278-46fb-971c-9f407cabf316,COM-63582,USR-6130,ArticleManquant,"Pas de salade, c'est inacceptable et frustrant !",12/18/2024 14:19,"image_5818.jpg,image_1836.jpg",élevé,Résolu,12/18/2024 19:19,MOD-4,REF-207137
+aa830596-b873-431d-9b7a-cf1644e15504,COM-48806,USR-1586,MauvaiseQualité,"frites était trempé, totalement dégoûtant !",12/16/2024 14:19,image_2789.jpg,élevé,Escaladé,,,REF-786237
+3579a72e-d750-41a5-8a23-f713400a843f,COM-72434,USR-9141,LivraisonRetard,"Commande arrivée après 1 heure, vraiment pas satisfait.",12/10/2024 14:19,"image_5494.jpg,image_9371.jpg",élevé,Ouvert,,,REF-150027
+27f0722a-c3fb-4b7b-a596-b053f661fd06,COM-42288,USR-6859,CommandeErronée,"Erreur sur ma commande : sandwich au lieu de pâtes, très agaçant.",9/20/2024 14:19,image_1244.jpg,élevé,Résolu,9/22/2024 8:19,MOD-6,REF-815029
+a795a032-4203-45bc-8253-01d2e45eebc5,COM-27919,USR-9479,CommandeErronée,"Mauvais article livré, salade à la place de pizza.",7/28/2024 14:19,,faible,Résolu,7/28/2024 21:19,MOD-16,REF-623165
+87536905-b6ae-40eb-81e1-868bf79711d2,COM-19899,USR-3135,NourritureEndommagée,"La nourriture était froid, totalement immangeable.",8/7/2024 14:19,,élevé,Escaladé,,,REF-524921
+32959b40-0ab4-4c2b-916b-e12026e12407,COM-44292,USR-1209,NourritureEndommagée,"Tout était écrasé, expérience catastrophique.",4/7/2025 14:19,image_1486.jpg,élevé,Escaladé,,,REF-393120
+29d01ee3-bc6e-4e96-8e1b-77153700b997,COM-62445,USR-7534,MauvaiseQualité,"burger était sans goût, je ne commanderai plus.",7/20/2024 14:19,,faible,Résolu,7/21/2024 22:19,MOD-7,REF-810451
+933c8c5b-a6aa-4c7a-9415-75617c7cb562,COM-36862,USR-7000,NourritureEndommagée,"Tout était sans goût, expérience catastrophique.",1/12/2025 14:19,,élevé,Ouvert,,,REF-395697
+0b6b5ed2-29f4-409e-8c30-c5816708327e,COM-92235,USR-4057,ArticleManquant,"Pas de sandwich, c'est inacceptable et frustrant !",10/22/2024 14:19,image_3103.jpg,élevé,Ouvert,,,REF-113755
+13eacc1a-7852-438d-8bf1-02a4389ec0e6,COM-70570,USR-1300,NourritureEndommagée,"salade livré écrasé, c'est scandaleux et dangereux !",9/24/2024 14:19,image_2485.jpg,élevé,Ouvert,,,REF-595532
+55b9c00e-93cd-4da2-b1b7-8e9cc6e8c44a,COM-62445,USR-1049,LivraisonRetard,"Livraison retardée de 90 minutes, totalement inacceptable !",10/2/2024 14:19,image_1852.jpg,élevé,Escaladé,,,REF-679928
+eb821365-54fa-483b-8198-e8086950d3ad,COM-87089,USR-3599,CommandeErronée,"Commande erronée livrée, j'ai eu sushi et non pâtes.",3/10/2025 14:19,image_3229.jpg,faible,Ouvert,,,REF-619095
+5e34f53b-67a6-4784-b82d-2a285cca688b,COM-72674,USR-6316,ArticleManquant,"Il manque sandwich dans ma commande, très décevant.",4/20/2025 14:19,"image_1575.jpg,image_3949.jpg",élevé,Résolu,4/22/2025 10:19,MOD-15,REF-610338
+28b28f7f-9e06-4322-8808-18f130e76949,COM-73030,USR-9943,NourritureEndommagée,"pizza était froid, qualité inacceptable.",1/10/2025 14:19,,élevé,Escaladé,,,REF-839978
+83c87d59-538e-49c2-b0fc-132424cd9258,COM-72318,USR-9180,ArticleManquant,"Commande incomplète, burger non livré.",8/3/2024 14:19,"image_4280.jpg,image_6694.jpg",faible,Escaladé,,,REF-784726
+c66be824-fbbe-4f39-9238-b6a0c92193bc,COM-33821,USR-4783,ArticleManquant,"Commande incomplète, salade non livré.",6/16/2025 14:19,image_4474.jpg,faible,Résolu,6/17/2025 6:19,MOD-20,REF-590530
+058b5bd6-8591-43f8-9da6-5a49c0b65ba4,COM-31087,USR-3046,ArticleManquant,"Commande incomplète, pâtes non livré.",5/8/2025 14:19,,faible,Résolu,5/10/2025 2:19,MOD-20,REF-642661
+8852841b-fceb-4179-a4f9-ff9764ea5026,COM-65044,USR-6746,LivraisonRetard,"Livraison retardée de 30 minutes, totalement inacceptable !",5/22/2025 14:19,,faible,Ouvert,,,REF-474487
+846b8955-61f8-4959-94b9-9dab5b10e3f0,COM-92877,USR-5677,LivraisonRetard,"Commande arrivée après 1 heure, vraiment pas satisfait.",1/2/2025 14:19,image_4717.jpg,élevé,Escaladé,,,REF-168196
+13086f34-b9aa-493e-b47e-f51389e8049c,COM-41380,USR-4318,MauvaiseQualité,"La nourriture était brûlé, pas à la hauteur.",6/13/2025 14:19,,faible,Résolu,6/14/2025 2:19,MOD-14,REF-113297
+e08cf5c9-bb0e-4ab4-8fe4-cc2effe5d12e,COM-78685,USR-4507,MauvaiseQualité,"Qualité médiocre de frites, très frustrant.",10/30/2024 14:19,,moyen,Escaladé,,,REF-407712
+e5d0ba7b-12c1-400a-b728-5df5e309211d,COM-77672,USR-6877,NourritureEndommagée,"salade est arrivé brûlé, besoin d'un remplacement.",7/5/2024 14:19,,faible,Escaladé,,,REF-804785
+b692a1f4-a29b-41a3-bb14-b30627765231,COM-30592,USR-2348,LivraisonRetard,"La nourriture est arrivée avec 2 heures de retard, service décevant.",1/21/2025 14:19,,élevé,Résolu,1/23/2025 0:19,MOD-9,REF-988523
+00369ebe-9041-4e25-8f13-8f0035d7606e,COM-16276,USR-3186,MauvaiseQualité,"La nourriture était brûlé, pas à la hauteur.",12/24/2024 14:19,"image_5329.jpg,image_4694.jpg",faible,Résolu,12/25/2024 21:19,MOD-4,REF-807929
+c8ae48dc-d39b-4e09-9fc0-65e8c857c52e,COM-62629,USR-9556,MauvaiseQualité,"Très mauvaise qualité de pâtes, immangeable.",4/18/2025 14:19,,élevé,Ouvert,,,REF-637458
+3b49ad11-ba7f-428a-9680-a3171a1b7988,COM-66921,USR-9565,MauvaiseQualité,"Qualité médiocre de salade, très frustrant.",6/18/2025 14:19,,moyen,Résolu,6/19/2025 22:19,MOD-17,REF-575241
+7953e6e6-5e4b-464c-a357-be33631b12b7,COM-84147,USR-5211,ArticleManquant,"Il manque frites dans ma commande, très décevant.",11/22/2024 14:19,,moyen,Résolu,11/23/2024 16:19,MOD-19,REF-554785
+138b0df0-fccf-4783-96b2-20b3a2eebf8f,COM-30184,USR-9198,NourritureEndommagée,"pizza était sans goût, qualité inacceptable.",9/7/2024 14:19,image_2965.jpg,élevé,Ouvert,,,REF-750107
+851f6f1f-f4bc-4aa4-9532-4502ad29b8d9,COM-82337,USR-3806,NourritureEndommagée,"La commande était gâté, très déçu.",4/11/2025 14:19,,élevé,Résolu,4/13/2025 6:19,MOD-1,REF-617892
+fe0958da-0347-4f83-b7d3-dc8ee995c412,COM-69112,USR-4510,ArticleManquant,"Il manque pâtes dans ma commande, très décevant.",8/15/2024 14:19,image_8282.jpg,élevé,Ouvert,,,REF-665309
+f93bc73d-8bbb-4c6f-b4fd-672827d7d1bf,COM-13293,USR-8232,CommandeErronée,"Erreur sur ma commande : pizza au lieu de salade, très agaçant.",6/8/2025 14:19,,moyen,Ouvert,,,REF-973106
+28bbf36e-3d6e-43ae-be21-c0f19e5c6a1b,COM-37463,USR-9066,MauvaiseQualité,"Très mauvaise qualité de salade, immangeable.",5/6/2025 14:19,,élevé,Ouvert,,,REF-386303
+b427e228-2d1a-4dcb-8dbc-7be130b7d6b6,COM-49580,USR-9958,LivraisonRetard,"La nourriture est arrivée avec 30 minutes de retard, service décevant.",1/30/2025 14:19,image_4471.jpg,élevé,Ouvert,,,REF-656447
+6be8cafb-633c-4309-8a23-7578ec4dd176,COM-62487,USR-2454,NourritureEndommagée,"pâtes livré sans goût, c'est scandaleux et dangereux !",6/27/2024 14:19,image_2372.jpg,élevé,Ouvert,,,REF-268535
+c88ad725-36fe-44f3-afda-8d60cfb553a8,COM-44334,USR-5584,LivraisonRetard,"Commande arrivée après 30 minutes, vraiment pas satisfait.",12/9/2024 14:19,,moyen,Escaladé,,,REF-490800
+de246bd9-bf42-46be-9d40-5cdce69c4ab6,COM-50568,USR-6211,LivraisonRetard,"J'ai attendu 2 heures pour ma commande, très frustrant.",2/19/2025 14:19,,élevé,Escaladé,,,REF-371679
+d01b21a7-6940-423b-943c-e5598ca405f0,COM-44981,USR-4048,CommandeErronée,J'ai reçu sushi au lieu de sushi.,8/6/2024 14:19,"image_5762.jpg,image_1362.jpg",faible,Ouvert,,,REF-422097
+9080af43-89bb-442e-9b9b-0afbd07ef930,COM-22993,USR-5702,LivraisonRetard,"La commande a été livrée avec 2 heures de retard, la nourriture était froide.",7/5/2024 14:19,,élevé,Résolu,7/6/2024 8:19,MOD-7,REF-546391
+8db9fb5e-3570-487f-89dc-40ea4859f202,COM-75900,USR-9667,MauvaiseQualité,"salade était froid, totalement dégoûtant !",11/18/2024 14:19,,élevé,Escaladé,,,REF-343223
+80f49d90-bd64-4c7a-8dd5-5fcfcefffa52,COM-81473,USR-7978,CommandeErronée,"Erreur sur ma commande : burger au lieu de frites, très agaçant.",3/30/2025 14:19,image_7500.jpg,élevé,Escaladé,,,REF-963159
+3e0e0947-0bf0-4ab9-a757-71688dc541dd,COM-50504,USR-7079,CommandeErronée,"Commande erronée livrée, j'ai eu pizza et non frites.",10/3/2024 14:19,,faible,Résolu,10/4/2024 5:19,MOD-8,REF-765476
+9aaf1b7c-b39e-4922-9675-1006d9c042d3,COM-15798,USR-7878,LivraisonRetard,"J'ai attendu 30 minutes pour ma commande, très frustrant.",4/30/2025 14:19,image_8780.jpg,élevé,Escaladé,,,REF-981416
+366ac5c0-91f9-4892-bcb9-00a87c2e1ddc,COM-95457,USR-6948,MauvaiseQualité,"La nourriture était sans goût, pas à la hauteur.",3/13/2025 14:19,,faible,Ouvert,,,REF-780160
+ad0268ca-afc1-4b2a-ac7c-8ed38c97d749,COM-59938,USR-9688,NourritureEndommagée,"La nourriture était écrasé, totalement immangeable.",1/24/2025 14:19,"image_4302.jpg,image_6660.jpg",élevé,Ouvert,,,REF-876609
+cc11eac7-964e-46b0-9c50-0be5b8e7dade,COM-13147,USR-1302,ArticleManquant,"Commande incomplète, pizza non livré.",3/14/2025 14:19,,faible,Ouvert,,,REF-535419
+84770e9f-ae0e-4ddc-b696-a765b065dd37,COM-87837,USR-8775,NourritureEndommagée,"frites était brûlé, qualité inacceptable.",1/12/2025 14:19,image_9265.jpg,élevé,Résolu,1/13/2025 8:19,MOD-9,REF-123346
+8bf069d3-f9dd-4db4-a087-87eade455f69,COM-42996,USR-1364,CommandeErronée,"Mauvais article livré, burger à la place de sushi.",9/19/2024 14:19,image_6470.jpg,faible,Escaladé,,,REF-505691
+a704f87b-c9a0-490b-8aa0-db013aa9b05b,COM-90611,USR-6199,NourritureEndommagée,"Tout était brûlé, expérience catastrophique.",8/14/2024 14:19,image_1222.jpg,élevé,Ouvert,,,REF-201008
+0370049a-4f4e-42dc-9abf-74a7a8af2c1d,COM-89234,USR-6260,NourritureEndommagée,"frites est arrivé gâté, besoin d'un remplacement.",1/2/2025 14:19,image_9159.jpg,élevé,Résolu,1/4/2025 3:19,MOD-17,REF-630259
+b3f519bb-8fff-4d49-b27e-6e3be61f1164,COM-35297,USR-7090,CommandeErronée,"Livré sandwich, mais je voulais salade, c'est inacceptable.",3/25/2025 14:19,image_8459.jpg,moyen,Escaladé,,,REF-606887
+fccd7c60-d577-423d-bfd2-00c105edcd7f,COM-20183,USR-5723,LivraisonRetard,"Retard de 1 heure, c'est scandaleux et dérangeant !",6/3/2025 14:19,,moyen,Résolu,6/4/2025 22:19,MOD-4,REF-172324
+a8bc48cb-c661-403f-b617-12b318f3f200,COM-92403,USR-1044,CommandeErronée,"Erreur sur ma commande : sandwich au lieu de sandwich, très agaçant.",10/30/2024 14:19,,moyen,Escaladé,,,REF-495663
+a060e39c-9f35-41ab-95ae-b2534e0f8053,COM-97501,USR-5656,ArticleManquant,"sushi manquant, veuillez résoudre immédiatement.",2/7/2025 14:19,"image_8061.jpg,image_4404.jpg",élevé,Résolu,2/9/2025 11:19,MOD-16,REF-128455
+3bd756ea-0641-4f01-8884-5e5caf324559,COM-61699,USR-9080,MauvaiseQualité,"pâtes avait un goût froid, expérience horrible.",11/11/2024 14:19,,élevé,Ouvert,,,REF-859373
+05db19db-e2ed-4734-bce7-1e114ef1ae62,COM-31669,USR-1404,ArticleManquant,"salade manquant, veuillez résoudre immédiatement.",12/5/2024 14:19,image_9689.jpg,élevé,Résolu,12/7/2024 4:19,MOD-19,REF-242531
+2253bf58-99d0-40a5-9cf3-388c0fbd75e9,COM-52655,USR-3801,MauvaiseQualité,"pâtes était trempé, totalement dégoûtant !",9/25/2024 14:19,,élevé,Résolu,9/27/2024 1:19,MOD-14,REF-968076
+7d74f41b-90ad-48ef-b655-0ddc56652b3d,COM-87592,USR-4830,NourritureEndommagée,"Tout était gâté, expérience catastrophique.",3/7/2025 14:19,image_6038.jpg,élevé,Escaladé,,,REF-181732
+c30a45e1-f644-402c-946a-7f8cc22d6318,COM-93340,USR-7270,CommandeErronée,"Erreur sur ma commande : frites au lieu de pâtes, très agaçant.",8/27/2024 14:19,,moyen,Escaladé,,,REF-579996
+9c8a3e6f-dfad-44a0-a5a2-561522f7ff26,COM-78688,USR-4283,NourritureEndommagée,"pâtes était brûlé, qualité inacceptable.",8/16/2024 14:19,image_2798.jpg,élevé,Ouvert,,,REF-837929
+b802b251-0481-410d-b49f-5e42dc7f860c,COM-19558,USR-3033,ArticleManquant,"Je n'ai pas reçu pizza, besoin d'un remboursement.",6/28/2024 14:19,"image_9292.jpg,image_3541.jpg",faible,Ouvert,,,REF-950032
+ba08be23-6ab6-4b5f-9fff-19dfbf62888a,COM-36159,USR-6732,CommandeErronée,J'ai reçu sandwich au lieu de pizza.,9/6/2024 14:19,,faible,Escaladé,,,REF-489486
+dd5d8dda-46a0-4e4f-b407-bfd295b69f98,COM-29540,USR-1170,ArticleManquant,"sandwich manquant, veuillez résoudre immédiatement.",11/11/2024 14:19,,moyen,Résolu,11/12/2024 16:19,MOD-18,REF-728166
+3a833684-eca1-413c-a575-e735010243f4,COM-75490,USR-8986,MauvaiseQualité,"Qualité médiocre de frites, très frustrant.",6/23/2025 14:19,,moyen,Résolu,6/23/2025 15:19,MOD-6,REF-285676
+4840f61d-bc0d-4ab5-b686-35a08015d54b,COM-32284,USR-5916,CommandeErronée,"J'ai commandé pizza, mais j'ai reçu pâtes.",5/5/2025 14:19,,faible,Ouvert,,,REF-441196
+1ada8d27-70da-4e95-be42-c4b980e77e95,COM-84190,USR-8291,NourritureEndommagée,"pizza est arrivé brûlé, besoin d'un remplacement.",1/31/2025 14:19,,faible,Ouvert,,,REF-166324
+137542eb-4e2a-4ad4-8b65-9fbf1804399a,COM-47162,USR-3442,NourritureEndommagée,"salade était sans goût, qualité inacceptable.",12/25/2024 14:19,,élevé,Ouvert,,,REF-600216
+b8554f10-dbdb-4e14-bc80-34574002ded6,COM-85673,USR-4773,LivraisonRetard,"La commande a été livrée avec 30 minutes de retard, la nourriture était froide.",11/10/2024 14:19,,faible,Résolu,11/11/2024 12:19,MOD-5,REF-545739
+6f66ff33-6000-4a84-bdd2-ea93df74a8ca,COM-99075,USR-1823,CommandeErronée,"Mauvais article livré, burger à la place de pâtes.",3/20/2025 14:19,,faible,Résolu,3/20/2025 18:19,MOD-1,REF-858803
+5546a67b-6d65-4bc6-9364-d7bdb412475c,COM-97209,USR-9321,CommandeErronée,"Commande erronée livrée, j'ai eu pizza et non burger.",10/22/2024 14:19,"image_1524.jpg,image_4875.jpg",faible,Ouvert,,,REF-319503
+cba50947-e0b1-4b18-a010-0ec0fa9d4d34,COM-96125,USR-7802,NourritureEndommagée,"La commande était froid, très déçu.",12/21/2024 14:19,,faible,Résolu,12/22/2024 15:19,MOD-6,REF-330873
+05abee15-f8f4-4927-98f3-ced56783f4b1,COM-68342,USR-1617,ArticleManquant,"Commande incomplète, sushi non livré.",5/28/2025 14:19,image_1113.jpg,faible,Ouvert,,,REF-807358
+372b248f-ed69-4f99-81c9-ab18edc06723,COM-36027,USR-5088,LivraisonRetard,"Commande arrivée après 2 heures, vraiment pas satisfait.",11/13/2024 14:19,,élevé,Ouvert,,,REF-859606
+ffc39e91-793b-4b20-92e4-d792998f7968,COM-84604,USR-1215,LivraisonRetard,"Commande arrivée après 90 minutes, vraiment pas satisfait.",4/14/2025 14:19,image_2712.jpg,élevé,Ouvert,,,REF-758799
+951580dc-86b1-4e3e-87e3-57638bacd7be,COM-35309,USR-8015,NourritureEndommagée,"La nourriture était écrasé, totalement immangeable.",10/28/2024 14:19,,élevé,Résolu,10/28/2024 22:19,MOD-17,REF-595194
+f38bc364-ad0b-4dc6-9e44-14493f6e2480,COM-63614,USR-3811,LivraisonRetard,"La nourriture est arrivée avec 2 heures de retard, service décevant.",8/22/2024 14:19,,élevé,Résolu,8/24/2024 3:19,MOD-10,REF-980819
+21f12b1c-f4ba-4756-98ea-34002432d23f,COM-68290,USR-2530,CommandeErronée,"Erreur sur ma commande : burger au lieu de burger, très agaçant.",3/29/2025 14:19,,moyen,Escaladé,,,REF-154700
+93abed5b-df6d-4a7b-8e2e-88e035648055,COM-36568,USR-6890,NourritureEndommagée,"pizza est arrivé gâté, besoin d'un remplacement.",4/14/2025 14:19,,élevé,Escaladé,,,REF-765296
+44bd6ea6-6d9a-4af9-a3ff-c464c1d0a2d1,COM-13997,USR-9683,CommandeErronée,"Commande erronée livrée, j'ai eu burger et non pizza.",3/17/2025 14:19,,faible,Résolu,3/18/2025 22:19,MOD-9,REF-448005
+e9e0213c-fd59-47d0-bc01-4886585d70b4,COM-32678,USR-7455,NourritureEndommagée,"burger livré trempé, c'est scandaleux et dangereux !",10/4/2024 14:19,,élevé,Ouvert,,,REF-769400
+adca5bae-36a5-4930-806a-2c5d1f5ad155,COM-63917,USR-6041,LivraisonRetard,"J'ai attendu 90 minutes pour ma commande, très frustrant.",4/20/2025 14:19,,moyen,Escaladé,,,REF-978505
+64b450e0-7aac-4bea-ab7f-5b826ff16c42,COM-66820,USR-7194,LivraisonRetard,"Retard de 90 minutes, c'est scandaleux et dérangeant !",9/18/2024 14:19,,moyen,Escaladé,,,REF-628100
+798b3294-e09f-4f03-b2b8-9c67548a9e80,COM-10849,USR-3745,CommandeErronée,"Mauvais article livré, frites à la place de sushi.",9/20/2024 14:19,,faible,Ouvert,,,REF-799510
+0152c32e-5f01-473d-96c4-3b2e7407ef1e,COM-96212,USR-7959,LivraisonRetard,"Commande arrivée après 2 heures, vraiment pas satisfait.",1/30/2025 14:19,,élevé,Résolu,1/31/2025 5:19,MOD-7,REF-556816
+21468d78-ff9c-40ce-93dc-ead590542aea,COM-73276,USR-9345,CommandeErronée,"Livré pâtes, mais je voulais frites, c'est inacceptable.",10/3/2024 14:19,image_9801.jpg,moyen,Ouvert,,,REF-210724
+ec2e0596-b803-47b4-bc40-97681b9f599c,COM-31246,USR-1343,ArticleManquant,"Manque salade, service médiocre.",12/24/2024 14:19,,faible,Escaladé,,,REF-886344
+0a5f9028-a4cd-4670-832a-c98074108d4e,COM-48593,USR-6578,CommandeErronée,J'ai reçu pâtes au lieu de frites.,1/21/2025 14:19,"image_4649.jpg,image_9883.jpg",faible,Résolu,1/23/2025 7:19,MOD-14,REF-993710
+845a5950-39ce-4247-a3eb-d7854ce15cb3,COM-44027,USR-7712,LivraisonRetard,"La commande a été livrée avec 30 minutes de retard, la nourriture était froide.",2/14/2025 14:19,image_6192.jpg,moyen,Résolu,2/15/2025 17:19,MOD-17,REF-565295
+d37c6cf1-7629-4d00-bd55-95ef414b116b,COM-66620,USR-3590,LivraisonRetard,"Livraison retardée de 30 minutes, totalement inacceptable !",12/4/2024 14:19,,faible,Résolu,12/5/2024 15:19,MOD-13,REF-869580
+05781d6a-9ac8-44e2-8c32-8fc8d9c481ab,COM-80891,USR-8870,NourritureEndommagée,"La nourriture était écrasé, totalement immangeable.",1/9/2025 14:19,image_2527.jpg,élevé,Escaladé,,,REF-538830
+40afef35-fd4d-4e4b-8f85-7aea5ff9efde,COM-33306,USR-4451,CommandeErronée,"Livré pâtes, mais je voulais sandwich, c'est inacceptable.",5/24/2025 14:19,image_5889.jpg,moyen,Ouvert,,,REF-776718
+da90c0bc-e3ef-4dd6-9ca6-244c504f5e73,COM-30893,USR-6681,LivraisonRetard,"Commande arrivée après 30 minutes, vraiment pas satisfait.",1/29/2025 14:19,image_3705.jpg,élevé,Escaladé,,,REF-161310
+196621c9-cfe5-4cc4-99b3-27b94e29d51b,COM-35060,USR-6847,NourritureEndommagée,"frites livré brûlé, c'est scandaleux et dangereux !",9/28/2024 14:19,,élevé,Résolu,9/29/2024 15:19,MOD-11,REF-126831
+d00a9ca5-133b-4a51-852a-7105fc7bc406,COM-79485,USR-4598,NourritureEndommagée,"sushi livré gâté, c'est scandaleux et dangereux !",3/2/2025 14:19,,élevé,Résolu,3/3/2025 12:19,MOD-19,REF-820161
+5e68907e-bd11-4d1a-a7a0-9a53ae5376d5,COM-76023,USR-3810,LivraisonRetard,"Commande arrivée après 90 minutes, vraiment pas satisfait.",6/18/2025 14:19,,moyen,Escaladé,,,REF-139505
+7dcb5888-539b-41ea-a016-7d3be7b54da8,COM-14785,USR-5149,ArticleManquant,"Commande incomplète, pâtes non livré.",10/23/2024 14:19,,faible,Ouvert,,,REF-675307
+eeb7dcfd-b12b-4032-aab2-86493e6ee880,COM-54541,USR-4305,LivraisonRetard,"Retard de 1 heure, c'est scandaleux et dérangeant !",8/28/2024 14:19,,moyen,Ouvert,,,REF-489259
+74b2325f-6b11-41bf-81a8-ed02882ca1ce,COM-24709,USR-1019,MauvaiseQualité,"Très mauvaise qualité de frites, immangeable.",4/7/2025 14:19,image_3941.jpg,élevé,Ouvert,,,REF-979012
+c2dde695-6a8d-44ea-a634-5a2aaed1019d,COM-34475,USR-3081,MauvaiseQualité,"pâtes était écrasé, je ne commanderai plus.",6/22/2025 14:19,image_4687.jpg,faible,Escaladé,,,REF-718396
+55e20aca-ad59-4aab-a461-49c5337fc0d9,COM-66638,USR-7658,LivraisonRetard,"Retard de 2 heures, c'est scandaleux et dérangeant !",3/3/2025 14:19,,élevé,Résolu,3/4/2025 3:19,MOD-15,REF-448406
+ddbc5e83-46cb-4bb6-abbd-d4d73a4976d6,COM-98267,USR-3172,MauvaiseQualité,"frites était sans goût, je ne commanderai plus.",9/17/2024 14:19,,faible,Ouvert,,,REF-599467
+149b6368-7132-4b5a-9405-64caa4119c44,COM-55499,USR-5038,CommandeErronée,"J'ai commandé pizza, mais j'ai reçu salade.",10/14/2024 14:19,,faible,Escaladé,,,REF-917360
+8ecb4cab-730b-492b-9ab6-e7e2ecb9fcf2,COM-71534,USR-2466,CommandeErronée,"Livré sushi, mais je voulais salade, c'est inacceptable.",6/1/2025 14:19,,faible,Résolu,6/2/2025 14:19,MOD-14,REF-682948
+8d331681-2138-4edf-b7a4-267204ecabb0,COM-89049,USR-8363,CommandeErronée,"Erreur sur ma commande : burger au lieu de pizza, très agaçant.",2/9/2025 14:19,,moyen,Ouvert,,,REF-151989
+a1e4af2c-5182-42a8-a675-87b3c178a0f3,COM-66693,USR-2989,MauvaiseQualité,"pizza était gâté, totalement dégoûtant !",12/8/2024 14:19,image_9597.jpg,élevé,Escaladé,,,REF-751532
+6b9469ce-6f6f-4d50-9daf-878a31def7a1,COM-92439,USR-9652,ArticleManquant,"Je n'ai pas reçu sandwich, besoin d'un remboursement.",7/28/2024 14:19,,faible,Résolu,7/29/2024 21:19,MOD-7,REF-475868
+a30b6c90-219b-431f-82d2-99397394651c,COM-54053,USR-8654,CommandeErronée,"Livré pâtes, mais je voulais sushi, c'est inacceptable.",4/2/2025 14:19,image_5709.jpg,moyen,Résolu,4/4/2025 10:19,MOD-4,REF-321571
+9d80f836-8bb6-4d19-9b97-eee55f243b40,COM-18153,USR-7525,ArticleManquant,"Pas de sushi, c'est inacceptable et frustrant !",8/14/2024 14:19,,moyen,Résolu,8/15/2024 20:19,MOD-18,REF-776797
+02e54e83-80d0-40d4-b4a1-804c8e8dfaa2,COM-51213,USR-7549,ArticleManquant,"Manque pizza, service médiocre.",9/25/2024 14:19,,faible,Résolu,9/25/2024 19:19,MOD-9,REF-497336
+554f85e5-9daf-46ed-9519-ab50442c4a5c,COM-58622,USR-9299,NourritureEndommagée,"sandwich livré gâté, c'est scandaleux et dangereux !",6/3/2025 14:19,,élevé,Ouvert,,,REF-240432
+dea21340-d5f3-417a-a8fe-8321384200d8,COM-12165,USR-6592,CommandeErronée,"Commande erronée livrée, j'ai eu frites et non frites.",12/14/2024 14:19,,faible,Résolu,12/16/2024 8:19,MOD-2,REF-563228
+f4f0aa31-689e-40ad-a300-adb8b7150aa8,COM-16258,USR-4645,ArticleManquant,"Commande incomplète, sushi non livré.",12/2/2024 14:19,image_8958.jpg,faible,Escaladé,,,REF-608948
+486258aa-705c-4057-9e76-738ff273e931,COM-66752,USR-6480,ArticleManquant,"pâtes manquant, veuillez résoudre immédiatement.",12/24/2024 14:19,,moyen,Résolu,12/25/2024 20:19,MOD-4,REF-699926
+3441673c-cd8d-46f7-a71d-568c39e91206,COM-54266,USR-8761,ArticleManquant,"Il manque pâtes dans ma commande, très décevant.",1/17/2025 14:19,,moyen,Résolu,1/18/2025 2:19,MOD-9,REF-703285
+4522af33-7297-4b8f-83e5-cadd4a959a5c,COM-11946,USR-8473,CommandeErronée,"J'ai commandé salade, mais j'ai reçu sandwich.",3/14/2025 14:19,,faible,Ouvert,,,REF-465226
+c23bfa18-29f2-4299-8c1a-dfd35530e65c,COM-67775,USR-4571,ArticleManquant,"Pas de pizza, c'est inacceptable et frustrant !",12/27/2024 14:19,image_6743.jpg,élevé,Ouvert,,,REF-951333
+075d6987-21b1-4d50-af20-32ea203dba1f,COM-52151,USR-4747,NourritureEndommagée,"sushi livré trempé, c'est scandaleux et dangereux !",5/28/2025 14:19,,élevé,Escaladé,,,REF-547312
+483295f2-6d80-4577-beeb-0735239bda4a,COM-58829,USR-2890,CommandeErronée,"Mauvais article livré, sandwich à la place de salade.",10/4/2024 14:19,,faible,Résolu,10/5/2024 19:19,MOD-13,REF-877704
+c612dde0-71e2-4c0f-8f70-cba361a8df0e,COM-62994,USR-7592,ArticleManquant,"Il manque frites dans ma commande, très décevant.",9/13/2024 14:19,image_3657.jpg,élevé,Résolu,9/14/2024 22:19,MOD-9,REF-842968
+640ed218-d5d1-415d-9aee-55c0fcbe4ab9,COM-32950,USR-6707,NourritureEndommagée,"pizza livré brûlé, c'est scandaleux et dangereux !",12/1/2024 14:19,image_2467.jpg,élevé,Escaladé,,,REF-865431
+65b4ee9c-4d47-45a0-b2a1-63fd1567f3d8,COM-85931,USR-3229,CommandeErronée,"Erreur sur ma commande : salade au lieu de sandwich, très agaçant.",8/15/2024 14:19,,moyen,Ouvert,,,REF-280277
+e0b38aaa-d039-4409-a55c-3ec8c517afcc,COM-77020,USR-8091,NourritureEndommagée,"La nourriture était froid, totalement immangeable.",10/23/2024 14:19,,élevé,Résolu,10/24/2024 3:19,MOD-12,REF-548844
+d74ebb41-a667-4912-a669-231558f18451,COM-62689,USR-4996,ArticleManquant,"Je n'ai pas reçu frites, besoin d'un remboursement.",5/7/2025 14:19,image_3183.jpg,faible,Résolu,5/8/2025 12:19,MOD-8,REF-438066
+ca5f96af-22b8-486e-93c3-f014bab3abc5,COM-68479,USR-5349,LivraisonRetard,"La nourriture est arrivée avec 90 minutes de retard, service décevant.",7/28/2024 14:19,,moyen,Escaladé,,,REF-462425
+e628219f-f4b2-4869-b403-21d0de37a11c,COM-87892,USR-1186,LivraisonRetard,"Commande arrivée après 2 heures, vraiment pas satisfait.",3/13/2025 14:19,,élevé,Ouvert,,,REF-118828
+6b66ab63-5390-41b3-87dc-b368760b2b45,COM-78718,USR-3079,CommandeErronée,"Livré frites, mais je voulais pizza, c'est inacceptable.",7/28/2024 14:19,image_7376.jpg,moyen,Ouvert,,,REF-395464
+768578b4-07e5-4641-8ffb-d03ca9eca95f,COM-53217,USR-8010,NourritureEndommagée,"salade livré sans goût, c'est scandaleux et dangereux !",2/22/2025 14:19,,élevé,Résolu,2/23/2025 21:19,MOD-9,REF-512236
+6f6f13ce-cb0b-43cd-ae37-1527e29671fc,COM-99712,USR-3446,ArticleManquant,"Il manque pizza dans ma commande, très décevant.",6/9/2025 14:19,"image_4331.jpg,image_2735.jpg",élevé,Escaladé,,,REF-529873
+499b2194-4907-4af6-ac2f-9c0ebc0ede2d,COM-99696,USR-3005,ArticleManquant,"Je n'ai pas reçu pâtes, besoin d'un remboursement.",12/12/2024 14:19,image_8868.jpg,faible,Ouvert,,,REF-975253
+6f0426c8-fd09-4e69-beeb-25026e4c7130,COM-72517,USR-4948,NourritureEndommagée,"pizza était trempé, qualité inacceptable.",12/14/2024 14:19,image_5325.jpg,élevé,Résolu,12/15/2024 23:19,MOD-18,REF-319414
+62260803-6058-431d-b158-9a385e64f563,COM-26016,USR-3391,CommandeErronée,J'ai reçu sandwich au lieu de pâtes.,8/9/2024 14:19,,faible,Escaladé,,,REF-681882
+50449901-5246-488e-8bc8-69d60e1875eb,COM-49834,USR-6265,MauvaiseQualité,"Très mauvaise qualité de pâtes, immangeable.",2/18/2025 14:19,"image_7491.jpg,image_1095.jpg",élevé,Résolu,2/20/2025 10:19,MOD-2,REF-552271
+15c0d328-1823-429d-8cec-446e8ad25d7e,COM-80872,USR-5643,LivraisonRetard,"La nourriture est arrivée avec 90 minutes de retard, service décevant.",11/17/2024 14:19,,moyen,Escaladé,,,REF-146531
+7e581c1a-63d0-42e7-a3c7-99562b965936,COM-31682,USR-4757,NourritureEndommagée,"Tout était écrasé, expérience catastrophique.",3/1/2025 14:19,image_7223.jpg,élevé,Ouvert,,,REF-492207
+ddbb1ad5-5cdb-483c-a3db-9ca7ff903072,COM-27201,USR-9596,LivraisonRetard,"La commande a été livrée avec 2 heures de retard, la nourriture était froide.",9/14/2024 14:19,,élevé,Ouvert,,,REF-295320
+1ff4e22e-ac17-4c76-9145-827d440ace69,COM-16775,USR-2757,LivraisonRetard,"Livraison retardée de 90 minutes, totalement inacceptable !",12/14/2024 14:19,,moyen,Escaladé,,,REF-621255
+4170b631-4a01-44f0-b170-5748b79bb01b,COM-92369,USR-9390,LivraisonRetard,"Retard de 1 heure, c'est scandaleux et dérangeant !",11/29/2024 14:19,,moyen,Ouvert,,,REF-584911
+d913731d-5024-42a3-bfaa-3ec54805fc68,COM-16082,USR-2695,CommandeErronée,J'ai reçu pizza au lieu de pizza.,10/29/2024 14:19,image_8369.jpg,faible,Ouvert,,,REF-331059
+872b761f-f202-4d05-af5d-9d414b40f511,COM-48969,USR-3826,MauvaiseQualité,"frites avait un goût froid, expérience horrible.",8/8/2024 14:19,,élevé,Ouvert,,,REF-992606
+2d2cfe6b-7676-4491-a2e4-4c9c64561917,COM-48376,USR-7210,ArticleManquant,"Je n'ai pas reçu sushi, besoin d'un remboursement.",2/3/2025 14:19,,faible,Escaladé,,,REF-123618
+084f2f60-68cf-4eb1-9f1e-90cd1626b46c,COM-79310,USR-3134,MauvaiseQualité,"salade était écrasé, totalement dégoûtant !",5/9/2025 14:19,image_7567.jpg,élevé,Ouvert,,,REF-629505
+77554fe3-25de-41ec-b5d8-37923a68d442,COM-56609,USR-9606,ArticleManquant,"Commande incomplète, salade non livré.",11/6/2024 14:19,image_2246.jpg,faible,Résolu,11/6/2024 18:19,MOD-7,REF-489387
+84086606-6403-4db2-84fe-f98a94927f82,COM-67521,USR-4498,CommandeErronée,"Commande erronée livrée, j'ai eu pâtes et non sushi.",10/19/2024 14:19,,faible,Ouvert,,,REF-369891
+1e5460ea-b4ef-440e-bb1b-c0a1d1bc9ebd,COM-74107,USR-9315,MauvaiseQualité,"Qualité médiocre de burger, très frustrant.",3/3/2025 14:19,,moyen,Escaladé,,,REF-222914
+df203b55-098c-4117-b871-94a29509f0a8,COM-54043,USR-5883,MauvaiseQualité,"Qualité médiocre de pizza, très frustrant.",6/13/2025 14:19,,moyen,Ouvert,,,REF-984327
+b01022a0-64b0-43ab-a870-33534b09da97,COM-79007,USR-2575,ArticleManquant,"Il manque salade dans ma commande, très décevant.",8/6/2024 14:19,image_6536.jpg,élevé,Résolu,8/6/2024 23:19,MOD-1,REF-362755
+0b965c9b-9fae-4663-9252-3be9bb712b5d,COM-71085,USR-1128,MauvaiseQualité,"sandwich avait un goût trempé, expérience horrible.",5/25/2025 14:19,,élevé,Ouvert,,,REF-114073
+a53a1886-dbba-41fd-a403-8fcf82839f8f,COM-10562,USR-5876,ArticleManquant,"Il manque salade dans ma commande, très décevant.",12/14/2024 14:19,,moyen,Résolu,12/15/2024 17:19,MOD-14,REF-426464
+d6a1f53b-1d7e-4ecc-9e28-17814a9c7719,COM-55901,USR-5427,MauvaiseQualité,"sandwich avait un goût froid, expérience horrible.",7/12/2024 14:19,,élevé,Escaladé,,,REF-489501
+73183e6d-1e17-433e-b28f-5d8e9c321826,COM-93187,USR-1958,MauvaiseQualité,"burger était gâté, totalement dégoûtant !",1/7/2025 14:19,,élevé,Escaladé,,,REF-410013
+bdc0f10f-9e07-4bcf-ae44-7f88c2f1d3b2,COM-52068,USR-8088,LivraisonRetard,"J'ai attendu 30 minutes pour ma commande, très frustrant.",3/26/2025 14:19,image_7864.jpg,élevé,Ouvert,,,REF-332056
+af329f1b-92eb-4133-93c9-53a864697989,COM-31746,USR-4684,LivraisonRetard,"J'ai attendu 2 heures pour ma commande, très frustrant.",4/20/2025 14:19,,élevé,Ouvert,,,REF-264177
+9ba3dcbe-e483-49b9-9473-12f3d0d54624,COM-53387,USR-7749,NourritureEndommagée,"Tout était sans goût, expérience catastrophique.",12/12/2024 14:19,,élevé,Résolu,12/13/2024 13:19,MOD-13,REF-928214
+17872b3a-48b8-482a-bee9-2f6d68ac3e86,COM-99077,USR-9436,LivraisonRetard,"Retard de 1 heure, c'est scandaleux et dérangeant !",1/20/2025 14:19,,moyen,Escaladé,,,REF-391662
+e1b8754a-e1a0-43fd-bb17-b936d66efd35,COM-53566,USR-1331,MauvaiseQualité,"Qualité médiocre de salade, très frustrant.",4/23/2025 14:19,,moyen,Résolu,4/25/2025 3:19,MOD-2,REF-665878
+d96a1097-bc33-4bb3-8ba3-c2840e31373d,COM-34181,USR-6166,NourritureEndommagée,"La nourriture était trempé, totalement immangeable.",1/19/2025 14:19,image_8319.jpg,élevé,Escaladé,,,REF-614778
+f1c3f6f2-4e95-4cfd-b3ef-94b0f176bba6,COM-30538,USR-9312,NourritureEndommagée,"La commande était trempé, très déçu.",4/15/2025 14:19,,faible,Résolu,4/17/2025 2:19,MOD-5,REF-649753
+7fd0b424-bfbd-4fc6-abba-b31500861361,COM-95591,USR-5754,NourritureEndommagée,"salade était gâté, qualité inacceptable.",11/20/2024 14:19,,élevé,Escaladé,,,REF-993219
+f269615d-e28b-4908-906c-61053599114b,COM-34267,USR-7588,ArticleManquant,"Commande incomplète, sandwich non livré.",4/8/2025 14:19,,faible,Escaladé,,,REF-501751
+f402ee99-8184-4525-8cc0-03055ccfad7d,COM-39992,USR-4969,CommandeErronée,"J'ai commandé sandwich, mais j'ai reçu frites.",7/7/2024 14:19,,faible,Ouvert,,,REF-673912
+935b0ac4-39f2-4f5d-af57-5ede083ccd18,COM-42635,USR-8953,LivraisonRetard,"J'ai attendu 90 minutes pour ma commande, très frustrant.",12/7/2024 14:19,image_3712.jpg,élevé,Ouvert,,,REF-512649
+62d737dd-951e-48fb-9ed1-1be4039f6ba5,COM-98299,USR-1840,LivraisonRetard,"La commande a été livrée avec 30 minutes de retard, la nourriture était froide.",1/25/2025 14:19,,faible,Résolu,1/26/2025 1:19,MOD-14,REF-703264
+aa02c9ba-5963-4459-80fe-4ffe31fe104e,COM-49168,USR-8998,NourritureEndommagée,"pizza est arrivé trempé, besoin d'un remplacement.",9/21/2024 14:19,,faible,Ouvert,,,REF-585456
+c5e12cf9-f8ac-4d8a-9fc6-37a4a6e7c508,COM-89981,USR-2344,LivraisonRetard,"J'ai attendu 1 heure pour ma commande, très frustrant.",7/15/2024 14:19,,moyen,Escaladé,,,REF-165889
+75dfc263-fa7d-481a-a678-388acfe931bd,COM-20374,USR-9851,ArticleManquant,"Pas de sandwich, c'est inacceptable et frustrant !",12/12/2024 14:19,"image_4456.jpg,image_4837.jpg",élevé,Escaladé,,,REF-911299
+f7f32547-92cc-4c8d-a5c8-97c8106ce550,COM-15168,USR-8323,ArticleManquant,"salade manquant, veuillez résoudre immédiatement.",9/29/2024 14:19,image_4759.jpg,élevé,Escaladé,,,REF-474727
+1b30d191-ea3b-48b3-b8d2-6483a587ba8b,COM-51957,USR-4431,NourritureEndommagée,"Tout était trempé, expérience catastrophique.",11/20/2024 14:19,,élevé,Ouvert,,,REF-187314
+e32f69eb-b1a8-462f-b43d-4580e72a1b7e,COM-45606,USR-4868,NourritureEndommagée,"burger est arrivé trempé, besoin d'un remplacement.",7/19/2024 14:19,,faible,Résolu,7/20/2024 12:19,MOD-8,REF-565664
+5f080f72-8075-4aa5-ac7a-c9be54981efc,COM-90488,USR-3476,LivraisonRetard,"Livraison retardée de 2 heures, totalement inacceptable !",1/22/2025 14:19,"image_1885.jpg,image_8344.jpg",élevé,Résolu,1/22/2025 20:19,MOD-5,REF-307305
+1f232ae0-073e-4153-b78a-cd89657ede11,COM-52773,USR-8705,LivraisonRetard,"J'ai attendu 2 heures pour ma commande, très frustrant.",6/12/2025 14:19,,élevé,Escaladé,,,REF-119863
+157170ff-2903-4f06-a295-6d26160c29a6,COM-44469,USR-9679,CommandeErronée,"Commande erronée livrée, j'ai eu sandwich et non sandwich.",5/26/2025 14:19,image_5704.jpg,faible,Résolu,5/27/2025 14:19,MOD-11,REF-501682
+a9402185-719e-461e-a7f0-58709354328c,COM-48127,USR-4121,LivraisonRetard,"Commande arrivée après 90 minutes, vraiment pas satisfait.",1/29/2025 14:19,image_5492.jpg,élevé,Escaladé,,,REF-229208
+08c7699c-f0b0-432e-a9ea-9c84e6739596,COM-81632,USR-2297,NourritureEndommagée,"Tout était froid, expérience catastrophique.",12/29/2024 14:19,,élevé,Ouvert,,,REF-418729
+93a40b18-a3a0-491f-9cc8-5eafa72fba01,COM-51108,USR-6549,ArticleManquant,"Commande incomplète, sushi non livré.",7/28/2024 14:19,image_9161.jpg,faible,Escaladé,,,REF-866280
+993b8f29-29e4-45b5-a078-d633c774a8ba,COM-76542,USR-3183,ArticleManquant,"Pas de burger, c'est inacceptable et frustrant !",4/28/2025 14:19,,moyen,Ouvert,,,REF-324644
+eb9d33d9-90a7-4459-bc16-439327b114cd,COM-13218,USR-3637,NourritureEndommagée,"La nourriture était écrasé, totalement immangeable.",6/12/2025 14:19,,élevé,Escaladé,,,REF-354612
+5e7e746b-cbc9-45ba-ac9e-90836fb8623c,COM-36510,USR-9660,LivraisonRetard,"La nourriture est arrivée avec 30 minutes de retard, service décevant.",5/6/2025 14:19,,moyen,Escaladé,,,REF-935698
+c9372c5f-a3a6-4ad9-97db-12e5d9e343c8,COM-92868,USR-6705,MauvaiseQualité,"salade avait un goût écrasé, expérience horrible.",1/24/2025 14:19,"image_8481.jpg,image_5783.jpg",élevé,Résolu,1/25/2025 23:19,MOD-15,REF-363778
+224cbf23-c800-4c15-ad28-bb37a9029dba,COM-65080,USR-3417,LivraisonRetard,"J'ai attendu 30 minutes pour ma commande, très frustrant.",5/6/2025 14:19,,moyen,Résolu,5/8/2025 11:19,MOD-12,REF-578716
+7d3f850e-1b7f-456d-8f84-c427cc28900b,COM-10589,USR-1196,NourritureEndommagée,"La nourriture était écrasé, totalement immangeable.",8/29/2024 14:19,,élevé,Résolu,8/31/2024 1:19,MOD-5,REF-416613
+ad5607d0-4865-4665-8ad6-ae8a5e6876ac,COM-51772,USR-8685,LivraisonRetard,"Commande arrivée après 2 heures, vraiment pas satisfait.",8/14/2024 14:19,,élevé,Ouvert,,,REF-599229
+766dce21-dbae-4962-adc0-c5fc44143899,COM-88575,USR-2512,LivraisonRetard,"J'ai attendu 90 minutes pour ma commande, très frustrant.",1/22/2025 14:19,"image_7732.jpg,image_1768.jpg",élevé,Escaladé,,,REF-843700
+6f976f14-45b4-4857-b46e-b748ebabb4b5,COM-36374,USR-1544,NourritureEndommagée,"La nourriture était gâté, totalement immangeable.",10/20/2024 14:19,image_4498.jpg,élevé,Résolu,10/20/2024 15:19,MOD-4,REF-266109
+7af22869-d4f8-4fb0-9f42-2817616e3ba4,COM-15419,USR-8274,ArticleManquant,"Pas de sandwich, c'est inacceptable et frustrant !",12/11/2024 14:19,,moyen,Ouvert,,,REF-989558
+5cadd69c-9e26-4ba4-802d-5016fa3d69c4,COM-45697,USR-7915,MauvaiseQualité,"Très mauvaise qualité de burger, immangeable.",10/25/2024 14:19,,élevé,Ouvert,,,REF-498037
+5d89fcd1-cf86-4e57-a88f-67075ed60597,COM-25874,USR-2677,LivraisonRetard,"J'ai attendu 1 heure pour ma commande, très frustrant.",6/21/2025 14:19,,moyen,Ouvert,,,REF-808543
+70cce470-1d6a-4f48-a365-686662507dcd,COM-47325,USR-4104,CommandeErronée,"Livré frites, mais je voulais salade, c'est inacceptable.",2/14/2025 14:19,,faible,Ouvert,,,REF-639133
+09f22117-e35c-4728-a68b-5a1b146afa5d,COM-77195,USR-4599,MauvaiseQualité,"Qualité médiocre de sandwich, très frustrant.",6/10/2025 14:19,,moyen,Ouvert,,,REF-143207
+0babbe17-d07c-403a-ac24-3c36ce9cfad7,COM-82326,USR-1494,MauvaiseQualité,"burger était sans goût, totalement dégoûtant !",10/18/2024 14:19,image_8613.jpg,élevé,Résolu,10/20/2024 8:19,MOD-2,REF-164725
+6b214407-55a2-48d6-8d6f-12895ed7567e,COM-42592,USR-7881,NourritureEndommagée,"La nourriture était écrasé, totalement immangeable.",1/1/2025 14:19,"image_8987.jpg,image_5153.jpg",élevé,Ouvert,,,REF-310975
+8c403705-bdeb-4f31-a2a4-eb9d95a601ae,COM-67348,USR-2402,ArticleManquant,"Je n'ai pas reçu sushi, besoin d'un remboursement.",12/15/2024 14:19,,faible,Ouvert,,,REF-952464
+2c0483f9-198d-4bf4-9348-e86929efa7ea,COM-14981,USR-5540,MauvaiseQualité,"Très mauvaise qualité de pizza, immangeable.",7/23/2024 14:19,,élevé,Escaladé,,,REF-877753
+d578dafd-4d7e-4db7-9296-1ada4b2edb65,COM-86119,USR-5381,ArticleManquant,"Commande incomplète, sushi non livré.",10/8/2024 14:19,image_1150.jpg,faible,Ouvert,,,REF-650309
+c698311a-364f-44c5-93f3-6cc599784272,COM-19621,USR-1355,CommandeErronée,"Livré salade, mais je voulais salade, c'est inacceptable.",9/11/2024 14:19,image_8816.jpg,moyen,Escaladé,,,REF-325003
+7d38fe7e-cb7b-4cd4-9a90-36256f23adf5,COM-19245,USR-6951,MauvaiseQualité,"La nourriture était sans goût, pas à la hauteur.",9/29/2024 14:19,image_3681.jpg,faible,Ouvert,,,REF-733940
+c5869b74-c578-4fb5-92a0-7bbb7283a9ca,COM-28973,USR-8983,ArticleManquant,"Manque sushi, service médiocre.",1/8/2025 14:19,,faible,Escaladé,,,REF-651973
+306b3a0b-da2e-4bae-9dbf-62d31cb6f4f4,COM-37671,USR-3141,MauvaiseQualité,"salade était sans goût, je ne commanderai plus.",1/4/2025 14:19,"image_9286.jpg,image_5000.jpg",faible,Ouvert,,,REF-566890
+f8cae093-4fd0-41e0-83ab-8a2c4e6ee2ee,COM-29482,USR-7897,LivraisonRetard,"J'ai attendu 2 heures pour ma commande, très frustrant.",1/16/2025 14:19,,élevé,Résolu,1/18/2025 4:19,MOD-11,REF-694598
+5034bb38-8974-4c18-be77-9efced82c9cf,COM-22117,USR-6480,CommandeErronée,"Commande erronée livrée, j'ai eu pâtes et non pâtes.",3/17/2025 14:19,,faible,Résolu,3/18/2025 10:19,MOD-11,REF-997474
+224d939e-9261-4ecb-ae1c-c83cce1cfe15,COM-24429,USR-5632,NourritureEndommagée,"Tout était brûlé, expérience catastrophique.",11/20/2024 14:19,"image_6773.jpg,image_9043.jpg",élevé,Ouvert,,,REF-713218
+f7cf541a-b080-4401-bbc9-455c02e9144f,COM-61942,USR-7981,ArticleManquant,"Commande incomplète, sandwich non livré.",5/9/2025 14:19,,faible,Résolu,5/10/2025 1:19,MOD-11,REF-431871
+a97ed95e-bff6-4b15-b5e4-38c843655b45,COM-75692,USR-5324,CommandeErronée,"J'ai commandé salade, mais j'ai reçu salade.",8/14/2024 14:19,image_3019.jpg,faible,Escaladé,,,REF-837724
+9830fbc4-4aff-4a3d-8e0b-c08568b6fda2,COM-61531,USR-4880,MauvaiseQualité,"salade avait un goût gâté, expérience horrible.",12/6/2024 14:19,image_2036.jpg,élevé,Résolu,12/8/2024 5:19,MOD-16,REF-231526
+2f97298b-35d1-4d10-a807-588e90d2b97e,COM-71726,USR-4918,CommandeErronée,"J'ai commandé salade, mais j'ai reçu burger.",2/9/2025 14:19,,faible,Ouvert,,,REF-942538
+fcd8bc0e-be87-4fc7-b664-7d90bde639f1,COM-45322,USR-4948,MauvaiseQualité,"pâtes était brûlé, totalement dégoûtant !",1/13/2025 14:19,image_6625.jpg,élevé,Escaladé,,,REF-335530
+20c425fd-0219-438a-b191-17d2068a8b3c,COM-60634,USR-9834,CommandeErronée,"J'ai commandé salade, mais j'ai reçu pâtes.",5/28/2025 14:19,image_9720.jpg,faible,Escaladé,,,REF-660360
+9e0a9bfe-bc4b-4c74-a196-22df2791ea9a,COM-54653,USR-9381,LivraisonRetard,"La nourriture est arrivée avec 2 heures de retard, service décevant.",6/22/2025 14:19,,élevé,Résolu,6/23/2025 18:19,MOD-1,REF-827396
+be3f042c-a617-4aa8-b89e-22069e8bfb1d,COM-29562,USR-7780,NourritureEndommagée,"sandwich était écrasé, qualité inacceptable.",6/6/2025 14:19,image_3534.jpg,élevé,Escaladé,,,REF-780295
+ffeaac0c-feaf-464d-8465-f88db231f076,COM-36165,USR-2320,CommandeErronée,"Livré pizza, mais je voulais sandwich, c'est inacceptable.",10/9/2024 14:19,,faible,Ouvert,,,REF-393941
+2debc78e-c215-4f58-80e2-162c5159f0ee,COM-88395,USR-3689,CommandeErronée,"Commande erronée livrée, j'ai eu pâtes et non burger.",7/26/2024 14:19,,faible,Résolu,7/26/2024 23:19,MOD-15,REF-562860
+dcdcd8aa-a1aa-4655-b22a-cc50e0a84cde,COM-40864,USR-9100,ArticleManquant,"Je n'ai pas reçu pizza, besoin d'un remboursement.",2/1/2025 14:19,,faible,Escaladé,,,REF-406122
+0caea297-1421-4ec8-838b-5f4719002fda,COM-98504,USR-9582,CommandeErronée,"Mauvais article livré, burger à la place de pizza.",6/30/2024 14:19,,faible,Escaladé,,,REF-525125
+2ec337f9-f154-418b-8e8b-63ee66ad54a6,COM-31418,USR-1747,CommandeErronée,"Commande erronée livrée, j'ai eu sushi et non burger.",3/26/2025 14:19,,faible,Escaladé,,,REF-586602
+074feada-7f00-4fed-800e-ede1acdaabb4,COM-46991,USR-5432,MauvaiseQualité,"frites avait un goût froid, expérience horrible.",7/20/2024 14:19,,élevé,Ouvert,,,REF-874750
+699b7a84-00fc-437f-a4f8-55fb58ce165a,COM-40360,USR-4934,ArticleManquant,"pizza manquant, veuillez résoudre immédiatement.",1/4/2025 14:19,,moyen,Ouvert,,,REF-172313
+1a7aa384-d036-4e1e-ac5c-01835db32687,COM-79987,USR-2583,MauvaiseQualité,"frites était écrasé, je ne commanderai plus.",6/25/2025 14:19,,faible,Résolu,6/25/2025 20:19,MOD-16,REF-332810
+29255c41-37c2-4043-b692-72a42eb884ef,COM-10642,USR-6382,ArticleManquant,"Manque salade, service médiocre.",12/15/2024 14:19,image_9530.jpg,moyen,Ouvert,,,REF-769917
+b2c958d8-430b-4d69-a0ac-66802fbe71d2,COM-27706,USR-8620,CommandeErronée,"Commande erronée livrée, j'ai eu sushi et non pizza.",12/24/2024 14:19,"image_1180.jpg,image_8930.jpg",faible,Ouvert,,,REF-414116
+a2980156-e5a6-4943-ba4c-907aff1f2a0d,COM-86182,USR-1319,CommandeErronée,"Mauvais article livré, sandwich à la place de salade.",11/25/2024 14:19,"image_1480.jpg,image_4261.jpg",faible,Résolu,11/27/2024 2:19,MOD-17,REF-798176
+484abaaf-f06b-44ff-a641-12a566034bcf,COM-86367,USR-3604,MauvaiseQualité,"Qualité médiocre de salade, très frustrant.",12/14/2024 14:19,,moyen,Résolu,12/15/2024 2:19,MOD-13,REF-990365
+89e1aa93-ad52-4145-a22d-1cfc61333704,COM-61747,USR-9880,ArticleManquant,"Commande incomplète, sandwich non livré.",5/30/2025 14:19,image_3382.jpg,faible,Escaladé,,,REF-669534
+889747f4-2562-4b84-9783-cddf3f65634f,COM-77071,USR-2442,MauvaiseQualité,"Qualité médiocre de sushi, très frustrant.",9/24/2024 14:19,,moyen,Escaladé,,,REF-713771
+8e346112-b734-48da-a88d-0ca623244769,COM-51837,USR-6054,LivraisonRetard,"Commande arrivée après 1 heure, vraiment pas satisfait.",6/4/2025 14:19,,moyen,Résolu,6/6/2025 7:19,MOD-11,REF-866564
+fa5f3dab-c1f5-4980-92f4-34b552ac49cf,COM-27545,USR-4964,NourritureEndommagée,"La commande était brûlé, très déçu.",10/23/2024 14:19,image_7121.jpg,faible,Ouvert,,,REF-140609
+4bf8429e-dd56-4da4-b23a-0c78596e7b49,COM-24531,USR-8859,MauvaiseQualité,"burger avait un goût trempé, expérience horrible.",3/12/2025 14:19,,élevé,Ouvert,,,REF-239970
+38992fa5-ddb6-4c07-abfd-f08c4bc53c6d,COM-40932,USR-8450,LivraisonRetard,"Livraison retardée de 2 heures, totalement inacceptable !",3/30/2025 14:19,,élevé,Escaladé,,,REF-233156
+df66eca3-eb90-4be7-80cf-47152e8e7680,COM-61323,USR-8123,NourritureEndommagée,"pizza était écrasé, qualité inacceptable.",6/16/2025 14:19,"image_8097.jpg,image_4732.jpg",élevé,Résolu,6/17/2025 7:19,MOD-8,REF-809246
+1744d45e-e4e0-4f6d-a6c4-0f1c92e1254a,COM-83208,USR-2997,MauvaiseQualité,"Qualité médiocre de salade, très frustrant.",11/23/2024 14:19,,moyen,Ouvert,,,REF-965078
+e45b4f14-3e84-43e0-a3b2-3ce25d5888f2,COM-16707,USR-2584,CommandeErronée,"J'ai commandé salade, mais j'ai reçu sandwich.",7/10/2024 14:19,image_1695.jpg,faible,Résolu,7/11/2024 12:19,MOD-1,REF-905743
+3d219062-c7c3-4220-8091-8da88eda5c84,COM-97395,USR-6827,NourritureEndommagée,"La commande était écrasé, très déçu.",2/14/2025 14:19,"image_5330.jpg,image_4756.jpg",faible,Résolu,2/15/2025 5:19,MOD-16,REF-608985
+e6a196f0-e9c9-40fc-b584-0e2ec3f6b4d0,COM-41513,USR-4855,LivraisonRetard,"Commande arrivée après 2 heures, vraiment pas satisfait.",1/19/2025 14:19,image_4347.jpg,élevé,Escaladé,,,REF-911491
+42997d8d-f602-420c-8da9-8aedada53ca0,COM-14703,USR-1325,LivraisonRetard,"J'ai attendu 1 heure pour ma commande, très frustrant.",4/11/2025 14:19,,moyen,Escaladé,,,REF-667906
+3d869bd7-2d6e-4690-aeb4-34fe6d9a5b3c,COM-24277,USR-8357,ArticleManquant,"burger manquant, veuillez résoudre immédiatement.",1/2/2025 14:19,,moyen,Résolu,1/2/2025 21:19,MOD-17,REF-763474
+6c90d5ea-87ee-4153-966b-2f59a006f935,COM-11686,USR-3456,ArticleManquant,"Manque burger, service médiocre.",9/3/2024 14:19,"image_5787.jpg,image_4272.jpg",moyen,Résolu,9/4/2024 23:19,MOD-19,REF-815794
+eea14646-3175-4330-871b-97c90bf2954b,COM-14963,USR-3632,CommandeErronée,"Livré sushi, mais je voulais pâtes, c'est inacceptable.",12/14/2024 14:19,image_5049.jpg,moyen,Escaladé,,,REF-796620
+c6d00e3e-7977-4c32-8559-f0ccf4cd72aa,COM-13763,USR-4116,CommandeErronée,"Livré frites, mais je voulais burger, c'est inacceptable.",9/22/2024 14:19,,faible,Ouvert,,,REF-786341
+24440d2f-2c9f-4689-8e89-462b31717385,COM-27263,USR-4225,ArticleManquant,"Il manque burger dans ma commande, très décevant.",9/25/2024 14:19,image_3386.jpg,élevé,Escaladé,,,REF-588423
+17309565-3606-45c0-a46d-b9ec4704df06,COM-62112,USR-2302,MauvaiseQualité,"Très mauvaise qualité de sushi, immangeable.",5/22/2025 14:19,image_9378.jpg,élevé,Escaladé,,,REF-468457
+ea56d34f-e1c2-4ef5-bc42-40a9d53ecdde,COM-21054,USR-7856,ArticleManquant,"Manque pizza, service médiocre.",8/26/2024 14:19,,faible,Escaladé,,,REF-588302
+4b264578-b517-4f2e-8764-ee6df9e56eaf,COM-91832,USR-6131,CommandeErronée,"Livré frites, mais je voulais sandwich, c'est inacceptable.",4/18/2025 14:19,,faible,Escaladé,,,REF-723202
+0cb9e285-5ae9-4ae1-96b6-0d81bf0a2680,COM-84169,USR-3296,LivraisonRetard,"J'ai attendu 90 minutes pour ma commande, très frustrant.",5/28/2025 14:19,,moyen,Escaladé,,,REF-702532
+350411d8-6fbd-4693-a515-3d8577f5a3fa,COM-48760,USR-7380,NourritureEndommagée,"pâtes est arrivé froid, besoin d'un remplacement.",12/21/2024 14:19,,faible,Résolu,12/21/2024 18:19,MOD-5,REF-624154
+20d2061b-6ccf-48c7-a270-c95ec209a860,COM-45088,USR-6408,LivraisonRetard,"La nourriture est arrivée avec 90 minutes de retard, service décevant.",11/29/2024 14:19,,moyen,Escaladé,,,REF-168788
+b1d7237f-db83-4f05-a9db-e572972a97d0,COM-14955,USR-7455,LivraisonRetard,"La nourriture est arrivée avec 1 heure de retard, service décevant.",5/4/2025 14:19,image_6657.jpg,élevé,Escaladé,,,REF-171890
+61d24baf-2317-458d-998d-dcc447069712,COM-49016,USR-6332,MauvaiseQualité,"salade était trempé, je ne commanderai plus.",8/21/2024 14:19,,faible,Escaladé,,,REF-861642
+73c2abf8-18a4-49f8-af4f-a7090e57df4c,COM-13791,USR-6846,ArticleManquant,"Pas de salade, c'est inacceptable et frustrant !",2/18/2025 14:19,,moyen,Ouvert,,,REF-553229
+721f5cfa-27b0-4cbe-a27d-7baaa014d4b3,COM-12883,USR-8301,LivraisonRetard,"Livraison retardée de 2 heures, totalement inacceptable !",9/29/2024 14:19,,élevé,Escaladé,,,REF-607394
+fec06f10-b9ae-4518-997b-c3784d32a9c5,COM-14621,USR-5976,CommandeErronée,"Livré pâtes, mais je voulais sandwich, c'est inacceptable.",1/20/2025 14:19,,faible,Ouvert,,,REF-931031
+157493ab-f3a5-477e-8c7a-81773fba018a,COM-51476,USR-7865,ArticleManquant,"Commande incomplète, sandwich non livré.",2/18/2025 14:19,image_1255.jpg,faible,Escaladé,,,REF-386531
+54ec440f-5818-4517-980c-b88a83d6e70b,COM-31418,USR-6334,NourritureEndommagée,"frites est arrivé froid, besoin d'un remplacement.",8/31/2024 14:19,,faible,Résolu,9/1/2024 16:19,MOD-3,REF-402222
+da896fd9-11f0-45a0-87d3-41c2499a7658,COM-60877,USR-2636,LivraisonRetard,"Commande arrivée après 1 heure, vraiment pas satisfait.",6/4/2025 14:19,"image_7893.jpg,image_1214.jpg",élevé,Escaladé,,,REF-414823
+407170ee-9a3a-4e47-aed3-f53a28f91f96,COM-15980,USR-5957,MauvaiseQualité,"Qualité médiocre de burger, très frustrant.",5/13/2025 14:19,"image_8901.jpg,image_9278.jpg",élevé,Ouvert,,,REF-991063
+0fe1837f-4534-4092-b618-013358913170,COM-73906,USR-3097,NourritureEndommagée,"Tout était sans goût, expérience catastrophique.",6/11/2025 14:19,,élevé,Résolu,6/12/2025 7:19,MOD-17,REF-910653
+42f240fd-389a-4251-8187-81b5d2ca44de,COM-24736,USR-3424,LivraisonRetard,"Commande arrivée après 2 heures, vraiment pas satisfait.",4/20/2025 14:19,,élevé,Résolu,4/22/2025 4:19,MOD-20,REF-684353
+f52add49-888a-4c3a-b739-77ee8b9f6a7f,COM-63773,USR-9914,CommandeErronée,"Commande erronée livrée, j'ai eu sushi et non salade.",10/11/2024 14:19,,faible,Ouvert,,,REF-527030
+c79d2503-4692-4407-b503-5d19c445f7d4,COM-27519,USR-6584,CommandeErronée,"Livré pizza, mais je voulais salade, c'est inacceptable.",3/9/2025 14:19,image_1943.jpg,moyen,Escaladé,,,REF-774409
+26be0604-5225-46c9-84be-7ad74806f2b9,COM-91970,USR-8112,LivraisonRetard,"J'ai attendu 1 heure pour ma commande, très frustrant.",8/26/2024 14:19,,moyen,Ouvert,,,REF-408630
+36480fb5-a968-4c1d-b97d-150c47cae9ef,COM-47872,USR-1079,MauvaiseQualité,"La nourriture était trempé, pas à la hauteur.",10/17/2024 14:19,,faible,Ouvert,,,REF-924293
+f26d7935-275d-494e-b0ef-2ced2c54066e,COM-75120,USR-1135,NourritureEndommagée,"salade est arrivé gâté, besoin d'un remplacement.",9/12/2024 14:19,"image_2126.jpg,image_3813.jpg",élevé,Résolu,9/12/2024 18:19,MOD-9,REF-596509
+d4727ce5-c213-43ac-b5d4-4f68c2287a76,COM-95615,USR-7004,ArticleManquant,"sushi manquant, veuillez résoudre immédiatement.",11/7/2024 14:19,,moyen,Résolu,11/7/2024 17:19,MOD-6,REF-437898
+7049254e-a46e-46f9-a4d5-d9fa79d29a8b,COM-89559,USR-4390,LivraisonRetard,"Livraison retardée de 1 heure, totalement inacceptable !",5/17/2025 14:19,image_6324.jpg,élevé,Résolu,5/18/2025 18:19,MOD-3,REF-689545
+54445e30-f4a1-4fe1-a27b-a390379b19ba,COM-20160,USR-6016,MauvaiseQualité,"La nourriture était froid, pas à la hauteur.",12/17/2024 14:19,image_9178.jpg,moyen,Résolu,12/19/2024 11:19,MOD-2,REF-601602
+996036b3-0843-4497-acc9-7939b4d605d1,COM-53617,USR-4850,ArticleManquant,"burger manquant, veuillez résoudre immédiatement.",9/7/2024 14:19,,moyen,Résolu,9/8/2024 4:19,MOD-3,REF-408062
+9f4a58c3-466a-4988-a201-26d0b68e2aec,COM-23921,USR-6897,ArticleManquant,"salade manquant, veuillez résoudre immédiatement.",2/27/2025 14:19,image_7139.jpg,élevé,Escaladé,,,REF-245847
+9b18d966-3cae-4c08-920b-ab90a6eea665,COM-47480,USR-5708,LivraisonRetard,"Livraison retardée de 90 minutes, totalement inacceptable !",5/10/2025 14:19,,moyen,Ouvert,,,REF-468845
+e7416f0f-883b-41fe-9914-118366f8e745,COM-30843,USR-3458,LivraisonRetard,"Commande arrivée après 90 minutes, vraiment pas satisfait.",10/10/2024 14:19,,moyen,Escaladé,,,REF-276969
+2a361740-58fc-404c-8fb6-7f86fd88c72b,COM-31248,USR-9783,MauvaiseQualité,"La nourriture était trempé, pas à la hauteur.",11/13/2024 14:19,image_8545.jpg,faible,Résolu,11/13/2024 17:19,MOD-7,REF-405876
+9ec5273d-6f38-41f4-8bb2-febb3b8bc72e,COM-68738,USR-5735,NourritureEndommagée,"sandwich est arrivé trempé, besoin d'un remplacement.",7/10/2024 14:19,,faible,Escaladé,,,REF-821225
+6be2144a-d11b-4371-890e-c5a2fff757a4,COM-21391,USR-1529,ArticleManquant,"Il manque sushi dans ma commande, très décevant.",7/26/2024 14:19,image_4233.jpg,élevé,Ouvert,,,REF-650784
+c07419b7-2a1b-4762-b45c-d9d8b95f1234,COM-29637,USR-6502,NourritureEndommagée,"frites était sans goût, qualité inacceptable.",11/25/2024 14:19,image_2987.jpg,élevé,Résolu,11/26/2024 23:19,MOD-13,REF-604023
+6fc2fab5-7e60-494a-a16c-f522115d881e,COM-88956,USR-2435,CommandeErronée,"Commande erronée livrée, j'ai eu salade et non pizza.",11/16/2024 14:19,,faible,Ouvert,,,REF-537530
+dfce086b-18ec-416f-a3fe-c25d17fadbae,COM-16242,USR-9098,CommandeErronée,"J'ai commandé salade, mais j'ai reçu salade.",10/18/2024 14:19,,faible,Résolu,10/18/2024 19:19,MOD-7,REF-770465
+dfea2107-e651-42b2-94ca-d86b7e2bb67d,COM-47189,USR-3206,ArticleManquant,"Manque sandwich, service médiocre.",8/16/2024 14:19,"image_5282.jpg,image_3451.jpg",moyen,Résolu,8/18/2024 7:19,MOD-13,REF-730827
+a5eaeafa-f195-4465-a3a2-ca438426303b,COM-66762,USR-4004,LivraisonRetard,"La commande a été livrée avec 30 minutes de retard, la nourriture était froide.",10/26/2024 14:19,image_1571.jpg,moyen,Résolu,10/27/2024 5:19,MOD-1,REF-309822
+3ae92761-700b-4de8-8985-5ef46804e835,COM-20017,USR-7140,NourritureEndommagée,"La nourriture était gâté, totalement immangeable.",11/11/2024 14:19,image_6166.jpg,élevé,Résolu,11/12/2024 21:19,MOD-20,REF-970164
+e1de135c-1be2-4f05-9e65-b9ad1865d5a8,COM-63192,USR-5998,LivraisonRetard,"La nourriture est arrivée avec 1 heure de retard, service décevant.",1/16/2025 14:19,,moyen,Résolu,1/16/2025 21:19,MOD-3,REF-116593
+28052995-0b86-4cb8-a82e-8ee260182eac,COM-71140,USR-5686,LivraisonRetard,"Retard de 2 heures, c'est scandaleux et dérangeant !",9/19/2024 14:19,,élevé,Escaladé,,,REF-602616
+f1d34979-dffe-4257-b973-a63d87cf2831,COM-17347,USR-1540,ArticleManquant,"Je n'ai pas reçu pâtes, besoin d'un remboursement.",3/13/2025 14:19,,faible,Escaladé,,,REF-866938
+62ad4b01-81e0-4644-ad8a-8b3a1194f8ee,COM-95543,USR-1391,ArticleManquant,"Il manque sandwich dans ma commande, très décevant.",10/16/2024 14:19,"image_4280.jpg,image_6997.jpg",élevé,Escaladé,,,REF-804983
+7a8c449a-8bcd-4258-bfec-b1899bfd5da9,COM-60899,USR-3566,MauvaiseQualité,"pâtes était trempé, je ne commanderai plus.",10/2/2024 14:19,,faible,Ouvert,,,REF-659810
+54621a66-5c6a-4a4c-a837-e0b76cc55873,COM-48636,USR-7819,MauvaiseQualité,"Très mauvaise qualité de pizza, immangeable.",1/28/2025 14:19,,élevé,Escaladé,,,REF-929264
+17b65bb6-48a9-45de-b2bd-1286c0125056,COM-59633,USR-8626,CommandeErronée,J'ai reçu sandwich au lieu de burger.,2/3/2025 14:19,image_9671.jpg,faible,Escaladé,,,REF-405456
+284175e4-1f9d-4eb3-9bf9-8aff22066bb9,COM-33193,USR-1982,LivraisonRetard,"Retard de 2 heures, c'est scandaleux et dérangeant !",7/10/2024 14:19,,élevé,Escaladé,,,REF-551168
+8e29cfdf-566a-4cf9-8ad1-69113f1a0109,COM-30445,USR-8318,NourritureEndommagée,"La commande était froid, très déçu.",5/21/2025 14:19,,faible,Ouvert,,,REF-578900
+4857ade9-b225-4179-848d-c15b9c70f188,COM-94059,USR-8838,MauvaiseQualité,"Très mauvaise qualité de salade, immangeable.",8/23/2024 14:19,,élevé,Escaladé,,,REF-247599
+bb22bc96-27fa-464c-8685-75a3cffb31ca,COM-20182,USR-4622,LivraisonRetard,"Livraison retardée de 30 minutes, totalement inacceptable !",9/18/2024 14:19,,faible,Escaladé,,,REF-545033
+c5e58346-6d83-4741-a953-5f9a1066c47f,COM-43533,USR-8288,NourritureEndommagée,"sandwich est arrivé écrasé, besoin d'un remplacement.",1/25/2025 14:19,,faible,Ouvert,,,REF-905129
+0c71e528-7183-4b53-9e24-3faa16a41e2c,COM-81644,USR-6970,CommandeErronée,"Erreur sur ma commande : salade au lieu de sandwich, très agaçant.",11/22/2024 14:19,,moyen,Ouvert,,,REF-900892
+14b2b48f-1aff-4fcc-ab82-d1f53d98ad18,COM-84858,USR-6881,CommandeErronée,J'ai reçu salade au lieu de salade.,6/10/2025 14:19,image_9986.jpg,faible,Résolu,6/12/2025 5:19,MOD-5,REF-658074
+e9da024f-8895-4344-a3b0-58e76ae648d0,COM-24442,USR-3234,NourritureEndommagée,"frites était sans goût, qualité inacceptable.",4/26/2025 14:19,"image_8164.jpg,image_5159.jpg",élevé,Escaladé,,,REF-732155
+cb107dcf-ae36-4200-bdbb-57397806b042,COM-56190,USR-5792,NourritureEndommagée,"sandwich est arrivé brûlé, besoin d'un remplacement.",8/19/2024 14:19,,faible,Escaladé,,,REF-358557
+11612785-ef4b-43dc-be7c-f2bfa21c20d0,COM-52963,USR-9995,CommandeErronée,"J'ai commandé frites, mais j'ai reçu sushi.",11/27/2024 14:19,,faible,Ouvert,,,REF-302901
+6ac1cbf1-5a66-486b-b684-619fae6f4a30,COM-51976,USR-5000,ArticleManquant,"Il manque salade dans ma commande, très décevant.",7/10/2024 14:19,,moyen,Ouvert,,,REF-328824
+b7201b90-6442-4139-9823-f3b9f888cbf4,COM-68004,USR-2533,LivraisonRetard,"La nourriture est arrivée avec 2 heures de retard, service décevant.",8/21/2024 14:19,,élevé,Résolu,8/23/2024 0:19,MOD-8,REF-629278
+103b481e-630e-4d63-9637-3086e9842b5b,COM-69393,USR-3237,NourritureEndommagée,"sandwich était écrasé, qualité inacceptable.",12/23/2024 14:19,image_2246.jpg,élevé,Résolu,12/25/2024 5:19,MOD-20,REF-781124
+cd3d7223-e21a-47aa-b58e-9643c4b2acf0,COM-62741,USR-4126,LivraisonRetard,"Commande arrivée après 90 minutes, vraiment pas satisfait.",12/2/2024 14:19,"image_6318.jpg,image_6554.jpg",élevé,Ouvert,,,REF-291825
+3fe032f7-195e-4dd6-abdb-1c66dc838d4b,COM-91710,USR-7365,LivraisonRetard,"La nourriture est arrivée avec 2 heures de retard, service décevant.",3/29/2025 14:19,,élevé,Escaladé,,,REF-163640
+1a8105aa-c48b-41f8-bc91-7548f689a5be,COM-30496,USR-4566,ArticleManquant,"Pas de frites, c'est inacceptable et frustrant !",6/11/2025 14:19,,moyen,Escaladé,,,REF-255839
+73de10d7-7360-4e14-ac83-f33c6d6cbcf5,COM-64466,USR-6912,ArticleManquant,"Commande incomplète, sushi non livré.",3/30/2025 14:19,image_9602.jpg,faible,Ouvert,,,REF-665163
+4579d0a1-ec40-41a8-bebc-42feef9b3820,COM-23268,USR-4499,ArticleManquant,"Je n'ai pas reçu pizza, besoin d'un remboursement.",8/23/2024 14:19,image_8079.jpg,faible,Escaladé,,,REF-965378
+42da6b33-b44f-41ba-a82c-7fbff84f52fa,COM-37445,USR-5479,LivraisonRetard,"Retard de 90 minutes, c'est scandaleux et dérangeant !",3/31/2025 14:19,,moyen,Résolu,4/1/2025 0:19,MOD-11,REF-378726
+8d71713a-14bd-4c3b-bdc0-dbb573f7faa9,COM-17421,USR-5685,LivraisonRetard,"Livraison retardée de 1 heure, totalement inacceptable !",3/31/2025 14:19,image_8305.jpg,élevé,Résolu,3/31/2025 18:19,MOD-19,REF-620987
+ca1ac653-e7b7-4653-8ccc-a8b0804f39a6,COM-69597,USR-2227,NourritureEndommagée,"pizza est arrivé gâté, besoin d'un remplacement.",8/19/2024 14:19,,élevé,Ouvert,,,REF-674926
+5e84670c-1958-4fad-bc04-656749eadf27,COM-22362,USR-4970,CommandeErronée,J'ai reçu sushi au lieu de sushi.,3/14/2025 14:19,image_7901.jpg,faible,Escaladé,,,REF-822641
+9882f0ee-99fa-4e1d-9e56-a196bc007b14,COM-16901,USR-1595,NourritureEndommagée,"Tout était écrasé, expérience catastrophique.",7/27/2024 14:19,,élevé,Résolu,7/28/2024 15:19,MOD-7,REF-641460
+482c5b7c-0fd6-495b-9c7f-c99a5bd70871,COM-27463,USR-2093,NourritureEndommagée,"frites était froid, qualité inacceptable.",6/3/2025 14:19,image_2996.jpg,élevé,Ouvert,,,REF-432545
+13d72ad7-e2dd-4a9e-b962-e9d69c910bd7,COM-89595,USR-5081,LivraisonRetard,"Commande arrivée après 2 heures, vraiment pas satisfait.",11/2/2024 14:19,"image_5220.jpg,image_3429.jpg",élevé,Escaladé,,,REF-245070
+5e11d28d-b7d5-4a42-b9dd-229287f6b852,COM-98526,USR-5622,CommandeErronée,"J'ai commandé salade, mais j'ai reçu sandwich.",1/29/2025 14:19,image_5281.jpg,faible,Résolu,1/31/2025 14:19,MOD-13,REF-417007
+e68c62e3-3e71-4d77-bdf2-6698114baa5f,COM-43671,USR-4067,NourritureEndommagée,"sandwich livré sans goût, c'est scandaleux et dangereux !",6/11/2025 14:19,"image_4493.jpg,image_3754.jpg",élevé,Résolu,6/12/2025 14:19,MOD-18,REF-106258
+17847e7e-2720-4ef4-8793-65749df01877,COM-14319,USR-7521,NourritureEndommagée,"sandwich est arrivé brûlé, besoin d'un remplacement.",5/13/2025 14:19,,faible,Escaladé,,,REF-742283
+18325c0f-56ba-4e85-95f0-6447122eeac7,COM-99954,USR-9860,MauvaiseQualité,"Qualité médiocre de frites, très frustrant.",2/5/2025 14:19,image_4183.jpg,élevé,Escaladé,,,REF-696009
+ccceee2d-324f-4147-8a5e-a13585e986f7,COM-32626,USR-9922,MauvaiseQualité,"La nourriture était écrasé, pas à la hauteur.",9/9/2024 14:19,image_6129.jpg,faible,Escaladé,,,REF-852695
+8229d440-947e-4eb7-824f-739f0d7b0401,COM-31472,USR-6279,CommandeErronée,"Mauvais article livré, sushi à la place de frites.",5/21/2025 14:19,,faible,Résolu,5/22/2025 10:19,MOD-8,REF-476579
+4191aa1a-4760-4cc8-93de-70f9d0284970,COM-17390,USR-8610,MauvaiseQualité,"La nourriture était écrasé, pas à la hauteur.",5/5/2025 14:19,"image_9810.jpg,image_2559.jpg",faible,Escaladé,,,REF-679675
+c1367dea-6c4d-4401-9482-354f3074fa40,COM-65510,USR-5296,LivraisonRetard,"La nourriture est arrivée avec 1 heure de retard, service décevant.",5/19/2025 14:19,"image_3061.jpg,image_8526.jpg",élevé,Résolu,5/19/2025 22:19,MOD-2,REF-619277
+1e7f4bc7-ce2b-4111-85bd-1029247e096d,COM-72531,USR-7210,LivraisonRetard,"Livraison retardée de 30 minutes, totalement inacceptable !",12/14/2024 14:19,image_1452.jpg,moyen,Ouvert,,,REF-138980
+e318ef84-cf2e-4178-bf55-8b692eacd14d,COM-90536,USR-8165,ArticleManquant,"Manque sushi, service médiocre.",3/15/2025 14:19,,faible,Résolu,3/15/2025 20:19,MOD-2,REF-629939
+a4e6fa75-d5f7-40bf-8879-a8c3bd51a74a,COM-89633,USR-2014,LivraisonRetard,"Commande arrivée après 90 minutes, vraiment pas satisfait.",10/2/2024 14:19,image_7024.jpg,élevé,Ouvert,,,REF-871490
+0ecd122a-00d3-4ccb-9452-a73e8903098d,COM-93146,USR-2619,MauvaiseQualité,"sandwich était trempé, totalement dégoûtant !",3/10/2025 14:19,,élevé,Escaladé,,,REF-518603
+d7539796-3eaa-47fb-bf24-912df9c9f8a8,COM-40914,USR-6027,LivraisonRetard,"Retard de 30 minutes, c'est scandaleux et dérangeant !",9/2/2024 14:19,,moyen,Résolu,9/2/2024 23:19,MOD-8,REF-391125
+39335f5d-1005-464e-9420-278aa8a9ec16,COM-40953,USR-6165,ArticleManquant,"Manque pâtes, service médiocre.",7/23/2024 14:19,image_8274.jpg,moyen,Escaladé,,,REF-611659
+37ed3b90-2d96-411f-802d-9d4ca42a57a0,COM-78276,USR-1730,NourritureEndommagée,"La commande était gâté, très déçu.",1/19/2025 14:19,"image_3989.jpg,image_3353.jpg",élevé,Ouvert,,,REF-916575
+067f2708-6a1c-44db-9148-8e636968b333,COM-63462,USR-7174,CommandeErronée,"J'ai commandé pâtes, mais j'ai reçu salade.",12/22/2024 14:19,,faible,Escaladé,,,REF-447201
+9f215c83-da96-4577-8242-b178de29f7a5,COM-28641,USR-3880,LivraisonRetard,"La nourriture est arrivée avec 1 heure de retard, service décevant.",6/28/2024 14:19,,moyen,Escaladé,,,REF-523849
+40131ead-c412-4c4a-81d5-84700a41f369,COM-35634,USR-5097,CommandeErronée,"Erreur sur ma commande : pâtes au lieu de pizza, très agaçant.",6/23/2025 14:19,,moyen,Résolu,6/23/2025 21:19,MOD-16,REF-144310
+d6a63168-5f7e-44b7-a6f2-a675e22295c5,COM-38980,USR-3310,NourritureEndommagée,"La commande était froid, très déçu.",2/13/2025 14:19,"image_9960.jpg,image_2656.jpg",moyen,Escaladé,,,REF-275525
+a4063c72-79b5-43f5-ac71-43d91039bab3,COM-43206,USR-6592,NourritureEndommagée,"Tout était gâté, expérience catastrophique.",12/7/2024 14:19,image_4657.jpg,élevé,Résolu,12/9/2024 1:19,MOD-5,REF-304574
+f6b53e75-502e-4f7b-b5a1-3ab05586210e,COM-54062,USR-2383,NourritureEndommagée,"sushi livré trempé, c'est scandaleux et dangereux !",8/23/2024 14:19,,élevé,Ouvert,,,REF-290749
+8c67c475-1b3a-4cb4-afc1-8dc33a012e99,COM-69139,USR-8944,MauvaiseQualité,"Qualité médiocre de pâtes, très frustrant.",9/23/2024 14:19,image_4956.jpg,élevé,Escaladé,,,REF-105062
+bd3ef9f4-76de-4a2a-bd66-ed2a2a2f8829,COM-13574,USR-7440,LivraisonRetard,"J'ai attendu 2 heures pour ma commande, très frustrant.",11/14/2024 14:19,image_2938.jpg,élevé,Escaladé,,,REF-305381
+1b1c3088-3d5d-4f94-8ce9-c3439afe4422,COM-82015,USR-2454,CommandeErronée,"Commande erronée livrée, j'ai eu frites et non pizza.",3/14/2025 14:19,,faible,Résolu,3/15/2025 2:19,MOD-11,REF-726343
+bd605c8a-4315-4d48-80bf-541dd57abe6a,COM-81391,USR-4624,CommandeErronée,J'ai reçu sushi au lieu de sandwich.,1/9/2025 14:19,,faible,Résolu,1/10/2025 0:19,MOD-15,REF-365812
+d5d0288b-694a-448f-b222-27de0802f60d,COM-37448,USR-4890,LivraisonRetard,"La nourriture est arrivée avec 90 minutes de retard, service décevant.",3/22/2025 14:19,,moyen,Ouvert,,,REF-346212
+607f2e13-980c-4427-bb38-826e6113a033,COM-90463,USR-3388,LivraisonRetard,"Livraison retardée de 1 heure, totalement inacceptable !",6/14/2025 14:19,,moyen,Ouvert,,,REF-748813
+19391f5a-c04d-465d-9284-c07e60a74ba5,COM-51310,USR-7899,NourritureEndommagée,"La nourriture était sans goût, totalement immangeable.",8/3/2024 14:19,image_6077.jpg,élevé,Ouvert,,,REF-976459
+df6b046a-433c-4d23-a1a4-b7adbe00f501,COM-78991,USR-5286,ArticleManquant,"Manque frites, service médiocre.",1/3/2025 14:19,,faible,Ouvert,,,REF-227392
+4e6688a2-fe3f-4ce2-8412-d2f6babdb67f,COM-47026,USR-6303,LivraisonRetard,"La commande a été livrée avec 90 minutes de retard, la nourriture était froide.",3/21/2025 14:19,,moyen,Escaladé,,,REF-872620
+2b8af600-cca9-40f7-8d7a-9be85e81d558,COM-99849,USR-3061,CommandeErronée,"Mauvais article livré, sandwich à la place de pizza.",10/31/2024 14:19,"image_7074.jpg,image_9603.jpg",faible,Résolu,11/1/2024 7:19,MOD-2,REF-665638
+4e732a55-ea12-4484-9071-ada4dbf6a047,COM-42043,USR-5361,ArticleManquant,"Il manque pâtes dans ma commande, très décevant.",2/8/2025 14:19,,moyen,Escaladé,,,REF-947876
+e52fb5a6-b211-47d8-8362-11f91da22ab6,COM-88102,USR-2872,LivraisonRetard,"Retard de 30 minutes, c'est scandaleux et dérangeant !",3/8/2025 14:19,image_7273.jpg,élevé,Résolu,3/9/2025 6:19,MOD-8,REF-956696
+0ec6f720-ee66-42ca-b6ab-3c670e58b729,COM-93613,USR-7017,MauvaiseQualité,"Très mauvaise qualité de salade, immangeable.",12/14/2024 14:19,,élevé,Ouvert,,,REF-590305
+21a0a875-e349-4451-a7da-da7056ee75f1,COM-41064,USR-3677,ArticleManquant,"Pas de burger, c'est inacceptable et frustrant !",3/31/2025 14:19,,moyen,Résolu,4/2/2025 5:19,MOD-5,REF-740796
+a29287ae-cbed-48cb-8072-3b00d9fe777a,COM-62068,USR-5236,ArticleManquant,"Manque frites, service médiocre.",12/30/2024 14:19,,faible,Résolu,1/1/2025 0:19,MOD-18,REF-483672
+afc01717-8fc0-4bbc-9007-1e98feab95ac,COM-51310,USR-2594,MauvaiseQualité,"pâtes était trempé, je ne commanderai plus.",1/15/2025 14:19,,faible,Escaladé,,,REF-849399
+1e817857-c69d-43b8-8e34-c1f3f637afbc,COM-20485,USR-1872,NourritureEndommagée,"La nourriture était gâté, totalement immangeable.",1/28/2025 14:19,image_7258.jpg,élevé,Escaladé,,,REF-731700
+bdd106fd-bf46-449e-9127-5c56f69c2757,COM-21137,USR-7690,NourritureEndommagée,"La nourriture était sans goût, totalement immangeable.",7/29/2024 14:19,,élevé,Escaladé,,,REF-121468
+38ca703c-c646-4305-967c-769a3b1397a5,COM-11590,USR-6430,ArticleManquant,"Il manque salade dans ma commande, très décevant.",7/30/2024 14:19,,moyen,Résolu,7/30/2024 18:19,MOD-4,REF-191133
+8b7eddeb-d1c8-41a0-9689-1ec583b4e9e8,COM-67964,USR-9243,MauvaiseQualité,"Qualité médiocre de salade, très frustrant.",11/22/2024 14:19,,moyen,Résolu,11/23/2024 19:19,MOD-17,REF-718523
+029355ff-4b43-4046-b7ae-03e9018ef8f5,COM-26716,USR-9937,CommandeErronée,"Commande erronée livrée, j'ai eu salade et non pâtes.",8/14/2024 14:19,,faible,Escaladé,,,REF-711988
+9317aa77-6c2c-418c-8286-5ec2b39f8db6,COM-84886,USR-9180,LivraisonRetard,"La commande a été livrée avec 2 heures de retard, la nourriture était froide.",2/28/2025 14:19,image_2464.jpg,élevé,Ouvert,,,REF-574058
+17465105-d593-4195-a417-6cb9e7e4ffb7,COM-45643,USR-8807,LivraisonRetard,"Commande arrivée après 1 heure, vraiment pas satisfait.",4/16/2025 14:19,image_9950.jpg,élevé,Ouvert,,,REF-752044
+b681ac2d-cfe0-4c45-a53c-3da8ff7297a4,COM-75821,USR-7280,NourritureEndommagée,"salade livré brûlé, c'est scandaleux et dangereux !",6/3/2025 14:19,,élevé,Ouvert,,,REF-127625
+08d864aa-77c2-475e-9f13-a5c38d69a9d0,COM-95457,USR-1662,CommandeErronée,"Livré frites, mais je voulais frites, c'est inacceptable.",7/25/2024 14:19,,faible,Escaladé,,,REF-292705
+2deddabd-c852-499d-8482-6869ac18e4d4,COM-89920,USR-6389,NourritureEndommagée,"La nourriture était froid, totalement immangeable.",9/21/2024 14:19,"image_3770.jpg,image_8084.jpg",élevé,Résolu,9/22/2024 21:19,MOD-15,REF-616807
+d2042d91-0f65-41c4-996f-0a9c1ea2d73d,COM-64150,USR-2551,MauvaiseQualité,"Très mauvaise qualité de sandwich, immangeable.",2/25/2025 14:19,image_9271.jpg,élevé,Résolu,2/27/2025 8:19,MOD-11,REF-537379
+298bd372-5d65-4db5-a2c2-bc60eb87c936,COM-74286,USR-5352,ArticleManquant,"Commande incomplète, sushi non livré.",2/26/2025 14:19,,faible,Escaladé,,,REF-526342
+f710bfb7-1776-498c-bfc5-b2758be96b4f,COM-77719,USR-2406,ArticleManquant,"sandwich manquant, veuillez résoudre immédiatement.",6/6/2025 14:19,,moyen,Ouvert,,,REF-525196
+00f854b8-8cf4-4b87-82a9-a424f3015a94,COM-99759,USR-6806,MauvaiseQualité,"Très mauvaise qualité de sandwich, immangeable.",12/16/2024 14:19,image_1291.jpg,élevé,Escaladé,,,REF-636533
+10e10bd3-4382-43d6-8d3e-caa60e73cff1,COM-63809,USR-1122,ArticleManquant,"sushi manquant, veuillez résoudre immédiatement.",11/3/2024 14:19,image_7780.jpg,élevé,Résolu,11/4/2024 7:19,MOD-18,REF-782442
+959fce8d-cee6-4d81-9912-d3736972a362,COM-96010,USR-8334,LivraisonRetard,"Commande arrivée après 90 minutes, vraiment pas satisfait.",5/10/2025 14:19,,moyen,Ouvert,,,REF-187882
+f34fb58b-be05-44f7-8e24-30c0ce98fe3d,COM-51231,USR-6022,MauvaiseQualité,"pâtes était gâté, je ne commanderai plus.",7/4/2024 14:19,,élevé,Ouvert,,,REF-512484
+f59592fe-d713-4a43-ba90-24b19eba3659,COM-17646,USR-6969,MauvaiseQualité,"Très mauvaise qualité de salade, immangeable.",3/16/2025 14:19,,élevé,Résolu,3/17/2025 0:19,MOD-13,REF-995346
+64c96101-522a-4526-9026-79fd53435227,COM-90528,USR-1528,ArticleManquant,"Il manque burger dans ma commande, très décevant.",1/18/2025 14:19,,moyen,Résolu,1/19/2025 11:19,MOD-7,REF-696943
+f2d14488-41e7-47ec-9f7f-6b1d220edf7d,COM-91555,USR-2719,MauvaiseQualité,"pizza était sans goût, totalement dégoûtant !",9/28/2024 14:19,,élevé,Escaladé,,,REF-462579
+67667a8c-141b-4517-a8fd-6f13dfb33a1b,COM-25278,USR-7008,NourritureEndommagée,"La commande était gâté, très déçu.",7/18/2024 14:19,,élevé,Résolu,7/19/2024 14:19,MOD-10,REF-881188
+a27d68a7-b89a-41a1-b067-4c038f6c5668,COM-48836,USR-5539,CommandeErronée,"J'ai commandé sushi, mais j'ai reçu sushi.",9/30/2024 14:19,,faible,Escaladé,,,REF-420418
+dad0f8cd-45be-4b63-8c79-faf80b1c2f63,COM-57792,USR-8134,MauvaiseQualité,"sandwich était écrasé, totalement dégoûtant !",3/25/2025 14:19,,élevé,Escaladé,,,REF-891073
+17cecec2-22f3-49b9-919a-9eb76ebcd34f,COM-93586,USR-9921,LivraisonRetard,"La nourriture est arrivée avec 30 minutes de retard, service décevant.",2/28/2025 14:19,image_4209.jpg,élevé,Ouvert,,,REF-761309
+d79d08be-058e-40a4-96dd-8835bbd00c01,COM-38116,USR-7818,CommandeErronée,J'ai reçu pizza au lieu de sushi.,1/15/2025 14:19,,faible,Résolu,1/15/2025 22:19,MOD-19,REF-174756
+69e1a856-050a-4e48-9b25-3f4712d054cf,COM-50323,USR-2462,CommandeErronée,"Livré pâtes, mais je voulais pâtes, c'est inacceptable.",1/28/2025 14:19,,faible,Escaladé,,,REF-731853
+4d0eeb24-b8bb-48c4-a331-8dd568494743,COM-98118,USR-1449,ArticleManquant,"Je n'ai pas reçu sandwich, besoin d'un remboursement.",4/19/2025 14:19,,faible,Ouvert,,,REF-899665
+a8e03f07-3967-494b-bef1-91cee34a9cd8,COM-91572,USR-7902,CommandeErronée,"Commande erronée livrée, j'ai eu frites et non frites.",5/13/2025 14:19,,faible,Escaladé,,,REF-286010
+ce3257bd-1a2c-4468-8f52-d4db3db823fd,COM-58674,USR-9249,NourritureEndommagée,"Tout était brûlé, expérience catastrophique.",6/25/2025 14:19,image_3251.jpg,élevé,Ouvert,,,REF-240272
+63cd662a-2738-4f3f-838b-c8103b26dd15,COM-27208,USR-2106,MauvaiseQualité,"pâtes avait un goût trempé, expérience horrible.",8/18/2024 14:19,"image_7581.jpg,image_1569.jpg",élevé,Résolu,8/18/2024 15:19,MOD-7,REF-963790
+05defdec-cb88-4f64-94fc-8b3712500c67,COM-41636,USR-2413,NourritureEndommagée,"sandwich était écrasé, qualité inacceptable.",5/28/2025 14:19,image_9393.jpg,élevé,Résolu,5/28/2025 15:19,MOD-12,REF-747658
+32857304-b098-4e77-b00d-2a6ff72e9bf9,COM-40872,USR-2775,ArticleManquant,"Je n'ai pas reçu pâtes, besoin d'un remboursement.",6/29/2024 14:19,image_5789.jpg,faible,Ouvert,,,REF-209377
+13228c25-ef9a-4aa9-b4fc-65dfc55aba4a,COM-71886,USR-3995,LivraisonRetard,"La nourriture est arrivée avec 2 heures de retard, service décevant.",10/24/2024 14:19,"image_8672.jpg,image_5523.jpg",élevé,Résolu,10/25/2024 6:19,MOD-2,REF-613127
+7342de45-2f53-4d42-a08a-81b9b687ca13,COM-38275,USR-2892,MauvaiseQualité,"sushi était gâté, totalement dégoûtant !",11/22/2024 14:19,image_7890.jpg,élevé,Escaladé,,,REF-161629
+b3ab0997-71ac-4399-9669-8da0c297d4ad,COM-27697,USR-7708,MauvaiseQualité,"Très mauvaise qualité de pizza, immangeable.",2/14/2025 14:19,,élevé,Escaladé,,,REF-722545
+63044034-fad4-49c7-887c-9fc7f4d2c595,COM-50737,USR-9813,NourritureEndommagée,"burger livré écrasé, c'est scandaleux et dangereux !",7/8/2024 14:19,image_1379.jpg,élevé,Résolu,7/9/2024 5:19,MOD-10,REF-944327
+af7fd46c-dd41-4c1a-b0cc-3b976c35066b,COM-76561,USR-8346,MauvaiseQualité,"Très mauvaise qualité de pizza, immangeable.",9/12/2024 14:19,,élevé,Ouvert,,,REF-562505
+70eb9e50-8762-4c94-ae8c-7777be0f3e55,COM-81715,USR-3988,MauvaiseQualité,"sandwich avait un goût gâté, expérience horrible.",1/2/2025 14:19,image_6126.jpg,élevé,Ouvert,,,REF-749144
+e4a72389-603a-4f29-b2d7-4ae22f5bb519,COM-25538,USR-8855,CommandeErronée,"Erreur sur ma commande : sandwich au lieu de pizza, très agaçant.",3/14/2025 14:19,,moyen,Ouvert,,,REF-216835
+870918ed-5920-4ac6-93a0-11a56353e839,COM-40834,USR-8762,LivraisonRetard,"La commande a été livrée avec 90 minutes de retard, la nourriture était froide.",11/13/2024 14:19,,moyen,Ouvert,,,REF-520964
+0f97c462-6c95-4e1b-9247-4f889b2a8a27,COM-16104,USR-8185,ArticleManquant,"Manque frites, service médiocre.",8/4/2024 14:19,,faible,Ouvert,,,REF-819177
+5fa9f623-df14-40d2-934e-8edaeee83512,COM-71082,USR-1770,LivraisonRetard,"Retard de 2 heures, c'est scandaleux et dérangeant !",10/16/2024 14:19,,élevé,Résolu,10/17/2024 1:19,MOD-10,REF-636042
+7b7e9245-36ac-4d37-8dd4-4f66d136db9f,COM-94039,USR-2789,NourritureEndommagée,"Tout était brûlé, expérience catastrophique.",8/4/2024 14:19,,élevé,Résolu,8/6/2024 13:19,MOD-6,REF-743768
+0f4b0b25-54d1-4620-841a-c79324cfd543,COM-78024,USR-9291,ArticleManquant,"Pas de sandwich, c'est inacceptable et frustrant !",6/12/2025 14:19,,moyen,Résolu,6/13/2025 14:19,MOD-8,REF-117145
+5b61127d-dc86-4939-8266-15c0397cbaf2,COM-42283,USR-6799,LivraisonRetard,"Retard de 2 heures, c'est scandaleux et dérangeant !",2/5/2025 14:19,,élevé,Résolu,2/6/2025 1:19,MOD-7,REF-728733
+27b5f44e-3bd3-4bd2-ada6-f4988510bca8,COM-29715,USR-2090,ArticleManquant,"pizza manquant, veuillez résoudre immédiatement.",1/16/2025 14:19,,moyen,Ouvert,,,REF-631177
+e88b0e07-6a93-4b83-ac15-36319c6baf1f,COM-10064,USR-9235,CommandeErronée,J'ai reçu sandwich au lieu de salade.,8/30/2024 14:19,,faible,Escaladé,,,REF-501793
+4b7a7898-e59c-49c7-823a-45d993a10c5a,COM-77003,USR-7066,MauvaiseQualité,"sandwich avait un goût trempé, expérience horrible.",11/1/2024 14:19,,élevé,Ouvert,,,REF-772009
+6b1183af-16e1-4d3b-98db-7a815b604f28,COM-56420,USR-2948,CommandeErronée,"J'ai commandé salade, mais j'ai reçu pâtes.",5/8/2025 14:19,image_2498.jpg,faible,Ouvert,,,REF-320772
+98dc07ad-c690-4745-9587-265e35fe53ef,COM-38495,USR-4770,MauvaiseQualité,"pizza était trempé, je ne commanderai plus.",1/16/2025 14:19,,faible,Résolu,1/16/2025 17:19,MOD-10,REF-381485
+fe0cfa78-5609-4057-8c5b-a0e22a14b3f0,COM-71250,USR-7093,LivraisonRetard,"La commande a été livrée avec 30 minutes de retard, la nourriture était froide.",1/13/2025 14:19,image_1620.jpg,moyen,Ouvert,,,REF-458121
+6cb4fc30-dbea-4717-8bdd-9fc84ef46e12,COM-83698,USR-8414,NourritureEndommagée,"frites était écrasé, qualité inacceptable.",2/20/2025 14:19,,élevé,Ouvert,,,REF-164064
+e0b26653-1d18-4821-aab1-f0fe3428872c,COM-99321,USR-5973,ArticleManquant,"Pas de burger, c'est inacceptable et frustrant !",7/31/2024 14:19,,moyen,Résolu,8/2/2024 9:19,MOD-7,REF-587130
+ffd35c98-b5b5-4078-b40d-59008980934f,COM-98861,USR-4352,CommandeErronée,"Mauvais article livré, sushi à la place de pizza.",10/10/2024 14:19,,faible,Résolu,10/12/2024 12:19,MOD-5,REF-754815
+c7a8c8db-2b3c-45ae-b183-d5ff285e6989,COM-76955,USR-9173,NourritureEndommagée,"pâtes livré gâté, c'est scandaleux et dangereux !",2/1/2025 14:19,image_3998.jpg,élevé,Escaladé,,,REF-869504
+bc0e70ae-1000-424c-896c-1d1a16bf4ab7,COM-28645,USR-7485,CommandeErronée,"Livré pizza, mais je voulais sandwich, c'est inacceptable.",6/29/2024 14:19,,faible,Ouvert,,,REF-279608
+c37fb3a8-5762-416f-bd83-09cbd4204126,COM-65685,USR-7310,MauvaiseQualité,"Très mauvaise qualité de frites, immangeable.",6/5/2025 14:19,image_9766.jpg,élevé,Escaladé,,,REF-631410
+db2d3ec1-6a0c-4e80-8533-4057c0fd4db7,COM-56301,USR-3536,NourritureEndommagée,"Tout était trempé, expérience catastrophique.",12/15/2024 14:19,image_9242.jpg,élevé,Résolu,12/16/2024 22:19,MOD-11,REF-661177
+13607622-a5c4-4f39-96d7-ba4fcefa0062,COM-81918,USR-2185,CommandeErronée,"Mauvais article livré, salade à la place de frites.",7/9/2024 14:19,,faible,Escaladé,,,REF-254129
+44ddf9b4-28b7-46ec-aa4b-89c4ac4e6610,COM-40068,USR-2556,ArticleManquant,"frites manquant, veuillez résoudre immédiatement.",1/4/2025 14:19,,moyen,Résolu,1/4/2025 17:19,MOD-11,REF-425883
+233d6bdf-d96c-4687-97e6-5839f38c9d5d,COM-42486,USR-6605,ArticleManquant,"Je n'ai pas reçu sandwich, besoin d'un remboursement.",12/10/2024 14:19,,faible,Ouvert,,,REF-209530
+8270ae70-56f5-466c-9e27-419f69c99bef,COM-18651,USR-8717,LivraisonRetard,"Livraison retardée de 30 minutes, totalement inacceptable !",7/31/2024 14:19,,faible,Escaladé,,,REF-927738
+2c0fa709-ca2c-4f24-b458-16a0f2917f9d,COM-36427,USR-6083,LivraisonRetard,"Livraison retardée de 30 minutes, totalement inacceptable !",3/2/2025 14:19,,faible,Ouvert,,,REF-985767
+06982b97-fe72-40d3-ae1d-c977c189077b,COM-38973,USR-9475,MauvaiseQualité,"frites avait un goût brûlé, expérience horrible.",2/22/2025 14:19,image_5261.jpg,élevé,Ouvert,,,REF-751909
+df3eee8f-5dd1-47f2-bc67-bcba148bd636,COM-59419,USR-5193,ArticleManquant,"Il manque sushi dans ma commande, très décevant.",9/5/2024 14:19,,moyen,Escaladé,,,REF-542416
+cc7ae279-d492-4747-8298-18257f8d379e,COM-27960,USR-2988,CommandeErronée,"J'ai commandé pâtes, mais j'ai reçu pâtes.",9/18/2024 14:19,,faible,Ouvert,,,REF-726285
+91d8e60e-f6b2-4515-b715-6f2328c76a61,COM-43775,USR-2920,MauvaiseQualité,"burger était écrasé, je ne commanderai plus.",9/13/2024 14:19,image_3721.jpg,faible,Escaladé,,,REF-233602
+69df2007-9de8-4d51-8097-ae5206452e9f,COM-89114,USR-4678,LivraisonRetard,"La commande a été livrée avec 1 heure de retard, la nourriture était froide.",6/9/2025 14:19,"image_2320.jpg,image_9722.jpg",élevé,Ouvert,,,REF-440704
+4e2d56d0-c82e-45ec-be44-6860255cc6b8,COM-30355,USR-7235,MauvaiseQualité,"sandwich avait un goût froid, expérience horrible.",9/1/2024 14:19,,élevé,Ouvert,,,REF-929642
+52b80f05-687f-4e58-ba48-a66524640a3f,COM-73158,USR-4226,MauvaiseQualité,"sandwich avait un goût froid, expérience horrible.",11/3/2024 14:19,,élevé,Résolu,11/4/2024 21:19,MOD-2,REF-888669
+83b5255f-d2e1-442c-be05-d4142a16bf97,COM-75702,USR-6411,MauvaiseQualité,"frites était trempé, je ne commanderai plus.",3/6/2025 14:19,,faible,Escaladé,,,REF-833593
+3fccda41-7ed3-423f-9977-3194bc1b67cb,COM-26875,USR-7554,ArticleManquant,"Je n'ai pas reçu frites, besoin d'un remboursement.",1/4/2025 14:19,,faible,Ouvert,,,REF-681096
+119b19b3-98f1-4ec6-ae59-08696fdf56e8,COM-12593,USR-9851,ArticleManquant,"Il manque sushi dans ma commande, très décevant.",12/5/2024 14:19,image_7570.jpg,élevé,Ouvert,,,REF-536102
+87d365e6-eeda-4377-83f0-d9a616034600,COM-88570,USR-4553,MauvaiseQualité,"Qualité médiocre de pizza, très frustrant.",9/3/2024 14:19,"image_6013.jpg,image_7943.jpg",élevé,Résolu,9/5/2024 5:19,MOD-15,REF-761613
+ab36e491-28ec-4137-88c1-c23d1ca47603,COM-93388,USR-5594,MauvaiseQualité,"pâtes était trempé, je ne commanderai plus.",5/20/2025 14:19,,faible,Résolu,5/21/2025 12:19,MOD-8,REF-458003
+c8d3d583-3bcd-49c2-8390-d332353f2f69,COM-18090,USR-7287,MauvaiseQualité,"Qualité médiocre de pizza, très frustrant.",9/9/2024 14:19,"image_7278.jpg,image_9706.jpg",élevé,Résolu,9/10/2024 5:19,MOD-9,REF-237096
+ee1d1fa7-ee16-4b8c-b6d2-4a4a6f3968db,COM-39280,USR-3719,ArticleManquant,"Manque salade, service médiocre.",4/19/2025 14:19,,faible,Résolu,4/20/2025 22:19,MOD-19,REF-908366
+4d88d8df-4d86-47fe-b36e-8377995331fc,COM-31399,USR-6717,LivraisonRetard,"La commande a été livrée avec 2 heures de retard, la nourriture était froide.",12/29/2024 14:19,,élevé,Résolu,12/31/2024 14:19,MOD-1,REF-522631
+c0554968-7d97-448f-905e-979bcb4777b6,COM-97288,USR-3016,CommandeErronée,"Erreur sur ma commande : sushi au lieu de burger, très agaçant.",7/18/2024 14:19,,moyen,Résolu,7/20/2024 9:19,MOD-15,REF-835200
+00a63383-9b5c-4a38-a8ef-d6613cd34ebe,COM-38057,USR-9317,CommandeErronée,"Commande erronée livrée, j'ai eu pâtes et non burger.",11/7/2024 14:19,image_7243.jpg,faible,Escaladé,,,REF-339985
+fe921015-9013-4f8a-880d-e914ebf968b2,COM-86974,USR-5613,MauvaiseQualité,"salade était sans goût, je ne commanderai plus.",1/18/2025 14:19,,faible,Escaladé,,,REF-614930
+c5c9ce63-4641-4614-89fd-058c70d1e572,COM-39540,USR-8774,NourritureEndommagée,"La nourriture était sans goût, totalement immangeable.",12/30/2024 14:19,,élevé,Escaladé,,,REF-188704
+7c206090-f740-4027-9cfe-e864f68aa4fa,COM-34237,USR-5365,CommandeErronée,"J'ai commandé pâtes, mais j'ai reçu frites.",7/31/2024 14:19,image_6983.jpg,faible,Escaladé,,,REF-823903
+04e52848-0b89-4cff-afc6-a94e06a514c2,COM-34465,USR-9972,LivraisonRetard,"La commande a été livrée avec 30 minutes de retard, la nourriture était froide.",2/8/2025 14:19,"image_7427.jpg,image_9503.jpg",moyen,Ouvert,,,REF-888251
+8f88aa76-44f4-41c9-872d-5c2e76d530e0,COM-27335,USR-4441,CommandeErronée,"Livré sandwich, mais je voulais pâtes, c'est inacceptable.",1/9/2025 14:19,,faible,Escaladé,,,REF-790864
+20b78302-f67e-4e82-af1f-1113c18f8e08,COM-28263,USR-2904,LivraisonRetard,"La commande a été livrée avec 90 minutes de retard, la nourriture était froide.",6/8/2025 14:19,"image_5029.jpg,image_1508.jpg",élevé,Ouvert,,,REF-152236
+9670b2f1-25ed-441d-80c1-4bcde20076b0,COM-71738,USR-9787,ArticleManquant,"sushi manquant, veuillez résoudre immédiatement.",11/22/2024 14:19,,moyen,Ouvert,,,REF-796027
+aabd7236-73cd-4526-a85c-9e8e6f32e5c8,COM-92638,USR-7105,CommandeErronée,"Erreur sur ma commande : frites au lieu de sandwich, très agaçant.",1/9/2025 14:19,image_2725.jpg,élevé,Ouvert,,,REF-646265
+96db2b69-d24d-413a-81f9-3dbf78e383ce,COM-96747,USR-8816,ArticleManquant,"Pas de salade, c'est inacceptable et frustrant !",3/1/2025 14:19,,moyen,Escaladé,,,REF-745422
+c5b1e2d6-e50e-488c-b53b-fc982486129c,COM-70505,USR-8793,ArticleManquant,"Je n'ai pas reçu pâtes, besoin d'un remboursement.",12/16/2024 14:19,"image_8726.jpg,image_8482.jpg",faible,Résolu,12/18/2024 11:19,MOD-3,REF-740343
+adb1b15e-c75a-487a-8747-e01ef455e902,COM-45651,USR-5141,CommandeErronée,"Mauvais article livré, salade à la place de salade.",5/1/2025 14:19,,faible,Résolu,5/2/2025 21:19,MOD-2,REF-712636
+3d9b7255-75af-4793-8a6f-5eaae73e7951,COM-50042,USR-5109,CommandeErronée,"Livré pizza, mais je voulais frites, c'est inacceptable.",8/7/2024 14:19,"image_1839.jpg,image_9417.jpg",moyen,Ouvert,,,REF-113493
+c34bd021-a337-4d97-84aa-e8ed560b51e0,COM-47492,USR-8314,NourritureEndommagée,"frites est arrivé écrasé, besoin d'un remplacement.",10/3/2024 14:19,,faible,Escaladé,,,REF-619205
+771364d1-01d0-4a8b-8f0a-306e271dd7e0,COM-91623,USR-5779,ArticleManquant,"sushi manquant, veuillez résoudre immédiatement.",11/2/2024 14:19,,moyen,Ouvert,,,REF-134582
+a581fa07-2278-4631-bff8-4294e8e30142,COM-94645,USR-8758,NourritureEndommagée,"La nourriture était écrasé, totalement immangeable.",12/8/2024 14:19,,élevé,Résolu,12/9/2024 11:19,MOD-18,REF-511481
+690c26c8-8d0f-410c-8fc1-4077a0b60ebf,COM-92703,USR-7692,CommandeErronée,"Commande erronée livrée, j'ai eu pâtes et non salade.",4/18/2025 14:19,,faible,Résolu,4/19/2025 0:19,MOD-16,REF-769395
+aa06d430-a7a1-45ef-bbce-4026db39f6ef,COM-29661,USR-3277,LivraisonRetard,"Retard de 2 heures, c'est scandaleux et dérangeant !",3/14/2025 14:19,,élevé,Ouvert,,,REF-588795
+c1a44a48-f6ea-4a69-8f43-2764983a0833,COM-41621,USR-3576,CommandeErronée,"Commande erronée livrée, j'ai eu pizza et non frites.",6/11/2025 14:19,,faible,Escaladé,,,REF-464688
+ddae09ff-6a2d-4c25-b85e-0b7dbb83fc06,COM-25172,USR-1541,ArticleManquant,"frites manquant, veuillez résoudre immédiatement.",12/18/2024 14:19,,moyen,Ouvert,,,REF-421441
+0e73c0c4-8bdb-4789-9396-b28dedb835c1,COM-45386,USR-1371,ArticleManquant,"salade manquant, veuillez résoudre immédiatement.",8/30/2024 14:19,,moyen,Résolu,8/30/2024 19:19,MOD-4,REF-970998
+4491b5e8-5d70-4346-ade7-dbe08d0e2750,COM-43232,USR-6968,CommandeErronée,"Erreur sur ma commande : sushi au lieu de pizza, très agaçant.",8/11/2024 14:19,image_4267.jpg,élevé,Résolu,8/13/2024 10:19,MOD-19,REF-163784
+d0c1bd57-d074-4c7b-9964-e3520ae6ea9e,COM-91817,USR-4851,ArticleManquant,"Je n'ai pas reçu pâtes, besoin d'un remboursement.",7/17/2024 14:19,,faible,Ouvert,,,REF-694750
+ae745678-bbf7-4c68-b28a-0923a1f74a68,COM-21198,USR-6031,ArticleManquant,"Il manque sandwich dans ma commande, très décevant.",10/9/2024 14:19,image_3591.jpg,élevé,Escaladé,,,REF-337090
+f6e8e177-8981-4545-a688-c12c503e67a8,COM-11172,USR-3341,LivraisonRetard,"La nourriture est arrivée avec 90 minutes de retard, service décevant.",7/4/2024 14:19,,moyen,Ouvert,,,REF-350364
+53f99b43-b32d-4e26-bf96-51391c1bae68,COM-20630,USR-9550,ArticleManquant,"Manque frites, service médiocre.",11/28/2024 14:19,,faible,Escaladé,,,REF-946208
+e1320a9c-0656-48f3-ad83-db5d7251f371,COM-86709,USR-1075,ArticleManquant,"Il manque burger dans ma commande, très décevant.",3/10/2025 14:19,,moyen,Escaladé,,,REF-100208
+e87f743c-a945-47a9-8bd9-e22a2d55f87d,COM-74361,USR-1874,CommandeErronée,J'ai reçu salade au lieu de salade.,3/7/2025 14:19,image_1817.jpg,faible,Ouvert,,,REF-610142
+909a21bd-d3d5-413d-84f5-23d3a6f15e63,COM-68529,USR-3716,MauvaiseQualité,"frites était gâté, je ne commanderai plus.",4/23/2025 14:19,,élevé,Escaladé,,,REF-525600
+458f727b-451e-4cb3-bfdb-06c8b19b32eb,COM-33384,USR-1989,ArticleManquant,"Manque pâtes, service médiocre.",6/5/2025 14:19,,faible,Escaladé,,,REF-420306
+fb375975-e48f-40cd-96d2-d837785ce01b,COM-64338,USR-9760,LivraisonRetard,"La nourriture est arrivée avec 2 heures de retard, service décevant.",12/27/2024 14:19,image_5556.jpg,élevé,Résolu,12/28/2024 7:19,MOD-6,REF-744904
+157ace90-6a07-4dcb-a964-629ff9559604,COM-79849,USR-2580,LivraisonRetard,"La nourriture est arrivée avec 30 minutes de retard, service décevant.",2/10/2025 14:19,image_7101.jpg,élevé,Ouvert,,,REF-127472
+e7ead7b8-a6b2-48da-90fe-3d8fbcf770e6,COM-21736,USR-6922,MauvaiseQualité,"frites avait un goût trempé, expérience horrible.",4/4/2025 14:19,image_8836.jpg,élevé,Résolu,4/5/2025 13:19,MOD-19,REF-256092
+2cab8eb7-62b5-48a7-8440-d1374fe74f7f,COM-52376,USR-6413,NourritureEndommagée,"sushi livré écrasé, c'est scandaleux et dangereux !",2/25/2025 14:19,,élevé,Escaladé,,,REF-634249
+03ee03e0-775b-4089-b7e5-2aa74162374a,COM-17449,USR-9505,LivraisonRetard,"La commande a été livrée avec 1 heure de retard, la nourriture était froide.",5/25/2025 14:19,,moyen,Résolu,5/26/2025 14:19,MOD-1,REF-975296
+8ccf64c7-d179-49cc-b242-0c87325fa007,COM-72516,USR-7310,CommandeErronée,"Livré sushi, mais je voulais sushi, c'est inacceptable.",1/21/2025 14:19,,faible,Escaladé,,,REF-237065
+76dd88c7-658c-4a3d-96b5-f3a368d5c03a,COM-73723,USR-3022,NourritureEndommagée,"burger était brûlé, qualité inacceptable.",11/11/2024 14:19,,élevé,Ouvert,,,REF-617231
+508eaeb5-8b7c-43bd-ac95-fb42f411aff0,COM-83453,USR-2078,CommandeErronée,J'ai reçu pizza au lieu de burger.,7/22/2024 14:19,,faible,Ouvert,,,REF-958764
+a41bebd6-81d2-47a3-bfb1-b31e7d305e3a,COM-36682,USR-4130,NourritureEndommagée,"Tout était froid, expérience catastrophique.",5/18/2025 14:19,,élevé,Résolu,5/19/2025 19:19,MOD-6,REF-845285
+ddd57c05-5ee4-4bc6-a955-c1a313115a9a,COM-13614,USR-1285,MauvaiseQualité,"Très mauvaise qualité de sushi, immangeable.",11/30/2024 14:19,image_1671.jpg,élevé,Résolu,12/2/2024 9:19,MOD-1,REF-678009
+b60584f6-747f-4ea8-8065-7e148759c8af,COM-19386,USR-9064,LivraisonRetard,"La commande a été livrée avec 90 minutes de retard, la nourriture était froide.",5/16/2025 14:19,"image_2058.jpg,image_8970.jpg",élevé,Escaladé,,,REF-437398
+6e6d9ca6-a013-4d98-8916-7dcf112b5ac3,COM-21489,USR-8129,CommandeErronée,"Livré sushi, mais je voulais pizza, c'est inacceptable.",4/28/2025 14:19,,faible,Ouvert,,,REF-288931
+6a9b74f6-a66a-4373-bf6b-945d87f87824,COM-62271,USR-1421,NourritureEndommagée,"sushi livré trempé, c'est scandaleux et dangereux !",8/23/2024 14:19,,élevé,Ouvert,,,REF-563457
+c3aa1c80-06c9-4871-875d-6cd0f961cc6c,COM-60816,USR-4330,LivraisonRetard,"Livraison retardée de 1 heure, totalement inacceptable !",9/19/2024 14:19,image_5499.jpg,élevé,Escaladé,,,REF-583129
+951dcd28-1c86-44b3-ab9a-1b326197dc6f,COM-64418,USR-7864,ArticleManquant,"Je n'ai pas reçu frites, besoin d'un remboursement.",7/21/2024 14:19,,faible,Escaladé,,,REF-646019
+9a6031c9-e6d2-4215-8fae-c9465bc121f4,COM-56356,USR-7223,MauvaiseQualité,"burger avait un goût sans goût, expérience horrible.",3/11/2025 14:19,,élevé,Escaladé,,,REF-226535
+873c9467-5ed0-4ab2-99b2-f81d9b6e8ef3,COM-92739,USR-8762,MauvaiseQualité,"La nourriture était froid, pas à la hauteur.",1/20/2025 14:19,,faible,Escaladé,,,REF-407946
+b10662a6-02d3-4595-a2f7-89c9efb58c40,COM-60840,USR-7929,CommandeErronée,"Erreur sur ma commande : sandwich au lieu de pâtes, très agaçant.",3/3/2025 14:19,,moyen,Résolu,3/5/2025 10:19,MOD-7,REF-282010
+e9b37b8e-0b60-417d-be99-a14399241ec6,COM-48962,USR-6904,LivraisonRetard,"La nourriture est arrivée avec 30 minutes de retard, service décevant.",2/19/2025 14:19,,moyen,Escaladé,,,REF-112883
+3bccfae6-40ad-4312-b177-32a7bbabd676,COM-92521,USR-5150,CommandeErronée,"Erreur sur ma commande : pâtes au lieu de burger, très agaçant.",2/4/2025 14:19,,moyen,Escaladé,,,REF-315996
+4dcae4d0-dbbd-4d25-b53b-7849a7a89768,COM-77607,USR-8766,MauvaiseQualité,"Qualité médiocre de salade, très frustrant.",11/5/2024 14:19,image_7585.jpg,élevé,Escaladé,,,REF-770935
+2faa5aec-1aa6-4584-a0a7-624d53d50a6d,COM-59839,USR-9541,MauvaiseQualité,"frites avait un goût gâté, expérience horrible.",8/5/2024 14:19,,élevé,Ouvert,,,REF-485445
+5e1990ee-316e-4828-b1ea-d8e656f540da,COM-13974,USR-5858,ArticleManquant,"pâtes manquant, veuillez résoudre immédiatement.",8/27/2024 14:19,"image_8010.jpg,image_5394.jpg",élevé,Ouvert,,,REF-943186
+5e0df124-ab5f-4a5f-9227-6f58cc874b86,COM-66707,USR-1141,MauvaiseQualité,"Qualité médiocre de salade, très frustrant.",2/18/2025 14:19,image_9160.jpg,élevé,Ouvert,,,REF-593813
+a8bad350-94fd-45f6-870b-54bc63efd84b,COM-28664,USR-2167,NourritureEndommagée,"Tout était froid, expérience catastrophique.",10/26/2024 14:19,,élevé,Ouvert,,,REF-667968
+d2b77033-1aaf-4dcb-95d3-8bc127ec7879,COM-88825,USR-5783,LivraisonRetard,"Retard de 30 minutes, c'est scandaleux et dérangeant !",3/3/2025 14:19,,moyen,Escaladé,,,REF-854465
+2dd4f79c-bdea-4d88-b04b-683314961551,COM-70768,USR-6627,LivraisonRetard,"Livraison retardée de 1 heure, totalement inacceptable !",8/3/2024 14:19,,moyen,Ouvert,,,REF-745622
+4f63c67a-77e4-40cc-a02e-280b1e07e609,COM-48148,USR-2312,CommandeErronée,"Erreur sur ma commande : pâtes au lieu de pâtes, très agaçant.",12/24/2024 14:19,image_5852.jpg,élevé,Escaladé,,,REF-192965
+47de126c-871e-4bf1-9ed7-307c2c618d87,COM-45680,USR-4628,ArticleManquant,"Commande incomplète, sushi non livré.",8/5/2024 14:19,,faible,Escaladé,,,REF-954101
+a548cc2a-dd1a-4a3e-ad3b-2f92a0a6eb43,COM-24739,USR-6299,NourritureEndommagée,"frites est arrivé écrasé, besoin d'un remplacement.",8/17/2024 14:19,,faible,Ouvert,,,REF-129963
+92a96ec7-3071-4656-826f-581b90c4dfa0,COM-84948,USR-5803,LivraisonRetard,"La commande a été livrée avec 1 heure de retard, la nourriture était froide.",8/9/2024 14:19,image_8181.jpg,élevé,Escaladé,,,REF-826847
+fe9aa860-cd5b-4c22-a6d1-d3fb2f20b64f,COM-64805,USR-9673,NourritureEndommagée,"frites livré gâté, c'est scandaleux et dangereux !",7/31/2024 14:19,image_3927.jpg,élevé,Résolu,8/1/2024 23:19,MOD-20,REF-914672
+51301ee9-06fc-4780-bcdb-fe46bcab5672,COM-59079,USR-5591,ArticleManquant,"Manque salade, service médiocre.",5/15/2025 14:19,,faible,Résolu,5/17/2025 0:19,MOD-15,REF-445889
+8e33f582-45b5-48c7-af98-da9e7a0b9c61,COM-82752,USR-9293,LivraisonRetard,"Commande arrivée après 30 minutes, vraiment pas satisfait.",3/20/2025 14:19,image_8585.jpg,élevé,Ouvert,,,REF-958361
+8f7baf9d-58dd-4448-9683-67786dd4dca6,COM-58081,USR-3001,LivraisonRetard,"Retard de 1 heure, c'est scandaleux et dérangeant !",10/25/2024 14:19,,moyen,Escaladé,,,REF-163646
+709f6dda-201f-4d8a-ba45-f8fc66239346,COM-56374,USR-6637,LivraisonRetard,"Retard de 30 minutes, c'est scandaleux et dérangeant !",8/31/2024 14:19,"image_8667.jpg,image_6309.jpg",élevé,Résolu,9/1/2024 15:19,MOD-12,REF-439190
+56220ecd-bf0a-4d12-b25b-fad5c2067acf,COM-80848,USR-6938,CommandeErronée,"Erreur sur ma commande : frites au lieu de sandwich, très agaçant.",2/19/2025 14:19,image_6110.jpg,élevé,Ouvert,,,REF-156093
+046b044a-141d-4d4a-a9ef-b3c4c55c51d3,COM-17424,USR-2883,NourritureEndommagée,"La commande était froid, très déçu.",3/16/2025 14:19,"image_3783.jpg,image_5101.jpg",moyen,Résolu,3/17/2025 14:19,MOD-2,REF-952567
+43541491-f0ca-45da-b982-2455a401acbb,COM-98710,USR-9127,NourritureEndommagée,"salade est arrivé écrasé, besoin d'un remplacement.",6/2/2025 14:19,,faible,Ouvert,,,REF-455406
+dcb23eec-7d11-43d5-a180-c1ace7643a59,COM-34300,USR-6231,MauvaiseQualité,"Qualité médiocre de pâtes, très frustrant.",6/9/2025 14:19,,moyen,Ouvert,,,REF-512001
+4925d503-591d-4225-903d-a4ec9bb3d86a,COM-36318,USR-2644,NourritureEndommagée,"La nourriture était gâté, totalement immangeable.",11/4/2024 14:19,,élevé,Résolu,11/5/2024 16:19,MOD-16,REF-106830
+d1445fb6-aa17-4306-ba61-821e47af1dd6,COM-12409,USR-7647,NourritureEndommagée,"La nourriture était brûlé, totalement immangeable.",5/26/2025 14:19,image_7742.jpg,élevé,Résolu,5/27/2025 13:19,MOD-14,REF-767323
+59b2f6ac-278c-487c-bec5-edf1803bf311,COM-22791,USR-4781,LivraisonRetard,"Retard de 2 heures, c'est scandaleux et dérangeant !",8/17/2024 14:19,,élevé,Ouvert,,,REF-322198
+1fefd3d1-7f02-4c2b-9314-f011d480ea66,COM-60382,USR-7093,MauvaiseQualité,"Qualité médiocre de frites, très frustrant.",5/19/2025 14:19,image_7894.jpg,élevé,Résolu,5/20/2025 11:19,MOD-2,REF-759085
+90e6391e-e703-4d87-999e-f54fd04e33ed,COM-54935,USR-7519,ArticleManquant,"Je n'ai pas reçu pâtes, besoin d'un remboursement.",8/10/2024 14:19,image_7152.jpg,faible,Escaladé,,,REF-904385
+4774771e-27bf-4fc4-9995-5df5f0da4574,COM-11711,USR-9071,CommandeErronée,"Livré sandwich, mais je voulais sushi, c'est inacceptable.",4/11/2025 14:19,"image_5869.jpg,image_4463.jpg",moyen,Escaladé,,,REF-248406
+d097ca0c-ded0-474f-90b0-5fb8b556a3f5,COM-43790,USR-9762,ArticleManquant,"salade manquant, veuillez résoudre immédiatement.",8/16/2024 14:19,image_1063.jpg,élevé,Ouvert,,,REF-504355
+ee92ab73-263e-408c-80c4-ee39da8a25ab,COM-70849,USR-9103,LivraisonRetard,"La commande a été livrée avec 90 minutes de retard, la nourriture était froide.",4/13/2025 14:19,,moyen,Ouvert,,,REF-470072
+db0f02b3-d7a0-4ce6-923a-770d30212987,COM-40001,USR-3980,CommandeErronée,"Livré burger, mais je voulais burger, c'est inacceptable.",5/11/2025 14:19,image_7057.jpg,moyen,Escaladé,,,REF-629272
+126fbc7d-6bdc-4841-9703-eeaa757fa4eb,COM-57032,USR-1471,CommandeErronée,"Livré salade, mais je voulais salade, c'est inacceptable.",10/20/2024 14:19,,faible,Résolu,10/22/2024 1:19,MOD-6,REF-292619
+0340e8b5-950e-445b-8ecd-fb9ed2215d9c,COM-68631,USR-4725,CommandeErronée,"Livré frites, mais je voulais pâtes, c'est inacceptable.",6/14/2025 14:19,,faible,Ouvert,,,REF-348119
+1b75c83c-cf7c-4095-b6aa-70c9c23b844a,COM-45892,USR-1032,LivraisonRetard,"Livraison retardée de 90 minutes, totalement inacceptable !",12/16/2024 14:19,,moyen,Escaladé,,,REF-214487
+04716f8a-1296-4ea2-a03c-135e945a4524,COM-65296,USR-3121,NourritureEndommagée,"Tout était sans goût, expérience catastrophique.",8/14/2024 14:19,,élevé,Ouvert,,,REF-619172
+5a02ccf6-178e-49dd-ab7a-9c27ea39e775,COM-39581,USR-2449,MauvaiseQualité,"burger était brûlé, totalement dégoûtant !",10/31/2024 14:19,,élevé,Ouvert,,,REF-117366
+ad50b15f-a08f-4619-a768-53682db7a84e,COM-45752,USR-5317,ArticleManquant,"Commande incomplète, pizza non livré.",3/25/2025 14:19,image_3230.jpg,faible,Escaladé,,,REF-612642
+2ee86f0f-1f21-4d17-8bc7-d7286fa6ce1d,COM-53186,USR-4712,ArticleManquant,"Commande incomplète, frites non livré.",1/4/2025 14:19,,faible,Ouvert,,,REF-655623
+dff1364f-0803-4999-8739-777bba7fa5eb,COM-34946,USR-2797,NourritureEndommagée,"sushi est arrivé sans goût, besoin d'un remplacement.",10/11/2024 14:19,,faible,Résolu,10/13/2024 5:19,MOD-11,REF-412014
+e596e551-229c-428b-b5d4-d7aa697544fd,COM-30556,USR-9412,LivraisonRetard,"Commande arrivée après 30 minutes, vraiment pas satisfait.",10/6/2024 14:19,image_2548.jpg,élevé,Ouvert,,,REF-196132
+28401d76-5d02-48c8-92e4-42ba081cb4da,COM-21881,USR-2320,LivraisonRetard,"La commande a été livrée avec 90 minutes de retard, la nourriture était froide.",9/11/2024 14:19,image_2675.jpg,élevé,Escaladé,,,REF-877902
+3b5bdeac-0666-4b62-bf82-82fbe5080d1a,COM-38108,USR-7731,CommandeErronée,"Commande erronée livrée, j'ai eu salade et non frites.",6/4/2025 14:19,image_2881.jpg,faible,Escaladé,,,REF-764774
+2de07a78-67f8-43bc-9fe5-6fb1cce8f153,COM-12499,USR-1125,CommandeErronée,"J'ai commandé burger, mais j'ai reçu pâtes.",1/14/2025 14:19,image_6090.jpg,faible,Résolu,1/15/2025 16:19,MOD-12,REF-167917
+fd048099-c32a-447f-b428-73c5af5a2725,COM-56360,USR-6961,LivraisonRetard,"La commande a été livrée avec 90 minutes de retard, la nourriture était froide.",3/9/2025 14:19,,moyen,Ouvert,,,REF-913060
+b4471862-2038-4f7f-b2a0-da4f5acb7d7c,COM-28043,USR-9031,LivraisonRetard,"Retard de 1 heure, c'est scandaleux et dérangeant !",10/30/2024 14:19,image_4889.jpg,élevé,Escaladé,,,REF-260959
+5cfad361-f38c-41c2-bdc1-9aafc5ccfa36,COM-10178,USR-4551,MauvaiseQualité,"pizza avait un goût froid, expérience horrible.",1/17/2025 14:19,image_4962.jpg,élevé,Résolu,1/18/2025 19:19,MOD-3,REF-596570
+89ca7a2b-1ca1-440a-9a2e-308d6d68bcc8,COM-89295,USR-7817,LivraisonRetard,"La commande a été livrée avec 1 heure de retard, la nourriture était froide.",11/11/2024 14:19,image_4483.jpg,élevé,Ouvert,,,REF-489659
+abda7780-2c48-4ca5-9d5f-c0b321304dd0,COM-34127,USR-1874,CommandeErronée,J'ai reçu frites au lieu de pâtes.,8/1/2024 14:19,image_8686.jpg,faible,Escaladé,,,REF-995532
+9b7728ec-82d2-462b-b67b-d6cf9b6f8700,COM-34651,USR-9376,CommandeErronée,"Commande erronée livrée, j'ai eu salade et non pâtes.",10/13/2024 14:19,image_3276.jpg,faible,Ouvert,,,REF-107140
+de57d0e3-2d93-4b3d-885e-02f3b113da5a,COM-11641,USR-1090,LivraisonRetard,"Retard de 90 minutes, c'est scandaleux et dérangeant !",9/24/2024 14:19,image_9368.jpg,élevé,Escaladé,,,REF-299076
+98e8803a-e5d5-496b-8c75-538f2a25c40a,COM-66120,USR-5949,NourritureEndommagée,"sandwich était trempé, qualité inacceptable.",7/27/2024 14:19,image_2471.jpg,élevé,Escaladé,,,REF-808897
+6367c7fc-5d16-4e76-aac3-f53d03d8a7d5,COM-84781,USR-8358,MauvaiseQualité,"salade avait un goût brûlé, expérience horrible.",8/31/2024 14:19,,élevé,Escaladé,,,REF-514570
+33120f8a-64f1-4b8d-b9e5-d1d2703a256f,COM-85141,USR-5833,ArticleManquant,"Il manque pâtes dans ma commande, très décevant.",11/12/2024 14:19,image_4619.jpg,élevé,Ouvert,,,REF-671784
+28ad5233-cd2e-4fd6-978b-1b5c4894b50c,COM-55366,USR-5298,MauvaiseQualité,"burger était trempé, je ne commanderai plus.",10/20/2024 14:19,,faible,Escaladé,,,REF-739360
+b8ff7041-98f4-4213-a1e9-8c160103160a,COM-55550,USR-6465,LivraisonRetard,"J'ai attendu 1 heure pour ma commande, très frustrant.",9/17/2024 14:19,image_9818.jpg,élevé,Résolu,9/17/2024 17:19,MOD-14,REF-572021
+21c063d4-b465-4848-9239-9df048cb8bf0,COM-67063,USR-6360,LivraisonRetard,"Livraison retardée de 30 minutes, totalement inacceptable !",3/27/2025 14:19,,faible,Escaladé,,,REF-751161
+10ceacfe-873c-450a-b6a2-9d69a2b617b9,COM-16055,USR-5829,ArticleManquant,"Pas de pâtes, c'est inacceptable et frustrant !",6/23/2025 14:19,,moyen,Ouvert,,,REF-151665
+2743008b-d3d8-4e15-8427-4cb1e42173c5,COM-68645,USR-7956,MauvaiseQualité,"Qualité médiocre de sushi, très frustrant.",2/24/2025 14:19,"image_6703.jpg,image_9676.jpg",élevé,Ouvert,,,REF-635622
+dd767f3d-ba6a-41b4-b97d-568b60ba6ed1,COM-28044,USR-7086,CommandeErronée,J'ai reçu sandwich au lieu de pâtes.,8/16/2024 14:19,,faible,Résolu,8/18/2024 5:19,MOD-6,REF-344778
+0f55b60b-7cd1-4d07-977e-7555d04c262f,COM-25936,USR-8961,NourritureEndommagée,"sushi était froid, qualité inacceptable.",1/2/2025 14:19,"image_7255.jpg,image_9691.jpg",élevé,Escaladé,,,REF-949521
+d0794a7e-4e27-4848-9bf8-c752a928396a,COM-48908,USR-8110,ArticleManquant,"Manque pâtes, service médiocre.",3/13/2025 14:19,image_2897.jpg,moyen,Ouvert,,,REF-883054
+05f424d2-55aa-474b-8ee9-1a8bffe7220a,COM-13158,USR-5921,NourritureEndommagée,"sandwich est arrivé trempé, besoin d'un remplacement.",1/22/2025 14:19,,faible,Escaladé,,,REF-733625
+9aa77d63-ef5b-447d-8d93-f345a4303526,COM-22664,USR-5520,MauvaiseQualité,"Très mauvaise qualité de salade, immangeable.",5/31/2025 14:19,"image_6359.jpg,image_7534.jpg",élevé,Ouvert,,,REF-713671
+120a0fae-a713-444f-adb4-8ebb37269c85,COM-30884,USR-2471,LivraisonRetard,"La commande a été livrée avec 1 heure de retard, la nourriture était froide.",2/25/2025 14:19,,moyen,Résolu,2/26/2025 4:19,MOD-18,REF-127806
+48119e66-dac7-458c-a7fa-d4997963a4db,COM-47311,USR-6936,MauvaiseQualité,"La nourriture était sans goût, pas à la hauteur.",12/9/2024 14:19,"image_3367.jpg,image_1306.jpg",faible,Résolu,12/11/2024 4:19,MOD-4,REF-502878
+37b8db53-83d9-45c1-8679-e32e332991fa,COM-99663,USR-6420,LivraisonRetard,"Commande arrivée après 90 minutes, vraiment pas satisfait.",4/5/2025 14:19,,moyen,Ouvert,,,REF-376222
+d6b93990-4874-47ea-990d-def5369999d0,COM-24665,USR-5319,CommandeErronée,"Livré sandwich, mais je voulais salade, c'est inacceptable.",11/1/2024 14:19,image_6572.jpg,moyen,Ouvert,,,REF-759227
+91812395-3905-4f98-854b-f338e01b788e,COM-35024,USR-5005,LivraisonRetard,"La nourriture est arrivée avec 90 minutes de retard, service décevant.",6/20/2025 14:19,,moyen,Escaladé,,,REF-556477
+0a1cfa90-0541-4f7a-8819-7308e23c2099,COM-67740,USR-2850,ArticleManquant,"Manque sandwich, service médiocre.",6/5/2025 14:19,image_3877.jpg,moyen,Ouvert,,,REF-237023
+ade3c151-0892-4ad1-a816-ab2f9779be7c,COM-19388,USR-5268,CommandeErronée,"Erreur sur ma commande : frites au lieu de sushi, très agaçant.",10/6/2024 14:19,,moyen,Résolu,10/6/2024 19:19,MOD-15,REF-498693
+a5ba63c6-63bb-40aa-84ff-689172a634c2,COM-89809,USR-5271,NourritureEndommagée,"sandwich était gâté, qualité inacceptable.",1/4/2025 14:19,image_4363.jpg,élevé,Escaladé,,,REF-771770
+22cf0bb7-55cf-4493-8e82-93c0f9ab1a54,COM-78527,USR-2427,ArticleManquant,"Manque frites, service médiocre.",1/1/2025 14:19,,faible,Résolu,1/1/2025 16:19,MOD-11,REF-623906
+d7e4dbde-4a43-4ae7-899b-21ec24187ae3,COM-74129,USR-1835,NourritureEndommagée,"Tout était sans goût, expérience catastrophique.",1/5/2025 14:19,"image_1848.jpg,image_2572.jpg",élevé,Résolu,1/6/2025 9:19,MOD-11,REF-764076
+07ef218e-3dd4-4f9b-8a0f-5bc053bc50e9,COM-60368,USR-7237,ArticleManquant,"Il manque salade dans ma commande, très décevant.",6/21/2025 14:19,image_7878.jpg,élevé,Ouvert,,,REF-857381
+2f34fddd-61bd-464f-b32b-d4014929bc4f,COM-39280,USR-8858,ArticleManquant,"Il manque burger dans ma commande, très décevant.",10/22/2024 14:19,,moyen,Escaladé,,,REF-683499
+06c9dece-7f40-4704-873e-9607551f22e7,COM-10225,USR-9561,LivraisonRetard,"La nourriture est arrivée avec 90 minutes de retard, service décevant.",10/16/2024 14:19,,moyen,Résolu,10/17/2024 18:19,MOD-3,REF-923233
+f7c180fc-05f2-43a0-9b8f-e57996a7b1b1,COM-36187,USR-5003,CommandeErronée,"Mauvais article livré, frites à la place de salade.",5/11/2025 14:19,,faible,Escaladé,,,REF-455992
+29bb15cb-7385-4ecf-a5e9-262dd2cd1a5b,COM-77591,USR-3355,LivraisonRetard,"La nourriture est arrivée avec 2 heures de retard, service décevant.",10/25/2024 14:19,,élevé,Escaladé,,,REF-744833
+550e3ab9-1c55-4de3-b770-9f622a3a9b6e,COM-51725,USR-6688,NourritureEndommagée,"pâtes est arrivé écrasé, besoin d'un remplacement.",9/29/2024 14:19,,faible,Résolu,9/29/2024 23:19,MOD-12,REF-410277
+76c1ce4a-53c2-4d03-9b0a-1dc31599faad,COM-95011,USR-9130,MauvaiseQualité,"Très mauvaise qualité de pizza, immangeable.",12/6/2024 14:19,,élevé,Escaladé,,,REF-306866
+fd9c9753-a59c-4c7f-ac10-45aab4b7d13e,COM-55930,USR-4243,LivraisonRetard,"La nourriture est arrivée avec 30 minutes de retard, service décevant.",4/20/2025 14:19,image_6274.jpg,élevé,Escaladé,,,REF-232210
+10917891-7775-4c55-9d9f-82a2851bc2be,COM-70211,USR-9379,MauvaiseQualité,"Qualité médiocre de pizza, très frustrant.",2/1/2025 14:19,,moyen,Ouvert,,,REF-601695
+4d8d9982-4ef7-46f0-a38b-5acf622a4847,COM-61351,USR-5150,NourritureEndommagée,"sandwich était gâté, qualité inacceptable.",2/8/2025 14:19,,élevé,Escaladé,,,REF-794148
+f5359b10-ed4b-4fe6-b39f-53c1e60d0017,COM-97369,USR-1976,LivraisonRetard,"La commande a été livrée avec 2 heures de retard, la nourriture était froide.",4/10/2025 14:19,,élevé,Résolu,4/11/2025 22:19,MOD-9,REF-953627
+88c90d39-13f3-4ec4-8dc0-20a26917c2d2,COM-10653,USR-1325,LivraisonRetard,"La nourriture est arrivée avec 30 minutes de retard, service décevant.",12/27/2024 14:19,image_3797.jpg,élevé,Escaladé,,,REF-410402
+73e9c126-3905-4024-b92b-1db3abdd8aeb,COM-80690,USR-6518,NourritureEndommagée,"Tout était brûlé, expérience catastrophique.",3/3/2025 14:19,,élevé,Escaladé,,,REF-794911
+1003268b-546f-45f7-b05f-8838c47f2805,COM-26436,USR-1801,CommandeErronée,"Commande erronée livrée, j'ai eu salade et non pâtes.",11/2/2024 14:19,,faible,Résolu,11/3/2024 21:19,MOD-15,REF-961631
+e4b47441-278f-4529-9683-dfb872b94697,COM-14454,USR-2602,LivraisonRetard,"J'ai attendu 2 heures pour ma commande, très frustrant.",3/3/2025 14:19,"image_7984.jpg,image_2250.jpg",élevé,Escaladé,,,REF-931246
+6a13b36d-75b8-43bf-9954-dac58535d04c,COM-74753,USR-6890,MauvaiseQualité,"sushi était écrasé, je ne commanderai plus.",9/7/2024 14:19,image_6165.jpg,faible,Résolu,9/7/2024 16:19,MOD-16,REF-276886
+eaf0da76-3a2b-4959-a2bf-4129b3453087,COM-32792,USR-5216,NourritureEndommagée,"salade est arrivé écrasé, besoin d'un remplacement.",10/25/2024 14:19,"image_9222.jpg,image_9047.jpg",faible,Résolu,10/26/2024 5:19,MOD-2,REF-499879
+47546528-a376-48a6-86ef-8bcc2ef81b6f,COM-30841,USR-1152,NourritureEndommagée,"La nourriture était gâté, totalement immangeable.",3/18/2025 14:19,,élevé,Escaladé,,,REF-220532
+3a55bfc2-16b9-46a4-8b24-5f945d5ef144,COM-52710,USR-5928,LivraisonRetard,"Retard de 30 minutes, c'est scandaleux et dérangeant !",1/20/2025 14:19,image_5385.jpg,élevé,Résolu,1/22/2025 10:19,MOD-7,REF-878931
+884bbf46-6f20-4fd8-a570-da642855450a,COM-76814,USR-3777,CommandeErronée,"Erreur sur ma commande : burger au lieu de salade, très agaçant.",7/10/2024 14:19,"image_8047.jpg,image_7947.jpg",élevé,Ouvert,,,REF-713708
+3f0fe32a-0ad8-49ff-a4d7-93f273de45f0,COM-30439,USR-5693,ArticleManquant,"Il manque burger dans ma commande, très décevant.",8/30/2024 14:19,,moyen,Ouvert,,,REF-859887
+365723eb-9dd3-4179-9b88-48ffbdd838fa,COM-26199,USR-4867,LivraisonRetard,"Commande arrivée après 30 minutes, vraiment pas satisfait.",10/11/2024 14:19,,moyen,Escaladé,,,REF-458056
+d08ed08c-21bd-4ed2-9835-97c1d4baf6ef,COM-52745,USR-6286,ArticleManquant,"Pas de sushi, c'est inacceptable et frustrant !",3/17/2025 14:19,,moyen,Ouvert,,,REF-281726
+ccfb4ce5-f4aa-493c-9abc-cd7492cd8b9c,COM-37342,USR-6991,NourritureEndommagée,"sandwich était froid, qualité inacceptable.",1/2/2025 14:19,,élevé,Ouvert,,,REF-558354
+290f2395-6b69-4c77-851e-e07a76ae6340,COM-63765,USR-7549,ArticleManquant,"pâtes manquant, veuillez résoudre immédiatement.",2/3/2025 14:19,,moyen,Résolu,2/4/2025 0:19,MOD-15,REF-582628
+6d3ae765-1b68-4290-92c8-b90995525a3a,COM-57660,USR-9374,LivraisonRetard,"Commande arrivée après 90 minutes, vraiment pas satisfait.",7/15/2024 14:19,,moyen,Escaladé,,,REF-916984
+17e1f586-80a8-46f1-b8df-fe594b290d31,COM-22127,USR-5562,NourritureEndommagée,"frites était brûlé, qualité inacceptable.",11/11/2024 14:19,,élevé,Résolu,11/12/2024 0:19,MOD-14,REF-717462
+4ab5c2e6-b0ff-4066-8226-05509091b465,COM-14780,USR-4854,ArticleManquant,"Pas de sushi, c'est inacceptable et frustrant !",8/27/2024 14:19,image_9661.jpg,élevé,Escaladé,,,REF-356615
+aab6335d-dd73-4676-a984-6c9cef2c9631,COM-51906,USR-7669,CommandeErronée,"J'ai commandé pâtes, mais j'ai reçu sandwich.",4/4/2025 14:19,,faible,Résolu,4/6/2025 9:19,MOD-2,REF-645072
+f23e38d0-eb48-4b2e-a7f4-133ae1ac9d86,COM-40475,USR-5978,NourritureEndommagée,"burger est arrivé trempé, besoin d'un remplacement.",12/19/2024 14:19,,faible,Escaladé,,,REF-168343
+1779f779-13ec-493a-9653-f08a0b199ab2,COM-35795,USR-3668,ArticleManquant,"sandwich manquant, veuillez résoudre immédiatement.",4/7/2025 14:19,,moyen,Ouvert,,,REF-326460
+9e030a22-4c4d-4c97-875e-d23de64e8282,COM-88299,USR-9534,NourritureEndommagée,"Tout était brûlé, expérience catastrophique.",12/8/2024 14:19,,élevé,Résolu,12/9/2024 16:19,MOD-18,REF-412398
+f936895f-d23c-482d-84c3-c735c05e25c5,COM-16553,USR-5767,MauvaiseQualité,"burger était trempé, je ne commanderai plus.",4/2/2025 14:19,image_3326.jpg,faible,Résolu,4/3/2025 0:19,MOD-4,REF-578419
+ce9ff2c8-dcd5-42f6-a8da-0bd917e9ca79,COM-26778,USR-6308,CommandeErronée,J'ai reçu pâtes au lieu de pâtes.,7/13/2024 14:19,,faible,Ouvert,,,REF-541242
+e10abebd-6dc9-4edd-9a59-e5aba96dedef,COM-26761,USR-3698,NourritureEndommagée,"sandwich est arrivé brûlé, besoin d'un remplacement.",1/2/2025 14:19,image_3895.jpg,faible,Résolu,1/4/2025 0:19,MOD-20,REF-183100
+35c575fd-a886-4a35-b15d-dd08108c68d6,COM-30746,USR-9636,LivraisonRetard,"J'ai attendu 90 minutes pour ma commande, très frustrant.",10/8/2024 14:19,,moyen,Ouvert,,,REF-111665
+0e9d6836-bf8e-4e55-b873-bb7a9cb6fe65,COM-48003,USR-5392,MauvaiseQualité,"La nourriture était gâté, pas à la hauteur.",11/12/2024 14:19,,élevé,Résolu,11/14/2024 3:19,MOD-6,REF-139250
+7944231d-10e3-4f34-937b-989c6a0f4ca8,COM-33223,USR-7637,LivraisonRetard,"La nourriture est arrivée avec 1 heure de retard, service décevant.",1/25/2025 14:19,image_2622.jpg,élevé,Ouvert,,,REF-849213
+b20ca38d-d6da-4338-9ea0-644fd715bd8a,COM-85854,USR-9345,ArticleManquant,"Manque salade, service médiocre.",4/3/2025 14:19,image_5375.jpg,moyen,Résolu,4/5/2025 13:19,MOD-18,REF-737144
+c7519efd-7d39-4119-85f1-6a945b7b9310,COM-74211,USR-6691,MauvaiseQualité,"Très mauvaise qualité de salade, immangeable.",3/8/2025 14:19,,élevé,Escaladé,,,REF-447037
+a28bec95-ae6d-4e9a-9149-369b313de616,COM-23122,USR-7339,CommandeErronée,"Livré sushi, mais je voulais pâtes, c'est inacceptable.",8/15/2024 14:19,,faible,Résolu,8/16/2024 6:19,MOD-13,REF-355425
+fd8236b0-a7c1-4be5-9db0-bca7c1fbe015,COM-64301,USR-6205,LivraisonRetard,"La nourriture est arrivée avec 30 minutes de retard, service décevant.",7/12/2024 14:19,,moyen,Escaladé,,,REF-534146
+971c5abb-5eaf-4d74-92b2-ed0711918870,COM-56041,USR-7290,ArticleManquant,"salade manquant, veuillez résoudre immédiatement.",7/21/2024 14:19,,moyen,Escaladé,,,REF-665808
+a7841e78-61a8-4af0-8bf3-65a6bed0c206,COM-55266,USR-3728,ArticleManquant,"sandwich manquant, veuillez résoudre immédiatement.",6/27/2024 14:19,,moyen,Résolu,6/29/2024 3:19,MOD-1,REF-889988
+4d5d83e9-33bb-4f47-ac54-6d2f54998a1c,COM-28867,USR-5998,NourritureEndommagée,"salade était sans goût, qualité inacceptable.",12/18/2024 14:19,image_6293.jpg,élevé,Ouvert,,,REF-863898
+601db378-3bce-409f-92f8-a8b00bb0c221,COM-80482,USR-3348,LivraisonRetard,"Retard de 1 heure, c'est scandaleux et dérangeant !",3/21/2025 14:19,image_1538.jpg,élevé,Ouvert,,,REF-593963
+0e509075-dcf3-4d35-8bb7-bee5d310db32,COM-34768,USR-1196,MauvaiseQualité,"pâtes était brûlé, je ne commanderai plus.",6/29/2024 14:19,image_4904.jpg,faible,Escaladé,,,REF-943246

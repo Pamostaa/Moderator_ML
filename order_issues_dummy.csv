@@ -1,0 +1,1001 @@
+id,orderId,userId,type,description,reportedAt,attachments,severity,status,resolvedAt,resolvedBy,issueRef
+c6b0fd3c-a83b-4a81-98ed-5a0aa8da4433,ORD-72175,USR-2844,LateDelivery,"Food was 2 hours late, not happy with service.",11/8/2024 13:39,"image_2308.jpg,image_7553.jpg",high,Escalated,,,REF-511929
+306d8f9e-703f-4a94-b29e-c680329fc185,ORD-51351,USR-7975,MissingItem,"salad was missing, please resolve.",8/23/2024 13:39,image_4726.jpg,low,Open,,,REF-553700
+19d8207b-5eb6-406b-b3cf-ac3a4a49011a,ORD-74787,USR-4442,WrongOrder,"Delivered fries, but I wanted sandwich.",10/27/2024 13:39,image_3669.jpg,low,Open,,,REF-405496
+749b6fa4-9cdc-470e-aac1-be6253bb42f8,ORD-23914,USR-9189,DamagedFood,"sandwich arrived cold, need replacement.",10/17/2024 13:39,"image_4486.jpg,image_4446.jpg",low,Open,,,REF-430727
+80829ca8-6964-4d96-ba6e-321f96de22a3,ORD-76221,USR-5615,LateDelivery,"Order was 30 minutes late, food arrived cold.",2/5/2025 13:39,,low,Open,,,REF-927275
+74a4d7fc-4f1c-4c9f-844f-4e529b6bf516,ORD-92917,USR-3619,DamagedFood,"salad was crushed, unacceptable quality.",9/16/2024 13:39,,high,Open,,,REF-157652
+50d7ac39-cff2-481f-9af9-8f8edfc6d42a,ORD-77531,USR-6248,WrongOrder,Received salad instead of sushi.,7/28/2024 13:39,"image_4543.jpg,image_9814.jpg",low,Open,,,REF-533997
+b2128594-11f4-4a6b-9298-38059ee524d5,ORD-47327,USR-9138,WrongOrder,"Wrong order delivered, got burger not burger.",1/5/2025 13:39,,low,Resolved,1/6/2025 11:39,MOD-13,REF-500401
+b1e8a59d-d0cf-4e38-bdc7-a92f0e03f485,ORD-73549,USR-5906,PoorQuality,"Food was tasteless, not up to standard.",7/6/2024 13:39,,low,Open,,,REF-765659
+3b71ba9d-a3f6-4d0c-bd73-33b6b0a7d865,ORD-17724,USR-9572,MissingItem,"sandwich was missing, please resolve.",12/7/2024 13:39,,low,Escalated,,,REF-277051
+9021f05c-e890-4455-9d0d-088677fa82b8,ORD-69432,USR-5995,PoorQuality,"Very poor quality burger, not edible.",10/10/2024 13:39,,low,Resolved,10/12/2024 7:39,MOD-2,REF-406645
+9c538630-6245-4165-99cc-5314d24dfdf9,ORD-42504,USR-7242,WrongOrder,"I ordered pizza, but got salad.",10/3/2024 13:39,,low,Open,,,REF-448738
+8836f64d-8828-4a05-8281-f33630905175,ORD-80760,USR-9676,MissingItem,"Order incomplete, pizza was not delivered.",4/16/2025 13:39,"image_2538.jpg,image_6566.jpg",low,Open,,,REF-591546
+9f5b15a0-7014-4465-86f3-30ba37b23555,ORD-16053,USR-6252,LateDelivery,"Waited 1 hour for my order, very frustrating.",8/6/2024 13:39,"image_2188.jpg,image_3791.jpg",medium,Open,,,REF-796310
+a58d7f0e-c96a-4fbc-bc97-4e381df9b77b,ORD-50554,USR-8868,WrongOrder,"Wrong order delivered, got burger not sandwich.",3/29/2025 13:39,,low,Resolved,3/31/2025 8:39,MOD-7,REF-897038
+3822f2e1-cb4a-474c-8aa6-96f815bee451,ORD-31602,USR-6019,MissingItem,"Did not receive pasta, need a refund.",3/31/2025 13:39,,low,Open,,,REF-656703
+9d211614-672e-44de-a233-d18436fc006b,ORD-37257,USR-4021,MissingItem,"sandwich was missing, please resolve.",4/12/2025 13:39,,low,Open,,,REF-735506
+1e8160e0-bd58-4809-a641-a88da243804b,ORD-67939,USR-7118,LateDelivery,"Delivery took 2 hours, completely unacceptable!",3/29/2025 13:39,,high,Escalated,,,REF-494249
+2dd0e6a7-4477-4340-abcf-722add816775,ORD-47617,USR-8927,LateDelivery,"Food was 90 minutes late, not happy with service.",3/8/2025 13:39,,medium,Escalated,,,REF-199946
+a9ff2504-a725-4d86-ae08-d2c1e7bac551,ORD-26974,USR-4484,DamagedFood,"burger arrived tasteless, need replacement.",7/30/2024 13:39,"image_9616.jpg,image_2977.jpg",low,Open,,,REF-718997
+4527d165-2ee5-4946-b683-11896eb40d19,ORD-83238,USR-8620,MissingItem,"Missing sushi from my order, very disappointing.",1/30/2025 13:39,,low,Resolved,2/1/2025 4:39,MOD-16,REF-248076
+c7d6b8a5-e8a3-412c-98cf-0173ef9f7b1d,ORD-79692,USR-7221,WrongOrder,"I ordered sandwich, but got burger.",4/18/2025 13:39,,low,Resolved,4/20/2025 0:39,MOD-17,REF-975254
+f11204e0-05c0-426f-a762-57776aaffae2,ORD-24255,USR-8913,MissingItem,"Order incomplete, fries was not delivered.",3/13/2025 13:39,,low,Open,,,REF-107250
+a047b9ca-ea7d-4dc7-aa76-5c2b4824befa,ORD-77126,USR-8831,MissingItem,"Did not receive sushi, need a refund.",6/30/2024 13:39,,low,Resolved,7/1/2024 8:39,MOD-12,REF-485832
+f0320e90-2ce9-45ee-8956-375acda8b60e,ORD-66321,USR-5530,DamagedFood,"pasta was crushed, unacceptable quality.",7/4/2024 13:39,,high,Escalated,,,REF-573737
+d82469e4-5380-44df-9b45-da2963e75ed0,ORD-95183,USR-7368,PoorQuality,"salad tasted cold, awful experience.",9/18/2024 13:39,image_7737.jpg,low,Resolved,9/18/2024 21:39,MOD-6,REF-677428
+42efe10d-5be7-4b53-8bb1-e6f61eb89816,ORD-38711,USR-2578,DamagedFood,"pasta arrived soggy, need replacement.",12/18/2024 13:39,,low,Open,,,REF-300032
+a73b0ae4-19c8-45a5-84a6-518fa87720d5,ORD-95436,USR-6239,PoorQuality,"pasta was spoiled, never ordering again.",7/30/2024 13:39,,high,Escalated,,,REF-917121
+543f0454-ebd3-4643-b04e-788f75b1965a,ORD-34819,USR-5025,LateDelivery,"Delivery took 1 hour, completely unacceptable!",8/19/2024 13:39,,high,Open,,,REF-526064
+28ce7dd0-cd64-4876-92d2-e05e43d6e2d4,ORD-48906,USR-2702,WrongOrder,Received pasta instead of pasta.,3/22/2025 13:39,,low,Resolved,3/24/2025 10:39,MOD-7,REF-994370
+95dfdeec-ac50-48a1-bd2f-10306d981dd5,ORD-42502,USR-2774,PoorQuality,"Food was tasteless, not up to standard.",1/4/2025 13:39,image_6173.jpg,low,Open,,,REF-244965
+b6bcfdff-d4e4-4a5f-a56b-2e4dc2b02dc7,ORD-43648,USR-5923,LateDelivery,"Delivery took 2 hours, completely unacceptable!",12/1/2024 13:39,,high,Open,,,REF-426406
+2c2fca83-f6b5-480d-8139-51925474eeeb,ORD-78350,USR-6721,MissingItem,"Order incomplete, sandwich was not delivered.",9/22/2024 13:39,,low,Resolved,9/23/2024 16:39,MOD-12,REF-161564
+164d9bc0-a6bc-4c6d-9cab-a9c248e0832d,ORD-22417,USR-5056,PoorQuality,"Food was cold, not up to standard.",3/5/2025 13:39,image_2365.jpg,low,Resolved,3/6/2025 14:39,MOD-15,REF-737324
+1243469d-9e20-4c35-b843-8d0946d8efc3,ORD-20500,USR-1565,PoorQuality,"pasta was burnt, never ordering again.",6/5/2025 13:39,,high,Open,,,REF-581373
+0f7db7fa-a787-4049-ba5a-d7c04df4c91a,ORD-70706,USR-3119,MissingItem,"Order incomplete, burger was not delivered.",8/15/2024 13:39,,low,Resolved,8/16/2024 23:39,MOD-14,REF-852368
+f3948503-4f89-4e5d-a763-e9132ce929e1,ORD-98820,USR-1558,PoorQuality,"Food was burnt, not up to standard.",5/12/2025 13:39,"image_6445.jpg,image_6031.jpg",low,Escalated,,,REF-964176
+db650f3d-9563-49cd-a0dc-966933492644,ORD-61540,USR-8195,MissingItem,"Order incomplete, pasta was not delivered.",2/19/2025 13:39,image_6262.jpg,low,Resolved,2/20/2025 12:39,MOD-12,REF-172595
+c8ca90bc-863f-4b15-8dfe-9bea84929369,ORD-38697,USR-1041,WrongOrder,Received sandwich instead of pasta.,8/30/2024 13:39,,low,Open,,,REF-755426
+fbbd8c11-8cbf-4277-a45a-72a8a5eb2c3d,ORD-26610,USR-4362,WrongOrder,"Delivered burger, but I wanted sandwich.",5/28/2025 13:39,"image_6657.jpg,image_2516.jpg",low,Open,,,REF-129813
+6cca039b-258c-4511-95c2-5ba66fe96571,ORD-96451,USR-2591,MissingItem,"Order incomplete, burger was not delivered.",11/14/2024 13:39,"image_9525.jpg,image_5894.jpg",low,Escalated,,,REF-135109
+d7f9f920-3d66-41bc-8a34-4bc49d773789,ORD-25956,USR-8951,LateDelivery,"Food was 90 minutes late, not happy with service.",7/9/2024 13:39,,medium,Open,,,REF-517505
+595d4e5c-24d5-4858-8597-cdf0933e8bd2,ORD-62255,USR-2791,PoorQuality,"pizza was soggy, never ordering again.",3/29/2025 13:39,,high,Escalated,,,REF-993683
+421ad2e1-2737-4486-b045-60408623f556,ORD-44564,USR-9336,PoorQuality,"Very poor quality salad, not edible.",4/12/2025 13:39,image_9611.jpg,low,Open,,,REF-366107
+89d126a7-6432-483d-8ea8-7c4bf81a8643,ORD-82043,USR-4701,MissingItem,"Did not receive fries, need a refund.",7/7/2024 13:39,,low,Escalated,,,REF-378511
+8dc3ec61-cf30-4454-a4fe-1509afdface7,ORD-70180,USR-2547,LateDelivery,"Delivery took 2 hours, completely unacceptable!",2/2/2025 13:39,,high,Escalated,,,REF-338186
+9117fc30-db73-44c2-ad0d-1d5a8ebe1c37,ORD-24713,USR-8893,LateDelivery,"Food was 30 minutes late, not happy with service.",3/21/2025 13:39,image_1329.jpg,low,Open,,,REF-500945
+6af30a2a-8e1b-4d63-8632-3a1d0307d003,ORD-50471,USR-7978,MissingItem,"Order incomplete, burger was not delivered.",5/14/2025 13:39,,low,Open,,,REF-982947
+2b5b211d-41dc-4f1d-b9bd-7bd2757cc5ca,ORD-20758,USR-9861,MissingItem,"Did not receive pizza, need a refund.",8/30/2024 13:39,,low,Open,,,REF-515749
+e4a0ac01-4035-4e95-86c4-b263c5ae3f6a,ORD-72387,USR-6937,DamagedFood,"Food was spoiled, totally inedible.",7/3/2024 13:39,image_7101.jpg,high,Open,,,REF-435209
+6c200411-b26e-40fb-8a19-1d1fa0cd1037,ORD-97786,USR-5073,PoorQuality,"burger tasted tasteless, awful experience.",1/14/2025 13:39,,low,Escalated,,,REF-157518
+08b2c3b8-a9d3-4a44-a153-40612262de93,ORD-80455,USR-4506,PoorQuality,"Food was soggy, not up to standard.",7/3/2024 13:39,,low,Resolved,7/5/2024 2:39,MOD-10,REF-399767
+06c24e0f-36dc-45e0-ad50-59ea9bb3784c,ORD-25571,USR-7907,LateDelivery,"Waited 1 hour for my order, very frustrating.",2/11/2025 13:39,,medium,Open,,,REF-612293
+ea1deebb-d562-4b0e-bf97-1bdeacdf8211,ORD-29714,USR-8758,LateDelivery,"Delivery took 2 hours, completely unacceptable!",10/17/2024 13:39,,high,Escalated,,,REF-753405
+17e0c209-20fe-4e68-9cb5-b5db019ef95a,ORD-20806,USR-7037,DamagedFood,"Order was soggy, very disappointed.",5/27/2025 13:39,,medium,Escalated,,,REF-923868
+ce20abfc-30b8-4e9f-99cc-e37f1296fb4b,ORD-67320,USR-9864,PoorQuality,"Food was soggy, not up to standard.",8/14/2024 13:39,image_5824.jpg,low,Open,,,REF-219020
+7b3b83d6-993d-4c12-9543-81387b68e56f,ORD-84016,USR-9695,PoorQuality,"pasta tasted cold, awful experience.",8/13/2024 13:39,,low,Resolved,8/14/2024 8:39,MOD-14,REF-790684
+21b921ef-120d-46f0-9880-a769f5b574fe,ORD-57212,USR-2563,MissingItem,"Did not receive sushi, need a refund.",1/22/2025 13:39,"image_8289.jpg,image_8219.jpg",low,Resolved,1/24/2025 7:39,MOD-15,REF-695182
+b7be7d2b-63dc-4b80-abb9-c0040aa644e0,ORD-74234,USR-2337,WrongOrder,"I ordered burger, but got sandwich.",10/4/2024 13:39,,low,Open,,,REF-930909
+9c09b204-9756-4919-a286-32ab03edbae0,ORD-34857,USR-7422,DamagedFood,"fries was cold, unacceptable quality.",11/3/2024 13:39,"image_4863.jpg,image_6652.jpg",high,Resolved,11/5/2024 11:39,MOD-12,REF-556233
+93418106-918a-4374-95c0-a00e4c1c0a65,ORD-61351,USR-4991,PoorQuality,"Very poor quality pasta, not edible.",8/26/2024 13:39,image_5049.jpg,low,Open,,,REF-898879
+928bbd18-1d04-4e23-82f0-012ce88f4ce3,ORD-97966,USR-4034,DamagedFood,"salad was tasteless, unacceptable quality.",5/12/2025 13:39,image_9369.jpg,high,Escalated,,,REF-583953
+8565912a-bfc8-40ce-be7c-7b3c6d87168a,ORD-22026,USR-2385,DamagedFood,"fries arrived spoiled, need replacement.",7/28/2024 13:39,,high,Resolved,7/29/2024 20:39,MOD-6,REF-372544
+feed2811-4bd2-4f46-a74f-c61c78f9f03e,ORD-86148,USR-4167,DamagedFood,"pasta arrived crushed, need replacement.",3/8/2025 13:39,,low,Resolved,3/8/2025 19:39,MOD-16,REF-462563
+e45e8c38-da58-428c-be6f-a671c3b34510,ORD-89184,USR-7155,PoorQuality,"salad was spoiled, never ordering again.",12/26/2024 13:39,,high,Open,,,REF-796658
+d9bf524a-811e-4f9c-ac2f-e41f5e057b59,ORD-22625,USR-8943,PoorQuality,"Food was soggy, not up to standard.",7/30/2024 13:39,,low,Escalated,,,REF-905938
+5315ee2c-27a8-49df-bdd5-154ebe918d02,ORD-22569,USR-9514,LateDelivery,"Waited 2 hours for my order, very frustrating.",10/15/2024 13:39,,high,Open,,,REF-224081
+fc4ad5d0-a91b-4cfc-a9df-75a2d0b9009a,ORD-28486,USR-6446,PoorQuality,"sushi tasted cold, awful experience.",10/8/2024 13:39,,low,Escalated,,,REF-271615
+526ca4d4-0ef9-4694-83f5-ba5bf8edb7db,ORD-59637,USR-8539,DamagedFood,"Order was crushed, very disappointed.",1/24/2025 13:39,,medium,Open,,,REF-312764
+1fcd3950-479f-411a-8968-5230933fb182,ORD-43017,USR-1479,WrongOrder,Received sushi instead of pizza.,3/21/2025 13:39,,low,Resolved,3/23/2025 3:39,MOD-2,REF-206946
+c950dc11-3a1a-4118-8cab-080179bab2c3,ORD-36240,USR-4693,LateDelivery,"Delivery took 2 hours, completely unacceptable!",11/1/2024 13:39,,high,Resolved,11/2/2024 17:39,MOD-18,REF-762168
+64d46d94-71fe-43aa-8485-fc9e6249f6f0,ORD-64107,USR-3517,MissingItem,"Did not receive sandwich, need a refund.",8/24/2024 13:39,,low,Open,,,REF-533378
+bb356b2c-b218-4d48-82a9-00f9f8090652,ORD-17083,USR-8327,DamagedFood,"burger was spoiled, unacceptable quality.",11/14/2024 13:39,,high,Resolved,11/16/2024 2:39,MOD-7,REF-929291
+a724e031-4b80-46cd-b12c-484d93d755cf,ORD-98115,USR-8452,LateDelivery,"Waited 90 minutes for my order, very frustrating.",9/20/2024 13:39,,medium,Resolved,9/20/2024 19:39,MOD-12,REF-596311
+7fbc6bbe-96c7-46c5-8f2d-325f6519ab34,ORD-90988,USR-7708,MissingItem,"pizza was missing, please resolve.",5/18/2025 13:39,image_4005.jpg,low,Open,,,REF-858825
+ed0f1a5f-8e84-41db-8cca-018a5c8df375,ORD-11940,USR-5477,MissingItem,"Order incomplete, sandwich was not delivered.",3/14/2025 13:39,,low,Resolved,3/15/2025 6:39,MOD-7,REF-439754
+fa22628e-9634-4d20-914e-de5eda71d583,ORD-13984,USR-9712,DamagedFood,"Food was spoiled, totally inedible.",10/13/2024 13:39,image_9325.jpg,high,Escalated,,,REF-343608
+562f3d6f-0ff9-4d22-a759-a7fa54cdc2e9,ORD-16901,USR-1819,LateDelivery,"Delivery took 2 hours, completely unacceptable!",7/26/2024 13:39,image_8401.jpg,high,Open,,,REF-212775
+d891cf4d-ae93-44f0-ae9f-89e60987f205,ORD-67548,USR-1962,WrongOrder,"I ordered sushi, but got salad.",3/31/2025 13:39,,low,Escalated,,,REF-778119
+42dfb8d9-2411-4a7c-8c33-6fde2ad170df,ORD-57525,USR-7973,DamagedFood,"fries arrived soggy, need replacement.",8/29/2024 13:39,,low,Escalated,,,REF-638055
+3495921d-b8f0-49e5-bded-623b321db922,ORD-41976,USR-8702,LateDelivery,"Food was 90 minutes late, not happy with service.",2/5/2025 13:39,,medium,Open,,,REF-464038
+bea43eac-431b-4452-a0ee-b35d465a7b25,ORD-25542,USR-1302,LateDelivery,"Waited 90 minutes for my order, very frustrating.",11/2/2024 13:39,,medium,Resolved,11/3/2024 20:39,MOD-9,REF-333975
+9309ed89-9ec5-4945-a8fb-05a96dfdee9c,ORD-45926,USR-1263,LateDelivery,"Waited 90 minutes for my order, very frustrating.",5/24/2025 13:39,,medium,Resolved,5/25/2025 20:39,MOD-17,REF-349608
+de090751-1dd3-4b51-8141-0ca6d255fa72,ORD-23836,USR-6751,LateDelivery,"Food was 30 minutes late, not happy with service.",6/12/2025 13:39,image_7909.jpg,low,Resolved,6/13/2025 5:39,MOD-3,REF-951576
+900baff5-4879-45e0-b13f-061e13e131db,ORD-52033,USR-1365,LateDelivery,"Order was 90 minutes late, food arrived cold.",9/15/2024 13:39,image_3957.jpg,medium,Escalated,,,REF-799622
+25edc438-930a-4e1a-aa84-5a8412728144,ORD-74558,USR-6370,LateDelivery,"Waited 30 minutes for my order, very frustrating.",10/24/2024 13:39,,medium,Resolved,10/25/2024 7:39,MOD-11,REF-134576
+eee8a22c-f0d9-46cd-b85d-80d8e68e2a89,ORD-50716,USR-2121,DamagedFood,"Food was burnt, totally inedible.",12/28/2024 13:39,image_1554.jpg,high,Escalated,,,REF-498289
+4d2c4c38-6471-4a33-a611-7ebf84e1fdd9,ORD-51485,USR-5415,WrongOrder,"Delivered sushi, but I wanted burger.",7/16/2024 13:39,,low,Escalated,,,REF-618436
+304ccc14-5605-4183-bff2-a3529e7deebe,ORD-48988,USR-2079,WrongOrder,"Wrong order delivered, got salad not fries.",3/22/2025 13:39,,low,Escalated,,,REF-545906
+46938ecb-cdf0-42d9-b56f-5445b54f148b,ORD-43131,USR-8834,DamagedFood,"fries arrived tasteless, need replacement.",10/4/2024 13:39,,low,Open,,,REF-429978
+1e39d3c7-1f77-4e07-bf1f-13c2526722be,ORD-25710,USR-3325,DamagedFood,"Food was soggy, totally inedible.",9/12/2024 13:39,image_6444.jpg,high,Resolved,9/12/2024 14:39,MOD-13,REF-570810
+c1e77762-f416-459b-81a5-580fa40a27a7,ORD-99205,USR-7833,WrongOrder,"I ordered sushi, but got pizza.",6/16/2025 13:39,,low,Escalated,,,REF-204257
+12971216-c150-4d1c-8e30-45c9b4392363,ORD-23674,USR-4105,LateDelivery,"Food was 1 hour late, not happy with service.",5/25/2025 13:39,,medium,Escalated,,,REF-543661
+cd343922-f8be-4d82-98c1-e85378d22649,ORD-12096,USR-6021,LateDelivery,"Food was 2 hours late, not happy with service.",10/2/2024 13:39,"image_2220.jpg,image_1038.jpg",high,Escalated,,,REF-526743
+52ec4716-e4a3-45b5-b367-2964e5185d38,ORD-60952,USR-9827,LateDelivery,"Order was 90 minutes late, food arrived cold.",7/26/2024 13:39,image_2856.jpg,medium,Resolved,7/27/2024 14:39,MOD-2,REF-683001
+d000636d-5c28-4b7d-8faa-7aa33447571a,ORD-16773,USR-8645,PoorQuality,"salad tasted crushed, awful experience.",6/27/2025 13:39,image_4077.jpg,low,Escalated,,,REF-953515
+96decdcd-1666-4850-947f-72f1c9bcedea,ORD-56822,USR-5644,DamagedFood,"fries was tasteless, unacceptable quality.",8/29/2024 13:39,"image_2869.jpg,image_1590.jpg",high,Open,,,REF-516431
+e9f1b55f-f360-489f-9e92-617576efa8be,ORD-27952,USR-6050,MissingItem,"Order incomplete, fries was not delivered.",1/23/2025 13:39,image_2392.jpg,low,Open,,,REF-172755
+e1615db4-317b-4445-a1a8-482dc9b6c340,ORD-58437,USR-9579,MissingItem,"Did not receive salad, need a refund.",4/7/2025 13:39,image_2560.jpg,low,Escalated,,,REF-113828
+09ae6b05-8d53-4725-ada7-c1674db916c3,ORD-24209,USR-7239,PoorQuality,"sandwich tasted burnt, awful experience.",10/6/2024 13:39,image_8727.jpg,low,Open,,,REF-246603
+df91329c-9f7a-4ce7-b0ab-75cf4d8dd1ae,ORD-52131,USR-1792,MissingItem,"Missing pasta from my order, very disappointing.",11/27/2024 13:39,,low,Resolved,11/28/2024 6:39,MOD-1,REF-140438
+4fe9aaa8-1006-40f2-9d4c-f8c22d9897ab,ORD-80890,USR-4506,MissingItem,"Missing sandwich from my order, very disappointing.",4/15/2025 13:39,,low,Escalated,,,REF-734288
+7c2837e0-8bc9-4f3b-a3a4-566aa4a4ee68,ORD-34988,USR-4875,PoorQuality,"Food was spoiled, not up to standard.",11/26/2024 13:39,,high,Resolved,11/28/2024 0:39,MOD-14,REF-607296
+65f0474a-9481-415c-b52e-5b9339dd90ee,ORD-54963,USR-8518,MissingItem,"Did not receive sandwich, need a refund.",4/23/2025 13:39,,low,Open,,,REF-398417
+f7ef9fd4-8176-4ff3-a804-8f92e85c22ac,ORD-61502,USR-5671,MissingItem,"Order incomplete, sushi was not delivered.",1/3/2025 13:39,,low,Open,,,REF-131653
+b6b24103-f54e-4c6b-a1a3-01b77b6e0d43,ORD-52189,USR-2995,MissingItem,"sandwich was missing, please resolve.",1/26/2025 13:39,,low,Resolved,1/27/2025 7:39,MOD-5,REF-517790
+588038e7-769b-4888-aad1-928299467709,ORD-27958,USR-7423,DamagedFood,"Order was tasteless, very disappointed.",8/11/2024 13:39,image_9410.jpg,medium,Resolved,8/12/2024 14:39,MOD-6,REF-984702
+7cb21c1d-b8e8-45b5-abe7-aa75cbb38b26,ORD-18457,USR-4399,WrongOrder,"Delivered pizza, but I wanted sandwich.",1/19/2025 13:39,,low,Open,,,REF-520355
+b6a9977e-eef5-4721-979f-466baad1c946,ORD-42554,USR-9314,DamagedFood,"Food was spoiled, totally inedible.",12/1/2024 13:39,image_9532.jpg,high,Resolved,12/3/2024 8:39,MOD-16,REF-929658
+4f62dd2b-d86e-46ef-9f19-93a4a36f4af8,ORD-62339,USR-5857,LateDelivery,"Order was 90 minutes late, food arrived cold.",8/7/2024 13:39,,medium,Open,,,REF-478858
+702d0442-0ddf-4501-82e0-42be295bb289,ORD-33763,USR-6482,PoorQuality,"pasta tasted cold, awful experience.",5/8/2025 13:39,"image_8499.jpg,image_1004.jpg",low,Resolved,5/9/2025 6:39,MOD-13,REF-893274
+bba1ab46-6aad-4b13-9042-448afe0bdf31,ORD-10223,USR-6136,DamagedFood,"burger arrived tasteless, need replacement.",7/8/2024 13:39,,low,Resolved,7/10/2024 7:39,MOD-10,REF-808244
+63b3ccee-4847-4f9a-ac9d-a7fa649ac215,ORD-47879,USR-9592,LateDelivery,"Food was 1 hour late, not happy with service.",4/28/2025 13:39,,medium,Escalated,,,REF-799318
+f6b07327-a57e-43f2-81b6-aecb5489ce2b,ORD-70485,USR-2038,LateDelivery,"Food was 2 hours late, not happy with service.",4/7/2025 13:39,,high,Escalated,,,REF-811179
+4b108324-88e5-4039-bba1-c507faa4b4a4,ORD-18455,USR-1415,WrongOrder,"I ordered fries, but got pizza.",5/29/2025 13:39,,low,Resolved,5/29/2025 15:39,MOD-11,REF-188821
+f570c1bb-68ad-4608-88f3-06baa277b9f2,ORD-18650,USR-5681,LateDelivery,"Waited 1 hour for my order, very frustrating.",9/27/2024 13:39,,medium,Open,,,REF-741734
+57476c0d-91d2-4723-a98f-644f2720a2ce,ORD-63582,USR-7127,DamagedFood,"Order was spoiled, very disappointed.",11/10/2024 13:39,"image_5489.jpg,image_8801.jpg",high,Escalated,,,REF-596976
+b2ecd9ad-7656-4f34-be06-39d16908fafa,ORD-38664,USR-4687,LateDelivery,"Delivery took 1 hour, completely unacceptable!",3/21/2025 13:39,image_6647.jpg,high,Escalated,,,REF-636385
+e9c98082-3d2f-4818-9318-642bbe3f8b3f,ORD-60441,USR-1353,WrongOrder,"I ordered sushi, but got pizza.",1/24/2025 13:39,,low,Resolved,1/25/2025 11:39,MOD-7,REF-624032
+228ed8a4-f97d-4c62-9cf2-da69c25ad95a,ORD-98999,USR-8604,DamagedFood,"Food was crushed, totally inedible.",10/22/2024 13:39,image_7232.jpg,high,Open,,,REF-709619
+c64bff8e-7ae2-441f-9ed9-872b1112eb50,ORD-51842,USR-9624,MissingItem,"Missing sandwich from my order, very disappointing.",5/23/2025 13:39,,low,Open,,,REF-202313
+50424277-9e02-4691-a461-063fba997197,ORD-37262,USR-3847,WrongOrder,"I ordered burger, but got sushi.",6/9/2025 13:39,image_4770.jpg,low,Open,,,REF-639556
+bc34be7f-f8eb-48b1-bdae-bccf6d8d1b7e,ORD-58343,USR-6999,MissingItem,"Did not receive sandwich, need a refund.",2/6/2025 13:39,,low,Escalated,,,REF-128690
+de0f16fd-8888-41a5-8029-2a3e947e4a99,ORD-80108,USR-1993,LateDelivery,"Waited 2 hours for my order, very frustrating.",6/27/2024 13:39,,high,Open,,,REF-592490
+2316232f-abdb-4d9e-a944-80eb7f0d739a,ORD-55205,USR-8840,WrongOrder,Received sushi instead of burger.,9/9/2024 13:39,,low,Open,,,REF-957775
+4d5da29b-a7b7-4dbc-9bc4-f3b54687a833,ORD-95560,USR-2288,DamagedFood,"Order was tasteless, very disappointed.",9/12/2024 13:39,"image_1103.jpg,image_6958.jpg",medium,Open,,,REF-700563
+067f8bdc-8d46-47bf-b414-6b845eb70af7,ORD-43072,USR-4744,MissingItem,"pizza was missing, please resolve.",5/14/2025 13:39,,low,Escalated,,,REF-170183
+eb11eda4-88fc-4505-84ff-ef4d848cca45,ORD-66804,USR-3102,MissingItem,"pizza was missing, please resolve.",5/25/2025 13:39,image_6228.jpg,low,Escalated,,,REF-929645
+35178698-2c87-44c1-9cb1-55c669e7417b,ORD-24185,USR-4551,DamagedFood,"Food was cold, totally inedible.",7/16/2024 13:39,,high,Escalated,,,REF-973166
+318005b8-d085-486d-8257-adecc23bd0c0,ORD-52574,USR-5125,PoorQuality,"Food was burnt, not up to standard.",7/1/2024 13:39,,low,Open,,,REF-544535
+5f270ea3-ccb6-4c4d-bd79-d22234d54b91,ORD-53002,USR-4434,LateDelivery,"Waited 1 hour for my order, very frustrating.",9/8/2024 13:39,,medium,Resolved,9/9/2024 6:39,MOD-12,REF-296828
+6a44bc9f-cae1-4fe6-977f-8cefa9c57d46,ORD-20228,USR-9891,LateDelivery,"Order was 90 minutes late, food arrived cold.",4/6/2025 13:39,image_5086.jpg,medium,Open,,,REF-387634
+49ad2c44-9afe-4692-8f97-7f0193f391d8,ORD-15341,USR-2481,LateDelivery,"Delivery took 30 minutes, completely unacceptable!",10/21/2024 13:39,,high,Open,,,REF-994425
+415312c4-d05a-47bf-920b-de4efcc20809,ORD-12357,USR-7268,MissingItem,"Missing burger from my order, very disappointing.",6/6/2025 13:39,image_3781.jpg,low,Escalated,,,REF-928716
+48c8ab79-88f8-4f2d-98ad-dbb343a83902,ORD-58070,USR-6606,PoorQuality,"Very poor quality pasta, not edible.",8/18/2024 13:39,,low,Escalated,,,REF-240540
+8a93b54c-4a62-4d8f-999b-6dafb3281f2f,ORD-18783,USR-6639,PoorQuality,"pasta tasted spoiled, awful experience.",6/21/2025 13:39,,high,Resolved,6/22/2025 18:39,MOD-8,REF-659053
+b51ad0a1-b801-4f8a-9a1f-f40aed52dc52,ORD-80835,USR-1217,WrongOrder,"Wrong order delivered, got burger not salad.",6/16/2025 13:39,"image_2873.jpg,image_2215.jpg",low,Open,,,REF-254175
+8bfb80f2-27b5-4aca-acce-1b824f2ded5d,ORD-13412,USR-3315,LateDelivery,"Food was 2 hours late, not happy with service.",12/22/2024 13:39,,high,Open,,,REF-728320
+94c5b295-be6d-45e1-a94b-6ee6a7894f20,ORD-85908,USR-7626,PoorQuality,"Very poor quality sandwich, not edible.",5/11/2025 13:39,,low,Open,,,REF-733877
+a6c0ab35-7481-4a30-bd25-d2786ffaf980,ORD-38645,USR-3224,LateDelivery,"Food was 90 minutes late, not happy with service.",1/28/2025 13:39,,medium,Escalated,,,REF-664124
+0152e7b3-b003-4c4e-bf3e-70cc2b776d37,ORD-61669,USR-9598,MissingItem,"Missing pasta from my order, very disappointing.",7/2/2024 13:39,"image_6834.jpg,image_9507.jpg",low,Open,,,REF-170272
+48b95289-cb9b-4da7-a7de-798ea67f6018,ORD-28217,USR-3454,MissingItem,"Did not receive pasta, need a refund.",5/9/2025 13:39,,low,Escalated,,,REF-710823
+c66e8d3a-f9c8-4cab-9f3f-9d1ccbb0b4bd,ORD-27932,USR-3965,PoorQuality,"Very poor quality pasta, not edible.",9/12/2024 13:39,image_2698.jpg,low,Open,,,REF-820694
+7a1797c9-4efe-4170-a032-8c15ff194a81,ORD-30872,USR-6731,WrongOrder,"Delivered pizza, but I wanted burger.",11/4/2024 13:39,,low,Escalated,,,REF-732102
+76a8d272-70d9-424c-bd74-33174e12c081,ORD-66784,USR-3769,DamagedFood,"Order was crushed, very disappointed.",10/27/2024 13:39,,medium,Resolved,10/28/2024 17:39,MOD-6,REF-774624
+819db47d-1e13-4828-bcd9-415c380bf7e0,ORD-70210,USR-8590,WrongOrder,"Wrong order delivered, got fries not fries.",6/2/2025 13:39,image_8206.jpg,low,Open,,,REF-616960
+79bf7eef-e0ed-4523-9276-3a02b56c79ca,ORD-40285,USR-6961,WrongOrder,"I ordered sandwich, but got pasta.",11/3/2024 13:39,image_1427.jpg,low,Resolved,11/4/2024 10:39,MOD-9,REF-980052
+8b162f08-6b46-4022-8291-e98256ef80ee,ORD-22911,USR-2293,WrongOrder,"I ordered salad, but got fries.",9/22/2024 13:39,,low,Escalated,,,REF-843752
+6eace55a-c4b4-449d-b92e-007b074217fd,ORD-40796,USR-1941,LateDelivery,"Delivery took 1 hour, completely unacceptable!",9/2/2024 13:39,,high,Resolved,9/3/2024 14:39,MOD-19,REF-219901
+8ed3ec60-3f89-4f94-a8d5-9b106389c6cf,ORD-82398,USR-4139,WrongOrder,Received fries instead of pasta.,4/5/2025 13:39,,low,Escalated,,,REF-958405
+f80376bf-441c-4481-bfcb-322b92f74e9e,ORD-78906,USR-7601,LateDelivery,"Food was 2 hours late, not happy with service.",6/24/2025 13:39,,high,Escalated,,,REF-352689
+287e1222-edba-40f4-a31d-b2e11dd26baf,ORD-28884,USR-8891,DamagedFood,"Order was soggy, very disappointed.",7/3/2024 13:39,,medium,Escalated,,,REF-214029
+934ba765-a4e9-4d74-abfe-e8a816706ddf,ORD-39815,USR-9299,LateDelivery,"Food was 90 minutes late, not happy with service.",9/29/2024 13:39,image_6078.jpg,medium,Escalated,,,REF-395734
+ccadd073-de81-446c-bd0a-59b4137e54a8,ORD-26996,USR-2015,DamagedFood,"Food was spoiled, totally inedible.",4/23/2025 13:39,,high,Escalated,,,REF-885617
+7716e44b-f79f-4357-b2b2-a9f4ddd9d57d,ORD-44571,USR-5336,DamagedFood,"fries arrived tasteless, need replacement.",2/16/2025 13:39,image_8168.jpg,low,Escalated,,,REF-106756
+7584b4be-f74f-413f-89fa-9e20bb87ff4c,ORD-63539,USR-5863,LateDelivery,"Delivery took 30 minutes, completely unacceptable!",8/16/2024 13:39,image_3703.jpg,high,Open,,,REF-105464
+61f28ae7-04a6-425d-903d-dd11c00d75ab,ORD-57746,USR-3901,DamagedFood,"Food was crushed, totally inedible.",5/17/2025 13:39,image_2744.jpg,high,Resolved,5/18/2025 11:39,MOD-20,REF-190948
+c5975719-c4d3-4ad2-9014-d3ccc798fef7,ORD-14463,USR-6720,DamagedFood,"Order was burnt, very disappointed.",10/30/2024 13:39,,medium,Open,,,REF-638579
+14faac8c-9e7b-48a4-ba4d-5885e56d9df3,ORD-23142,USR-4798,PoorQuality,"Very poor quality salad, not edible.",4/12/2025 13:39,,low,Escalated,,,REF-243030
+ad7f05ba-3d03-4af2-9cc7-4ef1cb0c4b0f,ORD-32749,USR-3773,PoorQuality,"salad was cold, never ordering again.",1/2/2025 13:39,,high,Open,,,REF-576823
+922e55d2-f37c-4fd8-aa63-8f1b44e28384,ORD-39797,USR-9062,LateDelivery,"Waited 90 minutes for my order, very frustrating.",12/24/2024 13:39,"image_4708.jpg,image_9763.jpg",medium,Resolved,12/24/2024 14:39,MOD-9,REF-422280
+15ff3c09-0459-4cf7-940b-9f7a12d77beb,ORD-29466,USR-3828,WrongOrder,"Delivered fries, but I wanted burger.",2/13/2025 13:39,,low,Escalated,,,REF-142005
+548c00e5-9653-48d3-a02a-1b0643b031d7,ORD-43292,USR-9287,WrongOrder,Received sushi instead of sandwich.,1/11/2025 13:39,,low,Escalated,,,REF-151330
+156dadcd-d54d-463d-b37a-b44b26c8ff10,ORD-16665,USR-1743,MissingItem,"sandwich was missing, please resolve.",7/16/2024 13:39,"image_2955.jpg,image_3443.jpg",low,Resolved,7/16/2024 19:39,MOD-9,REF-892784
+4f1d2a85-5a3b-4a6d-863b-f013c2e3e555,ORD-75392,USR-1278,MissingItem,"sushi was missing, please resolve.",7/14/2024 13:39,image_1866.jpg,low,Open,,,REF-563287
+2f69bc18-d77c-4af6-ae23-e795fca9ce38,ORD-50851,USR-2690,WrongOrder,"Delivered burger, but I wanted pasta.",9/7/2024 13:39,"image_4808.jpg,image_9036.jpg",low,Escalated,,,REF-750657
+0b52fb08-4618-4c6a-865b-2c5cd819e7f4,ORD-15828,USR-6772,DamagedFood,"Food was burnt, totally inedible.",1/19/2025 13:39,image_1064.jpg,high,Escalated,,,REF-406803
+3a199a73-1346-4223-aff0-3be4481a76da,ORD-65781,USR-2813,LateDelivery,"Order was 30 minutes late, food arrived cold.",2/9/2025 13:39,,low,Resolved,2/10/2025 21:39,MOD-17,REF-107246
+21bcfba2-835b-4da6-b1fc-0ac688c8a09e,ORD-90141,USR-4925,PoorQuality,"Very poor quality burger, not edible.",3/9/2025 13:39,image_7554.jpg,low,Escalated,,,REF-180136
+a9e1180b-8a1a-4fdd-bbf7-b6c7a2d1506d,ORD-73830,USR-1154,WrongOrder,"I ordered pasta, but got pizza.",8/21/2024 13:39,,low,Open,,,REF-409630
+336f4306-190b-4f21-8572-d90a0023bb91,ORD-82483,USR-5324,LateDelivery,"Delivery took 2 hours, completely unacceptable!",7/15/2024 13:39,,high,Open,,,REF-433390
+035ec5b6-0bd9-4ea6-9370-0d5c3c2dbcb5,ORD-47354,USR-9681,WrongOrder,"Wrong order delivered, got sandwich not sandwich.",12/29/2024 13:39,,low,Escalated,,,REF-499298
+87db1ec8-c510-4862-af7f-42c68c6b000e,ORD-96998,USR-9169,PoorQuality,"sandwich was cold, never ordering again.",6/15/2025 13:39,,high,Open,,,REF-984091
+a343a928-ef20-4415-b684-c557b2384ad2,ORD-72646,USR-4018,MissingItem,"Missing sushi from my order, very disappointing.",6/8/2025 13:39,,low,Resolved,6/8/2025 21:39,MOD-10,REF-254778
+11c67f07-29f0-4a7c-abd5-97066e9bc2f6,ORD-25234,USR-1035,WrongOrder,"Delivered fries, but I wanted burger.",3/27/2025 13:39,,low,Escalated,,,REF-366312
+33c4a282-9738-4ff8-8989-74079847d9bf,ORD-61026,USR-9605,LateDelivery,"Delivery took 30 minutes, completely unacceptable!",9/10/2024 13:39,,high,Resolved,9/11/2024 0:39,MOD-3,REF-853355
+db95c05b-fdbe-4a8f-8f29-68522b883d68,ORD-90710,USR-3893,PoorQuality,"Very poor quality sandwich, not edible.",11/15/2024 13:39,,low,Open,,,REF-866775
+b7733179-0032-4e5f-af36-776dff2c7d02,ORD-88098,USR-9008,MissingItem,"Order incomplete, sushi was not delivered.",12/8/2024 13:39,,low,Open,,,REF-347120
+6803972c-70ed-4154-8afb-e3c1f6707fee,ORD-72172,USR-9165,MissingItem,"Order incomplete, sushi was not delivered.",7/12/2024 13:39,image_4789.jpg,low,Escalated,,,REF-374044
+462487e5-3716-42c7-ae1e-1dbd868e8d21,ORD-26885,USR-9004,MissingItem,"Order incomplete, pizza was not delivered.",5/23/2025 13:39,,low,Escalated,,,REF-468485
+3e69d4d4-14b2-4a98-8e71-ed2798844f5c,ORD-87234,USR-4404,LateDelivery,"Waited 1 hour for my order, very frustrating.",4/19/2025 13:39,,medium,Resolved,4/21/2025 6:39,MOD-15,REF-144108
+0870823c-f41e-45a2-b1a1-78086b3d9da8,ORD-14152,USR-7325,DamagedFood,"pasta arrived cold, need replacement.",8/12/2024 13:39,image_2062.jpg,low,Resolved,8/14/2024 10:39,MOD-15,REF-268199
+87d9e7ea-d927-4860-a3a2-129a4cd634df,ORD-47450,USR-9554,PoorQuality,"Food was burnt, not up to standard.",10/4/2024 13:39,,low,Open,,,REF-842032
+fb38594f-4cff-464d-a433-ae571435cc41,ORD-33633,USR-7122,PoorQuality,"salad was tasteless, never ordering again.",10/22/2024 13:39,,high,Open,,,REF-521550
+bed8618b-5011-4ed4-938e-4ec8e997dfd5,ORD-25168,USR-2199,WrongOrder,"I ordered pizza, but got fries.",6/19/2025 13:39,image_8268.jpg,low,Escalated,,,REF-205494
+22da1260-6cd4-4e74-a6be-a2cb024878f8,ORD-29526,USR-1703,PoorQuality,"pasta tasted tasteless, awful experience.",4/1/2025 13:39,,low,Escalated,,,REF-836205
+2a9fc368-c308-4900-b712-78ac67ef9730,ORD-36080,USR-8621,LateDelivery,"Order was 2 hours late, food arrived cold.",10/27/2024 13:39,,high,Escalated,,,REF-793823
+fbd4bb65-d120-4017-8ee9-21b3be5f2f63,ORD-69553,USR-5061,PoorQuality,"salad tasted spoiled, awful experience.",10/11/2024 13:39,image_1072.jpg,high,Open,,,REF-403608
+f4823677-3481-410a-89e8-2d8d40fc87e2,ORD-17587,USR-6369,MissingItem,"Missing pasta from my order, very disappointing.",11/16/2024 13:39,,low,Open,,,REF-782521
+121bca88-b30d-4713-80a5-6d8c58d797fe,ORD-74734,USR-7942,LateDelivery,"Waited 2 hours for my order, very frustrating.",5/30/2025 13:39,"image_6576.jpg,image_5401.jpg",high,Open,,,REF-702435
+c29c5e69-7474-4100-ad88-22f484502f65,ORD-37695,USR-3154,PoorQuality,"pasta tasted burnt, awful experience.",7/16/2024 13:39,,low,Resolved,7/17/2024 13:39,MOD-5,REF-443985
+ecf47128-9a41-4d34-abbf-bea51e4da4b4,ORD-83969,USR-6200,DamagedFood,"Food was burnt, totally inedible.",7/17/2024 13:39,,high,Escalated,,,REF-760074
+1f60a3bf-44a2-4d5a-8be5-017bb57040d5,ORD-42184,USR-6654,WrongOrder,"I ordered salad, but got salad.",12/15/2024 13:39,image_5464.jpg,low,Escalated,,,REF-564906
+2dc669b4-d122-4a22-b08a-02e7b3e7a6e6,ORD-46606,USR-3840,LateDelivery,"Food was 30 minutes late, not happy with service.",4/4/2025 13:39,"image_9765.jpg,image_5670.jpg",low,Open,,,REF-964294
+30c9bd07-8967-43f9-b982-266c23fd0c97,ORD-45958,USR-8732,PoorQuality,"Food was spoiled, not up to standard.",4/13/2025 13:39,,high,Resolved,4/13/2025 15:39,MOD-7,REF-238465
+000e7efd-4478-48b2-b971-deb9117a010c,ORD-37977,USR-1353,WrongOrder,"Delivered fries, but I wanted salad.",1/5/2025 13:39,image_4601.jpg,low,Escalated,,,REF-604152
+992d0396-3992-4c61-9fbc-03254a595bb4,ORD-48583,USR-5396,PoorQuality,"Very poor quality sushi, not edible.",9/1/2024 13:39,,low,Resolved,9/2/2024 19:39,MOD-11,REF-773838
+6bf4a197-63c3-46c0-a811-c5b6c6414717,ORD-77802,USR-4243,LateDelivery,"Food was 30 minutes late, not happy with service.",7/23/2024 13:39,,low,Resolved,7/24/2024 4:39,MOD-11,REF-789756
+bcf6eed3-63c2-46c9-b6e9-e72616c14e89,ORD-10115,USR-7331,MissingItem,"Missing burger from my order, very disappointing.",2/4/2025 13:39,,low,Escalated,,,REF-462447
+3b678ef2-27b6-48a9-8fe1-8aa44e971b54,ORD-47462,USR-2359,PoorQuality,"Very poor quality sushi, not edible.",8/26/2024 13:39,,low,Resolved,8/26/2024 17:39,MOD-15,REF-648532
+e070c22c-7465-413f-8667-76a372bbdb49,ORD-28294,USR-6374,PoorQuality,"Very poor quality pizza, not edible.",5/6/2025 13:39,,low,Open,,,REF-241286
+fb82e32e-70dc-403f-a0d4-31f124bb2b48,ORD-52521,USR-6230,PoorQuality,"fries was spoiled, never ordering again.",11/3/2024 13:39,image_3869.jpg,high,Escalated,,,REF-201110
+c9b1dea5-6b86-402e-a2c1-aff8a292cbcf,ORD-60628,USR-1504,MissingItem,"salad was missing, please resolve.",6/18/2025 13:39,image_5122.jpg,low,Escalated,,,REF-657949
+f277bdaf-539f-4975-badb-dec81392ebe7,ORD-61996,USR-3642,LateDelivery,"Waited 30 minutes for my order, very frustrating.",11/20/2024 13:39,,medium,Resolved,11/22/2024 12:39,MOD-16,REF-308672
+59f2fe07-73a3-4510-a4ab-32831652d8d7,ORD-95852,USR-7527,PoorQuality,"fries tasted cold, awful experience.",7/16/2024 13:39,image_3003.jpg,low,Open,,,REF-276035
+8f9c15c5-8902-4c54-816e-74051d571023,ORD-17677,USR-9534,WrongOrder,"Delivered pizza, but I wanted sandwich.",10/4/2024 13:39,,low,Resolved,10/6/2024 10:39,MOD-18,REF-312632
+1d28a3fa-247b-4c97-8dba-7e63ed4f3007,ORD-11804,USR-9428,LateDelivery,"Order was 30 minutes late, food arrived cold.",5/13/2025 13:39,,low,Escalated,,,REF-576758
+ca38a6fe-a1c2-4afe-a7ce-5998022217a1,ORD-58573,USR-2376,DamagedFood,"Order was tasteless, very disappointed.",12/21/2024 13:39,,medium,Escalated,,,REF-832696
+6843ba80-c6a1-4a8a-a2b7-ee2dc4f9ebaa,ORD-38516,USR-1049,WrongOrder,"Delivered salad, but I wanted pizza.",11/30/2024 13:39,,low,Escalated,,,REF-393857
+ed5ae56b-6e7e-4290-92fb-4ddc39a3d8c0,ORD-24848,USR-9905,PoorQuality,"sandwich tasted spoiled, awful experience.",8/15/2024 13:39,,high,Escalated,,,REF-637387
+3a656e0d-c2bf-4e6d-8738-4d511f0b593b,ORD-25163,USR-8130,DamagedFood,"Food was crushed, totally inedible.",4/23/2025 13:39,,high,Open,,,REF-627812
+5d726904-59c7-4336-8c4f-01da7ea1937c,ORD-81024,USR-5654,LateDelivery,"Waited 30 minutes for my order, very frustrating.",3/27/2025 13:39,,medium,Escalated,,,REF-548614
+9a8a9eed-6ae7-4d88-84fe-e1980a2b710a,ORD-23575,USR-7382,PoorQuality,"Very poor quality sushi, not edible.",3/30/2025 13:39,,low,Escalated,,,REF-741622
+d73271dc-a87d-4137-9907-3ac9dc10518a,ORD-73244,USR-4247,MissingItem,"Did not receive pizza, need a refund.",11/5/2024 13:39,,low,Resolved,11/7/2024 12:39,MOD-4,REF-836782
+b705e697-f1b9-4e43-b4b4-f18a1e8a242c,ORD-34623,USR-1684,LateDelivery,"Food was 2 hours late, not happy with service.",10/27/2024 13:39,,high,Escalated,,,REF-559409
+1fd87d21-557f-417b-9a38-d5da91aa2e9d,ORD-53898,USR-7824,WrongOrder,"Wrong order delivered, got sandwich not burger.",1/16/2025 13:39,,low,Escalated,,,REF-629640
+6cd6a359-e106-4f2b-a382-5c49e7249250,ORD-98314,USR-6359,PoorQuality,"Food was spoiled, not up to standard.",7/25/2024 13:39,image_8965.jpg,high,Resolved,7/27/2024 10:39,MOD-10,REF-257157
+0da100c6-22ac-48c5-8359-f6b9b76fc8c4,ORD-98513,USR-7056,DamagedFood,"pizza was spoiled, unacceptable quality.",8/18/2024 13:39,,high,Resolved,8/19/2024 2:39,MOD-15,REF-494916
+3c80d63e-e3ad-490a-b8b8-0fe8641a9ac0,ORD-98275,USR-2451,LateDelivery,"Waited 30 minutes for my order, very frustrating.",2/13/2025 13:39,,medium,Open,,,REF-778141
+dc27cfc7-493e-4026-9502-f87a23372cef,ORD-90909,USR-5073,DamagedFood,"pizza was crushed, unacceptable quality.",11/25/2024 13:39,,high,Open,,,REF-759492
+f46f4654-95bc-4446-b8b5-45d85c25c6a0,ORD-86620,USR-1082,DamagedFood,"pizza arrived cold, need replacement.",4/9/2025 13:39,,low,Open,,,REF-546600
+9451aa4e-0f18-4e0f-8388-e723a6cf6e4a,ORD-58526,USR-9230,DamagedFood,"pizza was soggy, unacceptable quality.",7/22/2024 13:39,,high,Escalated,,,REF-653515
+6304c030-d023-435f-9df1-0568a11775eb,ORD-93238,USR-3898,DamagedFood,"Order was crushed, very disappointed.",1/7/2025 13:39,,medium,Escalated,,,REF-496544
+1e2fb391-ae89-4ed5-9753-837de84be205,ORD-70251,USR-1790,PoorQuality,"Very poor quality pizza, not edible.",7/18/2024 13:39,image_5572.jpg,low,Escalated,,,REF-548938
+88011bcc-f452-4dd9-933d-0450e150d00e,ORD-95928,USR-1913,PoorQuality,"salad tasted crushed, awful experience.",6/15/2025 13:39,image_6667.jpg,low,Open,,,REF-408424
+5142a956-fb7f-4d2e-bbd9-3a863b8c772a,ORD-79403,USR-8497,MissingItem,"Missing fries from my order, very disappointing.",8/30/2024 13:39,,low,Open,,,REF-822553
+8b27acd3-484b-482c-8eed-90484c040e1b,ORD-88068,USR-3764,LateDelivery,"Food was 2 hours late, not happy with service.",2/25/2025 13:39,,high,Escalated,,,REF-485584
+a95d54a5-7e78-4eda-8038-9b8292f00eb1,ORD-97082,USR-8863,DamagedFood,"Food was soggy, totally inedible.",2/8/2025 13:39,,high,Open,,,REF-834489
+6c7b64a5-fa37-4932-b285-c325a664e7ed,ORD-17012,USR-6977,PoorQuality,"pizza tasted cold, awful experience.",2/28/2025 13:39,,low,Resolved,3/1/2025 20:39,MOD-12,REF-697251
+79f118e2-1163-411b-9641-b7112538c9dc,ORD-65897,USR-8924,LateDelivery,"Delivery took 2 hours, completely unacceptable!",10/2/2024 13:39,image_7679.jpg,high,Escalated,,,REF-404082
+c6773977-da91-42ba-83ca-a0a75f08d0c5,ORD-82569,USR-4629,WrongOrder,"Wrong order delivered, got salad not sushi.",4/28/2025 13:39,,low,Resolved,4/29/2025 10:39,MOD-11,REF-286066
+a1201366-105b-4ee2-8780-9d7413d369f6,ORD-67959,USR-2323,DamagedFood,"burger arrived cold, need replacement.",10/21/2024 13:39,,low,Escalated,,,REF-414693
+0638acf9-3596-4751-9bb5-02992c61b569,ORD-69681,USR-5996,MissingItem,"Missing pizza from my order, very disappointing.",12/7/2024 13:39,,low,Escalated,,,REF-481963
+617d71ed-ce1e-40c5-ad9f-b2b88dbbb837,ORD-81275,USR-2456,LateDelivery,"Waited 90 minutes for my order, very frustrating.",2/12/2025 13:39,image_2372.jpg,medium,Resolved,2/14/2025 12:39,MOD-11,REF-513468
+f916cca3-dab2-4b8b-aaf7-863a1ab70e61,ORD-99699,USR-4651,WrongOrder,"I ordered burger, but got sandwich.",8/19/2024 13:39,,low,Open,,,REF-469357
+bada5cb9-580b-4cf4-89ff-00595ff86c8a,ORD-14337,USR-4857,DamagedFood,"Food was spoiled, totally inedible.",1/11/2025 13:39,"image_4117.jpg,image_3531.jpg",high,Escalated,,,REF-272009
+2a124004-7c1c-4ad7-b033-1b8950631111,ORD-70987,USR-4104,WrongOrder,"I ordered salad, but got sushi.",6/27/2024 13:39,,low,Resolved,6/27/2024 21:39,MOD-4,REF-746465
+c3a5ea6d-8191-4961-80f4-1d6890fc438d,ORD-33066,USR-4893,MissingItem,"Missing salad from my order, very disappointing.",2/21/2025 13:39,image_4622.jpg,low,Resolved,2/22/2025 13:39,MOD-15,REF-910302
+e99994d2-86f3-4820-bde0-e29c84ca776c,ORD-75092,USR-2950,MissingItem,"Missing pizza from my order, very disappointing.",11/24/2024 13:39,,low,Open,,,REF-405968
+4199bfa7-932e-49d9-8ae9-bde5555a88a1,ORD-18826,USR-4489,PoorQuality,"Food was tasteless, not up to standard.",7/13/2024 13:39,,low,Escalated,,,REF-386086
+3cb62b92-b569-4bcc-a4ff-6a7447282c99,ORD-47660,USR-4520,LateDelivery,"Delivery took 2 hours, completely unacceptable!",2/3/2025 13:39,image_4797.jpg,high,Open,,,REF-274165
+e4563cfd-6650-4de3-ad17-3a67cceb2da6,ORD-84624,USR-4687,DamagedFood,"Order was soggy, very disappointed.",1/22/2025 13:39,,medium,Open,,,REF-432940
+a3bb4818-6bf9-46b3-9a5f-e7a25478e38b,ORD-22121,USR-4939,WrongOrder,"Wrong order delivered, got burger not pasta.",12/6/2024 13:39,image_8578.jpg,low,Resolved,12/6/2024 17:39,MOD-14,REF-406211
+68deda5d-6fe6-41d8-bccb-6ebb28216e8a,ORD-17978,USR-2887,LateDelivery,"Order was 30 minutes late, food arrived cold.",4/14/2025 13:39,,low,Escalated,,,REF-141242
+2ed05a55-4651-421e-8ba2-e85b8bfb9789,ORD-97024,USR-3047,LateDelivery,"Delivery took 1 hour, completely unacceptable!",12/19/2024 13:39,image_9181.jpg,high,Resolved,12/21/2024 12:39,MOD-5,REF-913945
+2b79fc6f-1bfd-4252-9fbd-1aa7aee76f3c,ORD-32467,USR-3542,DamagedFood,"Food was tasteless, totally inedible.",5/29/2025 13:39,,high,Open,,,REF-726427
+446f358a-12b0-4737-a80c-8fff18f2f795,ORD-18319,USR-1739,PoorQuality,"Very poor quality fries, not edible.",7/16/2024 13:39,image_5675.jpg,low,Open,,,REF-962026
+45bcf48a-d01b-4464-8256-e98c236b45bf,ORD-80609,USR-9769,PoorQuality,"salad tasted burnt, awful experience.",8/28/2024 13:39,image_5084.jpg,low,Escalated,,,REF-967682
+e917676f-3702-4f83-858b-9cc117558daa,ORD-90709,USR-4015,DamagedFood,"Order was crushed, very disappointed.",4/8/2025 13:39,,medium,Escalated,,,REF-676917
+66dc6b4d-a1b5-48dd-a697-d072ddbdace0,ORD-66360,USR-5963,WrongOrder,"I ordered salad, but got pizza.",11/2/2024 13:39,image_3271.jpg,low,Resolved,11/3/2024 15:39,MOD-6,REF-645933
+d8926d4e-bc1a-4c3f-a27b-d673172e27c2,ORD-90003,USR-9257,MissingItem,"Order incomplete, pizza was not delivered.",11/8/2024 13:39,image_4263.jpg,low,Open,,,REF-317458
+cf33875b-1117-436b-9f27-f34222ff0503,ORD-83680,USR-9601,DamagedFood,"burger was spoiled, unacceptable quality.",3/12/2025 13:39,,high,Escalated,,,REF-785742
+611657ed-1bda-4269-9ff1-84f9b1a50678,ORD-69755,USR-9757,PoorQuality,"Very poor quality sushi, not edible.",8/18/2024 13:39,,low,Resolved,8/19/2024 23:39,MOD-9,REF-183374
+7630a441-3708-47dc-ac4e-b8958b94444d,ORD-39709,USR-5627,MissingItem,"Missing sushi from my order, very disappointing.",1/20/2025 13:39,,low,Resolved,1/22/2025 2:39,MOD-11,REF-667997
+4018e0ef-c0f6-429e-a762-2dd41cfc977a,ORD-73394,USR-5880,LateDelivery,"Food was 90 minutes late, not happy with service.",5/9/2025 13:39,,medium,Escalated,,,REF-638758
+85c12182-215e-4cc0-8fcf-3a5f1659e62e,ORD-93712,USR-9462,PoorQuality,"Very poor quality fries, not edible.",12/17/2024 13:39,,low,Open,,,REF-355368
+5d816b99-87a7-401b-aa35-86030d6c4668,ORD-49155,USR-7382,WrongOrder,Received sandwich instead of pizza.,6/22/2025 13:39,,low,Escalated,,,REF-898028
+dbd1e7db-6ff4-4dd0-9303-f302227a5d8f,ORD-89772,USR-9608,WrongOrder,"Wrong order delivered, got sushi not pasta.",2/23/2025 13:39,image_8093.jpg,low,Resolved,2/25/2025 0:39,MOD-12,REF-266556
+684593ce-ae4d-44ea-bc96-c39d05a1cd4f,ORD-50260,USR-5799,DamagedFood,"Order was burnt, very disappointed.",10/13/2024 13:39,image_1354.jpg,medium,Open,,,REF-263645
+4b1a532f-e94d-481d-a211-e618e7d17855,ORD-70750,USR-5187,MissingItem,"Order incomplete, pizza was not delivered.",6/27/2024 13:39,,low,Escalated,,,REF-544643
+02f5c5ad-7933-4749-bc11-f6232bde07fb,ORD-84104,USR-9673,LateDelivery,"Delivery took 90 minutes, completely unacceptable!",1/21/2025 13:39,image_8654.jpg,high,Resolved,1/21/2025 14:39,MOD-20,REF-770078
+5bed0779-756a-4ee3-a636-3ffee67abc47,ORD-91921,USR-1018,DamagedFood,"burger was tasteless, unacceptable quality.",11/16/2024 13:39,"image_3125.jpg,image_9753.jpg",high,Escalated,,,REF-345752
+fb6fbb83-7e0c-4641-ac52-3281aeb1ea08,ORD-95533,USR-9411,LateDelivery,"Order was 1 hour late, food arrived cold.",9/25/2024 13:39,,medium,Escalated,,,REF-988587
+1894ad81-dfa3-4cd1-935d-80b85bfc600f,ORD-28807,USR-2051,LateDelivery,"Delivery took 1 hour, completely unacceptable!",11/19/2024 13:39,,high,Resolved,11/19/2024 20:39,MOD-16,REF-611332
+19436d8b-be22-4241-85d9-c2ac34ed4822,ORD-70195,USR-5636,DamagedFood,"fries was crushed, unacceptable quality.",5/21/2025 13:39,image_1043.jpg,high,Escalated,,,REF-554962
+a7d78991-2c84-4456-8e56-8140f9002887,ORD-50246,USR-5290,LateDelivery,"Delivery took 30 minutes, completely unacceptable!",3/19/2025 13:39,"image_4954.jpg,image_5113.jpg",high,Escalated,,,REF-873993
+b2cad127-0bf2-428e-915b-a5450c653ea6,ORD-43290,USR-1569,MissingItem,"Order incomplete, burger was not delivered.",9/23/2024 13:39,,low,Resolved,9/23/2024 17:39,MOD-12,REF-469534
+2ebecd9e-6fee-4724-b7f8-722eae0e7058,ORD-54478,USR-7695,PoorQuality,"salad tasted crushed, awful experience.",1/3/2025 13:39,"image_6271.jpg,image_2620.jpg",low,Open,,,REF-172551
+5e95c574-4ae2-4ef1-a8d9-ed62c59213e2,ORD-35536,USR-9691,PoorQuality,"Very poor quality pizza, not edible.",3/19/2025 13:39,,low,Open,,,REF-982555
+0e923388-e9a2-4c3d-80a1-0daf18a477eb,ORD-49425,USR-8119,LateDelivery,"Delivery took 1 hour, completely unacceptable!",7/6/2024 13:39,,high,Resolved,7/8/2024 1:39,MOD-3,REF-204093
+c362f1ad-61de-4bfa-9e03-6c52c8249f0a,ORD-86465,USR-3416,WrongOrder,"Wrong order delivered, got sandwich not sandwich.",10/4/2024 13:39,image_6423.jpg,low,Open,,,REF-901425
+bdbf22fc-e15d-4851-9a4e-93c8c9876121,ORD-78367,USR-9919,LateDelivery,"Delivery took 90 minutes, completely unacceptable!",5/8/2025 13:39,,high,Escalated,,,REF-951476
+b0098da0-164e-44dd-ae2f-89828f36ff25,ORD-93377,USR-2790,PoorQuality,"Food was burnt, not up to standard.",3/2/2025 13:39,,low,Resolved,3/4/2025 6:39,MOD-6,REF-480435
+01556aa4-a56e-4fda-a7ea-7e0e65c6a329,ORD-51668,USR-7781,MissingItem,"Order incomplete, sandwich was not delivered.",11/11/2024 13:39,image_9071.jpg,low,Open,,,REF-922844
+c4113939-e609-454a-8247-6510ed974a63,ORD-69197,USR-4535,PoorQuality,"Very poor quality fries, not edible.",11/1/2024 13:39,image_7758.jpg,low,Resolved,11/3/2024 5:39,MOD-2,REF-527633
+00aace05-31c3-42a0-aac4-918c6624f955,ORD-11937,USR-9431,PoorQuality,"fries was spoiled, never ordering again.",10/7/2024 13:39,,high,Escalated,,,REF-918553
+7aeafe06-6555-4e27-b8f6-c4a2bc813d14,ORD-72076,USR-1431,DamagedFood,"burger was spoiled, unacceptable quality.",4/12/2025 13:39,image_8053.jpg,high,Escalated,,,REF-760991
+14dd01b5-4e8b-4c83-9cca-db2f8c12d984,ORD-61418,USR-5680,WrongOrder,"I ordered burger, but got sushi.",12/8/2024 13:39,image_1431.jpg,low,Open,,,REF-658483
+43dc550b-241c-4963-814b-dc67d91d1dd7,ORD-76507,USR-7031,PoorQuality,"Food was tasteless, not up to standard.",3/22/2025 13:39,,low,Resolved,3/23/2025 2:39,MOD-1,REF-428516
+d433d50a-a837-41a3-b3ec-3663ae7bf632,ORD-47962,USR-5433,DamagedFood,"Order was cold, very disappointed.",2/8/2025 13:39,,medium,Resolved,2/8/2025 23:39,MOD-11,REF-105831
+b6ecb45f-ada6-4a6a-a357-aa78ec7ed938,ORD-79988,USR-6289,LateDelivery,"Food was 2 hours late, not happy with service.",7/29/2024 13:39,image_4381.jpg,high,Escalated,,,REF-943388
+ef5712ff-a7ee-4d7a-a24a-8a4d5942ed11,ORD-83753,USR-3282,PoorQuality,"burger was tasteless, never ordering again.",12/30/2024 13:39,image_9496.jpg,high,Escalated,,,REF-300788
+3d72a087-984e-4b53-8d0a-4903eab6e5ad,ORD-26251,USR-7312,MissingItem,"Order incomplete, sandwich was not delivered.",1/8/2025 13:39,,low,Open,,,REF-615875
+ddc9ed8e-1b31-42e5-8da4-e5a34f124366,ORD-23837,USR-9978,DamagedFood,"fries was burnt, unacceptable quality.",9/5/2024 13:39,,high,Open,,,REF-532999
+28fc77b5-0879-4ebf-8d3f-92c1e1c32d43,ORD-95796,USR-9319,MissingItem,"Order incomplete, pasta was not delivered.",9/30/2024 13:39,,low,Resolved,10/2/2024 11:39,MOD-20,REF-188898
+71e83b40-fef6-436c-9277-ba579c6ba06f,ORD-33436,USR-2612,PoorQuality,"salad tasted tasteless, awful experience.",1/26/2025 13:39,"image_8773.jpg,image_2368.jpg",low,Escalated,,,REF-587588
+0e5ffdce-6575-43c6-9b9a-84e24ed7f550,ORD-57937,USR-8967,DamagedFood,"Food was burnt, totally inedible.",2/6/2025 13:39,,high,Escalated,,,REF-252028
+de380a4f-03d0-41d0-9e18-c59f60fc9014,ORD-90731,USR-1969,LateDelivery,"Delivery took 30 minutes, completely unacceptable!",12/15/2024 13:39,,high,Escalated,,,REF-864444
+61b44982-b9cc-4a47-8f94-246962abccd7,ORD-21490,USR-1870,PoorQuality,"Very poor quality fries, not edible.",8/22/2024 13:39,"image_2752.jpg,image_3239.jpg",low,Resolved,8/24/2024 2:39,MOD-1,REF-320541
+3dcd0d28-3ac8-4848-8a9f-1ba9a27e403c,ORD-93217,USR-2162,WrongOrder,Received salad instead of salad.,10/28/2024 13:39,,low,Open,,,REF-433729
+6d0deef0-6839-453e-a295-79b47205c23d,ORD-37295,USR-6656,WrongOrder,"Delivered burger, but I wanted burger.",5/23/2025 13:39,"image_5680.jpg,image_5769.jpg",low,Open,,,REF-330515
+634be397-3f91-46ea-a924-b53b15b841a0,ORD-66446,USR-5511,LateDelivery,"Delivery took 1 hour, completely unacceptable!",8/5/2024 13:39,image_6948.jpg,high,Open,,,REF-314161
+94cd0f57-2d06-4efa-8c99-03b72cd37ec7,ORD-17568,USR-3551,PoorQuality,"Very poor quality pizza, not edible.",12/31/2024 13:39,"image_4481.jpg,image_1631.jpg",low,Escalated,,,REF-610697
+26968ebc-36f5-4565-9661-26f0efce4cfe,ORD-98625,USR-4795,WrongOrder,"Wrong order delivered, got pasta not fries.",12/30/2024 13:39,,low,Open,,,REF-988936
+d031fbe7-73d1-460e-bfab-b0c0801dcb41,ORD-21223,USR-7856,DamagedFood,"burger arrived crushed, need replacement.",9/28/2024 13:39,,low,Open,,,REF-995683
+6185cca2-abf7-4db1-bdaa-8403993db818,ORD-46408,USR-3115,WrongOrder,"I ordered pizza, but got pasta.",2/20/2025 13:39,,low,Open,,,REF-184454
+fd69104a-2a77-4991-a1bd-b5d3a85d5ad2,ORD-15461,USR-9546,DamagedFood,"Food was tasteless, totally inedible.",2/2/2025 13:39,,high,Open,,,REF-485067
+c16dfd52-3ae7-4e13-98d2-ce8a8b642170,ORD-22083,USR-7277,DamagedFood,"pizza was spoiled, unacceptable quality.",1/2/2025 13:39,image_6791.jpg,high,Open,,,REF-280676
+b54d7ee2-3a59-43c1-8800-22554ef5bc4f,ORD-91891,USR-8588,WrongOrder,Received sandwich instead of fries.,7/19/2024 13:39,,low,Resolved,7/20/2024 11:39,MOD-19,REF-926349
+18e89415-4e2f-4719-bf26-eae4403cb7d0,ORD-24742,USR-9414,DamagedFood,"sushi was spoiled, unacceptable quality.",8/3/2024 13:39,,high,Escalated,,,REF-896522
+833e89e0-4275-44dd-9f7d-7c9b75cfccfc,ORD-52580,USR-6630,MissingItem,"Missing burger from my order, very disappointing.",6/27/2025 13:39,,low,Escalated,,,REF-404932
+ab96337d-af29-4a91-9722-d27a99645b40,ORD-91839,USR-1507,DamagedFood,"sushi arrived crushed, need replacement.",3/29/2025 13:39,,low,Resolved,3/29/2025 18:39,MOD-13,REF-814562
+7e6fe3c2-79e5-403d-a5fb-da3eda486e32,ORD-77551,USR-9124,DamagedFood,"Order was burnt, very disappointed.",12/11/2024 13:39,,medium,Resolved,12/11/2024 15:39,MOD-1,REF-790696
+7cd784f2-f4a3-4d86-82b2-ea6880e9397f,ORD-92881,USR-8512,MissingItem,"Missing pasta from my order, very disappointing.",7/6/2024 13:39,,low,Resolved,7/6/2024 21:39,MOD-13,REF-148075
+e7d2c410-0ee3-4cd8-96a4-322944b1817c,ORD-29891,USR-1436,MissingItem,"Order incomplete, fries was not delivered.",8/3/2024 13:39,,low,Escalated,,,REF-303332
+0846b0b1-bcf7-41be-a19a-a98c221e7bf4,ORD-10473,USR-2128,LateDelivery,"Waited 30 minutes for my order, very frustrating.",8/21/2024 13:39,,medium,Open,,,REF-848573
+22fc4b92-74c4-42c4-8ddc-7c60095655de,ORD-62616,USR-1251,MissingItem,"Missing sandwich from my order, very disappointing.",11/29/2024 13:39,,low,Escalated,,,REF-634294
+bb6b36db-1462-4ea7-b22a-7c50f3a484f7,ORD-41803,USR-1309,MissingItem,"Did not receive burger, need a refund.",3/24/2025 13:39,"image_6632.jpg,image_9915.jpg",low,Resolved,3/25/2025 10:39,MOD-1,REF-286545
+3b5ac03b-6a69-4030-9b2c-e84fe4b9e11d,ORD-68589,USR-2820,MissingItem,"Missing sandwich from my order, very disappointing.",9/20/2024 13:39,,low,Resolved,9/21/2024 17:39,MOD-15,REF-941312
+119b8d0b-face-41e5-be15-539546f9629a,ORD-62643,USR-3082,PoorQuality,"Very poor quality sandwich, not edible.",7/14/2024 13:39,,low,Open,,,REF-405063
+5a0d547b-764a-49c4-ada8-638c7ea1c5b2,ORD-23993,USR-7025,LateDelivery,"Waited 2 hours for my order, very frustrating.",3/5/2025 13:39,"image_5246.jpg,image_8273.jpg",high,Open,,,REF-401736
+d5a29dc3-a710-4f1a-beab-afb3aa9e5417,ORD-56019,USR-5596,LateDelivery,"Food was 30 minutes late, not happy with service.",2/16/2025 13:39,image_9845.jpg,low,Escalated,,,REF-884961
+3ef1178e-1481-4984-8362-062559e1fdaf,ORD-57736,USR-2792,MissingItem,"Order incomplete, burger was not delivered.",11/16/2024 13:39,,low,Open,,,REF-710686
+0ac00529-a3f4-4393-ad51-e8827ddaaf61,ORD-13588,USR-7191,DamagedFood,"fries arrived tasteless, need replacement.",6/7/2025 13:39,,low,Escalated,,,REF-439920
+a077fa39-d3ff-436d-976c-c7264299bbff,ORD-72381,USR-9915,WrongOrder,"Wrong order delivered, got sandwich not salad.",12/5/2024 13:39,,low,Resolved,12/7/2024 3:39,MOD-14,REF-539232
+ccc6dbc6-dd24-468a-80ea-d0f16a054b4d,ORD-41401,USR-6919,MissingItem,"sandwich was missing, please resolve.",3/19/2025 13:39,image_7946.jpg,low,Escalated,,,REF-130298
+de51cef3-42d9-47d7-bc86-9cb516928bce,ORD-17821,USR-1972,PoorQuality,"fries was tasteless, never ordering again.",3/1/2025 13:39,,high,Open,,,REF-114448
+f2f5c201-71f0-4455-a78c-fe9b60ca0759,ORD-74080,USR-3013,PoorQuality,"Food was cold, not up to standard.",5/9/2025 13:39,"image_4202.jpg,image_1352.jpg",low,Open,,,REF-159150
+70dc6ed0-2c35-467c-9451-6648e649cd89,ORD-58259,USR-5329,DamagedFood,"sushi was cold, unacceptable quality.",8/16/2024 13:39,,high,Escalated,,,REF-873505
+8f8b2058-d53a-44ec-822a-d67d9c0b98c3,ORD-49993,USR-9053,MissingItem,"Order incomplete, pizza was not delivered.",10/1/2024 13:39,,low,Escalated,,,REF-116495
+afa95efc-f1a1-4057-9670-32caaf5d9c26,ORD-76404,USR-3140,PoorQuality,"salad was tasteless, never ordering again.",2/2/2025 13:39,,high,Resolved,2/2/2025 23:39,MOD-6,REF-382645
+bde3176e-5e5e-4b76-8f68-b0927229f8c0,ORD-62537,USR-6986,WrongOrder,Received burger instead of sushi.,1/2/2025 13:39,,low,Escalated,,,REF-385006
+6e4da329-e647-420c-81cf-104c20fab782,ORD-59265,USR-9943,PoorQuality,"Very poor quality salad, not edible.",12/1/2024 13:39,image_5522.jpg,low,Escalated,,,REF-101101
+e1164e33-ffd7-4304-9a46-576f64752d3b,ORD-28325,USR-1285,WrongOrder,"Delivered sushi, but I wanted sushi.",4/28/2025 13:39,,low,Open,,,REF-104888
+4553b69d-bf9e-4194-9062-891e173f9ab7,ORD-55947,USR-9680,WrongOrder,Received salad instead of burger.,3/16/2025 13:39,image_4407.jpg,low,Resolved,3/16/2025 16:39,MOD-6,REF-505597
+758cc3ec-1307-4a7f-b41b-543d57993f1b,ORD-79805,USR-5614,LateDelivery,"Food was 2 hours late, not happy with service.",8/17/2024 13:39,"image_3968.jpg,image_7089.jpg",high,Resolved,8/17/2024 16:39,MOD-10,REF-927477
+fcae315e-3c3a-402c-9ed3-0869b6732cc9,ORD-40320,USR-3237,DamagedFood,"burger was spoiled, unacceptable quality.",1/6/2025 13:39,,high,Open,,,REF-942013
+0c16e12b-fcfb-497a-b2ad-5f263c2d0599,ORD-26843,USR-1920,PoorQuality,"Food was spoiled, not up to standard.",9/30/2024 13:39,,high,Resolved,9/30/2024 18:39,MOD-10,REF-964640
+66eedfd6-aab0-4f31-b55b-c784faa1f68e,ORD-72254,USR-7996,LateDelivery,"Order was 30 minutes late, food arrived cold.",3/10/2025 13:39,,low,Escalated,,,REF-786999
+d38cd0ed-85a0-4994-ba9b-8eab493362c8,ORD-67061,USR-9332,WrongOrder,Received sushi instead of sushi.,3/21/2025 13:39,"image_2139.jpg,image_6011.jpg",low,Open,,,REF-327171
+150027d4-a990-43ae-9d64-eccb71ced445,ORD-45064,USR-3368,DamagedFood,"Order was crushed, very disappointed.",1/1/2025 13:39,,medium,Resolved,1/2/2025 19:39,MOD-5,REF-294638
+a54f0b8a-534a-4b93-aad8-8a48b3ec19e7,ORD-69463,USR-7234,DamagedFood,"burger was crushed, unacceptable quality.",8/16/2024 13:39,,high,Resolved,8/18/2024 11:39,MOD-8,REF-483288
+ed79326d-3a28-4764-b89d-1381ce0b4fbf,ORD-28106,USR-9563,WrongOrder,"Wrong order delivered, got burger not sandwich.",12/3/2024 13:39,,low,Resolved,12/4/2024 17:39,MOD-1,REF-251270
+426efd3d-5489-41ed-a274-5fd6e2d20f11,ORD-38556,USR-1803,LateDelivery,"Order was 90 minutes late, food arrived cold.",10/10/2024 13:39,,medium,Open,,,REF-429411
+70d065fa-2562-47ef-9513-d1a4d33721a0,ORD-31560,USR-9657,WrongOrder,Received pasta instead of pasta.,7/12/2024 13:39,image_4747.jpg,low,Resolved,7/14/2024 2:39,MOD-7,REF-817412
+33452b21-4f6b-470f-b6e8-a8a7c68ab4d5,ORD-87834,USR-6833,LateDelivery,"Delivery took 1 hour, completely unacceptable!",8/22/2024 13:39,image_9543.jpg,high,Escalated,,,REF-914030
+937e31c1-5871-40d9-9e9e-bce411b8c249,ORD-17618,USR-2749,PoorQuality,"sandwich tasted spoiled, awful experience.",9/23/2024 13:39,"image_9707.jpg,image_9352.jpg",high,Open,,,REF-673206
+c5d88c2c-721e-4282-b5cd-7720fc8247da,ORD-65816,USR-4299,DamagedFood,"Order was tasteless, very disappointed.",3/29/2025 13:39,,medium,Resolved,3/29/2025 22:39,MOD-4,REF-334947
+2a3ca561-4106-46ca-9aa3-456e5a421868,ORD-33997,USR-9294,MissingItem,"Did not receive sushi, need a refund.",1/14/2025 13:39,,low,Open,,,REF-985174
+0cd98735-ffcb-473c-b785-e689881524d4,ORD-46762,USR-2557,PoorQuality,"Food was burnt, not up to standard.",1/1/2025 13:39,,low,Escalated,,,REF-550968
+ad0c5445-e71c-4315-9b69-035416306ce1,ORD-60134,USR-2674,DamagedFood,"Order was crushed, very disappointed.",4/28/2025 13:39,,medium,Escalated,,,REF-527591
+bf4e1b2c-3029-4523-9b55-316e354ffae9,ORD-67248,USR-6403,LateDelivery,"Food was 90 minutes late, not happy with service.",8/18/2024 13:39,image_4167.jpg,medium,Escalated,,,REF-196260
+a55b1349-2d4c-4aa5-ae8b-c0da36f1ab86,ORD-81149,USR-1344,MissingItem,"Order incomplete, fries was not delivered.",11/5/2024 13:39,,low,Open,,,REF-169720
+5fb43607-e49a-44ac-b6cc-cc3890717564,ORD-55447,USR-1557,DamagedFood,"pasta arrived soggy, need replacement.",2/1/2025 13:39,,low,Escalated,,,REF-132801
+689eafe1-bda8-4fbf-8244-1972a210dead,ORD-92362,USR-4997,PoorQuality,"pasta was cold, never ordering again.",6/2/2025 13:39,image_5137.jpg,high,Resolved,6/4/2025 10:39,MOD-17,REF-109303
+59454850-8564-404e-8dd5-b962ef0e2e20,ORD-37921,USR-7952,WrongOrder,"Wrong order delivered, got salad not pizza.",6/30/2024 13:39,image_9568.jpg,low,Open,,,REF-944498
+621e4bdc-2745-4958-8824-f5549288dfa1,ORD-18076,USR-1151,DamagedFood,"sandwich was tasteless, unacceptable quality.",2/18/2025 13:39,image_1242.jpg,high,Escalated,,,REF-575016
+d44cb64f-f2cd-4cf7-abeb-31d51544055e,ORD-39495,USR-5449,WrongOrder,Received salad instead of sandwich.,10/23/2024 13:39,"image_9790.jpg,image_6494.jpg",low,Escalated,,,REF-706436
+55828fe2-8915-4dcc-8e06-80693ed04265,ORD-53483,USR-7160,DamagedFood,"Order was cold, very disappointed.",5/10/2025 13:39,image_7792.jpg,medium,Resolved,5/11/2025 2:39,MOD-14,REF-548249
+ce10b265-9a15-4a28-b1a6-a22d383df27d,ORD-92664,USR-9668,MissingItem,"Missing pasta from my order, very disappointing.",12/25/2024 13:39,,low,Escalated,,,REF-843173
+0708d39d-e976-412e-b336-33b285650810,ORD-25965,USR-8685,LateDelivery,"Order was 90 minutes late, food arrived cold.",9/11/2024 13:39,,medium,Resolved,9/12/2024 13:39,MOD-4,REF-636091
+c9eaad07-57f8-4b78-9628-366cb48c1a77,ORD-12385,USR-8608,PoorQuality,"Very poor quality sushi, not edible.",8/1/2024 13:39,"image_4878.jpg,image_3395.jpg",low,Open,,,REF-478940
+c262f4cf-6073-4327-849f-8f6d5ca2789a,ORD-43420,USR-7896,MissingItem,"Missing sandwich from my order, very disappointing.",11/14/2024 13:39,image_2255.jpg,low,Escalated,,,REF-139070
+a1eb1a04-3a4d-4d4e-87df-9527fa3bc497,ORD-43952,USR-3556,LateDelivery,"Waited 1 hour for my order, very frustrating.",7/5/2024 13:39,,medium,Open,,,REF-284750
+2dbed82c-a24f-45c7-a611-4fec35ca904a,ORD-65743,USR-1249,MissingItem,"burger was missing, please resolve.",7/20/2024 13:39,,low,Escalated,,,REF-818391
+8008cdab-4749-4332-9ce4-e576c3762301,ORD-37108,USR-3902,PoorQuality,"Food was tasteless, not up to standard.",7/13/2024 13:39,,low,Open,,,REF-559071
+ffc0437a-660d-4076-a753-08c40b7b80da,ORD-11788,USR-1275,WrongOrder,Received sushi instead of salad.,12/12/2024 13:39,,low,Open,,,REF-344786
+2704b700-00a3-487c-affe-a293e3134897,ORD-38851,USR-8901,PoorQuality,"Very poor quality pasta, not edible.",8/19/2024 13:39,image_6440.jpg,low,Escalated,,,REF-626458
+cb01a7a6-df70-43a4-b808-2424be02a94f,ORD-81566,USR-7147,DamagedFood,"burger arrived crushed, need replacement.",5/18/2025 13:39,image_4267.jpg,low,Resolved,5/19/2025 13:39,MOD-7,REF-231741
+e91ff512-03f7-4eb3-91e8-0d686b57e765,ORD-21005,USR-9585,WrongOrder,Received burger instead of burger.,4/8/2025 13:39,"image_2589.jpg,image_5345.jpg",low,Escalated,,,REF-553698
+77457fb9-440d-45f3-b15b-2830528d0084,ORD-78548,USR-4798,MissingItem,"Missing burger from my order, very disappointing.",11/4/2024 13:39,image_3426.jpg,low,Escalated,,,REF-895136
+1ae8d944-0c87-4490-a9d0-0305636c3ddc,ORD-24069,USR-5263,DamagedFood,"Order was cold, very disappointed.",9/3/2024 13:39,,medium,Resolved,9/4/2024 15:39,MOD-16,REF-626677
+b5bf1daa-1b80-4c78-b370-74add683242e,ORD-15505,USR-3660,LateDelivery,"Order was 1 hour late, food arrived cold.",7/25/2024 13:39,image_1447.jpg,medium,Escalated,,,REF-434013
+c8a23d3d-b4c7-485b-b93b-010f855aa08c,ORD-64316,USR-4505,LateDelivery,"Order was 90 minutes late, food arrived cold.",10/16/2024 13:39,image_3105.jpg,medium,Escalated,,,REF-754534
+4bd6149b-77a9-470a-bc69-1c41e9cfb2e6,ORD-25547,USR-1205,LateDelivery,"Delivery took 90 minutes, completely unacceptable!",9/7/2024 13:39,,high,Open,,,REF-194646
+0c59c4a0-2cf4-43ac-9123-db23d2e1a107,ORD-13550,USR-9111,LateDelivery,"Delivery took 30 minutes, completely unacceptable!",11/20/2024 13:39,,high,Escalated,,,REF-913985
+a2521662-9f0a-41e2-a14a-f034101f415c,ORD-67215,USR-8538,DamagedFood,"Order was soggy, very disappointed.",12/9/2024 13:39,,medium,Resolved,12/9/2024 18:39,MOD-7,REF-792538
+3b738fd4-1805-4d0d-a64c-5ec5882e94e8,ORD-40413,USR-6576,MissingItem,"Missing fries from my order, very disappointing.",3/9/2025 13:39,image_6918.jpg,low,Escalated,,,REF-838339
+2fc7ea1e-39e9-492d-83ca-158580259cdc,ORD-18002,USR-8479,PoorQuality,"Food was tasteless, not up to standard.",3/24/2025 13:39,,low,Escalated,,,REF-378549
+de243f12-a0d7-4268-b794-7e02b433c774,ORD-44577,USR-6954,DamagedFood,"salad arrived cold, need replacement.",2/7/2025 13:39,,low,Open,,,REF-411314
+0f8e5819-cf07-46c8-924a-f99f85dc6ebf,ORD-45235,USR-7239,DamagedFood,"Order was soggy, very disappointed.",10/3/2024 13:39,image_9809.jpg,medium,Resolved,10/3/2024 18:39,MOD-18,REF-687075
+2b37cc9e-4f15-4421-bda2-9fdd4abb8e8f,ORD-75045,USR-5377,LateDelivery,"Waited 2 hours for my order, very frustrating.",4/22/2025 13:39,image_6793.jpg,high,Open,,,REF-794558
+87e10de7-2bd4-4dbd-bee9-440f7bac34e3,ORD-47989,USR-8671,MissingItem,"Did not receive salad, need a refund.",11/2/2024 13:39,image_9520.jpg,low,Resolved,11/3/2024 17:39,MOD-8,REF-683875
+ca767afb-7bc9-4e05-931b-e9189b5fb164,ORD-90588,USR-1804,WrongOrder,"Wrong order delivered, got pasta not sushi.",2/17/2025 13:39,image_3106.jpg,low,Escalated,,,REF-677389
+e6447ab7-1d99-4272-9516-03d2a1dcc040,ORD-10226,USR-6309,WrongOrder,Received sandwich instead of pasta.,10/9/2024 13:39,,low,Escalated,,,REF-604892
+dab97305-aeeb-40c8-b566-3542ba4c62e6,ORD-65688,USR-8130,MissingItem,"Order incomplete, salad was not delivered.",5/5/2025 13:39,"image_2251.jpg,image_7024.jpg",low,Open,,,REF-972455
+0e124e51-b38d-43e7-b8a5-da183b8659b1,ORD-29616,USR-4554,MissingItem,"salad was missing, please resolve.",4/9/2025 13:39,,low,Escalated,,,REF-777565
+b3548c12-220a-4812-8198-be2ad77da98e,ORD-22031,USR-5047,LateDelivery,"Delivery took 30 minutes, completely unacceptable!",10/13/2024 13:39,image_1363.jpg,high,Open,,,REF-663438
+d3fc0b5b-a090-49c8-afa5-a2ad578a1f27,ORD-90381,USR-5314,DamagedFood,"Order was tasteless, very disappointed.",3/18/2025 13:39,image_9060.jpg,medium,Resolved,3/19/2025 6:39,MOD-9,REF-915468
+0ec3452f-10ae-4cf5-b9d7-9e7b90542f01,ORD-97157,USR-8969,PoorQuality,"pizza was soggy, never ordering again.",2/3/2025 13:39,,high,Escalated,,,REF-857324
+d4efc3b1-d270-419b-b52e-490b9b5b1a9d,ORD-46948,USR-6624,DamagedFood,"pasta was burnt, unacceptable quality.",12/8/2024 13:39,,high,Open,,,REF-701233
+5c4299a5-51cc-4c82-b070-29bf0461fd03,ORD-97922,USR-7288,PoorQuality,"burger was spoiled, never ordering again.",1/20/2025 13:39,,high,Resolved,1/22/2025 5:39,MOD-16,REF-596334
+dcec0e27-e705-4f7a-aec7-db2fd2b12814,ORD-10824,USR-9342,LateDelivery,"Delivery took 1 hour, completely unacceptable!",7/2/2024 13:39,"image_5019.jpg,image_2764.jpg",high,Open,,,REF-576965
+4d87b39c-8604-4818-be10-4a06cf1bfba9,ORD-16606,USR-1891,LateDelivery,"Order was 1 hour late, food arrived cold.",5/22/2025 13:39,,medium,Open,,,REF-284505
+b1120234-b906-4e5d-b02c-7eb3930871da,ORD-51801,USR-4531,WrongOrder,"I ordered salad, but got sushi.",12/21/2024 13:39,,low,Escalated,,,REF-241249
+d1538682-ad06-43ef-96d1-4cd132bbe41c,ORD-42342,USR-1652,WrongOrder,"I ordered burger, but got burger.",5/15/2025 13:39,,low,Escalated,,,REF-595101
+e0ee9652-d5fd-41f0-8a06-86d0cb2d5012,ORD-84170,USR-5581,LateDelivery,"Delivery took 30 minutes, completely unacceptable!",8/23/2024 13:39,,high,Open,,,REF-104622
+5eefc0dd-aa4d-4a32-bc2a-4aa437d691c9,ORD-90297,USR-2683,LateDelivery,"Waited 2 hours for my order, very frustrating.",8/19/2024 13:39,,high,Escalated,,,REF-735898
+ee0a1922-0d8d-4907-9878-5b1e811501ac,ORD-91094,USR-5441,LateDelivery,"Food was 2 hours late, not happy with service.",4/29/2025 13:39,,high,Escalated,,,REF-379427
+e17eb13c-0871-4d87-8783-dea7cbdada46,ORD-55744,USR-2113,MissingItem,"Order incomplete, pizza was not delivered.",11/13/2024 13:39,,low,Escalated,,,REF-561486
+8daac5cb-8421-4d85-afd9-7741f120e788,ORD-13511,USR-8992,DamagedFood,"Food was crushed, totally inedible.",11/2/2024 13:39,,high,Resolved,11/3/2024 6:39,MOD-5,REF-809207
+b3143a1e-ae97-4230-af30-ec4de08b70d1,ORD-53657,USR-7821,DamagedFood,"Food was crushed, totally inedible.",8/21/2024 13:39,image_3572.jpg,high,Resolved,8/23/2024 7:39,MOD-4,REF-157100
+4cebb38f-1059-405f-8f9b-8cbc8c1471a1,ORD-14960,USR-1974,PoorQuality,"salad tasted tasteless, awful experience.",10/29/2024 13:39,image_2535.jpg,low,Resolved,10/30/2024 21:39,MOD-14,REF-591223
+e161bb05-df74-4c6d-8aa4-931e8e49faa7,ORD-42006,USR-2766,LateDelivery,"Waited 30 minutes for my order, very frustrating.",12/18/2024 13:39,,medium,Open,,,REF-925083
+9a3d84fc-3a0e-48e5-97cd-d8d29b78feb7,ORD-42575,USR-8102,PoorQuality,"fries tasted tasteless, awful experience.",1/13/2025 13:39,,low,Escalated,,,REF-621447
+f6b06ba2-5c78-488a-9d25-30f1649e3904,ORD-57634,USR-3543,DamagedFood,"Food was burnt, totally inedible.",4/9/2025 13:39,"image_1033.jpg,image_8832.jpg",high,Escalated,,,REF-978629
+13c33c32-b77d-4d70-a839-35de98d9e828,ORD-79119,USR-6118,LateDelivery,"Food was 90 minutes late, not happy with service.",10/5/2024 13:39,"image_9052.jpg,image_6646.jpg",medium,Resolved,10/7/2024 10:39,MOD-6,REF-375332
+03fe1c75-7ab6-4a72-b21b-d221f8811574,ORD-80117,USR-3589,WrongOrder,"Wrong order delivered, got pizza not sandwich.",10/6/2024 13:39,image_9569.jpg,low,Escalated,,,REF-912233
+46c7c1c0-e770-4b4f-8048-494b0418b1ea,ORD-54735,USR-9353,PoorQuality,"Food was soggy, not up to standard.",1/5/2025 13:39,,low,Resolved,1/6/2025 1:39,MOD-17,REF-869156
+4fe918e1-e038-4bc0-8b81-4bdb083e3ffa,ORD-10035,USR-3272,MissingItem,"Missing pasta from my order, very disappointing.",1/1/2025 13:39,,low,Resolved,1/2/2025 1:39,MOD-10,REF-945679
+74868484-eb33-490a-a50f-9c40601c9753,ORD-25653,USR-6021,PoorQuality,"Very poor quality sushi, not edible.",8/28/2024 13:39,,low,Open,,,REF-519362
+a6fc8fa9-e857-45b2-9fda-ff7802167073,ORD-61424,USR-2171,PoorQuality,"pasta was tasteless, never ordering again.",10/23/2024 13:39,,high,Escalated,,,REF-625115
+842486b1-b910-4097-98ab-32e0bed094ce,ORD-83768,USR-1805,MissingItem,"Did not receive sushi, need a refund.",11/9/2024 13:39,,low,Open,,,REF-582888
+4e46d84e-f6df-4dfa-8b11-b82062f47052,ORD-72419,USR-8519,WrongOrder,"I ordered salad, but got salad.",11/17/2024 13:39,,low,Resolved,11/18/2024 3:39,MOD-4,REF-331006
+399236d8-6334-4e2b-8d09-73ea6bd44504,ORD-23084,USR-7730,LateDelivery,"Order was 1 hour late, food arrived cold.",10/16/2024 13:39,image_3164.jpg,medium,Escalated,,,REF-472546
+1e1a0a53-192d-4521-9584-130f5516da45,ORD-69020,USR-2423,LateDelivery,"Order was 90 minutes late, food arrived cold.",6/3/2025 13:39,,medium,Open,,,REF-133405
+13edd239-f0b6-4b90-a83a-884dff19e938,ORD-18400,USR-9381,WrongOrder,"I ordered pasta, but got pizza.",11/26/2024 13:39,,low,Escalated,,,REF-158389
+ecf377bc-24bc-478e-95b8-e26bebcf0fa4,ORD-17738,USR-7670,PoorQuality,"pasta was burnt, never ordering again.",3/31/2025 13:39,"image_6531.jpg,image_3528.jpg",high,Escalated,,,REF-509528
+49793b3e-7b97-4aef-a53d-6f8344f57852,ORD-81038,USR-3374,LateDelivery,"Order was 90 minutes late, food arrived cold.",3/6/2025 13:39,,medium,Open,,,REF-274845
+92a7ec48-0913-46c4-ab7b-9597a7d74d8c,ORD-21336,USR-8297,PoorQuality,"Very poor quality burger, not edible.",9/4/2024 13:39,,low,Open,,,REF-103209
+cb0f103d-60d1-4767-8f86-e76775d5b655,ORD-71064,USR-9721,PoorQuality,"pasta tasted cold, awful experience.",5/11/2025 13:39,,low,Escalated,,,REF-387134
+0525bf9f-d5fd-4b39-b926-2ae55fa19b36,ORD-69090,USR-4078,DamagedFood,"burger arrived crushed, need replacement.",1/12/2025 13:39,,low,Resolved,1/13/2025 19:39,MOD-5,REF-599479
+311cb227-cbfe-44fc-8faa-c564ff8cb0bd,ORD-90392,USR-7307,LateDelivery,"Order was 1 hour late, food arrived cold.",7/24/2024 13:39,image_8402.jpg,medium,Resolved,7/25/2024 3:39,MOD-20,REF-331234
+d594cf09-af81-45f0-ac73-c4a2df762be4,ORD-97201,USR-2670,LateDelivery,"Order was 2 hours late, food arrived cold.",10/27/2024 13:39,,high,Escalated,,,REF-741917
+2254c6ac-0d24-4430-9553-e9e4a704446f,ORD-66953,USR-8000,WrongOrder,"I ordered salad, but got salad.",2/2/2025 13:39,,low,Escalated,,,REF-881276
+88090b73-d1df-43a3-a126-5092b7a40027,ORD-96536,USR-3819,WrongOrder,Received sandwich instead of sandwich.,9/23/2024 13:39,,low,Open,,,REF-288593
+f511f905-c0dd-41e4-bf1d-98b65faf5649,ORD-17609,USR-2266,LateDelivery,"Order was 2 hours late, food arrived cold.",6/27/2024 13:39,,high,Open,,,REF-124970
+efe2eb00-8073-43c0-9e78-87a5bef8c239,ORD-85101,USR-3190,PoorQuality,"salad tasted spoiled, awful experience.",8/1/2024 13:39,,high,Resolved,8/2/2024 15:39,MOD-4,REF-218891
+7153120d-9e39-4d77-ba16-aaf82f5e5e4d,ORD-66359,USR-7978,LateDelivery,"Waited 30 minutes for my order, very frustrating.",12/10/2024 13:39,,medium,Resolved,12/11/2024 15:39,MOD-14,REF-567297
+9221e80f-21c3-43ce-8a6d-e6268e8087ac,ORD-11276,USR-5744,LateDelivery,"Delivery took 1 hour, completely unacceptable!",7/7/2024 13:39,image_5623.jpg,high,Resolved,7/7/2024 15:39,MOD-4,REF-322062
+472a2d6f-3acc-4246-9c77-fccbe6099d54,ORD-76861,USR-4711,WrongOrder,Received sandwich instead of sushi.,11/14/2024 13:39,,low,Open,,,REF-394472
+40c092c2-15af-4699-916a-2a105c8ef91f,ORD-48129,USR-7622,MissingItem,"Missing fries from my order, very disappointing.",8/28/2024 13:39,"image_6308.jpg,image_3611.jpg",low,Resolved,8/28/2024 14:39,MOD-3,REF-935748
+08e61b8f-18f3-4920-a96c-0c426c225a6a,ORD-38857,USR-9385,WrongOrder,"Wrong order delivered, got fries not pizza.",7/22/2024 13:39,image_7676.jpg,low,Open,,,REF-894476
+3944cf89-1016-4f0f-b43e-3f521e705959,ORD-60305,USR-2517,DamagedFood,"Food was burnt, totally inedible.",2/12/2025 13:39,image_6908.jpg,high,Open,,,REF-547414
+2c6370af-9874-4ef9-8255-061163fbbbb5,ORD-54678,USR-6956,WrongOrder,"Wrong order delivered, got sushi not pizza.",4/29/2025 13:39,,low,Open,,,REF-440185
+20baa6a5-32a9-4fc5-b690-81f0666bba69,ORD-83747,USR-8473,LateDelivery,"Delivery took 2 hours, completely unacceptable!",8/1/2024 13:39,image_7366.jpg,high,Open,,,REF-898192
+0f21d4d3-5783-4547-824a-fcf42b273caa,ORD-25021,USR-9065,LateDelivery,"Delivery took 30 minutes, completely unacceptable!",7/10/2024 13:39,image_6471.jpg,high,Open,,,REF-469877
+4fd0d6aa-09a6-4cc5-9b09-4155b47cc64a,ORD-24550,USR-2294,LateDelivery,"Order was 1 hour late, food arrived cold.",12/22/2024 13:39,"image_4979.jpg,image_5095.jpg",medium,Open,,,REF-868610
+476fb525-484a-4388-afb3-22eef19fc127,ORD-64672,USR-2506,MissingItem,"Did not receive burger, need a refund.",7/27/2024 13:39,image_8456.jpg,low,Open,,,REF-291764
+f2e6667e-5845-495a-a99c-c6dd1fac1078,ORD-69589,USR-9671,LateDelivery,"Food was 90 minutes late, not happy with service.",4/8/2025 13:39,image_8220.jpg,medium,Escalated,,,REF-169271
+dfbe4937-b2b7-42ff-abea-3268cec9381b,ORD-22663,USR-7896,LateDelivery,"Food was 90 minutes late, not happy with service.",5/7/2025 13:39,"image_3650.jpg,image_6338.jpg",medium,Resolved,5/9/2025 0:39,MOD-7,REF-151709
+519ae666-d5bb-4a36-b592-b829317a68b3,ORD-45704,USR-6982,MissingItem,"Order incomplete, sushi was not delivered.",11/22/2024 13:39,,low,Open,,,REF-329319
+29000356-39dc-44eb-8027-1cb6b93f3adb,ORD-92345,USR-8159,WrongOrder,"Delivered pizza, but I wanted sushi.",10/5/2024 13:39,,low,Open,,,REF-376127
+c831f7c7-9d74-46f8-a532-22862ee8bf24,ORD-68529,USR-5851,LateDelivery,"Order was 2 hours late, food arrived cold.",9/20/2024 13:39,,high,Open,,,REF-970145
+00d63fbe-51a0-45c6-82da-5895c74941ff,ORD-78183,USR-4260,LateDelivery,"Delivery took 90 minutes, completely unacceptable!",10/16/2024 13:39,,high,Resolved,10/17/2024 8:39,MOD-15,REF-457766
+5d9e8ab2-be2e-4697-acaf-96426711af2e,ORD-17015,USR-5736,MissingItem,"Order incomplete, burger was not delivered.",8/31/2024 13:39,image_3475.jpg,low,Resolved,9/2/2024 8:39,MOD-10,REF-763136
+b6498069-3133-4bd9-a3a5-de8462305efd,ORD-23558,USR-4676,DamagedFood,"pasta was tasteless, unacceptable quality.",9/2/2024 13:39,,high,Open,,,REF-792940
+702d9c49-4f4e-45b5-96a7-45360cdd0a20,ORD-27276,USR-1846,LateDelivery,"Waited 90 minutes for my order, very frustrating.",5/30/2025 13:39,image_8994.jpg,medium,Escalated,,,REF-558975
+fee5499a-56fb-40f0-b08c-aa95a6c65511,ORD-37012,USR-4783,MissingItem,"Order incomplete, fries was not delivered.",5/5/2025 13:39,image_8513.jpg,low,Escalated,,,REF-323199
+0ecb77a7-dcd5-48ab-9010-aacff1439b6a,ORD-38785,USR-1765,LateDelivery,"Delivery took 90 minutes, completely unacceptable!",5/23/2025 13:39,image_5520.jpg,high,Resolved,5/25/2025 11:39,MOD-3,REF-353808
+6678e31f-6547-49ef-89f0-987d0ba4e833,ORD-85548,USR-8264,LateDelivery,"Order was 1 hour late, food arrived cold.",6/2/2025 13:39,image_4523.jpg,medium,Resolved,6/3/2025 22:39,MOD-18,REF-456195
+1c4d5a2c-be91-4535-b1d9-98161211352e,ORD-24327,USR-5797,LateDelivery,"Food was 2 hours late, not happy with service.",4/20/2025 13:39,image_5691.jpg,high,Escalated,,,REF-490888
+8f6c4374-b4ae-4948-97d6-0f79a9bfbed8,ORD-58369,USR-7911,LateDelivery,"Waited 1 hour for my order, very frustrating.",1/28/2025 13:39,image_9610.jpg,medium,Escalated,,,REF-211283
+5803d41f-f77b-49a3-a9fe-3f9f6576507d,ORD-51519,USR-7101,MissingItem,"Order incomplete, sandwich was not delivered.",4/24/2025 13:39,"image_5834.jpg,image_8167.jpg",low,Open,,,REF-372840
+054b8b3b-dfbd-4ca9-9176-09731b2d76c0,ORD-38246,USR-8140,LateDelivery,"Order was 30 minutes late, food arrived cold.",4/6/2025 13:39,,low,Open,,,REF-731741
+cef72ed5-2dc7-4bb3-a6d6-9aae76c9833a,ORD-76782,USR-6722,PoorQuality,"Food was spoiled, not up to standard.",8/28/2024 13:39,image_7153.jpg,high,Escalated,,,REF-414771
+a538b0e2-5cb5-45ee-be71-cb9a376e37dd,ORD-97152,USR-2490,MissingItem,"burger was missing, please resolve.",1/28/2025 13:39,"image_4029.jpg,image_2178.jpg",low,Escalated,,,REF-101927
+8c4ae4e0-5749-4bf0-bef9-6876f264ecd5,ORD-19643,USR-1872,MissingItem,"salad was missing, please resolve.",7/14/2024 13:39,,low,Open,,,REF-377199
+50297276-6b2e-42fb-a453-374c646ff90f,ORD-14301,USR-9339,MissingItem,"Did not receive salad, need a refund.",7/28/2024 13:39,,low,Open,,,REF-569146
+28ac16fe-f193-42e6-9634-d9d3c4f4a3e5,ORD-88016,USR-4061,WrongOrder,Received burger instead of salad.,3/8/2025 13:39,,low,Escalated,,,REF-408671
+88adbb15-38dd-4bd6-b02f-06f05db0019d,ORD-47533,USR-8437,PoorQuality,"salad was tasteless, never ordering again.",11/14/2024 13:39,,high,Open,,,REF-311100
+a1f03ecd-ebd1-4555-b989-2510a965c837,ORD-74438,USR-6497,DamagedFood,"Order was spoiled, very disappointed.",11/4/2024 13:39,,high,Escalated,,,REF-585339
+b3426437-78a4-4530-bc4b-ad90476add3c,ORD-51088,USR-1809,PoorQuality,"Very poor quality pizza, not edible.",9/5/2024 13:39,image_3169.jpg,low,Resolved,9/6/2024 19:39,MOD-1,REF-840009
+fdca496b-e17b-4b3f-a587-347981519ffa,ORD-49432,USR-7298,DamagedFood,"Food was soggy, totally inedible.",2/18/2025 13:39,,high,Escalated,,,REF-154740
+eff43a14-949e-4e61-859e-b55876146f70,ORD-16762,USR-7949,MissingItem,"Order incomplete, sandwich was not delivered.",4/19/2025 13:39,,low,Resolved,4/20/2025 21:39,MOD-9,REF-665567
+3f15fd8c-45b4-41dd-9f8f-c0e5b36f6921,ORD-82890,USR-5638,MissingItem,"Order incomplete, salad was not delivered.",1/27/2025 13:39,,low,Resolved,1/28/2025 14:39,MOD-3,REF-251798
+37847964-6f67-4eac-9823-a97bae6f7673,ORD-93379,USR-8895,DamagedFood,"Order was spoiled, very disappointed.",7/6/2024 13:39,image_4693.jpg,high,Resolved,7/8/2024 8:39,MOD-11,REF-108053
+a9c964a4-573b-4a68-a017-2fce00ff98f0,ORD-56844,USR-5474,DamagedFood,"Order was tasteless, very disappointed.",5/29/2025 13:39,,medium,Resolved,5/30/2025 3:39,MOD-10,REF-611704
+a432e3de-d775-4661-9b11-5b517e0dcc49,ORD-11008,USR-5829,LateDelivery,"Food was 1 hour late, not happy with service.",6/9/2025 13:39,,medium,Open,,,REF-681142
+877591c4-4af7-4b43-97d8-956e5f84a6ef,ORD-97193,USR-5201,MissingItem,"Order incomplete, sushi was not delivered.",8/25/2024 13:39,image_6375.jpg,low,Resolved,8/27/2024 10:39,MOD-3,REF-682426
+ccab69db-2fa6-419a-87dd-831fd4c58982,ORD-28053,USR-4635,LateDelivery,"Waited 2 hours for my order, very frustrating.",12/9/2024 13:39,,high,Escalated,,,REF-401077
+32991512-9dbc-47b6-9087-de88dfcbc917,ORD-98657,USR-3722,PoorQuality,"Food was spoiled, not up to standard.",8/22/2024 13:39,image_1524.jpg,high,Resolved,8/22/2024 22:39,MOD-5,REF-322873
+3896d91a-344f-49ab-ae87-bc8e5624a4a4,ORD-67578,USR-5102,LateDelivery,"Waited 90 minutes for my order, very frustrating.",10/18/2024 13:39,image_2471.jpg,medium,Open,,,REF-303594
+f2a05024-2645-47da-9dd1-c40cfe6ef967,ORD-44967,USR-3648,WrongOrder,"Delivered pasta, but I wanted sushi.",5/3/2025 13:39,image_9922.jpg,low,Escalated,,,REF-119933
+f3558774-73c1-44b6-856e-5d93a8599c86,ORD-11545,USR-2982,PoorQuality,"Food was burnt, not up to standard.",3/31/2025 13:39,,low,Resolved,3/31/2025 21:39,MOD-20,REF-988233
+96e88500-f892-43be-aca9-851a2565b943,ORD-72891,USR-8393,PoorQuality,"Food was tasteless, not up to standard.",12/11/2024 13:39,image_1511.jpg,low,Open,,,REF-741364
+a0be4f61-d6de-4d73-971e-47b979726751,ORD-88153,USR-7047,LateDelivery,"Food was 2 hours late, not happy with service.",1/3/2025 13:39,,high,Open,,,REF-168408
+cd4169f2-4e70-460a-bb33-5f8edf0dbe27,ORD-78612,USR-3206,DamagedFood,"Food was burnt, totally inedible.",1/26/2025 13:39,,high,Escalated,,,REF-527306
+5ea4821c-b02d-4dc4-8728-a38aef990eb3,ORD-35825,USR-8027,LateDelivery,"Order was 2 hours late, food arrived cold.",9/16/2024 13:39,,high,Resolved,9/18/2024 9:39,MOD-18,REF-854099
+bf9dae1c-efb4-47bb-a4d0-9dcec6a3cc35,ORD-97529,USR-8176,DamagedFood,"Order was crushed, very disappointed.",12/8/2024 13:39,image_2992.jpg,medium,Resolved,12/9/2024 21:39,MOD-17,REF-806370
+e94bfd50-b411-4eaa-8100-4ccc0c01efab,ORD-34438,USR-4335,LateDelivery,"Order was 30 minutes late, food arrived cold.",10/12/2024 13:39,image_2691.jpg,low,Open,,,REF-133205
+d866a262-f741-4871-bd06-f70f91fa59f1,ORD-69335,USR-7044,WrongOrder,"Wrong order delivered, got pasta not sushi.",5/5/2025 13:39,image_8559.jpg,low,Open,,,REF-939985
+bc39a7e2-dc45-40e4-a38b-4082f9577521,ORD-80649,USR-1875,MissingItem,"fries was missing, please resolve.",12/25/2024 13:39,,low,Resolved,12/27/2024 4:39,MOD-16,REF-595945
+2d432621-dda2-474a-b8c2-5af975e5ea3e,ORD-76237,USR-3524,MissingItem,"fries was missing, please resolve.",11/20/2024 13:39,,low,Escalated,,,REF-516148
+abd99ec6-7d29-4075-8430-2893e974b745,ORD-18289,USR-3177,MissingItem,"Missing pasta from my order, very disappointing.",10/22/2024 13:39,image_9113.jpg,low,Escalated,,,REF-354119
+e85b950c-5c68-4d82-a075-d5a22635ef31,ORD-64801,USR-2846,DamagedFood,"Order was soggy, very disappointed.",4/20/2025 13:39,image_5854.jpg,medium,Open,,,REF-329551
+08528753-bdf4-4353-ae63-3379331aaf4e,ORD-18174,USR-1202,LateDelivery,"Food was 90 minutes late, not happy with service.",8/1/2024 13:39,,medium,Escalated,,,REF-851134
+b66258ab-eabc-4eb8-8d18-047480af8edc,ORD-90955,USR-8301,MissingItem,"sandwich was missing, please resolve.",2/17/2025 13:39,,low,Resolved,2/17/2025 22:39,MOD-3,REF-445852
+f1738bc1-e3f1-4cd3-83c6-5b2e6a8de3ff,ORD-96850,USR-9841,MissingItem,"Order incomplete, pizza was not delivered.",10/1/2024 13:39,,low,Resolved,10/3/2024 11:39,MOD-7,REF-748583
+e87cd162-57d2-4de9-b314-e1629c39910a,ORD-38780,USR-4813,PoorQuality,"burger was tasteless, never ordering again.",12/5/2024 13:39,,high,Resolved,12/6/2024 18:39,MOD-9,REF-187483
+596a80db-80a3-4d9e-a9d7-3b177a841da0,ORD-18036,USR-1346,WrongOrder,"Delivered fries, but I wanted salad.",11/26/2024 13:39,,low,Open,,,REF-135859
+203b119e-f969-4b51-b414-4ee3918f21c8,ORD-29937,USR-7700,LateDelivery,"Food was 90 minutes late, not happy with service.",12/14/2024 13:39,,medium,Escalated,,,REF-487404
+76120139-1d7c-4b9e-8dbf-3919525c9519,ORD-29265,USR-7386,DamagedFood,"Food was soggy, totally inedible.",2/7/2025 13:39,image_7854.jpg,high,Open,,,REF-744439
+78d40d5c-d7f4-4391-8415-435c0a9b00b6,ORD-45920,USR-8783,WrongOrder,Received pizza instead of fries.,10/10/2024 13:39,image_8628.jpg,low,Escalated,,,REF-676189
+88f3e666-3b59-4e9f-92ef-60e9d5020eb7,ORD-84914,USR-1646,WrongOrder,Received fries instead of sushi.,9/3/2024 13:39,"image_9264.jpg,image_6673.jpg",low,Resolved,9/3/2024 14:39,MOD-15,REF-850444
+86f0bc23-7bde-4978-9438-b3978cf25a34,ORD-27584,USR-7770,PoorQuality,"Food was crushed, not up to standard.",5/1/2025 13:39,image_8337.jpg,low,Open,,,REF-180710
+acf1e250-d342-4081-993e-8d17d842fbcf,ORD-60799,USR-4331,PoorQuality,"salad tasted spoiled, awful experience.",8/31/2024 13:39,"image_6463.jpg,image_3139.jpg",high,Open,,,REF-458297
+77576557-0b5e-4d5e-ae5a-5885d3793d8e,ORD-72729,USR-6885,DamagedFood,"Order was soggy, very disappointed.",10/31/2024 13:39,"image_3733.jpg,image_8593.jpg",medium,Resolved,11/2/2024 0:39,MOD-17,REF-320005
+ed27b56a-abd3-4087-9840-ddde0de1b015,ORD-25479,USR-6278,PoorQuality,"pizza tasted cold, awful experience.",11/27/2024 13:39,,low,Escalated,,,REF-367590
+d6999145-fdd5-4bcb-93e4-97935396be35,ORD-95977,USR-6958,MissingItem,"Order incomplete, sushi was not delivered.",9/23/2024 13:39,,low,Resolved,9/24/2024 18:39,MOD-8,REF-741675
+42d945e7-e8c7-41bf-ba0b-74218e41f7ad,ORD-96994,USR-3700,WrongOrder,Received pasta instead of pasta.,8/30/2024 13:39,image_9706.jpg,low,Resolved,8/31/2024 18:39,MOD-7,REF-531109
+5791d75a-995e-4fae-9142-7562e911647c,ORD-43141,USR-7713,DamagedFood,"sushi arrived burnt, need replacement.",12/28/2024 13:39,,low,Resolved,12/29/2024 3:39,MOD-2,REF-609365
+1e3ee824-b7f8-4161-807b-12c7086baabb,ORD-62490,USR-2918,LateDelivery,"Order was 30 minutes late, food arrived cold.",1/27/2025 13:39,,low,Open,,,REF-307504
+1d3005e7-3f17-4068-91b6-87f62eb62d57,ORD-88337,USR-4592,MissingItem,"Did not receive pasta, need a refund.",1/7/2025 13:39,,low,Resolved,1/8/2025 8:39,MOD-10,REF-727392
+c8155fbb-bd5f-4676-aa2a-09cd869493b5,ORD-87547,USR-2537,WrongOrder,"Delivered pasta, but I wanted salad.",7/9/2024 13:39,,low,Escalated,,,REF-439603
+16292f6e-9618-4250-a4df-f15c58afa300,ORD-57191,USR-4036,WrongOrder,"I ordered pasta, but got fries.",4/14/2025 13:39,,low,Open,,,REF-974403
+ab23113a-16fb-454c-a947-d120d91fd824,ORD-29748,USR-5264,WrongOrder,"Delivered pasta, but I wanted pasta.",12/26/2024 13:39,image_9904.jpg,low,Resolved,12/27/2024 5:39,MOD-2,REF-117897
+8d1f8482-2af5-4f1e-88cb-20f4369fe520,ORD-11709,USR-9078,MissingItem,"burger was missing, please resolve.",4/1/2025 13:39,"image_1407.jpg,image_9983.jpg",low,Escalated,,,REF-868551
+5e0d941d-29a6-4a7b-b7f7-2d0d3a464d7c,ORD-17424,USR-4069,WrongOrder,Received fries instead of burger.,10/2/2024 13:39,,low,Open,,,REF-335629
+c29eed8c-9e12-40ba-8fb8-9d8b38f0a2ca,ORD-83665,USR-3262,PoorQuality,"pizza tasted soggy, awful experience.",11/24/2024 13:39,image_4317.jpg,low,Open,,,REF-850993
+fee5e558-4406-4e3a-9c97-56042e100cc3,ORD-84284,USR-9549,DamagedFood,"Food was soggy, totally inedible.",8/29/2024 13:39,,high,Resolved,8/30/2024 9:39,MOD-2,REF-529092
+b35e022e-2042-4486-a133-453aad552d2f,ORD-82717,USR-2656,DamagedFood,"Food was cold, totally inedible.",4/25/2025 13:39,image_9970.jpg,high,Escalated,,,REF-787509
+c7d59261-b918-4cff-9dc0-bb0802f387de,ORD-87833,USR-8724,LateDelivery,"Order was 90 minutes late, food arrived cold.",8/17/2024 13:39,,medium,Resolved,8/18/2024 23:39,MOD-20,REF-870884
+63d36eda-de19-4dac-a72c-c3d80d52e48c,ORD-33338,USR-3110,DamagedFood,"Food was crushed, totally inedible.",9/2/2024 13:39,,high,Open,,,REF-735898
+dac7b25c-0868-48d2-aa7f-3e7c15372a7e,ORD-52595,USR-1404,MissingItem,"Did not receive pasta, need a refund.",5/24/2025 13:39,"image_8326.jpg,image_5617.jpg",low,Resolved,5/25/2025 19:39,MOD-2,REF-790181
+fa06f2cf-5b28-41e4-a90a-b992c8b4c173,ORD-80236,USR-9169,LateDelivery,"Waited 90 minutes for my order, very frustrating.",5/17/2025 13:39,,medium,Open,,,REF-335393
+5d0894ab-7de2-4047-be33-87b47bc6c1af,ORD-86169,USR-1191,PoorQuality,"fries was burnt, never ordering again.",10/17/2024 13:39,,high,Resolved,10/18/2024 1:39,MOD-14,REF-405377
+ba2f0451-4aec-4fbe-b8ce-7e10cabea627,ORD-58256,USR-3559,MissingItem,"Missing salad from my order, very disappointing.",2/6/2025 13:39,,low,Resolved,2/7/2025 17:39,MOD-20,REF-430354
+29faf549-9023-4e0c-92ba-6ccf8b22b4ec,ORD-26743,USR-6625,LateDelivery,"Food was 2 hours late, not happy with service.",3/30/2025 13:39,,high,Open,,,REF-287785
+d44f3d45-eaa8-46fe-b8fd-d962b5cadf2a,ORD-14248,USR-5386,LateDelivery,"Food was 30 minutes late, not happy with service.",1/21/2025 13:39,,low,Resolved,1/22/2025 16:39,MOD-14,REF-484491
+0a856974-5ca0-4328-bd93-dbfd02e7ac96,ORD-39259,USR-2577,LateDelivery,"Food was 2 hours late, not happy with service.",10/3/2024 13:39,,high,Resolved,10/5/2024 4:39,MOD-15,REF-771991
+bd9703b8-fcdc-427b-8952-14ca94b55033,ORD-21506,USR-6659,WrongOrder,"Wrong order delivered, got sushi not fries.",6/25/2025 13:39,image_6520.jpg,low,Escalated,,,REF-723150
+385f522a-2c80-43a8-a39d-75daf921fa33,ORD-65424,USR-2458,DamagedFood,"sushi was cold, unacceptable quality.",6/12/2025 13:39,,high,Open,,,REF-919584
+d78a6059-468e-4ce7-b4f7-04183090fbac,ORD-37143,USR-7418,WrongOrder,"I ordered sushi, but got pasta.",9/23/2024 13:39,,low,Escalated,,,REF-394293
+f083d8a0-d752-4a87-bfc7-9ce859379757,ORD-26862,USR-2066,LateDelivery,"Order was 1 hour late, food arrived cold.",9/21/2024 13:39,,medium,Resolved,9/23/2024 3:39,MOD-15,REF-496899
+70eea94d-10ab-462e-b5a6-7f035317916d,ORD-65726,USR-4052,PoorQuality,"Food was tasteless, not up to standard.",1/21/2025 13:39,"image_7222.jpg,image_4346.jpg",low,Resolved,1/23/2025 2:39,MOD-2,REF-917668
+6e22ef5b-97f5-4e6a-aa77-351a13b9a9e4,ORD-28200,USR-7243,WrongOrder,"Delivered fries, but I wanted pasta.",6/23/2025 13:39,,low,Open,,,REF-179037
+2469d0c5-3737-44e3-bd77-412a2c49a6cb,ORD-28751,USR-5157,PoorQuality,"Very poor quality salad, not edible.",3/26/2025 13:39,,low,Resolved,3/28/2025 13:39,MOD-16,REF-555657
+4aab8dfb-8e49-4146-87c1-9d97ada0d063,ORD-26816,USR-5613,WrongOrder,"Wrong order delivered, got sushi not salad.",11/25/2024 13:39,,low,Resolved,11/26/2024 5:39,MOD-13,REF-798625
+df7084c7-1c63-499c-92a7-74a56b3f1af3,ORD-62607,USR-1732,PoorQuality,"Very poor quality fries, not edible.",11/21/2024 13:39,image_7048.jpg,low,Resolved,11/22/2024 19:39,MOD-12,REF-381365
+b30cbd55-57a5-4f02-873f-8fa76776d8ee,ORD-95775,USR-7901,DamagedFood,"sushi was crushed, unacceptable quality.",10/12/2024 13:39,,high,Open,,,REF-815779
+bfa9b606-a0b6-4cb0-a114-bf1df1cd80ff,ORD-58978,USR-5003,MissingItem,"Missing pizza from my order, very disappointing.",12/8/2024 13:39,image_5917.jpg,low,Escalated,,,REF-796357
+e579e40d-8c65-471b-b996-89035a268650,ORD-48682,USR-1905,LateDelivery,"Order was 90 minutes late, food arrived cold.",8/3/2024 13:39,,medium,Escalated,,,REF-176862
+a8dbcd3e-31b9-4804-a0bc-6c7ebb9247cb,ORD-97843,USR-3861,DamagedFood,"Order was crushed, very disappointed.",6/17/2025 13:39,"image_2310.jpg,image_9733.jpg",medium,Open,,,REF-857850
+23d0bbaa-b710-451e-a343-d189ece64324,ORD-89499,USR-8544,LateDelivery,"Food was 90 minutes late, not happy with service.",4/9/2025 13:39,image_9077.jpg,medium,Open,,,REF-521739
+d7726405-332d-40e0-a96e-12d74b73f681,ORD-19806,USR-2923,MissingItem,"Missing salad from my order, very disappointing.",9/8/2024 13:39,,low,Resolved,9/9/2024 14:39,MOD-11,REF-870471
+6256fbcc-22e2-467f-9f45-1fe30c480618,ORD-97252,USR-5790,MissingItem,"Did not receive salad, need a refund.",12/9/2024 13:39,,low,Resolved,12/9/2024 17:39,MOD-14,REF-347524
+0f290791-ff8e-4738-a6da-972d9185d372,ORD-23931,USR-1790,PoorQuality,"sushi was burnt, never ordering again.",4/27/2025 13:39,,high,Open,,,REF-831725
+47e3efed-6eeb-4882-a862-d6d0774c8dae,ORD-69604,USR-6344,PoorQuality,"fries was tasteless, never ordering again.",9/24/2024 13:39,,high,Open,,,REF-663450
+b934b3c5-5f9c-4c9a-a5ae-00507c46f411,ORD-88761,USR-1092,WrongOrder,Received sushi instead of fries.,9/2/2024 13:39,image_3185.jpg,low,Open,,,REF-856955
+9423e18e-d6ea-426f-9364-d3ebff32595e,ORD-23237,USR-5149,DamagedFood,"Order was soggy, very disappointed.",4/6/2025 13:39,,medium,Resolved,4/7/2025 20:39,MOD-13,REF-107483
+12c2eeed-27a8-4e65-8d1c-cff9f53fd64e,ORD-34861,USR-2069,LateDelivery,"Delivery took 1 hour, completely unacceptable!",5/20/2025 13:39,,high,Escalated,,,REF-861475
+dbb19a34-4bf1-4d7f-8e06-dd3f452e6707,ORD-21527,USR-1489,DamagedFood,"Order was spoiled, very disappointed.",6/10/2025 13:39,,high,Escalated,,,REF-696515
+8dbc3e80-ae2c-4732-a9a1-d73350c704ac,ORD-48381,USR-8885,DamagedFood,"Food was spoiled, totally inedible.",5/16/2025 13:39,image_5263.jpg,high,Escalated,,,REF-598790
+403a5995-4efe-47f1-98b1-1c2fa47b2658,ORD-68862,USR-7040,LateDelivery,"Waited 30 minutes for my order, very frustrating.",2/21/2025 13:39,image_3505.jpg,medium,Escalated,,,REF-696067
+6f8b08aa-0362-4b57-b6f0-3efc09ad0805,ORD-93276,USR-1745,PoorQuality,"Food was crushed, not up to standard.",9/5/2024 13:39,,low,Resolved,9/5/2024 21:39,MOD-1,REF-192664
+938a1499-8d96-42e9-815c-077d138dfccc,ORD-72408,USR-4146,DamagedFood,"pizza was burnt, unacceptable quality.",9/27/2024 13:39,,high,Resolved,9/28/2024 22:39,MOD-19,REF-698206
+546c4b26-a4c7-4828-bf52-da900bb661b3,ORD-58209,USR-6818,PoorQuality,"fries tasted crushed, awful experience.",10/1/2024 13:39,,low,Resolved,10/3/2024 0:39,MOD-14,REF-328222
+833c7d3a-792b-41d8-9944-2b48c1c4f5f1,ORD-78331,USR-3512,LateDelivery,"Delivery took 1 hour, completely unacceptable!",7/14/2024 13:39,,high,Escalated,,,REF-210333
+403f2550-b3a9-4a63-a63a-ede591545f77,ORD-74540,USR-2555,PoorQuality,"Very poor quality salad, not edible.",11/16/2024 13:39,,low,Escalated,,,REF-252743
+7273d068-3789-4dc1-bc52-0f3100f1d771,ORD-19179,USR-4021,PoorQuality,"pizza tasted tasteless, awful experience.",3/17/2025 13:39,image_2735.jpg,low,Resolved,3/18/2025 12:39,MOD-15,REF-870231
+e5cb5a90-51ec-4e4d-9f01-4e98ec6bcfdb,ORD-59121,USR-8117,DamagedFood,"fries was soggy, unacceptable quality.",12/5/2024 13:39,image_9031.jpg,high,Resolved,12/5/2024 22:39,MOD-6,REF-692010
+6852e41b-9b26-4c0f-a030-56ea6851f2eb,ORD-57299,USR-5186,WrongOrder,"Wrong order delivered, got burger not fries.",10/12/2024 13:39,"image_3850.jpg,image_8529.jpg",low,Escalated,,,REF-368586
+95a5bf4b-db7b-4ee7-911f-a19cbaff4fdb,ORD-43302,USR-4745,LateDelivery,"Waited 2 hours for my order, very frustrating.",9/25/2024 13:39,,high,Open,,,REF-873147
+5e9c699e-e230-40d8-978d-fd304fab2b98,ORD-68174,USR-9702,PoorQuality,"pizza tasted crushed, awful experience.",11/7/2024 13:39,image_8276.jpg,low,Resolved,11/8/2024 12:39,MOD-15,REF-789652
+43d45f7b-a2f9-472e-a305-08e7cbc6de37,ORD-44725,USR-7836,PoorQuality,"Very poor quality burger, not edible.",10/23/2024 13:39,image_6927.jpg,low,Escalated,,,REF-511144
+2042452e-f3ae-4071-a92e-bf65de5e6b91,ORD-65988,USR-6274,WrongOrder,"Delivered sandwich, but I wanted burger.",1/26/2025 13:39,image_8701.jpg,low,Escalated,,,REF-249270
+a0ad2959-986e-42e2-a99d-acf310422f56,ORD-27724,USR-7097,LateDelivery,"Delivery took 1 hour, completely unacceptable!",8/14/2024 13:39,"image_4048.jpg,image_8069.jpg",high,Open,,,REF-555870
+7abd0708-58d3-4496-aeae-e930d4db5bde,ORD-14545,USR-6210,PoorQuality,"Food was soggy, not up to standard.",6/15/2025 13:39,image_2753.jpg,low,Open,,,REF-455717
+e0ea8470-3476-40c6-9a74-81795e35f157,ORD-45823,USR-1798,DamagedFood,"pasta arrived cold, need replacement.",1/7/2025 13:39,,low,Resolved,1/9/2025 11:39,MOD-13,REF-408733
+856851ee-e8dc-47b5-bfb1-cecfc0848844,ORD-53083,USR-2080,MissingItem,"salad was missing, please resolve.",8/6/2024 13:39,image_2192.jpg,low,Escalated,,,REF-521136
+5848bf1a-3136-4193-8465-dec4e4171560,ORD-36463,USR-2957,LateDelivery,"Order was 2 hours late, food arrived cold.",11/12/2024 13:39,image_7338.jpg,high,Open,,,REF-434818
+e5178e2f-d295-4491-ae6e-5c7243de7219,ORD-40053,USR-5907,PoorQuality,"pizza tasted soggy, awful experience.",11/5/2024 13:39,,low,Resolved,11/6/2024 2:39,MOD-5,REF-994296
+1fcbfb7b-91e9-45fc-8e73-74542901e9e2,ORD-90869,USR-5692,DamagedFood,"pizza was soggy, unacceptable quality.",8/20/2024 13:39,image_3508.jpg,high,Resolved,8/20/2024 22:39,MOD-2,REF-161875
+8500fb8c-1c6b-4615-bb7c-e167d8c698ea,ORD-32996,USR-5289,MissingItem,"Order incomplete, sandwich was not delivered.",6/27/2025 13:39,,low,Open,,,REF-217932
+6577e9c4-5414-46d2-ac81-bf62091e4277,ORD-16214,USR-3947,DamagedFood,"Food was cold, totally inedible.",5/9/2025 13:39,image_3981.jpg,high,Resolved,5/11/2025 2:39,MOD-2,REF-322852
+64b18c68-4707-4ac0-ab00-696f9cba59f6,ORD-39625,USR-3147,DamagedFood,"Food was cold, totally inedible.",6/29/2024 13:39,image_7957.jpg,high,Escalated,,,REF-767264
+afc68be7-9a71-4d9b-8221-d48990c34a9b,ORD-75016,USR-7582,MissingItem,"Order incomplete, pasta was not delivered.",9/11/2024 13:39,,low,Resolved,9/12/2024 13:39,MOD-7,REF-870373
+d52a422f-7edd-4f24-9240-498368ae2ceb,ORD-10128,USR-1245,PoorQuality,"Food was soggy, not up to standard.",1/20/2025 13:39,,low,Resolved,1/20/2025 22:39,MOD-18,REF-468820
+4fdeef38-c191-451b-b563-25fda896ddbb,ORD-91739,USR-9101,MissingItem,"fries was missing, please resolve.",3/9/2025 13:39,image_5826.jpg,low,Open,,,REF-984141
+23b9c476-78a9-490e-939d-c947801f4b21,ORD-16867,USR-8521,MissingItem,"salad was missing, please resolve.",3/10/2025 13:39,,low,Open,,,REF-199664
+b58f6e63-1e82-4dbb-b898-7c4b812bfa79,ORD-41895,USR-7750,WrongOrder,"Wrong order delivered, got fries not pizza.",4/28/2025 13:39,,low,Open,,,REF-904676
+47f1a70a-d076-4955-afd2-824c01cdbaac,ORD-58526,USR-7515,DamagedFood,"Food was tasteless, totally inedible.",12/7/2024 13:39,"image_7064.jpg,image_7753.jpg",high,Resolved,12/8/2024 6:39,MOD-6,REF-800706
+e3cf6878-83dd-4d92-a9c3-b7e2d22d46b4,ORD-80805,USR-7789,WrongOrder,Received sushi instead of fries.,12/30/2024 13:39,,low,Resolved,12/31/2024 0:39,MOD-17,REF-887201
+9c4456ca-0591-41c7-af75-991af3f2a128,ORD-91676,USR-9192,WrongOrder,"Delivered sandwich, but I wanted fries.",5/28/2025 13:39,,low,Open,,,REF-196344
+dc1c6643-0539-474a-a7d7-29f25a701770,ORD-66056,USR-3878,LateDelivery,"Waited 30 minutes for my order, very frustrating.",2/20/2025 13:39,,medium,Open,,,REF-544544
+d555e4be-d15c-4f3c-9d43-613166b866ab,ORD-19349,USR-2022,MissingItem,"pasta was missing, please resolve.",1/6/2025 13:39,,low,Escalated,,,REF-267104
+43030e49-b4e0-42f9-80f2-d98221bc99ec,ORD-98163,USR-4000,PoorQuality,"pasta tasted crushed, awful experience.",1/22/2025 13:39,,low,Resolved,1/23/2025 5:39,MOD-13,REF-446049
+1e86f31c-4069-4c1b-9323-213a9f32156f,ORD-49577,USR-5752,LateDelivery,"Delivery took 2 hours, completely unacceptable!",3/21/2025 13:39,image_3482.jpg,high,Open,,,REF-856942
+ff593659-03f3-4250-b55d-dbe18b3788fb,ORD-24437,USR-2271,MissingItem,"Did not receive pizza, need a refund.",5/31/2025 13:39,image_7932.jpg,low,Resolved,5/31/2025 17:39,MOD-16,REF-656887
+ed7d8b69-30c4-4e35-84c7-47cb19b6a601,ORD-73779,USR-9803,MissingItem,"Did not receive fries, need a refund.",8/22/2024 13:39,image_8845.jpg,low,Open,,,REF-991671
+9813da9d-b4aa-490c-a526-b54b6fb78734,ORD-92184,USR-3140,MissingItem,"Order incomplete, sushi was not delivered.",7/21/2024 13:39,,low,Resolved,7/21/2024 16:39,MOD-7,REF-780273
+33567dfc-7237-4df4-89d9-c04769ca44ce,ORD-40706,USR-1000,DamagedFood,"Order was crushed, very disappointed.",5/28/2025 13:39,,medium,Escalated,,,REF-775723
+d21e8d2a-d20a-4741-8079-fd9ae75f46df,ORD-78246,USR-4673,WrongOrder,"Wrong order delivered, got burger not burger.",7/3/2024 13:39,,low,Escalated,,,REF-673727
+e6cba63f-fb1e-4834-b5c9-51a643c7fbab,ORD-41003,USR-1135,MissingItem,"Order incomplete, pizza was not delivered.",9/16/2024 13:39,image_5366.jpg,low,Open,,,REF-401317
+ff9ef400-dde3-4a6c-a8f4-985c8859734e,ORD-99491,USR-1332,MissingItem,"sushi was missing, please resolve.",6/22/2025 13:39,,low,Resolved,6/23/2025 8:39,MOD-7,REF-235357
+e49c27e8-1156-4696-86e3-5243fe144ac9,ORD-77830,USR-8482,PoorQuality,"sandwich tasted spoiled, awful experience.",11/18/2024 13:39,"image_3671.jpg,image_2763.jpg",high,Open,,,REF-660544
+4ddbb4dd-8f64-4591-b9e1-724cc882e86b,ORD-47909,USR-1175,DamagedFood,"Order was spoiled, very disappointed.",12/16/2024 13:39,,high,Resolved,12/16/2024 22:39,MOD-9,REF-434157
+bfe7006e-8c8c-4fad-a8e8-4319a964083a,ORD-80315,USR-2449,LateDelivery,"Order was 30 minutes late, food arrived cold.",5/25/2025 13:39,image_3211.jpg,low,Escalated,,,REF-261231
+0c12b98c-249b-4e30-a03a-8f0802375f76,ORD-90185,USR-4777,WrongOrder,Received sushi instead of pizza.,1/19/2025 13:39,,low,Escalated,,,REF-369939
+432a938b-6dcd-4b3b-a96d-adbb6cd90468,ORD-84155,USR-6149,PoorQuality,"Food was burnt, not up to standard.",1/26/2025 13:39,image_4774.jpg,low,Resolved,1/26/2025 22:39,MOD-14,REF-289192
+a43d7302-947e-42d7-acb4-b951415a9e9b,ORD-45490,USR-5109,WrongOrder,"I ordered pizza, but got sandwich.",7/5/2024 13:39,,low,Resolved,7/5/2024 14:39,MOD-10,REF-752529
+7aea7d57-5c9c-4efc-aad4-2d903e665f8b,ORD-85964,USR-9806,DamagedFood,"sandwich was tasteless, unacceptable quality.",7/10/2024 13:39,image_2194.jpg,high,Resolved,7/12/2024 3:39,MOD-17,REF-598535
+695623bc-07de-4d8d-a5cd-80f0f594ea9e,ORD-57850,USR-7679,WrongOrder,Received fries instead of salad.,8/30/2024 13:39,image_9534.jpg,low,Open,,,REF-615824
+537c2eeb-20da-4c28-8816-21511abb1cd9,ORD-44786,USR-1406,MissingItem,"Did not receive fries, need a refund.",9/8/2024 13:39,image_3765.jpg,low,Open,,,REF-720664
+6cefeb0f-c9c7-41f5-a628-e986fc47fc30,ORD-46073,USR-1290,LateDelivery,"Waited 2 hours for my order, very frustrating.",4/13/2025 13:39,"image_6012.jpg,image_5055.jpg",high,Resolved,4/15/2025 10:39,MOD-14,REF-922863
+789d4b10-565a-44e9-93be-c26b56cc2a44,ORD-12039,USR-6705,WrongOrder,"Delivered fries, but I wanted sandwich.",4/21/2025 13:39,,low,Open,,,REF-457631
+cd6f9bf2-549b-4c5b-9ed8-5c7d4a54dc42,ORD-15131,USR-1006,DamagedFood,"sandwich was soggy, unacceptable quality.",1/12/2025 13:39,image_5572.jpg,high,Escalated,,,REF-688645
+dcba7441-c71e-438a-99a9-144131e44ce3,ORD-10199,USR-2905,PoorQuality,"pizza was spoiled, never ordering again.",6/12/2025 13:39,"image_6203.jpg,image_2446.jpg",high,Open,,,REF-739596
+e72392ca-2043-4add-9008-5c3a9436b25d,ORD-33728,USR-2929,MissingItem,"Order incomplete, pizza was not delivered.",12/16/2024 13:39,"image_3612.jpg,image_4169.jpg",low,Open,,,REF-238558
+2e8027de-23d2-48d2-b6dd-e77c822b68fc,ORD-59040,USR-2370,DamagedFood,"Food was spoiled, totally inedible.",8/10/2024 13:39,,high,Escalated,,,REF-674275
+952b63c5-6280-4581-9939-99ab8fbd8232,ORD-15733,USR-3701,WrongOrder,Received fries instead of fries.,8/4/2024 13:39,image_7926.jpg,low,Resolved,8/6/2024 6:39,MOD-6,REF-882008
+20d33197-5c67-43ed-b16f-1d314594267a,ORD-74739,USR-5952,MissingItem,"sandwich was missing, please resolve.",1/10/2025 13:39,,low,Resolved,1/11/2025 3:39,MOD-5,REF-902100
+e59100d6-e645-4f1f-bd5d-4d1b4d9c1843,ORD-27619,USR-7027,LateDelivery,"Food was 1 hour late, not happy with service.",11/6/2024 13:39,image_5707.jpg,medium,Escalated,,,REF-760996
+16ed3483-e025-43fa-922d-419c77d5e0af,ORD-59340,USR-2783,MissingItem,"Missing salad from my order, very disappointing.",4/20/2025 13:39,,low,Resolved,4/20/2025 19:39,MOD-15,REF-294933
+d9e0ad90-4246-448f-a5b2-b3b2c78a9f14,ORD-51125,USR-7218,PoorQuality,"Very poor quality sandwich, not edible.",2/27/2025 13:39,"image_4955.jpg,image_7780.jpg",low,Open,,,REF-821784
+23023f81-6375-4e40-af71-419380d76460,ORD-96975,USR-5036,MissingItem,"Order incomplete, burger was not delivered.",2/22/2025 13:39,,low,Resolved,2/23/2025 20:39,MOD-6,REF-719127
+97f0a79d-e59e-4de8-a4b2-eb50dbbcba5c,ORD-59297,USR-1938,LateDelivery,"Order was 90 minutes late, food arrived cold.",8/4/2024 13:39,image_1138.jpg,medium,Escalated,,,REF-448493
+b9ef5591-2f58-48fe-b8b3-56c3c367fc06,ORD-19273,USR-8612,WrongOrder,"Wrong order delivered, got salad not burger.",1/1/2025 13:39,,low,Resolved,1/2/2025 7:39,MOD-15,REF-451068
+13110330-9268-4c13-b5c4-b7b3ee6171b3,ORD-81898,USR-4629,DamagedFood,"sushi was tasteless, unacceptable quality.",5/5/2025 13:39,,high,Resolved,5/6/2025 12:39,MOD-13,REF-385769
+c8460514-efce-4b75-b6f0-8a138d0d923b,ORD-49669,USR-6133,PoorQuality,"Very poor quality salad, not edible.",3/9/2025 13:39,image_4286.jpg,low,Escalated,,,REF-539708
+4971cabd-0966-48d2-b77a-07276795fa39,ORD-49777,USR-2905,LateDelivery,"Order was 90 minutes late, food arrived cold.",3/10/2025 13:39,,medium,Escalated,,,REF-238431
+66e0811a-52c3-4a5c-99c4-1aad2c67ca32,ORD-56394,USR-2520,DamagedFood,"Food was cold, totally inedible.",7/25/2024 13:39,,high,Open,,,REF-490151
+abb333d1-4730-48f9-941e-c253b74020a5,ORD-14268,USR-6948,LateDelivery,"Waited 90 minutes for my order, very frustrating.",11/1/2024 13:39,image_3728.jpg,medium,Open,,,REF-752269
+f54f4b57-a39f-4826-8169-1e0c266a8d08,ORD-82397,USR-7642,PoorQuality,"pasta was burnt, never ordering again.",10/3/2024 13:39,,high,Open,,,REF-408516
+e2fafb68-0727-4f1c-b7fd-cc16067453fd,ORD-76935,USR-7590,PoorQuality,"salad tasted soggy, awful experience.",5/21/2025 13:39,,low,Escalated,,,REF-556169
+2a0ff658-76af-402b-9537-6c932bb411b0,ORD-55662,USR-9577,DamagedFood,"sandwich was cold, unacceptable quality.",4/11/2025 13:39,image_8505.jpg,high,Escalated,,,REF-118635
+c3fe46d8-368c-4721-ae4a-eed0591243d6,ORD-54328,USR-9175,PoorQuality,"Very poor quality fries, not edible.",4/28/2025 13:39,,low,Escalated,,,REF-729296
+92705fe8-9f0f-49fe-8dda-923a06f58660,ORD-86153,USR-1511,LateDelivery,"Waited 1 hour for my order, very frustrating.",5/8/2025 13:39,,medium,Escalated,,,REF-548949
+dfe6aadc-dbc7-4baf-9502-98db77bc3155,ORD-75206,USR-4694,DamagedFood,"sandwich arrived burnt, need replacement.",11/21/2024 13:39,"image_2416.jpg,image_6572.jpg",low,Resolved,11/22/2024 17:39,MOD-6,REF-107244
+f59d4f23-607d-490c-9781-483e022f4efc,ORD-49102,USR-1376,DamagedFood,"sandwich was crushed, unacceptable quality.",5/4/2025 13:39,image_6871.jpg,high,Escalated,,,REF-330263
+6214b49b-9ead-41c0-91b6-6f08793322fc,ORD-64407,USR-1095,PoorQuality,"pasta was burnt, never ordering again.",3/15/2025 13:39,,high,Escalated,,,REF-138258
+0404176a-6690-4e20-9bc1-0078d41096de,ORD-84261,USR-7134,DamagedFood,"pizza was cold, unacceptable quality.",7/4/2024 13:39,image_1059.jpg,high,Escalated,,,REF-999461
+003cd078-edf8-4c05-adda-d1fcf3062908,ORD-48426,USR-2376,MissingItem,"Missing sushi from my order, very disappointing.",6/8/2025 13:39,image_8581.jpg,low,Escalated,,,REF-748414
+2465d8a2-1830-4a24-843a-a35f8d3a205f,ORD-64222,USR-9136,MissingItem,"sandwich was missing, please resolve.",1/30/2025 13:39,image_6425.jpg,low,Open,,,REF-824279
+92a442df-d870-4660-b630-e2248d1d7dcc,ORD-48819,USR-4799,PoorQuality,"Very poor quality pizza, not edible.",2/3/2025 13:39,,low,Open,,,REF-702323
+25c176a3-3860-4549-b023-4d46040d46c1,ORD-29231,USR-9845,MissingItem,"salad was missing, please resolve.",2/22/2025 13:39,,low,Open,,,REF-201799
+e368d1a7-8ee1-4d18-9ab9-1550d1a6f680,ORD-11731,USR-6987,DamagedFood,"salad arrived cold, need replacement.",7/22/2024 13:39,,low,Open,,,REF-862338
+cd003f5c-0a8b-4e2d-a9f7-2d60ca98e441,ORD-43821,USR-6410,MissingItem,"Order incomplete, sandwich was not delivered.",11/23/2024 13:39,,low,Escalated,,,REF-359540
+52dc0b6b-94f3-4839-84f4-0bd466f1f2e6,ORD-14841,USR-1047,DamagedFood,"Food was burnt, totally inedible.",4/13/2025 13:39,"image_5215.jpg,image_2256.jpg",high,Escalated,,,REF-770253
+73f84c02-bca0-447e-9768-858c00c8cf51,ORD-95868,USR-2092,WrongOrder,Received fries instead of pizza.,8/26/2024 13:39,,low,Escalated,,,REF-236267
+95814504-c87c-44fe-81b0-553235723ac5,ORD-48585,USR-5985,DamagedFood,"pasta arrived soggy, need replacement.",12/12/2024 13:39,,low,Open,,,REF-530657
+b42e5017-9e06-491c-9b8c-0bc3541c29a4,ORD-64722,USR-2443,PoorQuality,"pizza tasted tasteless, awful experience.",6/9/2025 13:39,,low,Escalated,,,REF-361842
+4ae277b5-81a7-4808-8727-83789b263ad3,ORD-32988,USR-3849,WrongOrder,"Delivered salad, but I wanted burger.",8/15/2024 13:39,image_1775.jpg,low,Resolved,8/17/2024 6:39,MOD-17,REF-150641
+2ad348d4-a7dc-4ee9-9358-3962af34146a,ORD-22432,USR-2067,WrongOrder,"Delivered sushi, but I wanted fries.",6/4/2025 13:39,image_3268.jpg,low,Resolved,6/5/2025 22:39,MOD-7,REF-391147
+a27a56a6-4d0c-4ddb-ab37-1723c54739b6,ORD-83414,USR-5960,PoorQuality,"burger was burnt, never ordering again.",2/15/2025 13:39,image_6048.jpg,high,Resolved,2/16/2025 21:39,MOD-9,REF-482868
+0d942943-68d3-42c2-980c-68fbe9b29751,ORD-62668,USR-7326,PoorQuality,"Food was cold, not up to standard.",2/15/2025 13:39,,low,Resolved,2/16/2025 8:39,MOD-4,REF-982470
+bcf638cb-33f1-47ce-9caa-97940b2bf0a9,ORD-17084,USR-5382,MissingItem,"Did not receive sandwich, need a refund.",3/30/2025 13:39,,low,Open,,,REF-666883
+790dde38-e8cd-4947-85b7-5db434e39077,ORD-86870,USR-9805,DamagedFood,"pizza arrived spoiled, need replacement.",6/16/2025 13:39,image_4900.jpg,high,Resolved,6/18/2025 11:39,MOD-16,REF-816364
+56b9e4d6-aff0-47ac-84d9-822039ce73f4,ORD-69068,USR-3268,DamagedFood,"Food was spoiled, totally inedible.",10/29/2024 13:39,image_2637.jpg,high,Escalated,,,REF-768053
+42ef8866-cea0-4a3c-a4ae-8e69b5e861c7,ORD-82676,USR-2968,WrongOrder,"Delivered sushi, but I wanted sushi.",11/3/2024 13:39,"image_4824.jpg,image_5881.jpg",low,Open,,,REF-107779
+a4171939-5df0-4649-81cb-c6b87d2ff6d1,ORD-82631,USR-5700,DamagedFood,"sandwich arrived crushed, need replacement.",11/6/2024 13:39,,low,Escalated,,,REF-634531
+1d43a53a-cb1d-4b06-a5d9-31804d170754,ORD-50178,USR-5016,DamagedFood,"Food was spoiled, totally inedible.",12/19/2024 13:39,,high,Resolved,12/19/2024 16:39,MOD-18,REF-653599
+8fcb2014-faa3-4ef8-a249-341aaa38ded1,ORD-77236,USR-2122,PoorQuality,"sandwich tasted spoiled, awful experience.",2/10/2025 13:39,image_4577.jpg,high,Resolved,2/11/2025 23:39,MOD-14,REF-638517
+ba637373-90db-469c-bf8b-c2400408f2fc,ORD-79163,USR-7513,MissingItem,"Order incomplete, sandwich was not delivered.",9/30/2024 13:39,image_8337.jpg,low,Escalated,,,REF-172372
+43a5613b-9fe4-443f-b735-b42a668c6f3c,ORD-58654,USR-9617,DamagedFood,"Order was burnt, very disappointed.",8/15/2024 13:39,,medium,Resolved,8/15/2024 19:39,MOD-20,REF-552738
+a643fb74-073b-45d7-b633-4b281f15da9f,ORD-50245,USR-1327,WrongOrder,"Delivered burger, but I wanted sandwich.",12/2/2024 13:39,,low,Open,,,REF-469976
+b8cb6ab6-c9c3-4dda-a6c0-f7b65f0606a6,ORD-87133,USR-2526,WrongOrder,Received fries instead of sandwich.,1/20/2025 13:39,,low,Open,,,REF-716570
+5e35ad8f-8438-47d7-99fa-28c1c963c04d,ORD-51638,USR-9574,WrongOrder,"Wrong order delivered, got pasta not sandwich.",9/23/2024 13:39,,low,Resolved,9/23/2024 19:39,MOD-3,REF-663096
+d4d92109-3456-42b2-8918-a143004dea9b,ORD-96546,USR-5958,LateDelivery,"Waited 1 hour for my order, very frustrating.",6/4/2025 13:39,,medium,Escalated,,,REF-147670
+917e6a60-9de0-445a-951a-45d5dc164936,ORD-75074,USR-5210,WrongOrder,"Delivered pasta, but I wanted sandwich.",1/16/2025 13:39,,low,Resolved,1/17/2025 7:39,MOD-1,REF-470517
+77f926f1-c634-499c-bec9-e79c485ba6d0,ORD-76594,USR-2761,PoorQuality,"pasta tasted tasteless, awful experience.",2/22/2025 13:39,image_5663.jpg,low,Resolved,2/22/2025 17:39,MOD-10,REF-378853
+fb922d0b-c7f1-4c53-babe-747cf23e0618,ORD-79017,USR-2480,LateDelivery,"Food was 1 hour late, not happy with service.",3/29/2025 13:39,,medium,Open,,,REF-786201
+591e5a86-a818-40e9-bede-1bc9d381c92d,ORD-39490,USR-4194,WrongOrder,"Delivered pizza, but I wanted sushi.",6/6/2025 13:39,,low,Resolved,6/8/2025 3:39,MOD-19,REF-392768
+67e479ea-4973-42b7-83e1-945b5094f9e3,ORD-56898,USR-1273,DamagedFood,"fries was crushed, unacceptable quality.",6/27/2024 13:39,,high,Resolved,6/28/2024 17:39,MOD-17,REF-310323
+3b1f4a7c-d89a-4870-94c5-c94d9cd5deeb,ORD-82146,USR-4104,DamagedFood,"salad was spoiled, unacceptable quality.",10/28/2024 13:39,,high,Resolved,10/29/2024 0:39,MOD-9,REF-681752
+8611db5a-3a5e-45a6-825a-388ebc319ddc,ORD-17008,USR-8918,PoorQuality,"sushi was tasteless, never ordering again.",12/6/2024 13:39,,high,Open,,,REF-964551
+b9902fa1-7595-49d1-a35d-d0f43f7243b2,ORD-93541,USR-2345,MissingItem,"Missing sandwich from my order, very disappointing.",11/23/2024 13:39,,low,Escalated,,,REF-792776
+259b14a8-8ea1-4f67-b3b4-5bf29a1f33e8,ORD-20573,USR-8512,PoorQuality,"sushi tasted soggy, awful experience.",10/19/2024 13:39,,low,Open,,,REF-382062
+0da4dcf7-2b15-49db-b658-9448266dc732,ORD-95378,USR-3855,MissingItem,"fries was missing, please resolve.",11/12/2024 13:39,image_5230.jpg,low,Escalated,,,REF-372553
+2fade4f0-d2d8-4d08-a000-85b4484ed3f3,ORD-27709,USR-8444,DamagedFood,"Food was spoiled, totally inedible.",11/10/2024 13:39,,high,Open,,,REF-409780
+e9900dcf-6d19-4d4e-9f98-6f04fa46f5b4,ORD-81875,USR-2359,LateDelivery,"Waited 90 minutes for my order, very frustrating.",9/1/2024 13:39,,medium,Open,,,REF-835150
+12714164-f905-4b42-85f5-f0f8788ee5d0,ORD-32298,USR-4870,LateDelivery,"Waited 1 hour for my order, very frustrating.",12/29/2024 13:39,,medium,Resolved,12/31/2024 1:39,MOD-3,REF-664703
+32442c96-b567-4082-a727-2a00b9005db8,ORD-73722,USR-9694,DamagedFood,"Food was soggy, totally inedible.",6/21/2025 13:39,image_3311.jpg,high,Resolved,6/21/2025 21:39,MOD-10,REF-497733
+a789bb9b-dfbb-4228-9b20-087231af28ed,ORD-27568,USR-7972,MissingItem,"fries was missing, please resolve.",11/10/2024 13:39,,low,Open,,,REF-954731
+9badcf9f-6ea8-443e-a97c-4348339912c5,ORD-88596,USR-4596,PoorQuality,"sushi was crushed, never ordering again.",2/11/2025 13:39,,high,Open,,,REF-863492
+212695f7-b285-4547-ae46-ca7482df5d35,ORD-60307,USR-1552,PoorQuality,"pizza tasted crushed, awful experience.",10/14/2024 13:39,,low,Escalated,,,REF-356223
+d9185555-2fca-4622-8c69-e4ba7c6fd356,ORD-69861,USR-8875,LateDelivery,"Delivery took 2 hours, completely unacceptable!",12/15/2024 13:39,,high,Open,,,REF-462032
+d615ab4e-8d0e-4371-af46-a2657330fadc,ORD-91760,USR-4807,WrongOrder,"Wrong order delivered, got pasta not pizza.",5/2/2025 13:39,,low,Escalated,,,REF-208277
+6b778dce-d60a-4e62-9d90-0ceadbeb2f76,ORD-72842,USR-2814,WrongOrder,"I ordered sushi, but got sushi.",3/22/2025 13:39,,low,Escalated,,,REF-780464
+ee889570-d834-44c8-8db2-96b0d32c0973,ORD-75833,USR-8232,LateDelivery,"Waited 30 minutes for my order, very frustrating.",5/27/2025 13:39,,medium,Escalated,,,REF-378906
+0a502acc-3573-4395-93f8-a1c2a5795ead,ORD-49578,USR-1633,WrongOrder,"Delivered salad, but I wanted sandwich.",5/18/2025 13:39,,low,Escalated,,,REF-272089
+b9aa3c85-b35f-4d12-a523-1d6e74edf41c,ORD-64949,USR-7635,WrongOrder,"Wrong order delivered, got pasta not sushi.",4/24/2025 13:39,,low,Open,,,REF-359028
+697b68e0-49af-4a46-8974-3a84f376e2c3,ORD-36447,USR-2099,LateDelivery,"Order was 30 minutes late, food arrived cold.",5/10/2025 13:39,,low,Escalated,,,REF-278040
+6353c40f-303d-4b0b-a0e9-1df5e46ed0b5,ORD-96554,USR-4131,MissingItem,"Did not receive sushi, need a refund.",11/2/2024 13:39,,low,Open,,,REF-883110
+d745c942-187a-4147-a4ec-87907eda8da3,ORD-34032,USR-6770,DamagedFood,"Order was burnt, very disappointed.",2/13/2025 13:39,,medium,Resolved,2/14/2025 8:39,MOD-8,REF-324841
+f04a0d58-5ce0-4e55-85c8-de03c865dd41,ORD-98302,USR-1589,LateDelivery,"Waited 90 minutes for my order, very frustrating.",5/22/2025 13:39,,medium,Escalated,,,REF-360448
+920f97c2-5bca-4feb-a292-52a1031fd28a,ORD-27578,USR-9678,DamagedFood,"sushi arrived cold, need replacement.",9/5/2024 13:39,,low,Escalated,,,REF-975475
+389cafd5-88a5-4d7f-8260-8b2c6682573a,ORD-87701,USR-7978,MissingItem,"burger was missing, please resolve.",1/13/2025 13:39,image_4184.jpg,low,Escalated,,,REF-351866
+7ce40487-739c-4271-803f-41341d56bf98,ORD-62030,USR-4025,PoorQuality,"Food was tasteless, not up to standard.",9/20/2024 13:39,,low,Resolved,9/22/2024 9:39,MOD-8,REF-875912
+adb25787-2f34-4f1b-be00-878a19e7469d,ORD-31248,USR-1184,WrongOrder,Received sushi instead of pasta.,1/17/2025 13:39,image_5125.jpg,low,Open,,,REF-678247
+447a31e4-c8e5-4380-9929-163f6fe6fe37,ORD-19035,USR-4596,WrongOrder,"Wrong order delivered, got burger not burger.",1/23/2025 13:39,image_7847.jpg,low,Resolved,1/24/2025 15:39,MOD-2,REF-756229
+81e9ef67-8090-40f4-8aca-eec260484e2d,ORD-76852,USR-9236,MissingItem,"Did not receive sandwich, need a refund.",6/30/2024 13:39,,low,Resolved,7/2/2024 4:39,MOD-17,REF-888262
+39b93552-cf77-43ed-a1d1-5cccaca97538,ORD-39092,USR-4351,MissingItem,"Missing fries from my order, very disappointing.",1/9/2025 13:39,,low,Escalated,,,REF-980265
+8ffe5362-d5f8-4d2c-9673-dfd323b1e294,ORD-17267,USR-8098,DamagedFood,"fries arrived tasteless, need replacement.",6/26/2025 13:39,,low,Open,,,REF-150766
+692d022a-ee72-4441-85c6-66ba752c57ec,ORD-59389,USR-1238,DamagedFood,"sushi was cold, unacceptable quality.",1/24/2025 13:39,image_6779.jpg,high,Resolved,1/24/2025 18:39,MOD-10,REF-336907
+fdc461fe-cefd-4251-ae83-f464e427a8bb,ORD-60050,USR-6481,LateDelivery,"Food was 2 hours late, not happy with service.",7/30/2024 13:39,image_8826.jpg,high,Escalated,,,REF-662980
+4ab179b1-1a59-4cac-b475-2d53179f258c,ORD-27575,USR-4224,MissingItem,"Order incomplete, fries was not delivered.",4/17/2025 13:39,image_5171.jpg,low,Escalated,,,REF-388766
+b6887fba-59dd-485e-a45f-ff8f9dde21a5,ORD-98269,USR-7364,DamagedFood,"salad was crushed, unacceptable quality.",1/28/2025 13:39,,high,Resolved,1/28/2025 15:39,MOD-20,REF-181230
+4b755942-63f4-494f-84c4-c47d959bb1c6,ORD-58255,USR-9052,LateDelivery,"Delivery took 1 hour, completely unacceptable!",12/11/2024 13:39,,high,Open,,,REF-919610
+146f2de6-4302-4241-ba33-263f05df12dd,ORD-93505,USR-9757,WrongOrder,"Wrong order delivered, got pasta not sandwich.",12/13/2024 13:39,image_3047.jpg,low,Escalated,,,REF-209354
+7d687f09-1029-4b47-86e1-e43a1b02e497,ORD-51450,USR-9171,MissingItem,"Order incomplete, sushi was not delivered.",5/3/2025 13:39,"image_6432.jpg,image_5213.jpg",low,Resolved,5/4/2025 6:39,MOD-1,REF-614844
+d6d316c4-11b3-43b6-8641-da9a74218692,ORD-47644,USR-1271,DamagedFood,"pasta arrived spoiled, need replacement.",4/22/2025 13:39,,high,Resolved,4/23/2025 4:39,MOD-7,REF-251908
+7a199665-f48b-4ca5-bd66-f8edd2ea0e8a,ORD-54947,USR-1804,MissingItem,"Did not receive burger, need a refund.",4/2/2025 13:39,,low,Open,,,REF-328738
+41b7b545-5498-460b-bf03-38bcf1383208,ORD-86486,USR-3549,LateDelivery,"Order was 30 minutes late, food arrived cold.",7/21/2024 13:39,,low,Escalated,,,REF-466666
+92cea449-c0e5-49d6-8a15-418edbcf6067,ORD-19848,USR-7604,MissingItem,"Missing pizza from my order, very disappointing.",3/14/2025 13:39,,low,Escalated,,,REF-157533
+d0938db2-3db7-4fe2-b6cc-e1e807e8a4eb,ORD-22870,USR-3802,DamagedFood,"Order was cold, very disappointed.",12/22/2024 13:39,"image_8513.jpg,image_4180.jpg",medium,Resolved,12/23/2024 17:39,MOD-20,REF-119534
+1d6cf6d2-14ce-46dc-96ac-176fea404d0f,ORD-57393,USR-5603,WrongOrder,"Delivered pasta, but I wanted salad.",4/30/2025 13:39,,low,Resolved,5/1/2025 11:39,MOD-19,REF-423971
+dc768be8-dccb-40eb-b838-cb7ddd90468a,ORD-59742,USR-3730,DamagedFood,"salad was spoiled, unacceptable quality.",6/19/2025 13:39,,high,Resolved,6/20/2025 18:39,MOD-17,REF-735309
+621ef9ba-faad-4ec6-89a8-cc22134b18b4,ORD-88800,USR-1252,LateDelivery,"Delivery took 1 hour, completely unacceptable!",7/30/2024 13:39,image_7548.jpg,high,Resolved,7/31/2024 0:39,MOD-3,REF-511232
+8ee395f4-4256-406f-97e9-faff58d1a203,ORD-85810,USR-8157,LateDelivery,"Delivery took 2 hours, completely unacceptable!",1/16/2025 13:39,,high,Escalated,,,REF-902632
+210646cf-60af-4625-86cf-ac0b4311d079,ORD-47283,USR-8567,LateDelivery,"Waited 30 minutes for my order, very frustrating.",7/15/2024 13:39,,medium,Escalated,,,REF-462460
+567c1e93-3a7c-4027-b194-fa1b65ed3cfa,ORD-76035,USR-9756,WrongOrder,"Delivered fries, but I wanted salad.",2/12/2025 13:39,image_1435.jpg,low,Open,,,REF-352561
+86648fb6-c5a9-4565-a645-4272af9e3190,ORD-17015,USR-6825,DamagedFood,"Order was crushed, very disappointed.",12/1/2024 13:39,,medium,Open,,,REF-284356
+0f24c537-f436-49b9-aa3c-7a18d7220151,ORD-62512,USR-4247,PoorQuality,"fries was soggy, never ordering again.",8/17/2024 13:39,,high,Open,,,REF-390766
+62b82913-6387-4747-904a-b876a04837a7,ORD-78889,USR-9872,DamagedFood,"Food was cold, totally inedible.",5/13/2025 13:39,,high,Resolved,5/14/2025 13:39,MOD-12,REF-550547
+d83cf421-043f-4119-867f-9500ff5a26c9,ORD-93265,USR-8521,WrongOrder,"Delivered burger, but I wanted sushi.",7/29/2024 13:39,,low,Escalated,,,REF-445213
+ad9fc261-23b5-48d8-aecb-bf5f5272392e,ORD-49612,USR-2840,LateDelivery,"Order was 2 hours late, food arrived cold.",1/25/2025 13:39,image_7548.jpg,high,Escalated,,,REF-289456
+ec567126-4d01-403a-bc51-b42a300fe818,ORD-87793,USR-8846,LateDelivery,"Waited 2 hours for my order, very frustrating.",3/11/2025 13:39,,high,Open,,,REF-269080
+86c953cc-2b99-4a86-a945-efb628f62c96,ORD-82349,USR-6185,WrongOrder,"Delivered burger, but I wanted pizza.",10/23/2024 13:39,,low,Open,,,REF-469465
+f33f2e90-fb52-4cd9-9b92-c40cd283ea6f,ORD-49506,USR-7066,DamagedFood,"sandwich arrived soggy, need replacement.",4/6/2025 13:39,,low,Resolved,4/6/2025 19:39,MOD-11,REF-613360
+f9a64ec5-cfb4-46fe-b8a3-a796f5d3a751,ORD-42563,USR-9905,MissingItem,"Order incomplete, burger was not delivered.",2/5/2025 13:39,,low,Escalated,,,REF-626947
+d1a287cb-956e-453b-abe8-bb89598ad80e,ORD-26729,USR-8197,MissingItem,"sushi was missing, please resolve.",2/25/2025 13:39,image_5850.jpg,low,Open,,,REF-214807
+d68e866c-d4d1-42be-a69d-c2faf8806acd,ORD-59726,USR-5683,MissingItem,"Order incomplete, pizza was not delivered.",4/16/2025 13:39,image_3569.jpg,low,Open,,,REF-354363
+95e4858c-2e89-45d8-b838-d99b18bbdf0f,ORD-88631,USR-8575,MissingItem,"Order incomplete, pizza was not delivered.",3/31/2025 13:39,,low,Open,,,REF-599839
+7f542193-e400-4012-a1f9-032c32c79828,ORD-95869,USR-7534,PoorQuality,"sushi tasted tasteless, awful experience.",10/21/2024 13:39,,low,Escalated,,,REF-518070
+949e7548-a797-4cb8-bada-cc8c7d0706eb,ORD-49579,USR-3270,LateDelivery,"Order was 2 hours late, food arrived cold.",2/26/2025 13:39,image_2651.jpg,high,Escalated,,,REF-237511
+d10f9608-a8e7-40ef-b7ad-844060ee386f,ORD-35316,USR-6031,LateDelivery,"Delivery took 90 minutes, completely unacceptable!",1/5/2025 13:39,,high,Resolved,1/6/2025 1:39,MOD-11,REF-652990
+a27c0d53-371f-4619-927a-211dfcbe3d4b,ORD-34907,USR-7640,PoorQuality,"pizza tasted spoiled, awful experience.",4/18/2025 13:39,,high,Resolved,4/20/2025 5:39,MOD-19,REF-938668
+2931236f-211e-4466-bc0a-c6a8b309ed37,ORD-57288,USR-5405,LateDelivery,"Food was 2 hours late, not happy with service.",1/17/2025 13:39,image_8601.jpg,high,Escalated,,,REF-561619
+2d0222d3-aec5-42d2-b586-15a00970a7e4,ORD-26916,USR-3301,PoorQuality,"pizza tasted cold, awful experience.",5/25/2025 13:39,"image_3372.jpg,image_2039.jpg",low,Resolved,5/26/2025 23:39,MOD-5,REF-110301
+de52a848-bb12-48f4-9389-1cf5881781f4,ORD-25933,USR-9033,MissingItem,"Missing burger from my order, very disappointing.",12/8/2024 13:39,,low,Open,,,REF-149330
+c705d503-524a-4abd-935d-e94b43c65141,ORD-55703,USR-8807,MissingItem,"pasta was missing, please resolve.",10/2/2024 13:39,,low,Resolved,10/4/2024 8:39,MOD-13,REF-501114
+a093ad00-79e2-4862-9da1-77d6e4e7f138,ORD-20271,USR-2372,PoorQuality,"salad tasted burnt, awful experience.",9/21/2024 13:39,,low,Escalated,,,REF-977413
+6e583229-ce49-46da-8e1e-c46790477604,ORD-26052,USR-1497,WrongOrder,"Wrong order delivered, got salad not sushi.",8/10/2024 13:39,image_8004.jpg,low,Open,,,REF-104627
+c083ef34-1370-4876-9fe0-01f2e573dc32,ORD-15015,USR-8185,WrongOrder,"Wrong order delivered, got pizza not sushi.",8/6/2024 13:39,,low,Open,,,REF-981348
+4ad8e48e-4d76-4327-afb2-e0d59246b39f,ORD-35182,USR-2267,MissingItem,"Missing pizza from my order, very disappointing.",7/12/2024 13:39,,low,Escalated,,,REF-239767
+ed67404b-a669-44d4-b758-81ef6f9a9bd1,ORD-74194,USR-5418,MissingItem,"sushi was missing, please resolve.",10/27/2024 13:39,image_6097.jpg,low,Escalated,,,REF-796584
+cbf3e512-9555-4b12-9c3c-b1a488ad8bec,ORD-30388,USR-5888,LateDelivery,"Delivery took 30 minutes, completely unacceptable!",2/24/2025 13:39,"image_8134.jpg,image_8071.jpg",high,Resolved,2/25/2025 21:39,MOD-15,REF-786954
+f48fa704-53f1-4132-ad62-d9c1f58d7677,ORD-90536,USR-7162,MissingItem,"fries was missing, please resolve.",1/1/2025 13:39,,low,Resolved,1/2/2025 21:39,MOD-18,REF-437269
+f22ee537-74ba-47e5-bd2c-529002c287eb,ORD-73086,USR-8532,MissingItem,"Missing salad from my order, very disappointing.",8/20/2024 13:39,,low,Resolved,8/21/2024 7:39,MOD-17,REF-529073
+8d8614c6-4993-41d2-a776-1273f8c48179,ORD-31048,USR-5345,WrongOrder,Received sandwich instead of sandwich.,11/23/2024 13:39,,low,Escalated,,,REF-385499
+1f16d23c-a07e-4c38-9555-dc1245071ae8,ORD-16807,USR-4151,WrongOrder,"I ordered sandwich, but got sandwich.",2/13/2025 13:39,image_1770.jpg,low,Escalated,,,REF-616278
+0c7a7982-fe9e-48d6-9bc3-07baee1dca38,ORD-71990,USR-8572,MissingItem,"Missing sushi from my order, very disappointing.",4/4/2025 13:39,,low,Open,,,REF-486269
+159ab634-dd1b-4fcf-8ca2-6bada6266dcc,ORD-69771,USR-6800,LateDelivery,"Order was 90 minutes late, food arrived cold.",6/10/2025 13:39,,medium,Resolved,6/11/2025 2:39,MOD-14,REF-380403
+97e511b9-4fce-498b-bc70-3f319280e2ec,ORD-11361,USR-7448,WrongOrder,"Wrong order delivered, got pasta not pizza.",8/12/2024 13:39,,low,Resolved,8/14/2024 12:39,MOD-9,REF-576652
+d4736113-e407-43d0-a96a-401155e3a6e0,ORD-21836,USR-3787,PoorQuality,"sandwich was burnt, never ordering again.",7/6/2024 13:39,,high,Resolved,7/8/2024 4:39,MOD-17,REF-177886
+de04ef53-a840-455f-b79b-f185ea6c248f,ORD-21973,USR-4215,MissingItem,"Missing sandwich from my order, very disappointing.",5/26/2025 13:39,,low,Open,,,REF-581519
+f04a0a42-13bf-4d25-8047-09b9610a5e12,ORD-45274,USR-7884,LateDelivery,"Order was 30 minutes late, food arrived cold.",8/18/2024 13:39,image_8396.jpg,low,Escalated,,,REF-753872
+86214f4f-7fe4-4253-a83d-74ba3274c498,ORD-61435,USR-6793,DamagedFood,"pasta was cold, unacceptable quality.",3/27/2025 13:39,"image_4249.jpg,image_7345.jpg",high,Resolved,3/29/2025 3:39,MOD-18,REF-677716
+e3b943c2-e7cb-497e-affc-f2eff4a79b0f,ORD-58548,USR-3247,MissingItem,"Missing burger from my order, very disappointing.",6/20/2025 13:39,,low,Resolved,6/21/2025 7:39,MOD-12,REF-120743
+7fe6eb45-bb1e-4ccb-9181-af6a8ea44d70,ORD-80677,USR-3236,WrongOrder,"Wrong order delivered, got sushi not sandwich.",2/10/2025 13:39,image_6788.jpg,low,Open,,,REF-481257
+94cf3f76-4f6a-44a5-be70-57a58d53094e,ORD-13856,USR-9193,PoorQuality,"Very poor quality sushi, not edible.",10/25/2024 13:39,,low,Escalated,,,REF-110391
+9502f526-d955-4216-be5d-7a8d7bc899ea,ORD-57531,USR-9579,PoorQuality,"Very poor quality sandwich, not edible.",3/7/2025 13:39,image_6923.jpg,low,Resolved,3/8/2025 4:39,MOD-14,REF-340560
+19cfb56a-7623-4c16-9c34-fc8084204e57,ORD-32661,USR-9465,DamagedFood,"sushi arrived cold, need replacement.",12/19/2024 13:39,image_4613.jpg,low,Resolved,12/21/2024 1:39,MOD-14,REF-347311
+2f963954-808f-430d-a5f1-c535056feb18,ORD-99820,USR-9826,MissingItem,"burger was missing, please resolve.",8/6/2024 13:39,,low,Resolved,8/8/2024 5:39,MOD-12,REF-850034
+a4b51e8b-356e-4fbd-8378-4b64dfcfc6b2,ORD-88249,USR-6596,WrongOrder,"I ordered pasta, but got sandwich.",1/2/2025 13:39,,low,Escalated,,,REF-740726
+7e55c9d9-0100-4a97-8bef-9289168ffcec,ORD-29832,USR-1041,MissingItem,"burger was missing, please resolve.",10/21/2024 13:39,,low,Open,,,REF-638778
+a6eea271-80ff-4668-945d-dda8ca430d75,ORD-95681,USR-7978,WrongOrder,"Delivered sandwich, but I wanted sandwich.",12/8/2024 13:39,,low,Resolved,12/9/2024 9:39,MOD-8,REF-565951
+67501101-61c3-42f5-84cc-dd555d4b5ec3,ORD-55076,USR-4348,PoorQuality,"fries was spoiled, never ordering again.",6/24/2025 13:39,,high,Escalated,,,REF-586658
+e002d2c2-8f74-4eaf-b31d-255827f3aa9e,ORD-24111,USR-3628,LateDelivery,"Food was 1 hour late, not happy with service.",3/9/2025 13:39,image_3970.jpg,medium,Escalated,,,REF-994138
+ea4ec94a-3d09-404a-92be-7f99f43bd12d,ORD-84805,USR-3465,MissingItem,"sandwich was missing, please resolve.",4/5/2025 13:39,image_1408.jpg,low,Escalated,,,REF-266687
+75323de5-1e15-47e8-ad80-20f241cd1d6d,ORD-53994,USR-9401,WrongOrder,"I ordered pizza, but got salad.",5/3/2025 13:39,,low,Open,,,REF-980906
+d4039ae9-bd53-4485-934a-e04d1d4a216b,ORD-42777,USR-1773,PoorQuality,"Very poor quality pasta, not edible.",1/12/2025 13:39,,low,Open,,,REF-330092
+cd501051-13c3-4648-ae76-8fafa0498589,ORD-37369,USR-7926,LateDelivery,"Waited 90 minutes for my order, very frustrating.",4/3/2025 13:39,,medium,Escalated,,,REF-969594
+99df1ba5-5145-4fbc-a929-c4fad641c4e6,ORD-76112,USR-3236,LateDelivery,"Food was 1 hour late, not happy with service.",10/11/2024 13:39,image_3813.jpg,medium,Resolved,10/12/2024 11:39,MOD-9,REF-607358
+e3134b5f-7383-4530-a9d9-9352d5f34cd9,ORD-48527,USR-3780,DamagedFood,"Order was cold, very disappointed.",6/18/2025 13:39,,medium,Escalated,,,REF-100681
+522825e2-bda6-4a76-8af4-8b956e949c4f,ORD-21193,USR-6040,PoorQuality,"fries was burnt, never ordering again.",11/27/2024 13:39,,high,Open,,,REF-769980
+1b891497-01cc-497b-98fe-b2d080e4b0d1,ORD-18626,USR-1498,PoorQuality,"sandwich tasted crushed, awful experience.",4/16/2025 13:39,,low,Escalated,,,REF-881090
+e9bb5c5b-6a4a-43fa-a857-66385ff59106,ORD-39331,USR-4943,MissingItem,"Did not receive salad, need a refund.",12/11/2024 13:39,,low,Open,,,REF-418004
+4bc7cb96-7a56-4087-a357-40358005a111,ORD-13900,USR-9186,PoorQuality,"Food was cold, not up to standard.",4/12/2025 13:39,image_2337.jpg,low,Resolved,4/14/2025 0:39,MOD-12,REF-599214
+ecf141f7-a4e9-48b6-ac35-b0678eafaf9f,ORD-28525,USR-2556,MissingItem,"Order incomplete, sandwich was not delivered.",6/28/2024 13:39,,low,Resolved,6/30/2024 6:39,MOD-18,REF-839127
+0eacd9b1-203e-48d4-be31-ad2c1151b362,ORD-89831,USR-5024,MissingItem,"Missing fries from my order, very disappointing.",7/17/2024 13:39,,low,Open,,,REF-459632
+12998742-5b43-44c2-b5b2-56d7ffe6ff8f,ORD-79443,USR-4560,DamagedFood,"Order was tasteless, very disappointed.",11/23/2024 13:39,,medium,Open,,,REF-570486
+67b83d01-61e4-46c1-aba9-39df851199de,ORD-49414,USR-3859,PoorQuality,"sushi was burnt, never ordering again.",12/15/2024 13:39,,high,Resolved,12/16/2024 20:39,MOD-9,REF-698627
+6837870e-845f-4d21-820a-1371abdbef65,ORD-83897,USR-2742,WrongOrder,"Delivered fries, but I wanted fries.",2/24/2025 13:39,,low,Open,,,REF-298670
+acf093bc-ccdc-4d65-84b0-0e5133821d9f,ORD-21991,USR-9209,DamagedFood,"pizza arrived soggy, need replacement.",8/11/2024 13:39,,low,Resolved,8/11/2024 17:39,MOD-7,REF-940524
+ced82039-8d22-4c00-ac3a-3cf029a23d1b,ORD-45430,USR-8537,LateDelivery,"Waited 1 hour for my order, very frustrating.",10/19/2024 13:39,,medium,Open,,,REF-609697
+b264ad35-4f94-4805-9f88-4915076d2193,ORD-20300,USR-7528,WrongOrder,"Wrong order delivered, got salad not salad.",6/16/2025 13:39,,low,Resolved,6/17/2025 7:39,MOD-3,REF-863722
+6e676ea0-805e-4c05-ba68-ec324c58250d,ORD-33945,USR-2312,DamagedFood,"Food was burnt, totally inedible.",12/17/2024 13:39,,high,Escalated,,,REF-210270
+6c8bf67b-2ea9-4ede-8b79-fd33f5fa6a2a,ORD-99730,USR-8705,WrongOrder,"I ordered pizza, but got pasta.",9/22/2024 13:39,"image_1088.jpg,image_4789.jpg",low,Escalated,,,REF-177733
+6c76c9c9-a473-4ad7-9a40-c2ddcc58c130,ORD-12383,USR-3215,WrongOrder,"I ordered burger, but got salad.",11/15/2024 13:39,,low,Escalated,,,REF-301975
+4fd40bc0-2454-494c-a240-5259e3ff77dc,ORD-33215,USR-5190,WrongOrder,"Delivered burger, but I wanted burger.",8/15/2024 13:39,image_7894.jpg,low,Resolved,8/16/2024 4:39,MOD-10,REF-457687
+439d1a84-4c54-40bf-99d7-6358db828244,ORD-71862,USR-8516,WrongOrder,"Delivered fries, but I wanted sandwich.",5/14/2025 13:39,"image_5605.jpg,image_5547.jpg",low,Open,,,REF-190698
+2e6b2d37-86dd-4178-81a5-29ba381ae869,ORD-74179,USR-3985,MissingItem,"Did not receive pizza, need a refund.",12/29/2024 13:39,,low,Open,,,REF-627511
+d54b7115-36be-4316-88a7-ca29fd2dd76b,ORD-30017,USR-5515,LateDelivery,"Delivery took 1 hour, completely unacceptable!",11/4/2024 13:39,,high,Escalated,,,REF-172558
+9aa94984-eea4-421f-b095-af93060fa299,ORD-13138,USR-3148,DamagedFood,"fries arrived soggy, need replacement.",10/22/2024 13:39,,low,Escalated,,,REF-583839
+097a772a-debe-4107-a397-36e50b889bc9,ORD-83976,USR-1295,LateDelivery,"Food was 90 minutes late, not happy with service.",6/19/2025 13:39,,medium,Escalated,,,REF-530508
+95aef134-7bed-44ba-ae0e-a7e84110abe7,ORD-54713,USR-7670,MissingItem,"Missing burger from my order, very disappointing.",10/31/2024 13:39,,low,Escalated,,,REF-591992
+5b29ede8-7b1e-40c1-9099-217a7662e225,ORD-36527,USR-3538,WrongOrder,"Delivered burger, but I wanted fries.",6/12/2025 13:39,,low,Open,,,REF-213926
+062dacac-f728-4e02-acbb-e8524d6d7286,ORD-34469,USR-9652,MissingItem,"Missing burger from my order, very disappointing.",9/22/2024 13:39,,low,Resolved,9/22/2024 15:39,MOD-10,REF-930533
+044f1f17-4b39-44af-83ce-8b4af67c1e62,ORD-67083,USR-9505,MissingItem,"salad was missing, please resolve.",5/4/2025 13:39,,low,Open,,,REF-807941
+8f6f703c-a129-478a-ac37-a54d5ff5d48f,ORD-41068,USR-9204,PoorQuality,"sandwich tasted crushed, awful experience.",3/7/2025 13:39,image_4475.jpg,low,Open,,,REF-584580
+9cdc0ae6-6bd8-4157-9cb0-c10b12b29f39,ORD-64619,USR-4161,LateDelivery,"Food was 30 minutes late, not happy with service.",6/4/2025 13:39,,low,Open,,,REF-594795
+a4a59998-3899-44a2-b9e9-5925277242b6,ORD-70021,USR-2896,LateDelivery,"Waited 90 minutes for my order, very frustrating.",6/12/2025 13:39,image_7224.jpg,medium,Escalated,,,REF-413491
+bb6062c2-44e5-47f8-bdac-84e82f4abb6d,ORD-86405,USR-1054,MissingItem,"Order incomplete, sandwich was not delivered.",8/4/2024 13:39,,low,Escalated,,,REF-110244
+10d705d8-8986-4d3a-87c3-de44a0791295,ORD-82829,USR-6538,DamagedFood,"pasta arrived spoiled, need replacement.",6/9/2025 13:39,,high,Escalated,,,REF-136742
+d77a4e4b-bc6e-402b-b443-a5e5faedfb9a,ORD-16106,USR-6711,PoorQuality,"Very poor quality pizza, not edible.",1/5/2025 13:39,image_5739.jpg,low,Escalated,,,REF-862519
+72f21610-6488-4c0b-9c0e-c4079efb8c1f,ORD-44588,USR-7096,PoorQuality,"pizza tasted crushed, awful experience.",5/20/2025 13:39,,low,Resolved,5/22/2025 1:39,MOD-12,REF-478862
+eec4dc8b-21ec-4f16-ab72-62b35bf2506a,ORD-60427,USR-4601,WrongOrder,"Delivered salad, but I wanted burger.",4/10/2025 13:39,,low,Resolved,4/11/2025 10:39,MOD-17,REF-910278
+4e338e44-7b33-45c7-87d9-7dced06acad0,ORD-79821,USR-9352,LateDelivery,"Food was 2 hours late, not happy with service.",11/14/2024 13:39,,high,Open,,,REF-812569
+f1f7e420-8de5-4c6b-a831-1213be414a31,ORD-58354,USR-3714,DamagedFood,"burger was spoiled, unacceptable quality.",1/29/2025 13:39,,high,Escalated,,,REF-456820
+a8e12f71-3f71-4111-b978-e759ad51a3b4,ORD-62205,USR-8608,MissingItem,"Order incomplete, sandwich was not delivered.",1/12/2025 13:39,,low,Resolved,1/14/2025 5:39,MOD-4,REF-429826
+24f8bd06-d9be-44f3-a4e9-9ff080159e58,ORD-73414,USR-2950,MissingItem,"Order incomplete, fries was not delivered.",1/25/2025 13:39,,low,Escalated,,,REF-466471
+92faec9c-3f8c-4908-a85b-0dd8fc3c2b56,ORD-53123,USR-7131,MissingItem,"Missing pizza from my order, very disappointing.",7/16/2024 13:39,,low,Resolved,7/18/2024 3:39,MOD-2,REF-328430
+4bebe4ec-881f-414a-910a-eace13f7abf8,ORD-18969,USR-4093,PoorQuality,"fries tasted tasteless, awful experience.",4/16/2025 13:39,,low,Open,,,REF-244644
+e15e374d-b5d9-413f-b8dc-a09a533b5344,ORD-67590,USR-8981,LateDelivery,"Delivery took 90 minutes, completely unacceptable!",6/5/2025 13:39,image_5208.jpg,high,Escalated,,,REF-588234
+8f0e1160-92d2-427b-a9ae-55c25cf1962c,ORD-78520,USR-4774,PoorQuality,"burger was crushed, never ordering again.",9/16/2024 13:39,"image_9804.jpg,image_4233.jpg",high,Escalated,,,REF-632321
+42792e12-ab4c-4957-b8a0-a574ea10fb23,ORD-52724,USR-9411,MissingItem,"Did not receive sandwich, need a refund.",2/3/2025 13:39,,low,Open,,,REF-224133
+880e58e0-1385-40a5-ab0a-94a168f002b2,ORD-72340,USR-8173,PoorQuality,"Very poor quality fries, not edible.",6/18/2025 13:39,,low,Resolved,6/19/2025 4:39,MOD-14,REF-882023
+82e7be0d-073d-4f29-ab4e-cca73aa6437f,ORD-49535,USR-1080,LateDelivery,"Waited 90 minutes for my order, very frustrating.",8/5/2024 13:39,,medium,Resolved,8/6/2024 20:39,MOD-12,REF-916169
+77e9b108-a04e-41df-8e9d-56f38f6f01b2,ORD-61918,USR-4312,LateDelivery,"Food was 1 hour late, not happy with service.",1/20/2025 13:39,,medium,Resolved,1/21/2025 11:39,MOD-8,REF-390471
+5390bfc2-5b83-4cd2-aa96-80d2fbfd017b,ORD-13627,USR-2226,MissingItem,"Order incomplete, burger was not delivered.",7/10/2024 13:39,,low,Escalated,,,REF-227862
+9d627d61-4ab3-42a2-97f2-7bd3725af6f4,ORD-87564,USR-5875,PoorQuality,"sandwich was crushed, never ordering again.",7/13/2024 13:39,,high,Open,,,REF-971498
+c715c237-0946-4452-b969-b30be49b824c,ORD-44547,USR-9324,MissingItem,"salad was missing, please resolve.",11/18/2024 13:39,,low,Escalated,,,REF-733705
+35372f61-7471-44ad-ac1f-fc5f8c13df36,ORD-53789,USR-5306,MissingItem,"sandwich was missing, please resolve.",2/16/2025 13:39,image_3776.jpg,low,Open,,,REF-485577
+62081374-5ca9-4739-b9da-e1d161de1823,ORD-62563,USR-2958,PoorQuality,"Food was spoiled, not up to standard.",8/10/2024 13:39,image_8052.jpg,high,Escalated,,,REF-480439
+f75fdcc7-69b5-436c-92cf-f37f7fc554ca,ORD-99089,USR-1382,WrongOrder,"Wrong order delivered, got salad not fries.",7/29/2024 13:39,,low,Open,,,REF-221177
+2c77a7a6-3687-4102-8efc-4ca9acf121c8,ORD-14426,USR-3102,MissingItem,"Order incomplete, salad was not delivered.",2/2/2025 13:39,,low,Resolved,2/3/2025 9:39,MOD-5,REF-134987
+18ac7d71-8e6f-4e9b-badc-360f88212576,ORD-87556,USR-9351,PoorQuality,"Very poor quality pizza, not edible.",9/19/2024 13:39,"image_4444.jpg,image_4573.jpg",low,Escalated,,,REF-751200
+478965f1-db9b-4deb-8a9a-a8693abdd6e4,ORD-57254,USR-5271,WrongOrder,"Delivered pasta, but I wanted fries.",9/16/2024 13:39,image_3662.jpg,low,Open,,,REF-436562
+37f6941c-9bbb-4e8e-9088-344d9d7def3d,ORD-86601,USR-8408,WrongOrder,"Wrong order delivered, got pizza not pasta.",6/10/2025 13:39,,low,Resolved,6/11/2025 3:39,MOD-10,REF-561568
+43115ddf-1c22-46ed-87c5-9d98ac8eb540,ORD-57573,USR-4466,LateDelivery,"Waited 90 minutes for my order, very frustrating.",12/18/2024 13:39,,medium,Escalated,,,REF-539643
+31d666de-7687-4c03-8cc0-6ba5a697b945,ORD-69189,USR-8429,MissingItem,"Order incomplete, sushi was not delivered.",1/9/2025 13:39,,low,Resolved,1/9/2025 16:39,MOD-9,REF-252957
+6c84299f-c770-4b49-bf77-4b67ac804ce6,ORD-74825,USR-7117,MissingItem,"Did not receive burger, need a refund.",8/2/2024 13:39,,low,Escalated,,,REF-611524
+b1341dea-7e51-47f5-ba3b-ea1b6875fa1a,ORD-28006,USR-2311,LateDelivery,"Delivery took 90 minutes, completely unacceptable!",12/7/2024 13:39,,high,Escalated,,,REF-901670
+dd3eb284-1d8b-489a-8538-51e96d062417,ORD-11741,USR-7268,LateDelivery,"Waited 30 minutes for my order, very frustrating.",7/9/2024 13:39,,medium,Resolved,7/10/2024 9:39,MOD-20,REF-467792
+e841ff46-94e5-4823-8fda-88b4cd5a8651,ORD-16077,USR-8823,DamagedFood,"pizza arrived crushed, need replacement.",5/29/2025 13:39,,low,Escalated,,,REF-727022
+9b8c6c8b-892f-4200-892a-77ba3a9675d0,ORD-40421,USR-4507,PoorQuality,"sushi was spoiled, never ordering again.",7/12/2024 13:39,"image_2060.jpg,image_6495.jpg",high,Escalated,,,REF-163510
+43a33287-39f5-4bd1-99b4-453970543697,ORD-44376,USR-3894,WrongOrder,"Wrong order delivered, got salad not salad.",1/17/2025 13:39,,low,Resolved,1/18/2025 10:39,MOD-15,REF-453355
+ea5c0877-6168-481d-8154-f900cd394ee1,ORD-25768,USR-9803,PoorQuality,"Food was burnt, not up to standard.",6/21/2025 13:39,"image_7593.jpg,image_6475.jpg",low,Open,,,REF-707863
+7c47cbf5-5f4d-4803-be4e-2a4c7ad4619f,ORD-47766,USR-6827,PoorQuality,"pizza was soggy, never ordering again.",5/18/2025 13:39,"image_7015.jpg,image_1924.jpg",high,Resolved,5/19/2025 1:39,MOD-12,REF-520160
+6f051cae-d5cf-4fcd-a0eb-cbf28475c66e,ORD-34928,USR-7808,MissingItem,"Did not receive burger, need a refund.",6/26/2025 13:39,,low,Resolved,6/28/2025 5:39,MOD-13,REF-425158
+7397248d-4a46-4d14-a353-10e9035200e1,ORD-15169,USR-9242,LateDelivery,"Delivery took 30 minutes, completely unacceptable!",12/28/2024 13:39,"image_2479.jpg,image_1979.jpg",high,Escalated,,,REF-669133
+d37ae143-b43a-432a-b5b8-c7b43a0ab315,ORD-16162,USR-9449,WrongOrder,Received burger instead of sandwich.,2/21/2025 13:39,,low,Resolved,2/22/2025 4:39,MOD-7,REF-535506
+5c9b33cd-e46b-4522-9571-795d7b0a1a0a,ORD-15950,USR-2362,WrongOrder,Received sandwich instead of sushi.,8/23/2024 13:39,,low,Escalated,,,REF-438896
+15704c34-fd6b-4cbc-a7e6-a6de655c5522,ORD-45375,USR-7786,PoorQuality,"burger tasted cold, awful experience.",1/2/2025 13:39,,low,Resolved,1/4/2025 10:39,MOD-3,REF-715817
+ea8ec85b-91a4-438c-ae2f-734b31144ad0,ORD-75421,USR-3894,WrongOrder,"Delivered sushi, but I wanted sandwich.",8/28/2024 13:39,,low,Resolved,8/30/2024 11:39,MOD-4,REF-900926
+3e53c8d6-bc71-4ab0-88d0-3f5b68dbf02e,ORD-68925,USR-8669,MissingItem,"Order incomplete, sandwich was not delivered.",5/30/2025 13:39,image_7353.jpg,low,Open,,,REF-239639
+2c275753-d3a4-43f4-8083-61625e91b11f,ORD-89046,USR-6321,DamagedFood,"Order was tasteless, very disappointed.",5/5/2025 13:39,,medium,Escalated,,,REF-181036
+4e24965d-42a6-424f-b14f-c51bbeca18bf,ORD-56125,USR-4522,DamagedFood,"Food was crushed, totally inedible.",4/27/2025 13:39,image_6060.jpg,high,Escalated,,,REF-510220
+13e44d6f-dfd7-434c-986e-b12712a6e137,ORD-89980,USR-8489,PoorQuality,"Very poor quality pizza, not edible.",3/27/2025 13:39,image_8324.jpg,low,Resolved,3/27/2025 20:39,MOD-12,REF-761726
+22b72440-29f9-4fb7-b4df-bf37125b7e0d,ORD-14818,USR-5290,PoorQuality,"pizza tasted soggy, awful experience.",9/18/2024 13:39,image_3571.jpg,low,Resolved,9/20/2024 4:39,MOD-17,REF-722954
+7abb0c79-70ca-4fc5-a90a-cf937eae55eb,ORD-46421,USR-8748,MissingItem,"Missing sandwich from my order, very disappointing.",3/8/2025 13:39,,low,Open,,,REF-832273
+83c8ed14-8d61-4393-ab76-696d19c2595c,ORD-52678,USR-9170,LateDelivery,"Delivery took 90 minutes, completely unacceptable!",10/1/2024 13:39,,high,Resolved,10/2/2024 20:39,MOD-8,REF-120623
+f55ceb67-fcb3-41df-8739-fcef9ddf9961,ORD-29958,USR-8665,LateDelivery,"Delivery took 2 hours, completely unacceptable!",5/28/2025 13:39,image_1511.jpg,high,Open,,,REF-675619
+a89bb51d-ccff-4dfd-af7d-4c9201bcab0f,ORD-16365,USR-3076,WrongOrder,Received salad instead of sushi.,2/28/2025 13:39,image_9864.jpg,low,Escalated,,,REF-174462
+55cec8db-abcb-4474-b851-b7607a71c102,ORD-22020,USR-5886,WrongOrder,"I ordered sushi, but got sushi.",1/18/2025 13:39,,low,Resolved,1/20/2025 13:39,MOD-3,REF-337035
+ab6c334c-ae09-42ea-a484-4c3a14436b66,ORD-40005,USR-5318,LateDelivery,"Waited 30 minutes for my order, very frustrating.",12/6/2024 13:39,image_4394.jpg,medium,Open,,,REF-694836
+c962a490-531c-477f-a264-6b3b2bd760ad,ORD-70365,USR-7193,WrongOrder,"Wrong order delivered, got sandwich not sandwich.",4/2/2025 13:39,,low,Open,,,REF-635210
+801c181a-89f7-490c-9a34-a3946a016bef,ORD-10502,USR-9187,MissingItem,"Missing fries from my order, very disappointing.",4/28/2025 13:39,image_3933.jpg,low,Open,,,REF-237962
+187a48ca-7f5b-4d7d-9dca-fa71c6382055,ORD-76679,USR-4723,PoorQuality,"burger was tasteless, never ordering again.",10/24/2024 13:39,"image_2384.jpg,image_3811.jpg",high,Open,,,REF-250917
+72cc8e30-1389-4ac0-a497-4f31d55b63f4,ORD-73191,USR-5132,DamagedFood,"pizza was spoiled, unacceptable quality.",11/4/2024 13:39,,high,Escalated,,,REF-951191
+6c01e90a-1bb3-44c7-82af-b516e1ce1b12,ORD-11493,USR-1890,DamagedFood,"Food was soggy, totally inedible.",8/20/2024 13:39,,high,Escalated,,,REF-575052
+990b8421-6368-440a-ad1f-11725dadfe48,ORD-58003,USR-4521,MissingItem,"Missing salad from my order, very disappointing.",4/27/2025 13:39,image_9602.jpg,low,Open,,,REF-923036
+37525837-f743-4f89-977e-82e106ff9bf2,ORD-61617,USR-8593,WrongOrder,Received pizza instead of pizza.,7/2/2024 13:39,,low,Escalated,,,REF-198670
+14ef3579-513d-422a-9821-e476e91580cc,ORD-76421,USR-3264,LateDelivery,"Waited 30 minutes for my order, very frustrating.",9/25/2024 13:39,,medium,Open,,,REF-869872
+11601f61-a339-4c6e-87e2-bc7e2f2d9532,ORD-29832,USR-9525,LateDelivery,"Food was 90 minutes late, not happy with service.",4/22/2025 13:39,image_5001.jpg,medium,Resolved,4/23/2025 4:39,MOD-8,REF-673118
+453886d9-11de-46b7-915b-99d1a6c10265,ORD-93933,USR-4642,PoorQuality,"pasta was spoiled, never ordering again.",6/3/2025 13:39,,high,Open,,,REF-538081
+06652e67-e4b4-4fbd-9d32-0c4e5b4b2848,ORD-98012,USR-5387,LateDelivery,"Delivery took 1 hour, completely unacceptable!",4/18/2025 13:39,"image_1652.jpg,image_7835.jpg",high,Escalated,,,REF-194050
+12f18682-1291-40a0-ae05-170eaefb7aa5,ORD-55008,USR-2194,PoorQuality,"Food was crushed, not up to standard.",2/17/2025 13:39,image_3742.jpg,low,Escalated,,,REF-851200
+b2829315-fbff-4ce8-bb9a-638412cd6c5a,ORD-60147,USR-6226,LateDelivery,"Food was 2 hours late, not happy with service.",9/7/2024 13:39,,high,Open,,,REF-102831
+2ce15031-1c64-4664-a832-53bb50168fe7,ORD-55038,USR-1220,WrongOrder,Received pasta instead of pasta.,10/10/2024 13:39,image_3587.jpg,low,Resolved,10/11/2024 4:39,MOD-6,REF-785355
+24695124-e5e5-4cbf-aff8-9264f884da1b,ORD-13598,USR-9496,PoorQuality,"pasta was soggy, never ordering again.",4/11/2025 13:39,image_2483.jpg,high,Open,,,REF-192036
+227956a9-f139-4cf1-901a-cb4146303dd3,ORD-20012,USR-4147,LateDelivery,"Food was 30 minutes late, not happy with service.",10/23/2024 13:39,,low,Open,,,REF-531686
+a9e77938-1c23-43a4-bf48-6effe841ee8d,ORD-75551,USR-4806,DamagedFood,"pasta was crushed, unacceptable quality.",2/2/2025 13:39,"image_1524.jpg,image_6982.jpg",high,Resolved,2/2/2025 22:39,MOD-19,REF-561533
+8dfb14b9-6f05-4f73-82e4-7b3ef65ff08a,ORD-49856,USR-4798,LateDelivery,"Delivery took 90 minutes, completely unacceptable!",4/29/2025 13:39,,high,Open,,,REF-224495
+b0206fe0-e387-40b9-a937-2c19d7b7054e,ORD-95416,USR-1317,PoorQuality,"burger was tasteless, never ordering again.",4/1/2025 13:39,,high,Open,,,REF-990784
+ae43cf3c-458e-411b-b7fa-1c0118d6a7e5,ORD-94714,USR-6911,WrongOrder,"Wrong order delivered, got sandwich not salad.",8/21/2024 13:39,"image_7773.jpg,image_8609.jpg",low,Open,,,REF-801759
+62cccc13-d0b6-4970-bb1c-4eb309af6b9b,ORD-73288,USR-8065,MissingItem,"Missing burger from my order, very disappointing.",12/6/2024 13:39,,low,Open,,,REF-581538
+29e87961-9f99-4304-b179-73c603966e2d,ORD-63174,USR-7966,DamagedFood,"salad was soggy, unacceptable quality.",12/5/2024 13:39,image_2197.jpg,high,Resolved,12/6/2024 3:39,MOD-16,REF-504309
+7faaecd6-0cd3-44ef-a852-9e8fd1baa22f,ORD-61729,USR-9443,PoorQuality,"Very poor quality pizza, not edible.",8/26/2024 13:39,"image_1413.jpg,image_8715.jpg",low,Open,,,REF-560213
+9e31a4b0-d737-4ac4-b4df-67de104a2207,ORD-92995,USR-4704,PoorQuality,"Food was burnt, not up to standard.",8/21/2024 13:39,,low,Escalated,,,REF-708265
+46cd836d-06fa-4275-b649-2c1035666abe,ORD-72848,USR-6601,WrongOrder,Received pizza instead of fries.,5/18/2025 13:39,"image_8321.jpg,image_2518.jpg",low,Open,,,REF-669169
+215171af-0c35-4d1d-b775-e2a55508f75c,ORD-35596,USR-9463,PoorQuality,"Food was soggy, not up to standard.",10/25/2024 13:39,image_8554.jpg,low,Open,,,REF-604292
+1bc1a8e3-5b37-41f7-8de3-642673cafa02,ORD-17967,USR-6780,WrongOrder,Received sushi instead of pizza.,5/24/2025 13:39,"image_3769.jpg,image_2984.jpg",low,Open,,,REF-699667
+bf48aeb1-7a23-4184-9e9f-b831d9151f5a,ORD-60733,USR-2584,PoorQuality,"Food was cold, not up to standard.",9/3/2024 13:39,image_9243.jpg,low,Escalated,,,REF-719618
+273f3fd9-dfe6-40ae-8afb-8daed28d7103,ORD-65505,USR-5637,WrongOrder,Received pizza instead of fries.,8/28/2024 13:39,,low,Resolved,8/29/2024 9:39,MOD-6,REF-281126
+ef3d07a1-21a4-46ca-b3b3-ad068d0d6bd9,ORD-67204,USR-4060,WrongOrder,Received sandwich instead of burger.,6/11/2025 13:39,,low,Resolved,6/11/2025 17:39,MOD-14,REF-166933
+c507b6fd-bed4-47d3-bcda-7ec16259d8fa,ORD-14629,USR-9737,LateDelivery,"Food was 90 minutes late, not happy with service.",3/9/2025 13:39,,medium,Resolved,3/11/2025 13:39,MOD-8,REF-817641
+5da2c13d-5f18-4991-9612-d56fe99dfbd8,ORD-27690,USR-2277,MissingItem,"Order incomplete, salad was not delivered.",6/18/2025 13:39,,low,Open,,,REF-803044
+69aacb53-a85d-4d3d-a0f0-4ee09c7c6cca,ORD-69162,USR-8639,MissingItem,"Did not receive pizza, need a refund.",3/5/2025 13:39,image_7934.jpg,low,Escalated,,,REF-561938
+a0c1eda3-c4b7-4c31-891a-cecaa3a85356,ORD-51475,USR-8202,PoorQuality,"Very poor quality fries, not edible.",12/14/2024 13:39,,low,Open,,,REF-127308
+257dfd72-1315-43ff-a674-aaa606f1d437,ORD-40244,USR-8379,LateDelivery,"Food was 2 hours late, not happy with service.",4/14/2025 13:39,,high,Resolved,4/15/2025 8:39,MOD-1,REF-641150
+4b314e13-6e2b-4ab7-a01e-4cc79811d85a,ORD-83711,USR-1297,DamagedFood,"sushi was tasteless, unacceptable quality.",4/7/2025 13:39,,high,Escalated,,,REF-251547
+cd808a39-d76d-41ef-8f4b-5dc8730e02a7,ORD-24707,USR-9117,LateDelivery,"Delivery took 2 hours, completely unacceptable!",6/24/2025 13:39,,high,Escalated,,,REF-374378
+a94aeee3-8690-4d53-aa37-a633f686b547,ORD-41513,USR-6492,MissingItem,"Missing sushi from my order, very disappointing.",8/9/2024 13:39,,low,Open,,,REF-118921
+f30e5e13-50b9-4353-8f5f-bfcc2f4a75ab,ORD-29366,USR-4809,DamagedFood,"Food was cold, totally inedible.",5/12/2025 13:39,,high,Resolved,5/13/2025 3:39,MOD-19,REF-661708
+857b4f0d-1152-4a25-859b-34147c40c8e6,ORD-66581,USR-7062,WrongOrder,Received pizza instead of sandwich.,12/5/2024 13:39,,low,Escalated,,,REF-600887
+1e205a36-ea22-4042-a004-98469e6cb70e,ORD-87841,USR-9636,LateDelivery,"Order was 2 hours late, food arrived cold.",8/16/2024 13:39,,high,Escalated,,,REF-630322
+fb34c9cb-f068-4b29-b9d9-835d666ea787,ORD-53294,USR-9039,PoorQuality,"pasta tasted burnt, awful experience.",5/30/2025 13:39,"image_8371.jpg,image_5658.jpg",low,Open,,,REF-375182
+a5d29155-8b9a-4c16-84f1-45c229274b0a,ORD-14655,USR-9322,WrongOrder,"Wrong order delivered, got sushi not pasta.",3/24/2025 13:39,,low,Escalated,,,REF-203979
+c2dbb17d-a850-4e41-88d3-b0220107bae5,ORD-12924,USR-7669,LateDelivery,"Delivery took 30 minutes, completely unacceptable!",4/11/2025 13:39,,high,Resolved,4/12/2025 11:39,MOD-1,REF-742899
+18ddeb09-5460-4b27-bf17-f9c8b43688c0,ORD-43458,USR-8852,WrongOrder,"Wrong order delivered, got salad not salad.",5/10/2025 13:39,"image_7432.jpg,image_9200.jpg",low,Open,,,REF-152460
+e2df03e3-b98b-45ac-8ad7-67d42808e84f,ORD-50944,USR-2937,LateDelivery,"Order was 30 minutes late, food arrived cold.",6/21/2025 13:39,image_1785.jpg,low,Resolved,6/23/2025 5:39,MOD-9,REF-524839
+c8d2b0bb-efd9-451b-96b8-33a5f66ae8f3,ORD-54823,USR-2677,WrongOrder,Received salad instead of pizza.,6/13/2025 13:39,image_2905.jpg,low,Escalated,,,REF-837950
+fc0b00d4-30cf-4ef1-b302-53c243a3453f,ORD-19803,USR-6582,WrongOrder,"Delivered salad, but I wanted fries.",10/24/2024 13:39,image_9231.jpg,low,Open,,,REF-168019
+a3dc0d73-9d31-4ff7-a10e-6aa884a48eff,ORD-85435,USR-5489,PoorQuality,"Food was burnt, not up to standard.",1/11/2025 13:39,image_5302.jpg,low,Escalated,,,REF-586561
+881ec7c5-de68-426d-850f-c64c442efabf,ORD-31372,USR-1210,WrongOrder,"I ordered pasta, but got sushi.",5/19/2025 13:39,,low,Open,,,REF-776691
+54759f3d-e95a-4bc1-bf7d-d51b5f89449a,ORD-68490,USR-3808,DamagedFood,"Food was tasteless, totally inedible.",5/4/2025 13:39,"image_4271.jpg,image_4063.jpg",high,Resolved,5/5/2025 17:39,MOD-18,REF-167662
+3f33db65-bd23-4d3f-8735-5b1e9facb29e,ORD-29609,USR-4832,LateDelivery,"Delivery took 1 hour, completely unacceptable!",12/24/2024 13:39,,high,Resolved,12/25/2024 5:39,MOD-13,REF-705691
+55bb3792-d6d9-45e8-a920-f13256626140,ORD-77070,USR-3125,LateDelivery,"Waited 90 minutes for my order, very frustrating.",7/19/2024 13:39,"image_9537.jpg,image_4505.jpg",medium,Resolved,7/19/2024 23:39,MOD-12,REF-692671
+61f16266-bfe9-48e4-aca1-d895477b157e,ORD-67607,USR-3084,MissingItem,"Order incomplete, burger was not delivered.",7/21/2024 13:39,image_8089.jpg,low,Escalated,,,REF-234502
+11608f04-b9bd-4d54-aa77-6581443e7453,ORD-22431,USR-5142,PoorQuality,"Food was crushed, not up to standard.",12/18/2024 13:39,,low,Resolved,12/20/2024 10:39,MOD-5,REF-442006
+d4294cf5-f414-42c7-a90a-aab149657b13,ORD-54777,USR-1648,PoorQuality,"pizza tasted cold, awful experience.",7/13/2024 13:39,image_9279.jpg,low,Escalated,,,REF-448061
+a58df6c5-8a91-403b-9bc2-b9321ffd1f7c,ORD-36836,USR-6778,WrongOrder,"Delivered sushi, but I wanted salad.",5/25/2025 13:39,image_9416.jpg,low,Open,,,REF-169202
+3d2c1156-43d2-42d7-bb64-9eb7f02e7fbf,ORD-46490,USR-8886,MissingItem,"Order incomplete, sandwich was not delivered.",2/23/2025 13:39,,low,Resolved,2/25/2025 5:39,MOD-14,REF-745860
+d6ef7601-a6f5-4f8b-9b6e-42bb6b62154e,ORD-64482,USR-2813,PoorQuality,"burger tasted burnt, awful experience.",8/24/2024 13:39,,low,Escalated,,,REF-454372
+f2d6660a-7c01-4aa8-a69e-89df3a73e432,ORD-31901,USR-3620,DamagedFood,"pasta was cold, unacceptable quality.",1/18/2025 13:39,image_8876.jpg,high,Resolved,1/19/2025 7:39,MOD-10,REF-163946
+9bca7c38-85a4-4a3f-aefe-bfdb65e7b496,ORD-17122,USR-6900,WrongOrder,"Wrong order delivered, got burger not pasta.",7/19/2024 13:39,image_5396.jpg,low,Escalated,,,REF-587564
+3cba1edf-3344-4587-a1db-6acb55be901c,ORD-97381,USR-2731,LateDelivery,"Waited 2 hours for my order, very frustrating.",5/30/2025 13:39,,high,Escalated,,,REF-272196
+4737e1c3-0cf3-4065-b474-9ad58d30936a,ORD-45838,USR-5900,LateDelivery,"Waited 90 minutes for my order, very frustrating.",2/2/2025 13:39,,medium,Open,,,REF-743318
+a62f0346-5aac-4ea0-89db-df96eedf4186,ORD-46191,USR-2046,LateDelivery,"Order was 1 hour late, food arrived cold.",7/21/2024 13:39,image_2070.jpg,medium,Open,,,REF-615804
+d74370f0-66c2-4ad1-8182-f49274873676,ORD-86209,USR-8900,PoorQuality,"pizza tasted crushed, awful experience.",8/3/2024 13:39,,low,Open,,,REF-964107
+7cbf5808-6d6f-4979-b6e7-2640e2c78c32,ORD-81957,USR-9464,MissingItem,"fries was missing, please resolve.",8/23/2024 13:39,,low,Escalated,,,REF-303134
+a6eb0940-c14d-4ace-88cb-2ee7ef007a17,ORD-16352,USR-5608,PoorQuality,"Food was burnt, not up to standard.",3/18/2025 13:39,,low,Escalated,,,REF-553185
+76315baa-a75c-4382-8190-ef910cd95ce3,ORD-50782,USR-2603,DamagedFood,"Order was burnt, very disappointed.",2/4/2025 13:39,,medium,Open,,,REF-208780
+fb4a1ca9-ec15-45d2-823e-e76d4ae04354,ORD-45607,USR-4835,LateDelivery,"Waited 30 minutes for my order, very frustrating.",6/16/2025 13:39,,medium,Open,,,REF-685968
+421c36e8-d705-4086-902d-28966e2304a5,ORD-23597,USR-5347,WrongOrder,"I ordered pizza, but got pasta.",11/28/2024 13:39,,low,Resolved,11/29/2024 21:39,MOD-16,REF-243537
+9135c62b-54a3-4fc2-8166-1a950e70305b,ORD-38539,USR-1565,MissingItem,"Order incomplete, sushi was not delivered.",9/27/2024 13:39,"image_2158.jpg,image_3082.jpg",low,Open,,,REF-120229
+41b79d78-6365-4067-96d1-288a04b5844c,ORD-14385,USR-4831,LateDelivery,"Order was 1 hour late, food arrived cold.",6/6/2025 13:39,,medium,Escalated,,,REF-329271
+e3e95151-edc6-459f-8536-7eb7b983981d,ORD-32099,USR-6967,WrongOrder,"Delivered pasta, but I wanted burger.",10/2/2024 13:39,,low,Escalated,,,REF-681739
+f75f43f4-95b5-4700-8efd-1b58014cb8b1,ORD-58486,USR-3767,WrongOrder,"Wrong order delivered, got sushi not sushi.",1/7/2025 13:39,image_6520.jpg,low,Escalated,,,REF-510424
+f3601a70-51c2-4749-a992-3ab54f1e015d,ORD-24754,USR-7734,LateDelivery,"Order was 1 hour late, food arrived cold.",10/30/2024 13:39,,medium,Open,,,REF-897889
+8c36cc67-307c-431f-a013-3b24ca6cd0f2,ORD-14525,USR-8402,LateDelivery,"Food was 1 hour late, not happy with service.",2/21/2025 13:39,image_9291.jpg,medium,Open,,,REF-214830
+3094569c-e4ef-4c25-b36c-7cefb120cd6b,ORD-91960,USR-8327,DamagedFood,"Food was burnt, totally inedible.",1/23/2025 13:39,,high,Open,,,REF-203698
+da61ceb5-2299-485a-ba87-644bc72726a9,ORD-19058,USR-1152,WrongOrder,"Delivered fries, but I wanted fries.",8/24/2024 13:39,,low,Resolved,8/24/2024 16:39,MOD-19,REF-418808
+587d5796-a28f-4a06-bf68-d259d6b6d9df,ORD-87673,USR-6305,PoorQuality,"burger tasted burnt, awful experience.",9/26/2024 13:39,,low,Escalated,,,REF-666271
+e2d3cb12-a155-459c-937d-0d2faa91fd50,ORD-20816,USR-7620,MissingItem,"Order incomplete, salad was not delivered.",9/15/2024 13:39,,low,Open,,,REF-123542
+033440d2-ea64-45cf-9b8e-d2805d19a9ed,ORD-72359,USR-5287,DamagedFood,"fries was tasteless, unacceptable quality.",10/22/2024 13:39,,high,Escalated,,,REF-633179
+e576fbd6-93fc-4dd8-a22d-303d3f1e7042,ORD-44555,USR-2382,PoorQuality,"Food was cold, not up to standard.",1/28/2025 13:39,,low,Open,,,REF-303236
+dcd723f2-f81f-43d0-aedb-5cc45dbce36c,ORD-85346,USR-5922,WrongOrder,"Wrong order delivered, got fries not pasta.",7/10/2024 13:39,,low,Open,,,REF-859364
+95852a98-6ff3-4936-ad52-3b318c9283bd,ORD-73962,USR-1166,MissingItem,"Missing sandwich from my order, very disappointing.",6/28/2024 13:39,image_3535.jpg,low,Open,,,REF-398049
+5a86af28-6b2a-444e-bc2a-dd99563c12f9,ORD-25076,USR-4134,LateDelivery,"Order was 2 hours late, food arrived cold.",10/10/2024 13:39,,high,Escalated,,,REF-514666
+1e420162-78b6-417a-8063-b817a7ea746b,ORD-53089,USR-5473,WrongOrder,"Delivered sandwich, but I wanted sandwich.",10/23/2024 13:39,"image_5812.jpg,image_7864.jpg",low,Escalated,,,REF-742351
+48771e95-821e-4621-9c8e-b9967e36af35,ORD-27027,USR-1253,DamagedFood,"Food was tasteless, totally inedible.",2/13/2025 13:39,image_2381.jpg,high,Open,,,REF-833941
+9b35fea0-7bb9-4e1f-a972-9e798e56e07a,ORD-90960,USR-9317,WrongOrder,"Delivered burger, but I wanted sushi.",10/15/2024 13:39,,low,Escalated,,,REF-170836
+ede3162f-53ad-4897-a0d0-5af3919f200d,ORD-21564,USR-7006,PoorQuality,"Very poor quality sushi, not edible.",5/3/2025 13:39,image_5227.jpg,low,Resolved,5/4/2025 8:39,MOD-7,REF-268129
+7390b874-4c81-49b7-b99e-2f813cb7d897,ORD-22648,USR-4338,PoorQuality,"sandwich was soggy, never ordering again.",1/10/2025 13:39,"image_4262.jpg,image_7397.jpg",high,Open,,,REF-947533
+76e9936b-9bd2-493c-a4a6-cf5676936607,ORD-16232,USR-4363,WrongOrder,"I ordered pizza, but got sushi.",2/18/2025 13:39,,low,Open,,,REF-413939
+946db50c-a99c-4015-bbdc-d93f7b1bfbef,ORD-91163,USR-1530,LateDelivery,"Order was 2 hours late, food arrived cold.",4/11/2025 13:39,,high,Escalated,,,REF-623685
+47fc3c56-5f86-4384-8419-2eb532e0952e,ORD-88815,USR-7088,MissingItem,"Did not receive pizza, need a refund.",7/16/2024 13:39,,low,Open,,,REF-293157
+97ad3624-da3e-48e4-ba05-a1e7ec487baf,ORD-96657,USR-5304,LateDelivery,"Delivery took 30 minutes, completely unacceptable!",1/22/2025 13:39,,high,Open,,,REF-860821
+8d0ae3c9-dc4b-416d-baea-94c15aba08a2,ORD-76057,USR-7957,DamagedFood,"sushi arrived spoiled, need replacement.",11/29/2024 13:39,image_9482.jpg,high,Resolved,11/30/2024 19:39,MOD-12,REF-581494
+3a9beccd-b956-4885-85af-e23685b1fb54,ORD-10539,USR-8390,DamagedFood,"Order was tasteless, very disappointed.",6/11/2025 13:39,image_6040.jpg,medium,Escalated,,,REF-593261
+d502d35d-5dc0-4f1e-aef9-aa1c057baac9,ORD-89545,USR-8269,WrongOrder,"I ordered pizza, but got pasta.",2/21/2025 13:39,,low,Escalated,,,REF-506203
+cd2c3300-7964-4b4f-92c1-c25d88e1c601,ORD-30943,USR-7391,PoorQuality,"Very poor quality pasta, not edible.",6/9/2025 13:39,,low,Resolved,6/10/2025 22:39,MOD-18,REF-361374
+52bb1f23-1297-4e8d-a548-c0b0bc989e8c,ORD-76063,USR-1070,LateDelivery,"Order was 2 hours late, food arrived cold.",8/7/2024 13:39,image_6890.jpg,high,Resolved,8/9/2024 13:39,MOD-10,REF-446905
+ba28ec54-5022-4835-9a9f-86348a0c9df4,ORD-33210,USR-9355,WrongOrder,"I ordered pizza, but got burger.",12/25/2024 13:39,,low,Resolved,12/27/2024 12:39,MOD-2,REF-956214
+964fa825-3eec-4b43-928f-791689d7dcdc,ORD-41769,USR-8881,PoorQuality,"Food was burnt, not up to standard.",10/13/2024 13:39,"image_9955.jpg,image_1834.jpg",low,Escalated,,,REF-528492
+8a346458-e1b2-42f4-a91b-0a58460d1daf,ORD-19047,USR-6681,MissingItem,"Order incomplete, fries was not delivered.",9/11/2024 13:39,,low,Escalated,,,REF-391103
+6d810132-4f5d-4546-8043-bae98c041cd1,ORD-73522,USR-2032,WrongOrder,"I ordered burger, but got sushi.",1/24/2025 13:39,,low,Resolved,1/25/2025 1:39,MOD-1,REF-832302
+806dd408-88f1-4ae9-a731-7c64d918355e,ORD-87748,USR-5169,PoorQuality,"pizza was spoiled, never ordering again.",11/16/2024 13:39,,high,Open,,,REF-787410
+457e6b84-b326-4867-8f81-2d3d4a2cc0cc,ORD-11382,USR-5286,LateDelivery,"Waited 1 hour for my order, very frustrating.",3/4/2025 13:39,,medium,Open,,,REF-738467
+2dcd5e06-e821-4ecd-8d0c-785a5d04ff1d,ORD-86628,USR-2550,WrongOrder,"I ordered pizza, but got fries.",2/17/2025 13:39,,low,Escalated,,,REF-908052
+ebc17b51-1e16-4943-bf52-fef706afd9d3,ORD-99808,USR-7464,PoorQuality,"sushi tasted spoiled, awful experience.",10/2/2024 13:39,,high,Escalated,,,REF-391429
+59cebbf0-c589-4240-ab04-8238615781c7,ORD-37624,USR-9607,PoorQuality,"Food was spoiled, not up to standard.",5/21/2025 13:39,image_3126.jpg,high,Resolved,5/22/2025 2:39,MOD-15,REF-218599
+d5028a85-3a7e-41a5-96f2-c7c8dbc7cf94,ORD-82247,USR-6535,LateDelivery,"Order was 1 hour late, food arrived cold.",6/25/2025 13:39,"image_5716.jpg,image_5771.jpg",medium,Escalated,,,REF-154819
+02c87e51-3e58-44e6-92f7-19ef866de73f,ORD-70089,USR-6182,MissingItem,"sandwich was missing, please resolve.",1/14/2025 13:39,image_5233.jpg,low,Resolved,1/15/2025 23:39,MOD-17,REF-168966
+b290dbc1-6a93-43bd-8b40-9a922d2ba2b0,ORD-97500,USR-8124,DamagedFood,"Order was soggy, very disappointed.",11/2/2024 13:39,,medium,Open,,,REF-138686
+538fe909-5ff1-4dc0-b7d3-8e3ce1989a97,ORD-54011,USR-7910,DamagedFood,"fries was burnt, unacceptable quality.",6/8/2025 13:39,,high,Open,,,REF-522540
+f0537d17-0ab1-4c8e-a9b8-8919f915e6fd,ORD-28130,USR-8628,PoorQuality,"sushi tasted cold, awful experience.",4/19/2025 13:39,,low,Escalated,,,REF-490127
+bfc58df2-80f1-4a08-b9f4-dca9c2ef2044,ORD-17014,USR-9472,WrongOrder,"Wrong order delivered, got salad not sushi.",3/10/2025 13:39,,low,Resolved,3/11/2025 11:39,MOD-19,REF-978252
+e20bb254-eb0e-4d45-9afb-08bd09b29730,ORD-66558,USR-2978,PoorQuality,"Very poor quality sandwich, not edible.",9/12/2024 13:39,,low,Escalated,,,REF-953559
+f71ba348-669e-4a9f-8ee4-48b5977d5967,ORD-77578,USR-5111,LateDelivery,"Waited 30 minutes for my order, very frustrating.",12/20/2024 13:39,,medium,Resolved,12/22/2024 3:39,MOD-14,REF-641321
+ee985f59-383c-4aab-8b2a-390c4315ba0d,ORD-63757,USR-1290,LateDelivery,"Order was 2 hours late, food arrived cold.",8/30/2024 13:39,,high,Resolved,9/1/2024 13:39,MOD-7,REF-197229
+e75cfa5e-9b81-44de-bcdd-3c3ba6a17c9b,ORD-56779,USR-1797,DamagedFood,"Food was crushed, totally inedible.",9/6/2024 13:39,image_5982.jpg,high,Escalated,,,REF-841604
+4f205eb0-d977-4a9e-87d0-e58cdc36a79f,ORD-21019,USR-4680,DamagedFood,"Food was spoiled, totally inedible.",9/11/2024 13:39,,high,Open,,,REF-934740
+1cecd79e-3661-4ee9-87b3-49864d78dd5b,ORD-19968,USR-7567,LateDelivery,"Food was 90 minutes late, not happy with service.",8/18/2024 13:39,image_7132.jpg,medium,Escalated,,,REF-651044
+60e7dfee-7f4d-4e2f-a444-cf2800870a17,ORD-92766,USR-8975,DamagedFood,"Food was cold, totally inedible.",3/1/2025 13:39,,high,Open,,,REF-168818
+50fa9a5e-42af-4698-900f-d770ab711239,ORD-19090,USR-6410,MissingItem,"fries was missing, please resolve.",7/10/2024 13:39,"image_7267.jpg,image_9235.jpg",low,Open,,,REF-746407
+5243ab17-abf5-4524-9c82-67b3366a8edd,ORD-66205,USR-4421,WrongOrder,Received pizza instead of pizza.,7/11/2024 13:39,,low,Escalated,,,REF-798195
+389ed516-b5a3-431f-a5b6-91c4d77931b6,ORD-88279,USR-2685,MissingItem,"Missing salad from my order, very disappointing.",11/3/2024 13:39,,low,Escalated,,,REF-291827
+c18fe44d-f6aa-431f-bb47-5c6555440ea0,ORD-21933,USR-6705,LateDelivery,"Delivery took 30 minutes, completely unacceptable!",8/8/2024 13:39,,high,Open,,,REF-673883
+08c54992-3dc1-41ca-a58e-78e1de90a2e9,ORD-18102,USR-1853,WrongOrder,Received sandwich instead of pizza.,2/17/2025 13:39,image_7150.jpg,low,Open,,,REF-189325
+aa2e175d-d416-46cf-948e-145f3930dd21,ORD-64543,USR-2603,WrongOrder,"Wrong order delivered, got fries not sushi.",9/5/2024 13:39,,low,Escalated,,,REF-448266
+9a73ab79-e50c-4641-9abe-1eca96cfc325,ORD-87804,USR-2601,PoorQuality,"pizza tasted spoiled, awful experience.",7/24/2024 13:39,,high,Escalated,,,REF-362801
+b7863cb5-a86f-4ce0-9e01-aee8c283dd7e,ORD-80166,USR-3606,MissingItem,"Order incomplete, sandwich was not delivered.",10/15/2024 13:39,,low,Escalated,,,REF-877483
+9e29f10a-61ca-470b-b722-fa18603d3851,ORD-80436,USR-2124,DamagedFood,"fries arrived soggy, need replacement.",9/8/2024 13:39,image_3909.jpg,low,Resolved,9/8/2024 23:39,MOD-2,REF-319111
+c76a73c8-c8c2-4684-9f16-c725229caa64,ORD-32422,USR-8770,PoorQuality,"pizza tasted spoiled, awful experience.",4/2/2025 13:39,,high,Open,,,REF-307650
+c1b1a3f5-67a5-4414-96bc-e02a6207b95e,ORD-68844,USR-3309,WrongOrder,"I ordered fries, but got fries.",12/2/2024 13:39,"image_6848.jpg,image_4904.jpg",low,Resolved,12/3/2024 9:39,MOD-6,REF-402852
+3f357d5f-137b-4fd6-a58e-79cb3b338d05,ORD-45887,USR-2834,MissingItem,"Order incomplete, fries was not delivered.",4/6/2025 13:39,image_9761.jpg,low,Open,,,REF-403324
+37f6cc0f-b35f-42f4-bb94-8be196202d87,ORD-72053,USR-1203,PoorQuality,"burger tasted crushed, awful experience.",12/31/2024 13:39,"image_8722.jpg,image_9401.jpg",low,Resolved,12/31/2024 18:39,MOD-4,REF-730415
+77b8ca73-196a-42fa-a39a-3a83c7917116,ORD-52738,USR-8822,PoorQuality,"salad was burnt, never ordering again.",4/3/2025 13:39,,high,Resolved,4/5/2025 9:39,MOD-4,REF-306005
+ab3fb2bc-a1c7-4212-93a7-bb1870d4da2a,ORD-25276,USR-4184,WrongOrder,"I ordered fries, but got sandwich.",2/16/2025 13:39,,low,Open,,,REF-338450
+2a3c739b-10dd-4465-b4fe-287f402fd3e2,ORD-42364,USR-1245,LateDelivery,"Waited 2 hours for my order, very frustrating.",1/2/2025 13:39,image_8040.jpg,high,Escalated,,,REF-810428
+91e3b11b-260d-42cd-a571-22bacf088ba5,ORD-34330,USR-1871,LateDelivery,"Food was 2 hours late, not happy with service.",12/23/2024 13:39,,high,Open,,,REF-679903
+b3a37d8a-2976-45fb-82a6-a1e1cf75c4e9,ORD-61197,USR-9884,DamagedFood,"Food was soggy, totally inedible.",11/3/2024 13:39,,high,Resolved,11/4/2024 19:39,MOD-7,REF-386204
+a4c0525f-abb7-478d-a143-be061e123955,ORD-13784,USR-7524,MissingItem,"Did not receive salad, need a refund.",7/21/2024 13:39,,low,Escalated,,,REF-593997
+ac3c3ddd-a7b3-45f5-b14a-097b5caa5a96,ORD-38521,USR-6289,DamagedFood,"Food was soggy, totally inedible.",9/14/2024 13:39,,high,Open,,,REF-578903
+d4bd8980-c2fc-46b8-af58-cd1e949857b8,ORD-50222,USR-4801,PoorQuality,"Food was burnt, not up to standard.",8/12/2024 13:39,,low,Resolved,8/13/2024 13:39,MOD-6,REF-479537
+3899421c-9b6e-4c97-8bf5-3c4c3c95cc4e,ORD-77399,USR-8124,LateDelivery,"Waited 1 hour for my order, very frustrating.",11/26/2024 13:39,"image_4549.jpg,image_9562.jpg",medium,Resolved,11/28/2024 1:39,MOD-20,REF-146410
+6f2b3d79-a230-47c0-9ac6-563c5a7ebf3a,ORD-67547,USR-2603,LateDelivery,"Delivery took 90 minutes, completely unacceptable!",8/3/2024 13:39,"image_2961.jpg,image_8560.jpg",high,Resolved,8/4/2024 14:39,MOD-19,REF-540357
+1e3450a6-1add-449d-8139-3420b556bc18,ORD-93864,USR-3070,DamagedFood,"sushi arrived cold, need replacement.",3/3/2025 13:39,,low,Open,,,REF-417637
+6d18e1a4-7cf6-406b-a1a4-bc396333ae76,ORD-81772,USR-6828,DamagedFood,"Food was spoiled, totally inedible.",11/3/2024 13:39,,high,Escalated,,,REF-685435
+ebc0b568-cddb-45a8-bbae-ea0d9bfa5f3b,ORD-60549,USR-8338,LateDelivery,"Food was 1 hour late, not happy with service.",2/7/2025 13:39,,medium,Resolved,2/8/2025 12:39,MOD-1,REF-478102
+5a57be9c-58bf-44a3-b66e-4795b767c19a,ORD-32144,USR-4867,LateDelivery,"Order was 30 minutes late, food arrived cold.",7/20/2024 13:39,,low,Resolved,7/20/2024 15:39,MOD-20,REF-392599
+03fd76e9-97d1-4d4f-af90-6c7cb72936e8,ORD-90910,USR-2674,PoorQuality,"sushi tasted burnt, awful experience.",12/9/2024 13:39,,low,Open,,,REF-521834
+c85a1063-f61d-46f5-a98f-a33d6908873c,ORD-93135,USR-1656,LateDelivery,"Order was 90 minutes late, food arrived cold.",4/7/2025 13:39,image_4724.jpg,medium,Escalated,,,REF-329878
+2f223db2-2321-4298-9570-38a68babcd09,ORD-31651,USR-6736,DamagedFood,"Food was cold, totally inedible.",8/27/2024 13:39,,high,Open,,,REF-914401
+cd3e2b98-587c-476d-9dcd-6d27447827d8,ORD-75354,USR-2656,DamagedFood,"sandwich arrived burnt, need replacement.",3/22/2025 13:39,,low,Open,,,REF-911416
+8f1a60f8-4001-4f0f-904d-9ae8a77c34ab,ORD-40142,USR-9346,LateDelivery,"Order was 2 hours late, food arrived cold.",7/7/2024 13:39,,high,Escalated,,,REF-636635
+e12a9f3e-3125-4ee7-853f-f00e507d4a52,ORD-56906,USR-5065,MissingItem,"Did not receive fries, need a refund.",3/9/2025 13:39,,low,Escalated,,,REF-278483
+61393bb1-b6d8-4f83-85a0-6f2f03d6a693,ORD-53756,USR-6625,DamagedFood,"Order was spoiled, very disappointed.",10/19/2024 13:39,,high,Open,,,REF-184545
+f2babf3f-e3ee-4d21-9dae-cc4ce8e53efd,ORD-94777,USR-2329,MissingItem,"burger was missing, please resolve.",7/24/2024 13:39,,low,Escalated,,,REF-466795
+33088b36-1e31-4131-94d0-ba7f5a9e116d,ORD-68876,USR-8607,LateDelivery,"Delivery took 90 minutes, completely unacceptable!",4/23/2025 13:39,image_1789.jpg,high,Open,,,REF-916809
+4d01e24e-4cfc-4f49-91ea-d5f7bef5f316,ORD-59796,USR-4296,MissingItem,"Missing pasta from my order, very disappointing.",6/14/2025 13:39,,low,Resolved,6/14/2025 15:39,MOD-13,REF-525215
+0651696a-ad8d-4d57-89b5-edc44ab29605,ORD-36394,USR-2057,PoorQuality,"sandwich tasted burnt, awful experience.",7/9/2024 13:39,"image_6032.jpg,image_1457.jpg",low,Resolved,7/10/2024 0:39,MOD-10,REF-679086
+2d7c724e-ec26-415d-9d82-5e8074fd19eb,ORD-93949,USR-1955,MissingItem,"pizza was missing, please resolve.",5/18/2025 13:39,,low,Open,,,REF-354999
+94ca4536-62cf-4f27-b163-774b213975fa,ORD-35731,USR-9236,WrongOrder,"Delivered pizza, but I wanted pizza.",5/2/2025 13:39,image_6228.jpg,low,Open,,,REF-982916
+0d08737e-ebb9-44a2-9889-b336f0adf72b,ORD-94680,USR-6370,MissingItem,"salad was missing, please resolve.",1/12/2025 13:39,image_5473.jpg,low,Resolved,1/13/2025 6:39,MOD-3,REF-752045
+8ce1ea7a-17e9-4dc0-b7bd-d68b4fb88630,ORD-28864,USR-2781,MissingItem,"Did not receive fries, need a refund.",12/23/2024 13:39,image_7483.jpg,low,Open,,,REF-566888
+3d1cc5b1-9bb1-4f23-b589-1c84a02e9a59,ORD-19739,USR-2689,DamagedFood,"burger arrived spoiled, need replacement.",5/19/2025 13:39,,high,Open,,,REF-788110
+fd49819a-b470-4bb4-aa3a-d0dd3b086a1d,ORD-16554,USR-5234,WrongOrder,"Delivered sandwich, but I wanted pizza.",11/13/2024 13:39,,low,Resolved,11/15/2024 1:39,MOD-15,REF-844038
+96a7e869-9a97-41d0-8ab1-daa199cf7bb8,ORD-47741,USR-3733,LateDelivery,"Waited 30 minutes for my order, very frustrating.",9/29/2024 13:39,image_6490.jpg,medium,Resolved,9/30/2024 2:39,MOD-18,REF-149762
+c8d1f742-2650-41ce-9fca-cfa94613f326,ORD-52383,USR-4214,LateDelivery,"Order was 2 hours late, food arrived cold.",12/20/2024 13:39,,high,Escalated,,,REF-585355
+d934d36f-698b-4355-a878-1fce665d23dd,ORD-69196,USR-9913,MissingItem,"pizza was missing, please resolve.",6/26/2025 13:39,,low,Resolved,6/28/2025 13:39,MOD-8,REF-680795
+40517356-0be0-4657-a327-8a5975a50d71,ORD-31726,USR-6092,LateDelivery,"Delivery took 1 hour, completely unacceptable!",8/18/2024 13:39,image_8813.jpg,high,Open,,,REF-645495
+9ceacdab-2a18-4d7a-8b53-7d0d67f52294,ORD-37378,USR-1612,WrongOrder,"Delivered sushi, but I wanted pizza.",2/28/2025 13:39,,low,Open,,,REF-383477
+c36df66c-61a9-444e-b8cb-32898b0171f6,ORD-94335,USR-8577,PoorQuality,"Very poor quality salad, not edible.",8/7/2024 13:39,,low,Resolved,8/8/2024 15:39,MOD-3,REF-773671
