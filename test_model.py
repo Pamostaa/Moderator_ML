@@ -1,4 +1,3 @@
-
 import pandas as pd
 import torch
 from transformers import CamembertForSequenceClassification, CamembertTokenizer
@@ -6,14 +5,50 @@ from sklearn.metrics import classification_report, confusion_matrix
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
+import gdown
+import os
+import shutil
 
 # Check device
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
 
-# Load saved model and tokenizer
-model = CamembertForSequenceClassification.from_pretrained("C:/Users/21655/OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique/Desktop/Moderator_ML/severity_camembert_improved").to(device)
-tokenizer = CamembertTokenizer.from_pretrained("C:/Users/21655/OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique/Desktop/Moderator_ML/severity_camembert_improved")
+# Google Drive folder ID
+FOLDER_ID = "11V1m38rQkd5b2Kxme7LoO6IGyRPVd07r"  # From the provided link
+
+# Temporary directory to store downloaded model files
+TEMP_DIR = "./temp_model"
+
+def download_folder_from_drive(folder_id, output_dir):
+    """Download all files from a Google Drive folder."""
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    folder_url = f"https://drive.google.com/drive/folders/{folder_id}"
+    gdown.download_folder(folder_url, output=output_dir, quiet=False, use_cookies=False)
+    return output_dir
+
+def load_model_and_tokenizer():
+    """Download and load the model and tokenizer from Google Drive."""
+    # Clean up temporary directory if it exists (optional, remove if caching is desired)
+    if os.path.exists(TEMP_DIR):
+        shutil.rmtree(TEMP_DIR)
+    
+    # Download the folder contents
+    download_dir = download_folder_from_drive(FOLDER_ID, TEMP_DIR)
+
+    # Assume the folder contains model and tokenizer files directly
+    # If the folder has subdirectories (e.g., model/, tokenizer/), adjust paths accordingly
+    model_dir = download_dir
+    tokenizer_dir = download_dir
+
+    # Load the model and tokenizer
+    model = CamembertForSequenceClassification.from_pretrained(model_dir).to(device)
+    tokenizer = CamembertTokenizer.from_pretrained(tokenizer_dir)
+    return model, tokenizer
+
+# Load model and tokenizer
+model, tokenizer = load_model_and_tokenizer()
+
 severity_map = {'faible': 0, 'moyen': 1, 'élevé': 2}
 
 # Solution suggestion function
@@ -100,7 +135,7 @@ sns.heatmap(cm, annot=True, fmt='d', xticklabels=['faible', 'moyen', 'élevé'],
 plt.xlabel('Predicted')
 plt.ylabel('True')
 plt.title('Confusion Matrix (1,000 Samples)')
-plt.savefig("C:/Users/21655/OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique/Desktop/Moderator_ML/results/confusion_matrix_20000_1000_samples.png")
+plt.savefig("results/confusion_matrix_20000_1000_samples.png")
 plt.show()
 
 # Save predictions to CSV
@@ -111,5 +146,5 @@ results_df = pd.DataFrame({
     "suggested_solution": solutions,
     "issue_type": test_types
 })
-results_df.to_csv("C:/Users/21655/OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique/Desktop/Moderator_ML/results/test_predictions_20000_1000_samples.csv", index=False, encoding="utf-8-sig")
-print("Predictions saved to C:/Users/21655/OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique/Desktop/Moderator_ML/results/test_predictions_20000_1000_samples.csv")
+results_df.to_csv("results/test_predictions_20000_1000_samples.csv", index=False, encoding="utf-8-sig")
+print("Predictions saved to results/test_predictions_20000_1000_samples.csv")
